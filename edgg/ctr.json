@@ -4,15 +4,15 @@
     "frequency": "135.650",
     "abbreviation": "PADH",
     "description": "Langen Radar PADH",
-    "schedule-minstation": [
+    "schedule_minstation": [
       "EDLL",
       "EDFF"
     ],
-    "schedule-groups": [
+    "schedule_groups": [
       "EDLL",
       "EDGG"
     ],
-    "relevant-airports": [
+    "relevant_airports": [
       "EDDL",
       "EDDK"
     ]
