@@ -1,0 +1,34 @@
+[
+  {
+    "logon": "EDDF_DEL",
+    "frequency": "121.905",
+    "abbreviation": "DFC",
+    "description": "Frankfurt Delivery",
+    "schedule_minstation": ["EDFF"],
+    "schedule_groups": ["EDFF"]
+  },
+  {
+    "logon": "EDDK_DEL",
+    "frequency": "121.855",
+    "abbreviation": "DKC",
+    "description": "Köln/Bonn Delivery",
+    "schedule_minstation": ["EDLL"],
+    "schedule_groups": ["EDLL"]
+  },
+  {
+    "logon": "EDDL_DEL",
+    "frequency": "121.780",
+    "abbreviation": "DLC",
+    "description": "Düsseldorf Delivery",
+    "schedule_minstation": ["EDLL"],
+    "schedule_groups": ["EDLL"]
+  },
+  {
+    "logon": "EDDS_DEL",
+    "frequency": "121.915",
+    "abbreviation": "DLC",
+    "description": "Stuttgart Delivery",
+    "schedule_minstation": ["EDFF"],
+    "schedule_groups": ["EDFF"]
+  }
+]
