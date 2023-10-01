@@ -1,0 +1,62 @@
+[
+  {
+    "logon": "ETAR_GND",
+    "frequency": "121.775",
+    "abbreviation": "ARG",
+    "description": "Ramstein Ground"
+  },
+  {
+    "logon": "ETAR_TWR",
+    "frequency": "133.205",
+    "abbreviation": "ART",
+    "description": "Ramstein Tower"
+  },
+  {
+    "logon": "ETHN_APP",
+    "frequency": "127.190",
+    "abbreviation": "HNA",
+    "description": "Stetten Radar"
+  },
+  {
+    "logon": "ETHN_TWR",
+    "frequency": "122.100",
+    "abbreviation": "HNT",
+    "description": "Stetten Tower"
+  },
+  {
+    "logon": "ETHN_I_TWR",
+    "frequency": "119.780",
+    "abbreviation": "HNI",
+    "description": "Stetten Info"
+  },
+  {
+    "logon": "ETNG_APP",
+    "frequency": "123.730",
+    "abbreviation": "TNGA",
+    "description": "Frisbee Radar"
+  },
+  {
+    "logon": "ETNG_TWR",
+    "frequency": "120.055",
+    "abbreviation": "TNGT",
+    "description": "Frisbee Tower"
+  },
+  {
+    "logon": "ETNN_APP",
+    "frequency": "129.055",
+    "abbreviation": "TNNA",
+    "description": "Noervenich Radar"
+  },
+  {
+    "logon": "ETNN_TWR",
+    "frequency": "136.205",
+    "abbreviation": "TNNT",
+    "description": "Noervenich Tower"
+  },
+  {
+    "logon": "ETOU_TWR",
+    "frequency": "122.100",
+    "abbreviation": "OUT",
+    "description": "Wiesbaden Tower"
+  }
+]
