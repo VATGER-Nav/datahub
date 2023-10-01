@@ -1,12 +1,258 @@
 [
   {
+    "logon": "EDDF_C_GND",
+    "frequency": "121.855",
+    "abbreviation": "DFGC",
+    "description": "Frankfurt Apron"
+  },
+  {
+    "logon": "EDDF_DEL",
+    "frequency": "121.905",
+    "abbreviation": "DFC",
+    "description": "Frankfurt Delivery",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
+    "logon": "EDDF_E_GND",
+    "frequency": "121.955",
+    "abbreviation": "DFGE",
+    "description": "Frankfurt Apron"
+  },
+  {
+    "logon": "EDDF_GND",
+    "frequency": "121.805",
+    "abbreviation": "DFG",
+    "description": "Frankfurt Ground"
+  },
+  {
+    "logon": "EDDF_ICE_GND",
+    "frequency": "121.985",
+    "abbreviation": "DFGI",
+    "description": "Frankfurt Deicing"
+  },
+  {
+    "logon": "EDDF_S_GND",
+    "frequency": "121.655",
+    "abbreviation": "DFGS",
+    "description": "Frankfurt Apron"
+  },
+  {
+    "logon": "EDDF_W_GND",
+    "frequency": "121.755",
+    "abbreviation": "DFGW",
+    "description": "Frankfurt Apron"
+  },
+  {
+    "logon": "EDDG_GND",
+    "frequency": "121.880",
+    "abbreviation": "DGG",
+    "description": "Muenster Ground"
+  },
+  {
+    "logon": "EDDK_DEL",
+    "frequency": "121.855",
+    "abbreviation": "DKC",
+    "description": "K\u00f6ln/Bonn Delivery",
+    "schedule_minstation": [
+      "EDLL"
+    ],
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
+    "logon": "EDDK_GND",
+    "frequency": "121.730",
+    "abbreviation": "DKG",
+    "description": "Cologne/Bonn Ground"
+  },
+  {
+    "logon": "EDDK_P_GND",
+    "frequency": "121.955",
+    "abbreviation": "DKGP",
+    "description": "Cologne/Bonn Apron"
+  },
+  {
+    "logon": "EDDL_DEL",
+    "frequency": "121.780",
+    "abbreviation": "DLC",
+    "description": "D\u00fcsseldorf Delivery",
+    "schedule_minstation": [
+      "EDLL"
+    ],
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
+    "logon": "EDDL_E_GND",
+    "frequency": "121.605",
+    "abbreviation": "DLGE",
+    "description": "D\u00fcsseldorf Ground"
+  },
+  {
+    "logon": "EDDL_W_GND",
+    "frequency": "121.905",
+    "abbreviation": "DLGW",
+    "description": "D\u00fcsseldorf Ground"
+  },
+  {
+    "logon": "EDDR_GND",
+    "frequency": "118.555",
+    "abbreviation": "DRG",
+    "description": "Saarbr\u00fccken Ground"
+  },
+  {
+    "logon": "EDDS_DEL",
+    "frequency": "121.915",
+    "abbreviation": "DLC",
+    "description": "Stuttgart Delivery",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
+    "logon": "EDDS_GND",
+    "frequency": "118.605",
+    "abbreviation": "DSG",
+    "description": "Stuttgart Ground"
+  },
+  {
+    "logon": "EDFE_GND",
+    "frequency": "121.730",
+    "abbreviation": "FEG",
+    "description": "Egelsbach Ground"
+  },
+  {
+    "logon": "EDFH_GND",
+    "frequency": "121.730",
+    "abbreviation": "FHG",
+    "description": "Hahn Ground"
+  },
+  {
+    "logon": "EDGG_BAD_CTR",
+    "frequency": "131.300",
+    "abbreviation": "BAD",
+    "description": "Langen Radar BAD"
+  },
+  {
+    "logon": "EDGG_DKB_CTR",
+    "frequency": "125.200",
+    "abbreviation": "DKB",
+    "description": "Langen Radar DKB",
+    "schedule_minstation": [
+      "EDFF",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDF",
+      "EDDS"
+    ]
+  },
+  {
+    "logon": "EDGG_GED_CTR",
+    "frequency": "124.430",
+    "abbreviation": "GED",
+    "description": "Langen Radar GED"
+  },
+  {
+    "logon": "EDGG_GIN_CTR",
+    "frequency": "124.730",
+    "abbreviation": "GIN",
+    "description": "Langen Radar GIN",
+    "schedule_minstation": [
+      "EDFF",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDF",
+      "EDDS"
+    ]
+  },
+  {
+    "logon": "EDGG_HAB_CTR",
+    "frequency": "134.800",
+    "abbreviation": "HAB",
+    "description": "Langen Radar HAB"
+  },
+  {
+    "logon": "EDGG_HEF_CTR",
+    "frequency": "127.725",
+    "abbreviation": "HEF",
+    "description": "Langen Radar HEF"
+  },
+  {
+    "logon": "EDGG_KIR_CTR",
+    "frequency": "133.460",
+    "abbreviation": "KIR",
+    "description": "Langen Radar KIR"
+  },
+  {
+    "logon": "EDGG_KNG_CTR",
+    "frequency": "125.680",
+    "abbreviation": "KNG",
+    "description": "Langen Radar KNG"
+  },
+  {
+    "logon": "EDGG_KTG_CTR",
+    "frequency": "123.280",
+    "abbreviation": "KTG",
+    "description": "Langen Radar KTG",
+    "schedule_minstation": [
+      "EDFF",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDF",
+      "EDDS"
+    ]
+  },
+  {
+    "logon": "EDGG_LBU_CTR",
+    "frequency": "127.050",
+    "abbreviation": "LBU",
+    "description": "Langen Radar LBU"
+  },
+  {
+    "logon": "EDGG_MAN_CTR",
+    "frequency": "132.155",
+    "abbreviation": "MAN",
+    "description": "Langen Radar MAN"
+  },
+  {
+    "logon": "EDGG_NKH_CTR",
+    "frequency": "127.500",
+    "abbreviation": "NKRH",
+    "description": "Langen Radar NKH"
+  },
+  {
     "logon": "EDGG_PAH_CTR",
     "frequency": "135.650",
     "abbreviation": "PADH",
     "description": "Langen Radar PADH",
     "schedule_minstation": [
       "EDLL",
-      "EDFF"
+      "EDGG"
     ],
     "schedule_groups": [
       "EDLL",
@@ -16,5 +262,113 @@
       "EDDL",
       "EDDK"
     ]
+  },
+  {
+    "logon": "EDGG_PSA_CTR",
+    "frequency": "125.405",
+    "abbreviation": "PSA",
+    "description": "Langen Radar PSA"
+  },
+  {
+    "logon": "EDGG_RUD_CTR",
+    "frequency": "133.435",
+    "abbreviation": "RUD",
+    "description": "Langen Radar RUD"
+  },
+  {
+    "logon": "EDGG_SIG_CTR",
+    "frequency": "124.900",
+    "abbreviation": "SIG",
+    "description": "Langen Radar SIG"
+  },
+  {
+    "logon": "EDGG_TAU_CTR",
+    "frequency": "127.625",
+    "abbreviation": "TAU",
+    "description": "Langen Radar TAU"
+  },
+  {
+    "logon": "EDLN_GND",
+    "frequency": "121.930",
+    "abbreviation": "LNG",
+    "description": "M\u00f6nchengladbach Ground"
+  },
+  {
+    "logon": "EDLP_GND",
+    "frequency": "121.930",
+    "abbreviation": "LPG",
+    "description": "Paderborn Ground"
+  },
+  {
+    "logon": "EDLW_GND",
+    "frequency": "121.830",
+    "abbreviation": "LNG",
+    "description": "Dortmund Ground"
+  },
+  {
+    "logon": "EDSB_GND",
+    "frequency": "121.830",
+    "abbreviation": "SBG",
+    "description": "Baden Ground"
+  },
+  {
+    "logon": "ETAR_GND",
+    "frequency": "121.775",
+    "abbreviation": "ARG",
+    "description": "Ramstein Ground"
+  },
+  {
+    "logon": "ETAR_TWR",
+    "frequency": "133.205",
+    "abbreviation": "ART",
+    "description": "Ramstein Tower"
+  },
+  {
+    "logon": "ETHN_APP",
+    "frequency": "127.190",
+    "abbreviation": "HNA",
+    "description": "Stetten Radar"
+  },
+  {
+    "logon": "ETHN_I_TWR",
+    "frequency": "119.780",
+    "abbreviation": "HNI",
+    "description": "Stetten Info"
+  },
+  {
+    "logon": "ETHN_TWR",
+    "frequency": "122.100",
+    "abbreviation": "HNT",
+    "description": "Stetten Tower"
+  },
+  {
+    "logon": "ETNG_APP",
+    "frequency": "123.730",
+    "abbreviation": "TNGA",
+    "description": "Frisbee Radar"
+  },
+  {
+    "logon": "ETNG_TWR",
+    "frequency": "120.055",
+    "abbreviation": "TNGT",
+    "description": "Frisbee Tower"
+  },
+  {
+    "logon": "ETNN_APP",
+    "frequency": "129.055",
+    "abbreviation": "TNNA",
+    "description": "Noervenich Radar"
+  },
+  {
+    "logon": "ETNN_TWR",
+    "frequency": "136.205",
+    "abbreviation": "TNNT",
+    "description": "Noervenich Tower"
+  },
+  {
+    "logon": "ETOU_TWR",
+    "frequency": "122.100",
+    "abbreviation": "OUT",
+    "description": "Wiesbaden Tower"
   }
 ]

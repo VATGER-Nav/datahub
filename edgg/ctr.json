@@ -10,9 +10,18 @@
     "frequency": "125.200",
     "abbreviation": "DKB",
     "description": "Langen Radar DKB",
-    "schedule_minstation": ["EDFF", "EDGG"],
-    "schedule_groups": ["EDFF", "EDGG"],
-    "relevant_airports": ["EDDF", "EDDS"]
+    "schedule_minstation": [
+      "EDFF",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDF",
+      "EDDS"
+    ]
   },
   {
     "logon": "EDGG_GED_CTR",
@@ -25,9 +34,18 @@
     "frequency": "124.730",
     "abbreviation": "GIN",
     "description": "Langen Radar GIN",
-    "schedule_minstation": ["EDFF", "EDGG"],
-    "schedule_groups": ["EDFF", "EDGG"],
-    "relevant_airports": ["EDDF", "EDDS"]
+    "schedule_minstation": [
+      "EDFF",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDF",
+      "EDDS"
+    ]
   },
   {
     "logon": "EDGG_HAB_CTR",
@@ -58,9 +76,18 @@
     "frequency": "123.280",
     "abbreviation": "KTG",
     "description": "Langen Radar KTG",
-    "schedule_minstation": ["EDFF", "EDGG"],
-    "schedule_groups": ["EDFF", "EDGG"],
-    "relevant_airports": ["EDDF", "EDDS"]
+    "schedule_minstation": [
+      "EDFF",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDF",
+      "EDDS"
+    ]
   },
   {
     "logon": "EDGG_LBU_CTR",
@@ -85,9 +112,18 @@
     "frequency": "135.650",
     "abbreviation": "PADH",
     "description": "Langen Radar PADH",
-    "schedule_minstation": ["EDLL", "EDGG"],
-    "schedule_groups": ["EDLL", "EDGG"],
-    "relevant_airports": ["EDDL", "EDDK"]
+    "schedule_minstation": [
+      "EDLL",
+      "EDGG"
+    ],
+    "schedule_groups": [
+      "EDLL",
+      "EDGG"
+    ],
+    "relevant_airports": [
+      "EDDL",
+      "EDDK"
+    ]
   },
   {
     "logon": "EDGG_PSA_CTR",

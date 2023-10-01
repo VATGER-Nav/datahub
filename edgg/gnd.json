@@ -57,19 +57,19 @@
     "logon": "EDDL_E_GND",
     "frequency": "121.605",
     "abbreviation": "DLGE",
-    "description": "Düsseldorf Ground"
+    "description": "D\u00fcsseldorf Ground"
   },
   {
     "logon": "EDDL_W_GND",
     "frequency": "121.905",
     "abbreviation": "DLGW",
-    "description": "Düsseldorf Ground"
+    "description": "D\u00fcsseldorf Ground"
   },
   {
     "logon": "EDDR_GND",
     "frequency": "118.555",
     "abbreviation": "DRG",
-    "description": "Saarbrücken Ground"
+    "description": "Saarbr\u00fccken Ground"
   },
   {
     "logon": "EDDS_GND",
@@ -93,7 +93,7 @@
     "logon": "EDLN_GND",
     "frequency": "121.930",
     "abbreviation": "LNG",
-    "description": "Mönchengladbach Ground"
+    "description": "M\u00f6nchengladbach Ground"
   },
   {
     "logon": "EDLP_GND",
