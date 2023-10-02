@@ -6,6 +6,18 @@
     "description": "Frankfurt Apron"
   },
   {
+    "logon": "EDDF_C_TWR",
+    "frequency": "118.780",
+    "abbreviation": "DFTC",
+    "description": "Frankfurt Tower",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
     "logon": "EDDF_DEL",
     "frequency": "121.905",
     "abbreviation": "DFC",
@@ -36,10 +48,34 @@
     "description": "Frankfurt Deicing"
   },
   {
+    "logon": "EDDF_N_TWR",
+    "frequency": "136.500",
+    "abbreviation": "DFTN",
+    "description": "Frankfurt Tower",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
     "logon": "EDDF_S_GND",
     "frequency": "121.655",
     "abbreviation": "DFGS",
     "description": "Frankfurt Apron"
+  },
+  {
+    "logon": "EDDF_S_TWR",
+    "frequency": "119.905",
+    "abbreviation": "DFTS",
+    "description": "Frankfurt Tower",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
   },
   {
     "logon": "EDDF_W_GND",
@@ -48,10 +84,34 @@
     "description": "Frankfurt Apron"
   },
   {
+    "logon": "EDDF_W_TWR",
+    "frequency": "124.855",
+    "abbreviation": "DFTW",
+    "description": "Frankfurt Tower",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
     "logon": "EDDG_GND",
     "frequency": "121.880",
     "abbreviation": "DGG",
     "description": "Muenster Ground"
+  },
+  {
+    "logon": "EDDG_TWR",
+    "frequency": "129.805",
+    "abbreviation": "DGT",
+    "description": "M\u00fcnster Tower",
+    "schedule_minstation": [
+      "EDLL"
+    ],
+    "schedule_groups": [
+      "EDLL"
+    ]
   },
   {
     "logon": "EDDK_DEL",
@@ -78,6 +138,18 @@
     "description": "Cologne/Bonn Apron"
   },
   {
+    "logon": "EDDK_TWR",
+    "frequency": "124.980",
+    "abbreviation": "DKT",
+    "description": "K\u00f6ln/Bonn Tower",
+    "schedule_minstation": [
+      "EDLL"
+    ],
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDDL_DEL",
     "frequency": "121.780",
     "abbreviation": "DLC",
@@ -96,6 +168,18 @@
     "description": "D\u00fcsseldorf Ground"
   },
   {
+    "logon": "EDDL_TWR",
+    "frequency": "118.305",
+    "abbreviation": "DLT",
+    "description": "D\u00fcsseldorf Tower",
+    "schedule_minstation": [
+      "EDLL"
+    ],
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDDL_W_GND",
     "frequency": "121.905",
     "abbreviation": "DLGW",
@@ -106,6 +190,15 @@
     "frequency": "118.555",
     "abbreviation": "DRG",
     "description": "Saarbr\u00fccken Ground"
+  },
+  {
+    "logon": "EDDR_TWR",
+    "frequency": "118.355",
+    "abbreviation": "DRT",
+    "description": "Saarbr\u00fccken Tower",
+    "schedule_groups": [
+      "EDFF"
+    ]
   },
   {
     "logon": "EDDS_DEL",
@@ -126,6 +219,27 @@
     "description": "Stuttgart Ground"
   },
   {
+    "logon": "EDDS_TWR",
+    "frequency": "118.805",
+    "abbreviation": "DST",
+    "description": "Stuttgart Tower",
+    "schedule_minstation": [
+      "EDFF"
+    ],
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
+    "logon": "EDDS_VFR_TWR",
+    "frequency": "119.055",
+    "abbreviation": "DSTV",
+    "description": "Stuttgart Tower",
+    "schedule_groups": [
+      "EDFF"
+    ]
+  },
+  {
     "logon": "EDFE_GND",
     "frequency": "121.730",
     "abbreviation": "FEG",
@@ -136,6 +250,18 @@
     "frequency": "121.730",
     "abbreviation": "FHG",
     "description": "Hahn Ground"
+  },
+  {
+    "logon": "EDFH_TWR",
+    "frequency": "119.655",
+    "abbreviation": "FHT",
+    "description": "Hahn Tower"
+  },
+  {
+    "logon": "EDFM_TWR",
+    "frequency": "129.780",
+    "abbreviation": "FMT",
+    "description": "Mannheim Tower"
   },
   {
     "logon": "EDGG_BAD_CTR",
@@ -294,10 +420,37 @@
     "description": "M\u00f6nchengladbach Ground"
   },
   {
+    "logon": "EDLN_TWR",
+    "frequency": "120.455",
+    "abbreviation": "LNT",
+    "description": "M\u00f6nchengladbach Tower",
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDLP_GND",
     "frequency": "121.930",
     "abbreviation": "LPG",
     "description": "Paderborn Ground"
+  },
+  {
+    "logon": "EDLP_TWR",
+    "frequency": "133.380",
+    "abbreviation": "LPT",
+    "description": "Paderborn Tower",
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
+    "logon": "EDLV_TWR",
+    "frequency": "129.405",
+    "abbreviation": "LVT",
+    "description": "Niederrhein Tower",
+    "schedule_groups": [
+      "EDLL"
+    ]
   },
   {
     "logon": "EDLW_GND",
@@ -306,10 +459,31 @@
     "description": "Dortmund Ground"
   },
   {
+    "logon": "EDLW_TWR",
+    "frequency": "134.180",
+    "abbreviation": "LWT",
+    "description": "Dortmund Tower",
+    "schedule_groups": [
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDSB_GND",
     "frequency": "121.830",
     "abbreviation": "SBG",
     "description": "Baden Ground"
+  },
+  {
+    "logon": "EDSB_TWR",
+    "frequency": "134.105",
+    "abbreviation": "SBT",
+    "description": "Baden Tower"
+  },
+  {
+    "logon": "EDTL_TWR",
+    "frequency": "125.180",
+    "abbreviation": "TLT",
+    "description": "Lahr Tower"
   },
   {
     "logon": "ETAR_GND",
