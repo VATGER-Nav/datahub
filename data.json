@@ -486,6 +486,42 @@
     "description": "Lahr Tower"
   },
   {
+    "logon": "EDUU_FFM_CTR",
+    "frequency": "132.330",
+    "abbreviation": "FFM",
+    "description": "Rhein Radar FFM"
+  },
+  {
+    "logon": "EDUU_FUL_CTR",
+    "frequency": "133.655",
+    "abbreviation": "FUL",
+    "description": "Rhein Radar FUL"
+  },
+  {
+    "logon": "EDUU_NTM_CTR",
+    "frequency": "132.080",
+    "abbreviation": "NTM",
+    "description": "Rhein Radar NTM"
+  },
+  {
+    "logon": "EDUU_SLN_CTR",
+    "frequency": "120.930",
+    "abbreviation": "SLN",
+    "description": "Rhein Radar SLN"
+  },
+  {
+    "logon": "EDUU_TGO_CTR",
+    "frequency": "132.405",
+    "abbreviation": "TGO",
+    "description": "Rhein Radar TGO"
+  },
+  {
+    "logon": "EDUU_WUR_CTR",
+    "frequency": "134.085",
+    "abbreviation": "WUR",
+    "description": "Rhein Radar WUR"
+  },
+  {
     "logon": "ETAR_GND",
     "frequency": "121.775",
     "abbreviation": "ARG",

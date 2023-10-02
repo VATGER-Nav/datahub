@@ -290,6 +290,36 @@
     "frequency": "125.180"
   },
   {
+    "id": "FFM",
+    "callsignPrefix": "EDUU",
+    "frequency": "132.330"
+  },
+  {
+    "id": "FUL",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.655"
+  },
+  {
+    "id": "NTM",
+    "callsignPrefix": "EDUU",
+    "frequency": "132.080"
+  },
+  {
+    "id": "SLN",
+    "callsignPrefix": "EDUU",
+    "frequency": "120.930"
+  },
+  {
+    "id": "TGO",
+    "callsignPrefix": "EDUU",
+    "frequency": "132.405"
+  },
+  {
+    "id": "WUR",
+    "callsignPrefix": "EDUU",
+    "frequency": "134.085"
+  },
+  {
     "id": "ARG",
     "callsignPrefix": "ETAR",
     "frequency": "121.775"
