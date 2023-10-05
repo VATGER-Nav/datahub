@@ -1,7 +1,8 @@
 [
   {
-    "rule": "weekday",
-    "day": "4",
+    "rule": "every_X_days",
+    "one_date": "2023-09-14",
+    "days": "21",
     "booking": [
       "EDDB",
       "EDXW",
