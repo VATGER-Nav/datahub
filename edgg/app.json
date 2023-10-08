@@ -1,0 +1,128 @@
+[
+  {
+    "logon": "EDDF_N_DEP",
+    "frequency": "120.155",
+    "abbreviation": "DFDN",
+    "description": "Frankfurt Departure North"
+  },
+  {
+    "logon": "EDDF_S_DEP",
+    "frequency": "136.130",
+    "abbreviation": "DFDS",
+    "description": "Frankfurt Departure South"
+  },
+  {
+    "logon": "EDDF_N_APP",
+    "frequency": "120.805",
+    "abbreviation": "DFAN",
+    "description": "Frankfurt Arrival North"
+  },
+  {
+    "logon": "EDDF_S_APP",
+    "frequency": "120.805",
+    "abbreviation": "DFAS",
+    "description": "Frankfurt Arrival South"
+  },
+  {
+    "logon": "EDDF_H_APP",
+    "frequency": "127.280",
+    "abbreviation": "DFANT",
+    "description": "Frankfurt Director North"
+  },
+  {
+    "logon": "EDDF_L_APP",
+    "frequency": "118.505",
+    "abbreviation": "DFAST",
+    "description": "Frankfurt Director South"
+  },
+  {
+    "logon": "EDDG_HMM_APP",
+    "frequency": "129.300",
+    "abbreviation": "HMM",
+    "description": "Langen Radar HMM"
+  },
+  {
+    "logon": "EDDK_APP",
+    "frequency": "135.350",
+    "abbreviation": "DKA",
+    "description": "Cologne/Bonn Arrival"
+  },
+  {
+    "logon": "EDDK_F_APP",
+    "frequency": "121.055",
+    "abbreviation": "DKAT",
+    "description": "Cologne/Bonn Director"
+  },
+  {
+    "logon": "EDDK_NOR_APP",
+    "frequency": "127.365",
+    "abbreviation": "NOR",
+    "description": "Langen Radar NOR"
+  },
+  {
+    "logon": "EDDL_APP",
+    "frequency": "128.555",
+    "abbreviation": "DUS",
+    "description": "Düsseldorf Arrival"
+  },
+  {
+    "logon": "EDDL_F_APP",
+    "frequency": "128.655",
+    "abbreviation": "DLAT",
+    "description": "Düsseldorf Director"
+  },
+  {
+    "logon": "EDDL_DEP",
+    "frequency": "121.355",
+    "abbreviation": "DLD",
+    "description": "Düsseldorf Departure"
+  },
+  {
+    "logon": "EDDL_BOT_APP",
+    "frequency": "119.110",
+    "abbreviation": "BOT",
+    "description": "Langen Radar BOT"
+  },
+  {
+    "logon": "EDDR_PFA_APP",
+    "frequency": "129.675",
+    "abbreviation": "PFA",
+    "description": "Langen Radar PFA"
+  },
+  {
+    "logon": "EDDS_F_APP",
+    "frequency": "119.850",
+    "abbreviation": "DSAT",
+    "description": "Stuttgart Director"
+  },
+  {
+    "logon": "EDDS_STG_APP",
+    "frequency": "125.050",
+    "abbreviation": "STG",
+    "description": "Langen Radar STG"
+  },
+  {
+    "logon": "EDDS_REU_APP",
+    "frequency": "119.200",
+    "abbreviation": "REU",
+    "description": "Langen Radar REU"
+  },
+  {
+    "logon": "EDFH_EIF_APP",
+    "frequency": "125.600",
+    "abbreviation": "EIF",
+    "description": "Langen Radar EIF"
+  },
+  {
+    "logon": "EDFM_NKL_APP",
+    "frequency": "129.355",
+    "abbreviation": "NKRL",
+    "description": "Langen Radar NKRL"
+  },
+  {
+    "logon": "EDLP_PAL_APP",
+    "frequency": "125.225",
+    "abbreviation": "PADL",
+    "description": "Langen Radar PADL"
+  }
+]
