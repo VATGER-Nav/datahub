@@ -63,19 +63,19 @@
     "logon": "EDDL_APP",
     "frequency": "128.555",
     "abbreviation": "DUS",
-    "description": "Düsseldorf Arrival"
+    "description": "D\u00fcsseldorf Arrival"
   },
   {
     "logon": "EDDL_F_APP",
     "frequency": "128.655",
     "abbreviation": "DLAT",
-    "description": "Düsseldorf Director"
+    "description": "D\u00fcsseldorf Director"
   },
   {
     "logon": "EDDL_DEP",
     "frequency": "121.355",
     "abbreviation": "DLD",
-    "description": "Düsseldorf Departure"
+    "description": "D\u00fcsseldorf Departure"
   },
   {
     "logon": "EDDL_BOT_APP",
