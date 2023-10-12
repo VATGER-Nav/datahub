@@ -20,9 +20,9 @@ The data stored in each of the ATC position folders is in JSON format and includ
 | frequency           | Primary frequency used on VATSIM (required for Teamspeak Station Bot)                                                                                            |
 | abbreviation        | Abbreviation (used by the Teamspeak Station Bot)                                                                                                                 |
 | description         | Optional description of the ATC position                                                                                                                         |
-| schedule-minstation | Specifies on which schedule page the station should always appear, even if not booked                                                                            |
-| schedule-groups     | Specifies on which schedule page the station should appear if it is booked on VATBOOK (VATSIM Booking System)                                                    |
-| relevant-airports   | Used in the booking system on the VATGER homepage. When the array contains the airport, the station will appear if the airport is selected in the booking system |
+| schedule_minstation | Specifies on which schedule page the station should always appear, even if not booked                                                                            |
+| schedule_groups     | Specifies on which schedule page the station should appear if it is booked on VATBOOK (VATSIM Booking System)                                                    |
+| relevant_airports   | Used in the booking system on the VATGER homepage. When the array contains the airport, the station will appear if the airport is selected in the booking system |
 
 ## Automated workflows / How to edit data
 
