@@ -11,6 +11,6 @@
   }
 ]
 ```
-- `schedule_minstation` (optional) in welcher Buchungsübersicht diese Station auftauchen soll.
-- `schedule_groups` (optional) in welcher Buchungsübersicht diese Station auftauchen soll.
-- `relevant_airports` (optional) welche Airports werden von der Station gecovered. Beginnt die Station mit dem ICAO Code eines Airports muss dieser hier nicht angegeben werden.
+- `schedule_minstation` (optional) in which booking overview this station should appear
+- `schedule_groups` (optional) in which booking overview this station should appear
+- `relevant_airports` (optional) which airports are covered by the station. If the station starts with the ICAO code of an airport, this does not have to be specified here.
