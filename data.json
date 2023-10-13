@@ -9,7 +9,7 @@
     "logon": "EDDF_C_TWR",
     "frequency": "118.780",
     "abbreviation": "DFTC",
-    "description": "Frankfurt Tower",
+    "description": "Frankfurt Tower (Center)",
     "schedule_minstation": [
       "EDFF"
     ],
@@ -75,7 +75,7 @@
     "logon": "EDDF_N_TWR",
     "frequency": "136.500",
     "abbreviation": "DFTN",
-    "description": "Frankfurt Tower",
+    "description": "Frankfurt Tower (North)",
     "schedule_minstation": [
       "EDFF"
     ],
@@ -105,7 +105,7 @@
     "logon": "EDDF_S_TWR",
     "frequency": "119.905",
     "abbreviation": "DFTS",
-    "description": "Frankfurt Tower",
+    "description": "Frankfurt Tower (South)",
     "schedule_minstation": [
       "EDFF"
     ],
@@ -123,7 +123,7 @@
     "logon": "EDDF_W_TWR",
     "frequency": "124.855",
     "abbreviation": "DFTW",
-    "description": "Frankfurt Tower",
+    "description": "Frankfurt Tower (West)",
     "schedule_minstation": [
       "EDFF"
     ],
@@ -147,7 +147,7 @@
     "logon": "EDDG_TWR",
     "frequency": "129.805",
     "abbreviation": "DGT",
-    "description": "M\u00fcnster Tower",
+    "description": "Muenster Tower",
     "schedule_minstation": [
       "EDLL"
     ],
@@ -201,7 +201,7 @@
     "logon": "EDDK_TWR",
     "frequency": "124.980",
     "abbreviation": "DKT",
-    "description": "K\u00f6ln/Bonn Tower",
+    "description": "Koeln/Bonn Tower",
     "schedule_minstation": [
       "EDLL"
     ],
@@ -255,7 +255,7 @@
     "logon": "EDDL_TWR",
     "frequency": "118.305",
     "abbreviation": "DLT",
-    "description": "D\u00fcsseldorf Tower",
+    "description": "Duesseldorf Tower",
     "schedule_minstation": [
       "EDLL"
     ],
@@ -285,7 +285,7 @@
     "logon": "EDDR_TWR",
     "frequency": "118.355",
     "abbreviation": "DRT",
-    "description": "Saarbr\u00fccken Tower",
+    "description": "Saarbruecken Tower",
     "schedule_groups": [
       "EDFF"
     ]
@@ -342,7 +342,7 @@
     "logon": "EDDS_VFR_TWR",
     "frequency": "119.055",
     "abbreviation": "DSTV",
-    "description": "Stuttgart Tower",
+    "description": "Stuttgart Tower (VFR)",
     "schedule_groups": [
       "EDFF"
     ]
@@ -699,7 +699,7 @@
     "logon": "EDLN_TWR",
     "frequency": "120.455",
     "abbreviation": "LNT",
-    "description": "M\u00f6nchengladbach Tower",
+    "description": "Moenchengladbach Tower",
     "schedule_groups": [
       "EDLL"
     ]
