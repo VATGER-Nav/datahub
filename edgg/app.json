@@ -25,9 +25,7 @@
     "abbreviation": "DFAN",
     "description": "Langen Radar (Frankfurt Arrival North)"
     "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
+      "EDFF",
       "EDGG"
     ]
   },
