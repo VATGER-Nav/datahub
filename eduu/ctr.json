@@ -21,7 +21,7 @@
     "logon": "EDUU_SLN_CTR",
     "frequency": "120.930",
     "abbreviation": "SLN",
-    "description": "Rhein Radar (Söllingen)"
+    "description": "Rhein Radar (S\u00f6llingen)"
   },
   {
     "logon": "EDUU_TGO_CTR",
@@ -33,6 +33,6 @@
     "logon": "EDUU_WUR_CTR",
     "frequency": "134.085",
     "abbreviation": "WUR",
-    "description": "Rhein Radar (Würzburg)"
+    "description": "Rhein Radar (W\u00fcrzburg)"
   }
 ]
