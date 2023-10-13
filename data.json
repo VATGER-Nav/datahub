@@ -45,7 +45,7 @@
     "logon": "EDDF_H_APP",
     "frequency": "127.280",
     "abbreviation": "DFANT",
-    "description": "Frankfurt Director North"
+    "description": "Frankfurt Director (North)"
   },
   {
     "logon": "EDDF_ICE_GND",
@@ -57,19 +57,19 @@
     "logon": "EDDF_L_APP",
     "frequency": "118.505",
     "abbreviation": "DFAST",
-    "description": "Frankfurt Director South"
+    "description": "Frankfurt Director (South)"
   },
   {
     "logon": "EDDF_N_APP",
     "frequency": "120.805",
     "abbreviation": "DFAN",
-    "description": "Frankfurt Arrival North"
+    "description": "Langen Radar (Frankfurt Arrival North)"
   },
   {
     "logon": "EDDF_N_DEP",
     "frequency": "120.155",
     "abbreviation": "DFDN",
-    "description": "Frankfurt Departure North"
+    "description": "Langen Radar (Frankfurt Departure North)"
   },
   {
     "logon": "EDDF_N_TWR",
@@ -85,15 +85,15 @@
   },
   {
     "logon": "EDDF_S_APP",
-    "frequency": "120.805",
+    "frequency": "125.355",
     "abbreviation": "DFAS",
-    "description": "Frankfurt Arrival South"
+    "description": "Langen Radar (Frankfurt Arrival South)"
   },
   {
     "logon": "EDDF_S_DEP",
     "frequency": "136.130",
     "abbreviation": "DFDS",
-    "description": "Frankfurt Departure South"
+    "description": "Langen Radar (Frankfurt Departure South)"
   },
   {
     "logon": "EDDF_S_GND",
@@ -141,7 +141,7 @@
     "logon": "EDDG_HMM_APP",
     "frequency": "129.300",
     "abbreviation": "HMM",
-    "description": "Langen Radar HMM"
+    "description": "Langen Radar (Hamm)"
   },
   {
     "logon": "EDDG_TWR",
@@ -159,7 +159,7 @@
     "logon": "EDDK_APP",
     "frequency": "135.350",
     "abbreviation": "DKA",
-    "description": "Cologne/Bonn Arrival"
+    "description": "Langen Radar (Cologne/Bonn Arrival)"
   },
   {
     "logon": "EDDK_DEL",
@@ -189,7 +189,7 @@
     "logon": "EDDK_NOR_APP",
     "frequency": "127.365",
     "abbreviation": "NOR",
-    "description": "Langen Radar NOR"
+    "description": "Langen Radar (Noervenich)"
   },
   {
     "logon": "EDDK_P_GND",
@@ -213,13 +213,13 @@
     "logon": "EDDL_APP",
     "frequency": "128.555",
     "abbreviation": "DUS",
-    "description": "D\u00fcsseldorf Arrival"
+    "description": "Langen Radar (Duesseldorf Arrival)"
   },
   {
     "logon": "EDDL_BOT_APP",
     "frequency": "119.110",
     "abbreviation": "BOT",
-    "description": "Langen Radar BOT"
+    "description": "Langen Radar (Bottrop)"
   },
   {
     "logon": "EDDL_DEL",
@@ -237,7 +237,7 @@
     "logon": "EDDL_DEP",
     "frequency": "121.355",
     "abbreviation": "DLD",
-    "description": "D\u00fcsseldorf Departure"
+    "description": "Langen Radar (Duesseldorf Departure)"
   },
   {
     "logon": "EDDL_E_GND",
@@ -249,7 +249,7 @@
     "logon": "EDDL_F_APP",
     "frequency": "128.655",
     "abbreviation": "DLAT",
-    "description": "D\u00fcsseldorf Director"
+    "description": "Duesseldorf Director"
   },
   {
     "logon": "EDDL_TWR",
@@ -279,7 +279,7 @@
     "logon": "EDDR_PFA_APP",
     "frequency": "129.675",
     "abbreviation": "PFA",
-    "description": "Langen Radar PFA"
+    "description": "Langen Radar (Pfalz)"
   },
   {
     "logon": "EDDR_TWR",
@@ -318,13 +318,13 @@
     "logon": "EDDS_REU_APP",
     "frequency": "119.200",
     "abbreviation": "REU",
-    "description": "Langen Radar REU"
+    "description": "Langen Radar (Reutlingen)"
   },
   {
     "logon": "EDDS_STG_APP",
     "frequency": "125.050",
     "abbreviation": "STG",
-    "description": "Langen Radar STG"
+    "description": "Langen Radar (Stuttgart)"
   },
   {
     "logon": "EDDS_TWR",
@@ -405,7 +405,7 @@
     "logon": "EDFH_EIF_APP",
     "frequency": "125.600",
     "abbreviation": "EIF",
-    "description": "Langen Radar EIF"
+    "description": "Langen Radar (Eifel)"
   },
   {
     "logon": "EDFH_GND",
@@ -423,7 +423,7 @@
     "logon": "EDFM_NKL_APP",
     "frequency": "129.355",
     "abbreviation": "NKRL",
-    "description": "Langen Radar NKRL"
+    "description": "Langen Radar (Neckar Low)"
   },
   {
     "logon": "EDFM_TWR",
@@ -720,7 +720,7 @@
     "logon": "EDLP_PAL_APP",
     "frequency": "125.225",
     "abbreviation": "PADL",
-    "description": "Langen Radar PADL"
+    "description": "Langen Radar (Paderborn Low)"
   },
   {
     "logon": "EDLP_TWR",
