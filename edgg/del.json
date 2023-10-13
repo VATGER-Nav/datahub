@@ -15,7 +15,7 @@
     "logon": "EDDK_DEL",
     "frequency": "121.855",
     "abbreviation": "DKC",
-    "description": "Koeln/Bonn Delivery",
+    "description": "Köln/Bonn Delivery",
     "schedule_minstation": [
       "EDLL"
     ],
@@ -27,7 +27,7 @@
     "logon": "EDDL_DEL",
     "frequency": "121.780",
     "abbreviation": "DLC",
-    "description": "Duesseldorf Delivery",
+    "description": "Düsseldorf Delivery",
     "schedule_minstation": [
       "EDLL"
     ],
