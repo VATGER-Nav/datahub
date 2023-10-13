@@ -165,7 +165,7 @@
     "logon": "EDDK_DEL",
     "frequency": "121.855",
     "abbreviation": "DKC",
-    "description": "Cologne/Bonn Delivery",
+    "description": "Koeln/Bonn Delivery",
     "schedule_minstation": [
       "EDLL"
     ],
