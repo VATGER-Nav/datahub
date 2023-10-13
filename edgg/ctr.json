@@ -56,6 +56,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_HEF_CTR",
@@ -65,6 +66,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_KIR_CTR",
@@ -74,6 +76,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_KNG_CTR",
@@ -83,6 +86,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_KTG_CTR",
@@ -109,6 +113,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_MAN_CTR",
@@ -118,6 +123,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_NKH_CTR",
@@ -127,6 +133,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_PAH_CTR",
@@ -150,6 +157,7 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
+    ]
   },
   {
     "logon": "EDGG_RUD_CTR",
@@ -159,6 +167,7 @@
       "EDFF",
       "EDGG",
       "EDLL"
+    ]
   },
   {
     "logon": "EDGG_SIG_CTR",
@@ -169,15 +178,17 @@
       "EDFF",
       "EDGG",
       "EDLL"
+    ]
   },
   {
     "logon": "EDGG_TAU_CTR",
     "frequency": "127.625",
+    "abbreviation": "TAU",
+    "description": "Langen Radar (Taunus)"
     "schedule_groups": [
       "EDFF",
       "EDGG",
       "EDLL"
-    "abbreviation": "TAU",
-    "description": "Langen Radar (Taunus)"
+    ]
   }
 ]
