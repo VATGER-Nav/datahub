@@ -225,9 +225,49 @@
     "frequency": "119.055"
   },
   {
+    "id": "EHI",
+    "callsignPrefix": "EDEH",
+    "frequency": "132.055"
+  },
+  {
+    "id": "ELI",
+    "callsignPrefix": "EDEL",
+    "frequency": "124.030"
+  },
+  {
+    "id": "ERI",
+    "callsignPrefix": "EDER",
+    "frequency": "120.130"
+  },
+  {
+    "id": "FAI",
+    "callsignPrefix": "EDFA",
+    "frequency": "121.030"
+  },
+  {
+    "id": "FBI",
+    "callsignPrefix": "EDFB",
+    "frequency": "120.430"
+  },
+  {
+    "id": "FBI",
+    "callsignPrefix": "EDFC",
+    "frequency": "132.430"
+  },
+  {
     "id": "FEG",
     "callsignPrefix": "EDFE",
     "frequency": "121.730"
+  },
+  {
+    "id": "FEI",
+    "callsignPrefix": "EDFE",
+    "frequency": "118.405"
+  },
+  {
+    "id": "FGI",
+    "callsignPrefix": "EDFG",
+    "frequency": "123.055"
   },
   {
     "id": "EIF",
@@ -253,6 +293,36 @@
     "id": "FMT",
     "callsignPrefix": "EDFM",
     "frequency": "129.780"
+  },
+  {
+    "id": "FOI",
+    "callsignPrefix": "EDFO",
+    "frequency": "124.515"
+  },
+  {
+    "id": "FQI",
+    "callsignPrefix": "EDFQ",
+    "frequency": "135.165"
+  },
+  {
+    "id": "FUI",
+    "callsignPrefix": "EDFU",
+    "frequency": "121.035"
+  },
+  {
+    "id": "FVI",
+    "callsignPrefix": "EDFV",
+    "frequency": "124.605"
+  },
+  {
+    "id": "FYI",
+    "callsignPrefix": "EDFY",
+    "frequency": "128.775"
+  },
+  {
+    "id": "FZI",
+    "callsignPrefix": "EDFZ",
+    "frequency": "122.930"
   },
   {
     "id": "BAD",
@@ -340,6 +410,71 @@
     "frequency": "127.625"
   },
   {
+    "id": "GPI",
+    "callsignPrefix": "EDGP",
+    "frequency": "130.640"
+  },
+  {
+    "id": "GSI",
+    "callsignPrefix": "EDGS",
+    "frequency": "120.380"
+  },
+  {
+    "id": "HNI",
+    "callsignPrefix": "EDHN",
+    "frequency": "119.780"
+  },
+  {
+    "id": "KAI",
+    "callsignPrefix": "EDKA",
+    "frequency": "122.880"
+  },
+  {
+    "id": "KBI",
+    "callsignPrefix": "EDKB",
+    "frequency": "135.155"
+  },
+  {
+    "id": "KFI",
+    "callsignPrefix": "EDKF",
+    "frequency": "125.840"
+  },
+  {
+    "id": "KLI",
+    "callsignPrefix": "EDKL",
+    "frequency": "122.430"
+  },
+  {
+    "id": "KMI",
+    "callsignPrefix": "EDKM",
+    "frequency": "126.015"
+  },
+  {
+    "id": "LDI",
+    "callsignPrefix": "EDLD",
+    "frequency": "122.705"
+  },
+  {
+    "id": "LEI",
+    "callsignPrefix": "EDLE",
+    "frequency": "119.755"
+  },
+  {
+    "id": "LHI",
+    "callsignPrefix": "EDLH",
+    "frequency": "134.055"
+  },
+  {
+    "id": "LII",
+    "callsignPrefix": "EDLI",
+    "frequency": "118.355"
+  },
+  {
+    "id": "LMI",
+    "callsignPrefix": "EDLM",
+    "frequency": "134.610"
+  },
+  {
     "id": "LNG",
     "callsignPrefix": "EDLN",
     "frequency": "121.930"
@@ -348,6 +483,11 @@
     "id": "LNT",
     "callsignPrefix": "EDLN",
     "frequency": "120.455"
+  },
+  {
+    "id": "LOI",
+    "callsignPrefix": "EDLO",
+    "frequency": "136.410"
   },
   {
     "id": "LPG",
@@ -365,6 +505,11 @@
     "frequency": "133.380"
   },
   {
+    "id": "LTI",
+    "callsignPrefix": "EDLT",
+    "frequency": "122.855"
+  },
+  {
     "id": "LVT",
     "callsignPrefix": "EDLV",
     "frequency": "129.405"
@@ -380,6 +525,61 @@
     "frequency": "134.180"
   },
   {
+    "id": "LZI",
+    "callsignPrefix": "EDLZ",
+    "frequency": "133.465"
+  },
+  {
+    "id": "PAI",
+    "callsignPrefix": "EDPA",
+    "frequency": "121.405"
+  },
+  {
+    "id": "PUI",
+    "callsignPrefix": "EDPU",
+    "frequency": "135.115"
+  },
+  {
+    "id": "PYI",
+    "callsignPrefix": "EDPY",
+    "frequency": "121.235"
+  },
+  {
+    "id": "RAI",
+    "callsignPrefix": "EDRA",
+    "frequency": "122.355"
+  },
+  {
+    "id": "RFI",
+    "callsignPrefix": "EDRF",
+    "frequency": "122.405"
+  },
+  {
+    "id": "RJI",
+    "callsignPrefix": "EDRJ",
+    "frequency": "121.210"
+  },
+  {
+    "id": "RKI",
+    "callsignPrefix": "EDRK",
+    "frequency": "122.655"
+  },
+  {
+    "id": "RMI",
+    "callsignPrefix": "EDRM",
+    "frequency": "129.035"
+  },
+  {
+    "id": "RYI",
+    "callsignPrefix": "EDRY",
+    "frequency": "118.080"
+  },
+  {
+    "id": "RZT",
+    "callsignPrefix": "EDRZ",
+    "frequency": "123.830"
+  },
+  {
     "id": "SBG",
     "callsignPrefix": "EDSB",
     "frequency": "121.830"
@@ -390,9 +590,79 @@
     "frequency": "134.105"
   },
   {
+    "id": "SHI",
+    "callsignPrefix": "EDSH",
+    "frequency": "123.710"
+  },
+  {
+    "id": "STI",
+    "callsignPrefix": "EDST",
+    "frequency": "125.615"
+  },
+  {
+    "id": "TCI",
+    "callsignPrefix": "EDTC",
+    "frequency": "123.990"
+  },
+  {
+    "id": "TDI",
+    "callsignPrefix": "EDTD",
+    "frequency": "126.690"
+  },
+  {
+    "id": "TFI",
+    "callsignPrefix": "EDTF",
+    "frequency": "118.255"
+  },
+  {
+    "id": "THI",
+    "callsignPrefix": "EDTH",
+    "frequency": "134.115"
+  },
+  {
     "id": "TLT",
     "callsignPrefix": "EDTL",
     "frequency": "125.180"
+  },
+  {
+    "id": "TMI",
+    "callsignPrefix": "EDTM",
+    "frequency": "135.180"
+  },
+  {
+    "id": "TOI",
+    "callsignPrefix": "EDTO",
+    "frequency": "132.040"
+  },
+  {
+    "id": "TQI",
+    "callsignPrefix": "EDTQ",
+    "frequency": "124.610"
+  },
+  {
+    "id": "TSI",
+    "callsignPrefix": "EDTS",
+    "frequency": "127.535"
+  },
+  {
+    "id": "TUI",
+    "callsignPrefix": "EDTU",
+    "frequency": "123.605"
+  },
+  {
+    "id": "TWI",
+    "callsignPrefix": "EDTW",
+    "frequency": "118.390"
+  },
+  {
+    "id": "TYI",
+    "callsignPrefix": "EDTY",
+    "frequency": "129.230"
+  },
+  {
+    "id": "TZI",
+    "callsignPrefix": "EDTZ",
+    "frequency": "124.355"
   },
   {
     "id": "FFM",

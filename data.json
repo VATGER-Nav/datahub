@@ -348,10 +348,58 @@
     ]
   },
   {
+    "logon": "EDEH_I_TWR",
+    "frequency": "132.055",
+    "abbreviation": "EHI",
+    "description": "Herrenteich Info"
+  },
+  {
+    "logon": "EDEL_I_TWR",
+    "frequency": "124.030",
+    "abbreviation": "ELI",
+    "description": "Langenlonsheim Info"
+  },
+  {
+    "logon": "EDER_I_TWR",
+    "frequency": "120.130",
+    "abbreviation": "ERI",
+    "description": "Wasserkuppe Info"
+  },
+  {
+    "logon": "EDFA_I_TWR",
+    "frequency": "121.030",
+    "abbreviation": "FAI",
+    "description": "Anspach Info"
+  },
+  {
+    "logon": "EDFB_I_TWR",
+    "frequency": "120.430",
+    "abbreviation": "FBI",
+    "description": "Reichelsheim Info"
+  },
+  {
+    "logon": "EDFC_I_TWR",
+    "frequency": "132.430",
+    "abbreviation": "FBI",
+    "description": "Aschaffenburg Info"
+  },
+  {
     "logon": "EDFE_GND",
     "frequency": "121.730",
     "abbreviation": "FEG",
     "description": "Egelsbach Ground"
+  },
+  {
+    "logon": "EDFE_I_TWR",
+    "frequency": "118.405",
+    "abbreviation": "FEI",
+    "description": "Egelsbach Info"
+  },
+  {
+    "logon": "EDFG_I_TWR",
+    "frequency": "123.055",
+    "abbreviation": "FGI",
+    "description": "Gelnhausen Info"
   },
   {
     "logon": "EDFH_EIF_APP",
@@ -382,6 +430,42 @@
     "frequency": "129.780",
     "abbreviation": "FMT",
     "description": "Mannheim Tower"
+  },
+  {
+    "logon": "EDFO_I_TWR",
+    "frequency": "124.515",
+    "abbreviation": "FOI",
+    "description": "Michelstadt Info"
+  },
+  {
+    "logon": "EDFQ_I_TWR",
+    "frequency": "135.165",
+    "abbreviation": "FQI",
+    "description": "Allendorf Info"
+  },
+  {
+    "logon": "EDFU_I_TWR",
+    "frequency": "121.035",
+    "abbreviation": "FUI",
+    "description": "Mainbullau Info"
+  },
+  {
+    "logon": "EDFV_I_TWR",
+    "frequency": "124.605",
+    "abbreviation": "FVI",
+    "description": "Worms Info"
+  },
+  {
+    "logon": "EDFY_I_TWR",
+    "frequency": "128.775",
+    "abbreviation": "FYI",
+    "description": "Elz Info"
+  },
+  {
+    "logon": "EDFZ_I_TWR",
+    "frequency": "122.930",
+    "abbreviation": "FZI",
+    "description": "Mainz Info"
   },
   {
     "logon": "EDGG_BAD_CTR",
@@ -534,6 +618,84 @@
     "description": "Langen Radar TAU"
   },
   {
+    "logon": "EDGP_I_TWR",
+    "frequency": "130.640",
+    "abbreviation": "GPI",
+    "description": "Oppenheim Info"
+  },
+  {
+    "logon": "EDGS_I_TWR",
+    "frequency": "120.380",
+    "abbreviation": "GSI",
+    "description": "Siegerland Info"
+  },
+  {
+    "logon": "EDHN_I_TWR",
+    "frequency": "119.780",
+    "abbreviation": "HNI",
+    "description": "Stetten Info"
+  },
+  {
+    "logon": "EDKA_I_TWR",
+    "frequency": "122.880",
+    "abbreviation": "KAI",
+    "description": "Aachen Info"
+  },
+  {
+    "logon": "EDKB_I_TWR",
+    "frequency": "135.155",
+    "abbreviation": "KBI",
+    "description": "Bonn-Hangelar Info"
+  },
+  {
+    "logon": "EDKF_I_TWR",
+    "frequency": "125.840",
+    "abbreviation": "KFI",
+    "description": "Bergneustadt Info"
+  },
+  {
+    "logon": "EDKL_I_TWR",
+    "frequency": "122.430",
+    "abbreviation": "KLI",
+    "description": "Leverkusen Info"
+  },
+  {
+    "logon": "EDKM_I_TWR",
+    "frequency": "126.015",
+    "abbreviation": "KMI",
+    "description": "Meschede Info"
+  },
+  {
+    "logon": "EDLD_I_TWR",
+    "frequency": "122.705",
+    "abbreviation": "LDI",
+    "description": "Dinslaken Info"
+  },
+  {
+    "logon": "EDLE_I_TWR",
+    "frequency": "119.755",
+    "abbreviation": "LEI",
+    "description": "Essen/Muelheim Info"
+  },
+  {
+    "logon": "EDLH_I_TWR",
+    "frequency": "134.055",
+    "abbreviation": "LHI",
+    "description": "Hamm Info"
+  },
+  {
+    "logon": "EDLI_I_TWR",
+    "frequency": "118.355",
+    "abbreviation": "LII",
+    "description": "Bielefeld Info"
+  },
+  {
+    "logon": "EDLM_I_TWR",
+    "frequency": "134.610",
+    "abbreviation": "LMI",
+    "description": "Marl Info"
+  },
+  {
     "logon": "EDLN_GND",
     "frequency": "121.930",
     "abbreviation": "LNG",
@@ -547,6 +709,12 @@
     "schedule_groups": [
       "EDLL"
     ]
+  },
+  {
+    "logon": "EDLO_I_TWR",
+    "frequency": "136.410",
+    "abbreviation": "LOI",
+    "description": "Oerlinghausen Info"
   },
   {
     "logon": "EDLP_GND",
@@ -568,6 +736,12 @@
     "schedule_groups": [
       "EDLL"
     ]
+  },
+  {
+    "logon": "EDLT_I_TWR",
+    "frequency": "122.855",
+    "abbreviation": "LTI",
+    "description": "Telgte Info"
   },
   {
     "logon": "EDLV_TWR",
@@ -594,6 +768,72 @@
     ]
   },
   {
+    "logon": "EDLZ_I_TWR",
+    "frequency": "133.465",
+    "abbreviation": "LZI",
+    "description": "Soest Info"
+  },
+  {
+    "logon": "EDPA_I_TWR",
+    "frequency": "121.405",
+    "abbreviation": "PAI",
+    "description": "Aalen Info"
+  },
+  {
+    "logon": "EDPU_I_TWR",
+    "frequency": "135.115",
+    "abbreviation": "PUI",
+    "description": "Bartholomae Segelflug"
+  },
+  {
+    "logon": "EDPY_I_TWR",
+    "frequency": "121.235",
+    "abbreviation": "PYI",
+    "description": "Ellwangen Info"
+  },
+  {
+    "logon": "EDRA_I_TWR",
+    "frequency": "122.355",
+    "abbreviation": "RAI",
+    "description": "Neuenahr Info"
+  },
+  {
+    "logon": "EDRF_I_TWR",
+    "frequency": "122.405",
+    "abbreviation": "RFI",
+    "description": "Duerkheim Info"
+  },
+  {
+    "logon": "EDRJ_I_TWR",
+    "frequency": "121.210",
+    "abbreviation": "RJI",
+    "description": "Saarlouis Info"
+  },
+  {
+    "logon": "EDRK_I_TWR",
+    "frequency": "122.655",
+    "abbreviation": "RKI",
+    "description": "Koblenz Info"
+  },
+  {
+    "logon": "EDRM_I_TWR",
+    "frequency": "129.035",
+    "abbreviation": "RMI",
+    "description": "Traben-Trarbach Info"
+  },
+  {
+    "logon": "EDRY_I_TWR",
+    "frequency": "118.080",
+    "abbreviation": "RYI",
+    "description": "Speyer Info"
+  },
+  {
+    "logon": "EDRZ_I_TWR",
+    "frequency": "123.830",
+    "abbreviation": "RZT",
+    "description": "Zweibruecken Information"
+  },
+  {
     "logon": "EDSB_GND",
     "frequency": "121.830",
     "abbreviation": "SBG",
@@ -606,10 +846,94 @@
     "description": "Baden Tower"
   },
   {
+    "logon": "EDSH_I_TWR",
+    "frequency": "123.710",
+    "abbreviation": "SHI",
+    "description": "Backnang Info"
+  },
+  {
+    "logon": "EDST_I_TWR",
+    "frequency": "125.615",
+    "abbreviation": "STI",
+    "description": "Hahnweide Info"
+  },
+  {
+    "logon": "EDTC_I_TWR",
+    "frequency": "123.990",
+    "abbreviation": "TCI",
+    "description": "Bruchsal Info"
+  },
+  {
+    "logon": "EDTD_I_TWR",
+    "frequency": "126.690",
+    "abbreviation": "TDI",
+    "description": "Donaueschingen Info"
+  },
+  {
+    "logon": "EDTF_I_TWR",
+    "frequency": "118.255",
+    "abbreviation": "TFI",
+    "description": "Freiburg Info"
+  },
+  {
+    "logon": "EDTH_I_TWR",
+    "frequency": "134.115",
+    "abbreviation": "THI",
+    "description": "Heubach Info"
+  },
+  {
     "logon": "EDTL_TWR",
     "frequency": "125.180",
     "abbreviation": "TLT",
     "description": "Lahr Tower"
+  },
+  {
+    "logon": "EDTM_I_TWR",
+    "frequency": "135.180",
+    "abbreviation": "TMI",
+    "description": "Mengen Info"
+  },
+  {
+    "logon": "EDTO_I_TWR",
+    "frequency": "132.040",
+    "abbreviation": "TOI",
+    "description": "Offenburg Info"
+  },
+  {
+    "logon": "EDTQ_I_TWR",
+    "frequency": "124.610",
+    "abbreviation": "TQI",
+    "description": "Pattonville Info"
+  },
+  {
+    "logon": "EDTS_I_TWR",
+    "frequency": "127.535",
+    "abbreviation": "TSI",
+    "description": "Schwenningen Info"
+  },
+  {
+    "logon": "EDTU_I_TWR",
+    "frequency": "123.605",
+    "abbreviation": "TUI",
+    "description": "Saulgau Info"
+  },
+  {
+    "logon": "EDTW_I_TWR",
+    "frequency": "118.390",
+    "abbreviation": "TWI",
+    "description": "Winzeln Info"
+  },
+  {
+    "logon": "EDTY_I_TWR",
+    "frequency": "129.230",
+    "abbreviation": "TYI",
+    "description": "Schwaebisch Hall Information"
+  },
+  {
+    "logon": "EDTZ_I_TWR",
+    "frequency": "124.355",
+    "abbreviation": "TZI",
+    "description": "Konstanz Info"
   },
   {
     "logon": "EDUU_FFM_CTR",
