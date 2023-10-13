@@ -1,10 +1,5 @@
 [
   {
-    "id": "DFGC",
-    "callsignPrefix": "EDDF",
-    "frequency": "121.855"
-  },
-  {
     "id": "DFTC",
     "callsignPrefix": "EDDF",
     "frequency": "118.780"
@@ -15,29 +10,9 @@
     "frequency": "121.905"
   },
   {
-    "id": "DFGE",
-    "callsignPrefix": "EDDF",
-    "frequency": "121.955"
-  },
-  {
-    "id": "DFG",
-    "callsignPrefix": "EDDF",
-    "frequency": "121.805"
-  },
-  {
-    "id": "DFGI",
-    "callsignPrefix": "EDDF",
-    "frequency": "121.985"
-  },
-  {
     "id": "DFTN",
     "callsignPrefix": "EDDF",
     "frequency": "136.500"
-  },
-  {
-    "id": "DFGS",
-    "callsignPrefix": "EDDF",
-    "frequency": "121.655"
   },
   {
     "id": "DFTS",
@@ -45,19 +20,9 @@
     "frequency": "119.905"
   },
   {
-    "id": "DFGW",
-    "callsignPrefix": "EDDF",
-    "frequency": "121.755"
-  },
-  {
     "id": "DFTW",
     "callsignPrefix": "EDDF",
     "frequency": "124.855"
-  },
-  {
-    "id": "DGG",
-    "callsignPrefix": "EDDG",
-    "frequency": "121.880"
   },
   {
     "id": "DGT",
@@ -70,16 +35,6 @@
     "frequency": "121.855"
   },
   {
-    "id": "DKG",
-    "callsignPrefix": "EDDK",
-    "frequency": "121.730"
-  },
-  {
-    "id": "DKGP",
-    "callsignPrefix": "EDDK",
-    "frequency": "121.955"
-  },
-  {
     "id": "DKT",
     "callsignPrefix": "EDDK",
     "frequency": "124.980"
@@ -90,24 +45,9 @@
     "frequency": "121.780"
   },
   {
-    "id": "DLGE",
-    "callsignPrefix": "EDDL",
-    "frequency": "121.605"
-  },
-  {
     "id": "DLT",
     "callsignPrefix": "EDDL",
     "frequency": "118.305"
-  },
-  {
-    "id": "DLGW",
-    "callsignPrefix": "EDDL",
-    "frequency": "121.905"
-  },
-  {
-    "id": "DRG",
-    "callsignPrefix": "EDDR",
-    "frequency": "118.555"
   },
   {
     "id": "DRT",
@@ -118,11 +58,6 @@
     "id": "DSC",
     "callsignPrefix": "EDDS",
     "frequency": "121.915"
-  },
-  {
-    "id": "DSG",
-    "callsignPrefix": "EDDS",
-    "frequency": "118.605"
   },
   {
     "id": "DST",
@@ -165,11 +100,6 @@
     "frequency": "132.430"
   },
   {
-    "id": "FEG",
-    "callsignPrefix": "EDFE",
-    "frequency": "121.730"
-  },
-  {
     "id": "FEI",
     "callsignPrefix": "EDFE",
     "frequency": "118.405"
@@ -178,11 +108,6 @@
     "id": "FGI",
     "callsignPrefix": "EDFG",
     "frequency": "123.055"
-  },
-  {
-    "id": "FHG",
-    "callsignPrefix": "EDFH",
-    "frequency": "121.980"
   },
   {
     "id": "FHT",
@@ -285,11 +210,6 @@
     "frequency": "134.610"
   },
   {
-    "id": "LNG",
-    "callsignPrefix": "EDLN",
-    "frequency": "121.930"
-  },
-  {
     "id": "LNT",
     "callsignPrefix": "EDLN",
     "frequency": "120.455"
@@ -298,11 +218,6 @@
     "id": "LOI",
     "callsignPrefix": "EDLO",
     "frequency": "136.410"
-  },
-  {
-    "id": "LPG",
-    "callsignPrefix": "EDLP",
-    "frequency": "121.930"
   },
   {
     "id": "LPT",
@@ -318,11 +233,6 @@
     "id": "LVT",
     "callsignPrefix": "EDLV",
     "frequency": "129.405"
-  },
-  {
-    "id": "LWG",
-    "callsignPrefix": "EDLW",
-    "frequency": "121.830"
   },
   {
     "id": "LWT",
@@ -383,11 +293,6 @@
     "id": "RZI",
     "callsignPrefix": "EDRZ",
     "frequency": "123.830"
-  },
-  {
-    "id": "SBG",
-    "callsignPrefix": "EDSB",
-    "frequency": "121.830"
   },
   {
     "id": "SBT",
