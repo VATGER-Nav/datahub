@@ -135,7 +135,7 @@
     "logon": "EDLE_I_TWR",
     "frequency": "119.755",
     "abbreviation": "LEI",
-    "description": "Essen/Mülheim Radio"
+    "description": "Essen/M\u00fclheim Radio"
   },
   {
     "logon": "EDLH_I_TWR",
@@ -159,7 +159,7 @@
     "logon": "EDLO_I_TWR",
     "frequency": "136.410",
     "abbreviation": "LOI",
-    "description": "Örlinghausen Info"
+    "description": "\u00d6rlinghausen Info"
   },
   {
     "logon": "EDLT_I_TWR",
@@ -183,7 +183,7 @@
     "logon": "EDPU_I_TWR",
     "frequency": "135.115",
     "abbreviation": "PUI",
-    "description": "Bartholomä Start"
+    "description": "Bartholom\u00e4 Start"
   },
   {
     "logon": "EDPY_I_TWR",
@@ -201,7 +201,7 @@
     "logon": "EDRF_I_TWR",
     "frequency": "122.405",
     "abbreviation": "RFI",
-    "description": "Dürkheim Radio"
+    "description": "D\u00fcrkheim Radio"
   },
   {
     "logon": "EDRJ_I_TWR",
@@ -231,7 +231,7 @@
     "logon": "EDRZ_I_TWR",
     "frequency": "123.830",
     "abbreviation": "RZI",
-    "description": "Zweibrücken Information"
+    "description": "Zweibr\u00fccken Information"
   },
   {
     "logon": "EDSH_I_TWR",
@@ -309,7 +309,7 @@
     "logon": "EDTY_I_TWR",
     "frequency": "129.230",
     "abbreviation": "TYI",
-    "description": "Schwäbisch Hall Information"
+    "description": "Schw\u00e4bisch Hall Information"
   },
   {
     "logon": "EDTZ_I_TWR",
