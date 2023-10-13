@@ -3,49 +3,49 @@
     "logon": "EDEH_I_TWR",
     "frequency": "132.055",
     "abbreviation": "EHI",
-    "description": "Herrenteich Info"
+    "description": "Herrenteich Radio"
   },
   {
     "logon": "EDEL_I_TWR",
     "frequency": "124.030",
     "abbreviation": "ELI",
-    "description": "Langenlonsheim Info"
+    "description": "Langenlonsheim Radio"
   },
   {
     "logon": "EDER_I_TWR",
     "frequency": "120.130",
     "abbreviation": "ERI",
-    "description": "Wasserkuppe Info"
+    "description": "Wasserkuppe Radio"
   },
   {
     "logon": "EDFA_I_TWR",
     "frequency": "121.030",
     "abbreviation": "FAI",
-    "description": "Anspach Info"
+    "description": "Anspach Radio"
   },
   {
     "logon": "EDFB_I_TWR",
     "frequency": "120.430",
     "abbreviation": "FBI",
-    "description": "Reichelsheim Info"
+    "description": "Reichelsheim Radio"
   },
   {
     "logon": "EDFC_I_TWR",
     "frequency": "132.430",
-    "abbreviation": "FBI",
-    "description": "Aschaffenburg Info"
+    "abbreviation": "FCI",
+    "description": "Aschaffenburg Radio"
   },
   {
     "logon": "EDFE_I_TWR",
     "frequency": "118.405",
     "abbreviation": "FEI",
-    "description": "Egelsbach Info"
+    "description": "Egelsbach Radio"
   },
   {
     "logon": "EDFG_I_TWR",
     "frequency": "123.055",
     "abbreviation": "FGI",
-    "description": "Gelnhausen Info"
+    "description": "Gelnhausen Radio"
   },
   {
     "logon": "EDFO_I_TWR",
@@ -57,103 +57,103 @@
     "logon": "EDFQ_I_TWR",
     "frequency": "135.165",
     "abbreviation": "FQI",
-    "description": "Allendorf Info"
+    "description": "Allendorf Radio"
   },
   {
     "logon": "EDFU_I_TWR",
     "frequency": "121.035",
     "abbreviation": "FUI",
-    "description": "Mainbullau Info"
+    "description": "Mainbullau Radio"
   },
   {
     "logon": "EDFV_I_TWR",
     "frequency": "124.605",
     "abbreviation": "FVI",
-    "description": "Worms Info"
+    "description": "Worms Radio"
   },
   {
     "logon": "EDFY_I_TWR",
     "frequency": "128.775",
     "abbreviation": "FYI",
-    "description": "Elz Info"
+    "description": "Elz Radio"
   },
   {
     "logon": "EDFZ_I_TWR",
     "frequency": "122.930",
     "abbreviation": "FZI",
-    "description": "Mainz Info"
+    "description": "Mainz Radio"
   },
   {
     "logon": "EDGP_I_TWR",
     "frequency": "130.640",
     "abbreviation": "GPI",
-    "description": "Oppenheim Info"
+    "description": "Oppenheim Radio"
   },
   {
     "logon": "EDGS_I_TWR",
     "frequency": "120.380",
     "abbreviation": "GSI",
-    "description": "Siegerland Info"
+    "description": "Siegerland Information"
   },
   {
     "logon": "EDKA_I_TWR",
     "frequency": "122.880",
     "abbreviation": "KAI",
-    "description": "Aachen Info"
+    "description": "Aachen Radio"
   },
   {
     "logon": "EDKB_I_TWR",
     "frequency": "135.155",
     "abbreviation": "KBI",
-    "description": "Bonn-Hangelar Info"
+    "description": "Bonn-Hangelar Radio"
   },
   {
     "logon": "EDKF_I_TWR",
     "frequency": "125.840",
     "abbreviation": "KFI",
-    "description": "Bergneustadt Info"
+    "description": "Bergneustadt Radio"
   },
   {
     "logon": "EDKL_I_TWR",
     "frequency": "122.430",
     "abbreviation": "KLI",
-    "description": "Leverkusen Info"
+    "description": "Leverkusen Radio"
   },
   {
     "logon": "EDKM_I_TWR",
     "frequency": "126.015",
     "abbreviation": "KMI",
-    "description": "Meschede Info"
+    "description": "Meschede Radio"
   },
   {
     "logon": "EDLD_I_TWR",
     "frequency": "122.705",
     "abbreviation": "LDI",
-    "description": "Dinslaken Info"
+    "description": "Dinslaken Radio"
   },
   {
     "logon": "EDLE_I_TWR",
     "frequency": "119.755",
     "abbreviation": "LEI",
-    "description": "Essen/Muelheim Info"
+    "description": "Essen/Muelheim Radio"
   },
   {
     "logon": "EDLH_I_TWR",
     "frequency": "134.055",
     "abbreviation": "LHI",
-    "description": "Hamm Info"
+    "description": "Hamm Radio"
   },
   {
     "logon": "EDLI_I_TWR",
     "frequency": "118.355",
     "abbreviation": "LII",
-    "description": "Bielefeld Info"
+    "description": "Bielefeld Radio"
   },
   {
     "logon": "EDLM_I_TWR",
     "frequency": "134.610",
     "abbreviation": "LMI",
-    "description": "Marl Info"
+    "description": "Marl Radio"
   },
   {
     "logon": "EDLO_I_TWR",
@@ -165,145 +165,145 @@
     "logon": "EDLT_I_TWR",
     "frequency": "122.855",
     "abbreviation": "LTI",
-    "description": "Telgte Info"
+    "description": "Telgte Radio"
   },
   {
     "logon": "EDLZ_I_TWR",
     "frequency": "133.465",
     "abbreviation": "LZI",
-    "description": "Soest Info"
+    "description": "Soest Radio"
   },
   {
     "logon": "EDPA_I_TWR",
     "frequency": "121.405",
     "abbreviation": "PAI",
-    "description": "Aalen Info"
+    "description": "Aalen Radio"
   },
   {
     "logon": "EDPU_I_TWR",
     "frequency": "135.115",
     "abbreviation": "PUI",
-    "description": "Bartholomae Segelflug"
+    "description": "Bartholomae Start"
   },
   {
     "logon": "EDPY_I_TWR",
     "frequency": "121.235",
     "abbreviation": "PYI",
-    "description": "Ellwangen Info"
+    "description": "Ellwangen Radio"
   },
   {
     "logon": "EDRA_I_TWR",
     "frequency": "122.355",
     "abbreviation": "RAI",
-    "description": "Neuenahr Info"
+    "description": "Neuenahr Radio"
   },
   {
     "logon": "EDRF_I_TWR",
     "frequency": "122.405",
     "abbreviation": "RFI",
-    "description": "Duerkheim Info"
+    "description": "Duerkheim Radio"
   },
   {
     "logon": "EDRJ_I_TWR",
     "frequency": "121.210",
     "abbreviation": "RJI",
-    "description": "Saarlouis Info"
+    "description": "Saarlouis Radio"
   },
   {
     "logon": "EDRK_I_TWR",
     "frequency": "122.655",
     "abbreviation": "RKI",
-    "description": "Koblenz Info"
+    "description": "Koblenz Radio"
   },
   {
     "logon": "EDRM_I_TWR",
     "frequency": "129.035",
     "abbreviation": "RMI",
-    "description": "Traben-Trarbach Info"
+    "description": "Traben-Trarbach Radio"
   },
   {
     "logon": "EDRY_I_TWR",
     "frequency": "118.080",
     "abbreviation": "RYI",
-    "description": "Speyer Info"
+    "description": "Speyer Radio"
   },
   {
     "logon": "EDRZ_I_TWR",
     "frequency": "123.830",
-    "abbreviation": "RZT",
+    "abbreviation": "RZI",
     "description": "Zweibruecken Information"
   },
   {
     "logon": "EDSH_I_TWR",
     "frequency": "123.710",
     "abbreviation": "SHI",
-    "description": "Backnang Info"
+    "description": "Backnang Radio"
   },
   {
     "logon": "EDST_I_TWR",
     "frequency": "125.615",
     "abbreviation": "STI",
-    "description": "Hahnweide Info"
+    "description": "Hahnweide Radio"
   },
   {
     "logon": "EDTC_I_TWR",
     "frequency": "123.990",
     "abbreviation": "TCI",
-    "description": "Bruchsal Info"
+    "description": "Bruchsal Radio"
   },
   {
     "logon": "EDTD_I_TWR",
     "frequency": "126.690",
     "abbreviation": "TDI",
-    "description": "Donaueschingen Info"
+    "description": "Donaueschingen Radio"
   },
   {
     "logon": "EDTF_I_TWR",
     "frequency": "118.255",
     "abbreviation": "TFI",
-    "description": "Freiburg Info"
+    "description": "Freiburg Radio"
   },
   {
     "logon": "EDTH_I_TWR",
     "frequency": "134.115",
     "abbreviation": "THI",
-    "description": "Heubach Info"
+    "description": "Heubach Radio"
   },
   {
     "logon": "EDTM_I_TWR",
     "frequency": "135.180",
     "abbreviation": "TMI",
-    "description": "Mengen Info"
+    "description": "Mengen Information"
   },
   {
     "logon": "EDTO_I_TWR",
     "frequency": "132.040",
     "abbreviation": "TOI",
-    "description": "Offenburg Info"
+    "description": "Offenburg Radio"
   },
   {
     "logon": "EDTQ_I_TWR",
     "frequency": "124.610",
     "abbreviation": "TQI",
-    "description": "Pattonville Info"
+    "description": "Pattonville Radio"
   },
   {
     "logon": "EDTS_I_TWR",
     "frequency": "127.535",
     "abbreviation": "TSI",
-    "description": "Schwenningen Info"
+    "description": "Schwenningen Radio"
   },
   {
     "logon": "EDTU_I_TWR",
     "frequency": "123.605",
     "abbreviation": "TUI",
-    "description": "Saulgau Info"
+    "description": "Saulgau Radio"
   },
   {
     "logon": "EDTW_I_TWR",
     "frequency": "118.390",
     "abbreviation": "TWI",
-    "description": "Winzeln Info"
+    "description": "Winzeln Radio"
   },
   {
     "logon": "EDTY_I_TWR",
@@ -315,12 +315,12 @@
     "logon": "EDTZ_I_TWR",
     "frequency": "124.355",
     "abbreviation": "TZI",
-    "description": "Konstanz Info"
+    "description": "Konstanz Radio"
   },
   {
-    "logon": "EDHN_I_TWR",
+    "logon": "ETHN_I_TWR",
     "frequency": "119.780",
     "abbreviation": "HNI",
-    "description": "Stetten Info"
+    "description": "Stetten Radio"
   }
 ]
