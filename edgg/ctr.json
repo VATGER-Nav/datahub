@@ -4,6 +4,10 @@
     "frequency": "131.300",
     "abbreviation": "BAD",
     "description": "Langen Radar (Baden)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "EDGG_DKB_CTR",
@@ -11,10 +15,6 @@
     "abbreviation": "DKB",
     "description": "Langen Radar (Dinkelsb\u00fchl)",
     "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
-    "schedule_groups": [
       "EDFF",
       "EDGG"
     ],
@@ -28,6 +28,9 @@
     "frequency": "124.430",
     "abbreviation": "GED",
     "description": "Langen Radar (Gedern)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_GIN_CTR",
@@ -39,12 +42,10 @@
       "EDGG"
     ],
     "schedule_groups": [
-      "EDFF",
-      "EDGG"
+      "EDLL"
     ],
     "relevant_airports": [
-      "EDDF",
-      "EDDS"
+      "EDDF"
     ]
   },
   {
@@ -52,24 +53,36 @@
     "frequency": "134.800",
     "abbreviation": "HAB",
     "description": "Langen Radar (Hammelburg)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_HEF_CTR",
     "frequency": "127.725",
     "abbreviation": "HEF",
     "description": "Langen Radar (Hersfeld)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_KIR_CTR",
     "frequency": "133.460",
     "abbreviation": "KIR",
     "description": "Langen Radar (Kirn)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_KNG_CTR",
     "frequency": "125.680",
     "abbreviation": "KNG",
     "description": "Langen Radar (K\u00f6nig)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_KTG_CTR",
@@ -81,8 +94,7 @@
       "EDGG"
     ],
     "schedule_groups": [
-      "EDFF",
-      "EDGG"
+      "EDLL"
     ],
     "relevant_airports": [
       "EDDF",
@@ -94,18 +106,27 @@
     "frequency": "127.050",
     "abbreviation": "LBU",
     "description": "Langen Radar (Luburg)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_MAN_CTR",
     "frequency": "132.155",
     "abbreviation": "MAIN",
     "description": "Langen Radar (Main)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_NKH_CTR",
     "frequency": "127.500",
     "abbreviation": "NKRH",
     "description": "Langen Radar (Neckar High)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_PAH_CTR",
@@ -113,10 +134,6 @@
     "abbreviation": "PADH",
     "description": "Langen Radar (Paderborn High)",
     "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
-    "schedule_groups": [
       "EDLL",
       "EDGG"
     ],
@@ -130,22 +147,36 @@
     "frequency": "125.405",
     "abbreviation": "PSA",
     "description": "Langen Radar (Spessart)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
   },
   {
     "logon": "EDGG_RUD_CTR",
     "frequency": "133.435",
     "abbreviation": "RUD",
-    "description": "Langen Radar (R\u00fcdesheim)"
+    "description": "Langen Radar (R\u00fcdesheim)""schedule_groups": [
+      "EDFF",
+      "EDGG",
+      "EDLL"
   },
   {
     "logon": "EDGG_SIG_CTR",
     "frequency": "124.900",
     "abbreviation": "SIG",
     "description": "Langen Radar (Siegen)"
+    "schedule_groups": [
+      "EDFF",
+      "EDGG",
+      "EDLL"
   },
   {
     "logon": "EDGG_TAU_CTR",
     "frequency": "127.625",
+    "schedule_groups": [
+      "EDFF",
+      "EDGG",
+      "EDLL"
     "abbreviation": "TAU",
     "description": "Langen Radar (Taunus)"
   }
