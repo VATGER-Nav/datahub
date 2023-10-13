@@ -45,37 +45,37 @@
     "logon": "EDDK_APP",
     "frequency": "135.350",
     "abbreviation": "DKA",
-    "description": "Langen Radar (Köln/Bonn Arrival)"
+    "description": "Langen Radar (K\u00f6ln/Bonn Arrival)"
   },
   {
     "logon": "EDDK_F_APP",
     "frequency": "121.055",
     "abbreviation": "DKAT",
-    "description": "Köln/Bonn Director"
+    "description": "K\u00f6ln/Bonn Director"
   },
   {
     "logon": "EDDK_NOR_APP",
     "frequency": "127.365",
     "abbreviation": "NOR",
-    "description": "Langen Radar (Nörvenich)"
+    "description": "Langen Radar (N\u00f6rvenich)"
   },
   {
     "logon": "EDDL_APP",
     "frequency": "128.555",
     "abbreviation": "DUS",
-    "description": "Langen Radar (Düsseldorf Arrival)"
+    "description": "Langen Radar (D\u00fcsseldorf Arrival)"
   },
   {
     "logon": "EDDL_F_APP",
     "frequency": "128.655",
     "abbreviation": "DLAT",
-    "description": "Düsseldorf Director"
+    "description": "D\u00fcsseldorf Director"
   },
   {
     "logon": "EDDL_DEP",
     "frequency": "121.355",
     "abbreviation": "DLD",
-    "description": "Langen Radar (Düsseldorf Departure)"
+    "description": "Langen Radar (D\u00fcsseldorf Departure)"
   },
   {
     "logon": "EDDL_BOT_APP",
