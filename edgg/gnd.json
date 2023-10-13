@@ -3,7 +3,7 @@
     "logon": "EDDF_E_GND",
     "frequency": "121.955",
     "abbreviation": "DFGE",
-    "description": "Frankfurt Apron"
+    "description": "Frankfurt Apron (East)"
   },
   {
     "logon": "EDDF_GND",
@@ -15,13 +15,13 @@
     "logon": "EDDF_C_GND",
     "frequency": "121.855",
     "abbreviation": "DFGC",
-    "description": "Frankfurt Apron"
+    "description": "Frankfurt Apron (Center)"
   },
   {
     "logon": "EDDF_W_GND",
     "frequency": "121.755",
     "abbreviation": "DFGW",
-    "description": "Frankfurt Apron"
+    "description": "Frankfurt Apron (West)"
   },
   {
     "logon": "EDDF_ICE_GND",
@@ -33,7 +33,7 @@
     "logon": "EDDF_S_GND",
     "frequency": "121.655",
     "abbreviation": "DFGS",
-    "description": "Frankfurt Apron"
+    "description": "Frankfurt Apron (South)"
   },
   {
     "logon": "EDDG_GND",
@@ -57,19 +57,19 @@
     "logon": "EDDL_E_GND",
     "frequency": "121.605",
     "abbreviation": "DLGE",
-    "description": "D\u00fcsseldorf Ground"
+    "description": "Duesseldorf Ground (East)"
   },
   {
     "logon": "EDDL_W_GND",
     "frequency": "121.905",
     "abbreviation": "DLGW",
-    "description": "D\u00fcsseldorf Ground"
+    "description": "Duesseldorf Ground (West)"
   },
   {
     "logon": "EDDR_GND",
     "frequency": "118.555",
     "abbreviation": "DRG",
-    "description": "Saarbr\u00fccken Ground"
+    "description": "Saarbruecken Ground"
   },
   {
     "logon": "EDDS_GND",
@@ -81,11 +81,11 @@
     "logon": "EDFE_GND",
     "frequency": "121.730",
     "abbreviation": "FEG",
-    "description": "Egelsbach Ground"
+    "description": "Egelsbach Apron"
   },
   {
     "logon": "EDFH_GND",
-    "frequency": "121.730",
+    "frequency": "121.980",
     "abbreviation": "FHG",
     "description": "Hahn Ground"
   },
@@ -93,7 +93,7 @@
     "logon": "EDLN_GND",
     "frequency": "121.930",
     "abbreviation": "LNG",
-    "description": "M\u00f6nchengladbach Ground"
+    "description": "Moenchengladbach Ground"
   },
   {
     "logon": "EDLP_GND",
@@ -104,7 +104,7 @@
   {
     "logon": "EDLW_GND",
     "frequency": "121.830",
-    "abbreviation": "LNG",
+    "abbreviation": "LWG",
     "description": "Dortmund Ground"
   },
   {
