@@ -45,13 +45,13 @@
     "logon": "EDDK_APP",
     "frequency": "135.350",
     "abbreviation": "DKA",
-    "description": "Langen Radar (Cologne/Bonn Arrival)"
+    "description": "Langen Radar (Koeln/Bonn Arrival)"
   },
   {
     "logon": "EDDK_F_APP",
     "frequency": "121.055",
     "abbreviation": "DKAT",
-    "description": "Cologne/Bonn Director"
+    "description": "Koeln/Bonn Director"
   },
   {
     "logon": "EDDK_NOR_APP",
