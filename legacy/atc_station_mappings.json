@@ -250,7 +250,7 @@
     "frequency": "120.430"
   },
   {
-    "id": "FBI",
+    "id": "FCI",
     "callsignPrefix": "EDFC",
     "frequency": "132.430"
   },
@@ -420,11 +420,6 @@
     "frequency": "120.380"
   },
   {
-    "id": "HNI",
-    "callsignPrefix": "EDHN",
-    "frequency": "119.780"
-  },
-  {
     "id": "KAI",
     "callsignPrefix": "EDKA",
     "frequency": "122.880"
@@ -575,7 +570,7 @@
     "frequency": "118.080"
   },
   {
-    "id": "RZT",
+    "id": "RZI",
     "callsignPrefix": "EDRZ",
     "frequency": "123.830"
   },
@@ -708,6 +703,11 @@
     "id": "HNA",
     "callsignPrefix": "ETHN",
     "frequency": "127.190"
+  },
+  {
+    "id": "HNI",
+    "callsignPrefix": "ETHN",
+    "frequency": "119.780"
   },
   {
     "id": "HNI",
