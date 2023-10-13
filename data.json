@@ -1017,13 +1017,13 @@
     "logon": "ETNN_APP",
     "frequency": "129.055",
     "abbreviation": "TNNA",
-    "description": "Noervenich Radar"
+    "description": "N\u00f6rvenich Radar"
   },
   {
     "logon": "ETNN_TWR",
     "frequency": "136.205",
     "abbreviation": "TNNT",
-    "description": "Noervenich Tower"
+    "description": "N\u00f6rvenich Tower"
   },
   {
     "logon": "ETOU_TWR",

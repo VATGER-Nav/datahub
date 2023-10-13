@@ -45,13 +45,13 @@
     "logon": "ETNN_APP",
     "frequency": "129.055",
     "abbreviation": "TNNA",
-    "description": "Nörvenich Radar"
+    "description": "N\u00f6rvenich Radar"
   },
   {
     "logon": "ETNN_TWR",
     "frequency": "136.205",
     "abbreviation": "TNNT",
-    "description": "Nörvenich Tower"
+    "description": "N\u00f6rvenich Tower"
   },
   {
     "logon": "ETOU_TWR",
