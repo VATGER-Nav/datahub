@@ -3,36 +3,36 @@
     "logon": "EDUU_FFM_CTR",
     "frequency": "132.330",
     "abbreviation": "FFM",
-    "description": "Rhein Radar FFM"
+    "description": "Rhein Radar (Frankfurt)"
   },
   {
     "logon": "EDUU_FUL_CTR",
     "frequency": "133.655",
     "abbreviation": "FUL",
-    "description": "Rhein Radar FUL"
+    "description": "Rhein Radar (Fulda)"
   },
   {
     "logon": "EDUU_NTM_CTR",
     "frequency": "132.080",
     "abbreviation": "NTM",
-    "description": "Rhein Radar NTM"
+    "description": "Rhein Radar (Nattenheim)"
   },
   {
     "logon": "EDUU_SLN_CTR",
     "frequency": "120.930",
     "abbreviation": "SLN",
-    "description": "Rhein Radar SLN"
+    "description": "Rhein Radar (Söllingen)"
   },
   {
     "logon": "EDUU_TGO_CTR",
     "frequency": "132.405",
     "abbreviation": "TGO",
-    "description": "Rhein Radar TGO"
+    "description": "Rhein Radar (Tango)"
   },
   {
     "logon": "EDUU_WUR_CTR",
     "frequency": "134.085",
     "abbreviation": "WUR",
-    "description": "Rhein Radar WUR"
+    "description": "Rhein Radar (Würzburg)"
   }
 ]
