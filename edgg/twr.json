@@ -4,165 +4,125 @@
     "frequency": "119.905",
     "abbreviation": "DFTS",
     "description": "Frankfurt Tower (South)",
-    "schedule_minstation": [
-      "EDFF"
-    ]
+    "schedule_minstation": ["EDFF"]
   },
   {
     "logon": "EDDF_W_TWR",
     "frequency": "124.855",
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
-    "schedule_minstation": [
-      "EDFF"
-    ]
+    "schedule_minstation": ["EDFF"]
   },
   {
     "logon": "EDDF_C_TWR",
     "frequency": "118.780",
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_minstation": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDF_N_TWR",
     "frequency": "136.500",
     "abbreviation": "DFTN",
     "description": "Frankfurt Tower (North)",
-    "schedule_minstation": [
-      "EDFF"
-    ]
+    "schedule_minstation": ["EDFF"]
   },
   {
     "logon": "EDDG_TWR",
     "frequency": "129.805",
     "abbreviation": "DGT",
     "description": "M\u00fcnster Tower",
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": ["EDLL"]
   },
   {
     "logon": "EDDK_TWR",
     "frequency": "124.980",
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_minstation": ["EDGG", "EDLL"]
   },
   {
     "logon": "EDDL_TWR",
     "frequency": "118.305",
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_minstation": ["EDGG", "EDLL"]
   },
   {
     "logon": "EDDR_TWR",
     "frequency": "118.355",
     "abbreviation": "DRT",
     "description": "Saarbr\u00fccken Tower",
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "schedule_groups": ["EDFF"]
   },
   {
     "logon": "EDDS_TWR",
     "frequency": "118.805",
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
-    "schedule_minstation": [
-      "EDGG",
-      "EDFF"
-    ]
+    "schedule_minstation": ["EDGG", "EDFF"]
   },
   {
     "logon": "EDDS_VFR_TWR",
     "frequency": "119.055",
     "abbreviation": "DSTV",
     "description": "Stuttgart Tower (VFR)",
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "schedule_groups": ["EDFF"]
   },
   {
     "logon": "EDFH_TWR",
     "frequency": "119.655",
     "abbreviation": "FHT",
-    "description": "Hahn Tower"
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "description": "Hahn Tower",
+    "schedule_groups": ["EDFF"]
   },
   {
     "logon": "EDFM_TWR",
     "frequency": "129.780",
     "abbreviation": "FMT",
-    "description": "Mannheim Tower"
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "description": "Mannheim Tower",
+    "schedule_groups": ["EDFF"]
   },
   {
     "logon": "EDLN_TWR",
     "frequency": "120.455",
     "abbreviation": "LNT",
     "description": "M\u00f6nchengladbach Tower",
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": ["EDLL"]
   },
   {
     "logon": "EDLP_TWR",
     "frequency": "133.380",
     "abbreviation": "LPT",
     "description": "Paderborn Tower",
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": ["EDLL"]
   },
   {
     "logon": "EDLV_TWR",
     "frequency": "129.405",
     "abbreviation": "LVT",
     "description": "Niederrhein Tower",
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": ["EDLL"]
   },
   {
     "logon": "EDLW_TWR",
     "frequency": "134.180",
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": ["EDLL"]
   },
   {
     "logon": "EDSB_TWR",
     "frequency": "134.105",
     "abbreviation": "SBT",
-    "description": "Baden Tower"
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "description": "Baden Tower",
+    "schedule_groups": ["EDFF"]
   },
   {
     "logon": "EDTL_TWR",
     "frequency": "125.180",
     "abbreviation": "TLT",
-    "description": "Lahr Tower"
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "description": "Lahr Tower",
+    "schedule_groups": ["EDFF"]
   }
 ]
