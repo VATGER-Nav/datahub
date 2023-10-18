@@ -315,6 +315,51 @@
     "frequency": "134.085"
   },
   {
+    "id": "CELH",
+    "callsignPrefix": "EDYY",
+    "frequency": "128.810"
+  },
+  {
+    "id": "CEL",
+    "callsignPrefix": "EDYY",
+    "frequency": "133.955"
+  },
+  {
+    "id": "HOL",
+    "callsignPrefix": "EDYY",
+    "frequency": "120.860"
+  },
+  {
+    "id": "JEVH",
+    "callsignPrefix": "EDYY",
+    "frequency": "129.735"
+  },
+  {
+    "id": "JEV",
+    "callsignPrefix": "EDYY",
+    "frequency": "136.425"
+  },
+  {
+    "id": "MNS",
+    "callsignPrefix": "EDYY",
+    "frequency": "122.185"
+  },
+  {
+    "id": "RHR",
+    "callsignPrefix": "EDYY",
+    "frequency": "124.435"
+  },
+  {
+    "id": "SOLH",
+    "callsignPrefix": "EDYY",
+    "frequency": "131.380"
+  },
+  {
+    "id": "SOL",
+    "callsignPrefix": "EDYY",
+    "frequency": "134.710"
+  },
+  {
     "id": "ARG",
     "callsignPrefix": "ETAR",
     "frequency": "121.775"
