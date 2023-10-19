@@ -18,6 +18,12 @@
     "description": "Bremen Radar (Hamburg Arrival East)"
   },
   {
+    "logon": "EDDH_F_APP",
+    "frequency": "118.205",
+    "abbreviation": "DHAT",
+    "description": "Bremen Radar (Hamburg Director)"
+  },
+  {
     "logon": "EDDH_W_APP",
     "frequency": "134.255",
     "abbreviation": "HAMW",
@@ -66,10 +72,22 @@
     "description": "Bremen Radar (Hannover Arrival)"
   },
   {
+    "logon": "EDDV_F_APP",
+    "frequency": "119.605",
+    "abbreviation": "DVAT",
+    "description": "Bremen Radar (Hannover Director)"
+  },
+  {
     "logon": "EDDW_APP",
     "frequency": "124.800",
     "abbreviation": "FRI",
     "description": "Bremen Radar (Friesland)"
+  },
+  {
+    "logon": "EDDW_F_APP",
+    "frequency": "120.350",
+    "abbreviation": "DWAT",
+    "description": "Bremen Radar (Bremen Director)"
   },
   {
     "logon": "EDEH_I_TWR",

@@ -10,6 +10,11 @@
     "frequency": "119.510"
   },
   {
+    "id": "DHAT",
+    "callsignPrefix": "EDDH",
+    "frequency": "118.205"
+  },
+  {
     "id": "HAMW",
     "callsignPrefix": "EDDH",
     "frequency": "134.255"
@@ -35,9 +40,19 @@
     "frequency": "119.490"
   },
   {
+    "id": "DVAT",
+    "callsignPrefix": "EDDV",
+    "frequency": "119.605"
+  },
+  {
     "id": "FRI",
     "callsignPrefix": "EDDW",
     "frequency": "124.800"
+  },
+  {
+    "id": "DWAT",
+    "callsignPrefix": "EDDW",
+    "frequency": "120.350"
   },
   {
     "id": "EHI",
