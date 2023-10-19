@@ -24,12 +24,6 @@
     "description": "Stetten Tower"
   },
   {
-    "logon": "ETHN_I_TWR",
-    "frequency": "119.780",
-    "abbreviation": "HNI",
-    "description": "Stetten Info"
-  },
-  {
     "logon": "ETNG_APP",
     "frequency": "123.730",
     "abbreviation": "TNGA",
