@@ -3,31 +3,31 @@
     "logon": "EDDH_E_APP",
     "frequency": "119.510",
     "abbreviation": "HAME",
-    "description": "Bremen Radar (Hamburg Arrival East)"
+    "description": "Bremen Radar (Hamburg East)"
   },
   {
     "logon": "EDDH_F_APP",
     "frequency": "118.205",
     "abbreviation": "DHAT",
-    "description": "Bremen Radar (Hamburg Director)"
+    "description": "Hamburg Director"
   },
   {
     "logon": "EDDH_W_APP",
     "frequency": "134.255",
     "abbreviation": "HAMW",
-    "description": "Bremen Radar (Hamburg Arrival West)"
+    "description": "Bremen Radar (Hamburg West)"
   },
   {
     "logon": "EDDV_APP",
     "frequency": "119.490",
     "abbreviation": "HAN",
-    "description": "Bremen Radar (Hannover Arrival)"
+    "description": "Bremen Radar (Hannover)"
   },
   {
     "logon": "EDDV_F_APP",
     "frequency": "119.605",
     "abbreviation": "DVAT",
-    "description": "Bremen Radar (Hannover Director)"
+    "description": "Hannover Director"
   },
   {
     "logon": "EDDW_APP",
@@ -39,6 +39,6 @@
     "logon": "EDDW_F_APP",
     "frequency": "120.350",
     "abbreviation": "DWAT",
-    "description": "Bremen Radar (Bremen Director)"
+    "description": "Bremen Director"
   }
 ]
