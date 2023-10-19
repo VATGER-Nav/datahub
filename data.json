@@ -12,6 +12,18 @@
     ]
   },
   {
+    "logon": "EDDH_E_APP",
+    "frequency": "119.510",
+    "abbreviation": "HAME",
+    "description": "Bremen Radar (Hamburg Arrival East)"
+  },
+  {
+    "logon": "EDDH_W_APP",
+    "frequency": "134.255",
+    "abbreviation": "HAMW",
+    "description": "Bremen Radar (Hamburg Arrival West)"
+  },
+  {
     "logon": "EDDK_DEL",
     "frequency": "121.855",
     "abbreviation": "DKC",
@@ -46,6 +58,18 @@
     "schedule_groups": [
       "EDFF"
     ]
+  },
+  {
+    "logon": "EDDV_APP",
+    "frequency": "119.490",
+    "abbreviation": "HAN",
+    "description": "Bremen Radar (Hannover Arrival)"
+  },
+  {
+    "logon": "EDDW_APP",
+    "frequency": "124.800",
+    "abbreviation": "FRI",
+    "description": "Bremen Radar (Friesland)"
   },
   {
     "logon": "EDEH_I_TWR",

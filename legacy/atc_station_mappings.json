@@ -5,6 +5,16 @@
     "frequency": "121.905"
   },
   {
+    "id": "HAME",
+    "callsignPrefix": "EDDH",
+    "frequency": "119.510"
+  },
+  {
+    "id": "HAMW",
+    "callsignPrefix": "EDDH",
+    "frequency": "134.255"
+  },
+  {
     "id": "DKC",
     "callsignPrefix": "EDDK",
     "frequency": "121.855"
@@ -18,6 +28,16 @@
     "id": "DSC",
     "callsignPrefix": "EDDS",
     "frequency": "121.915"
+  },
+  {
+    "id": "HAN",
+    "callsignPrefix": "EDDV",
+    "frequency": "119.490"
+  },
+  {
+    "id": "FRI",
+    "callsignPrefix": "EDDW",
+    "frequency": "124.800"
   },
   {
     "id": "EHI",
