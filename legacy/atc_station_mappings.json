@@ -315,6 +315,41 @@
     "frequency": "134.085"
   },
   {
+    "id": "ALR",
+    "callsignPrefix": "EDWW",
+    "frequency": "123.925"
+  },
+  {
+    "id": "DST",
+    "callsignPrefix": "EDWW",
+    "frequency": "128.760"
+  },
+  {
+    "id": "EIDE",
+    "callsignPrefix": "EDWW",
+    "frequency": "124.075"
+  },
+  {
+    "id": "HEI",
+    "callsignPrefix": "EDWW",
+    "frequency": "125.855"
+  },
+  {
+    "id": "HRZ",
+    "callsignPrefix": "EDWW",
+    "frequency": "126.655"
+  },
+  {
+    "id": "EMS",
+    "callsignPrefix": "EDWW",
+    "frequency": "125.025"
+  },
+  {
+    "id": "EIDW",
+    "callsignPrefix": "EDWW",
+    "frequency": "120.225"
+  },
+  {
     "id": "ARG",
     "callsignPrefix": "ETAR",
     "frequency": "121.775"
