@@ -537,12 +537,6 @@
     "logon": "ETHN_I_TWR",
     "frequency": "119.780",
     "abbreviation": "HNI",
-    "description": "Stetten Info"
-  },
-  {
-    "logon": "ETHN_I_TWR",
-    "frequency": "119.780",
-    "abbreviation": "HNI",
     "description": "Stetten Radio"
   },
   {
