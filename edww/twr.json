@@ -1,5 +1,23 @@
 [
   {
+    "logon": "EDAH_TWR",
+    "frequency": "132.830",
+    "abbreviation": "AHT",
+    "description": "Heringsdorf Tower"
+  },
+  {
+    "logon": "EDDB_S_TWR",
+    "frequency": "118.805",
+    "abbreviation": "DBTS",
+    "description": "Berlin Tower (Sued)"
+  },
+  {
+    "logon": "EDDB_N_TWR",
+    "frequency": "120.030",
+    "abbreviation": "DBTN",
+    "description": "Berlin Tower (Nord)"
+  },
+  {
     "logon": "EDDH_TWR",
     "frequency": "126.855",
     "abbreviation": "DHT",

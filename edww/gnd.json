@@ -1,0 +1,26 @@
+[
+    {
+      "logon": "EDDB_A_GND",
+      "frequency": "121.855",
+      "abbreviation": "DBGA",
+      "description": "Berlin Apron (Main)"
+    },
+    {
+        "logon": "EDDB_E_GND",
+        "frequency": "129.605",
+        "abbreviation": "DBGE",
+        "description": "Berlin Apron (Nord)"
+    },
+    {
+        "logon": "EDDB_N_GND",
+        "frequency": "129.505",
+        "abbreviation": "DBGN",
+        "description": "Berlin Ground (Nord)"
+    },
+    {
+        "logon": "EDDB_S_GND",
+        "frequency": "121.705",
+        "abbreviation": "DBGS",
+        "description": "Berlin Ground (Sued)"
+    }
+  ]

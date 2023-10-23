@@ -1,5 +1,53 @@
 [
   {
+    "logon": "EDDB_S_APP",
+    "frequency": "126.425",
+    "abbreviation": "DBAS",
+    "description": "Bremen Radar (Berlin Arrival Sued)"
+  },
+  {
+    "logon": "EDDB_N_APP",
+    "frequency": "119.630",
+    "abbreviation": "DBAN",
+    "description": "Bremen Radar (Berlin Arrival Nord)"
+  },
+  {
+    "logon": "EDDB_D_APP",
+    "frequency": "121.130",
+    "abbreviation": "DBAST",
+    "description": "Berlin Director Sued"
+  },
+  {
+    "logon": "EDDB_F_APP",
+    "frequency": "136.105",
+    "abbreviation": "DBANT",
+    "description": "Berlin Director Nord"
+  },
+  {
+    "logon": "EDDB_S_DEP",
+    "frequency": "120.630",
+    "abbreviation": "DBDS",
+    "description": "Bremen Radar (Berlin Departure Sued)"
+  },
+  {
+    "logon": "EDDB_N_DEP",
+    "frequency": "134.430",
+    "abbreviation": "DBDN",
+    "description": "Bremen Radar (Berlin Departure Nord)"
+  },
+  {
+    "logon": "EDDB_Z_APP",
+    "frequency": "126.425",
+    "abbreviation": "DBASQ",
+    "description": "Bremen Radar (Berlin Arrival Sued Coordinator)"
+  },
+  {
+    "logon": "EDDB_Y_APP",
+    "frequency": "119.630",
+    "abbreviation": "DBANQ",
+    "description": "Bremen Radar (Berlin Arrival Nord Coordinator)"
+  },
+  {
     "logon": "EDDH_E_APP",
     "frequency": "119.510",
     "abbreviation": "HAME",

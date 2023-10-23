@@ -6,16 +6,16 @@
     "description": "Bremen Radar (Aller)"
   },
   {
-    "logon": "EDWW_W_CTR",
-    "frequency": "120.225",
-    "abbreviation": "EIDW",
-    "description": "Bremen Radar (Eider West)"
+    "logon": "EDWW_B_CTR",
+    "frequency": "123.225",
+    "abbreviation": "BOR",
+    "description": "Bremen Radar (Boerde)"
   },
   {
-    "logon": "EDWW_H_CTR",
-    "frequency": "125.855",
-    "abbreviation": "HEI",
-    "description": "Bremen Radar (Heide)"
+    "logon": "EDWW_D_CTR",
+    "frequency": "128.760",
+    "abbreviation": "DST",
+    "description": "Bremen Radar (Deister)"
   },
   {
     "logon": "EDWW_E_CTR",
@@ -24,10 +24,28 @@
     "description": "Bremen Radar (Eider East)"
   },
   {
-    "logon": "EDWW_D_CTR",
-    "frequency": "128.760",
-    "abbreviation": "DST",
-    "description": "Bremen Radar (Deister)"
+    "logon": "EDWW_F_CTR",
+    "frequency": "136.450",
+    "abbreviation": "FLG",
+    "description": "Bremen Radar (Flaeming)"
+  },
+  {
+    "logon": "EDWW_H_CTR",
+    "frequency": "125.855",
+    "abbreviation": "HEI",
+    "description": "Bremen Radar (Heide)"
+  },
+  {
+    "logon": "EDWW_K_CTR",
+    "frequency": "136.050",
+    "abbreviation": "MAR",
+    "description": "Bremen Radar (Mark)"
+  },
+  {
+    "logon": "EDWW_M_CTR",
+    "frequency": "124.175",
+    "abbreviation": "MRZ",
+    "description": "Bremen Radar (Mueritz)"
   },
   {
     "logon": "EDWW_R_CTR",
@@ -40,5 +58,11 @@
     "frequency": "125.025",
     "abbreviation": "EMS",
     "description": "Bremen Radar (Ems)"
+  },
+  {
+    "logon": "EDWW_W_CTR",
+    "frequency": "120.225",
+    "abbreviation": "EIDW",
+    "description": "Bremen Radar (Eider West)"
   }
 ]

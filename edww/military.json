@@ -1,0 +1,38 @@
+[
+    {
+      "logon": "ETNL_A_GND",
+      "frequency": "121.955",
+      "abbreviation": "NLA",
+      "description": "Laage Apron"
+    },
+    {
+        "logon": "ETNL_TWR",
+        "frequency": "118.430",
+        "abbreviation": "NLT",
+        "description": "Laage Tower"
+    },
+    {
+        "logon": "ETNL_APP",
+        "frequency": "123.300",
+        "abbreviation": "NLR",
+        "description": "Laage Radar"
+    },
+    {
+        "logon": "ETNL_P_APP",
+        "frequency": "133.105",
+        "abbreviation": "NLP",
+        "description": "Laage Precision"
+    },
+    {
+        "logon": "ETSH_TWR",
+        "frequency": "130.505",
+        "abbreviation": "SHT",
+        "description": "Holzdorf Tower"
+    },
+    {
+        "logon": "ETSH_APP",
+        "frequency": "129.855",
+        "abbreviation": "SHR",
+        "description": "Holzdorf Radar"
+    }
+  ]
