@@ -1,5 +1,179 @@
 [
   {
+    "logon": "EDAH_TWR",
+    "frequency": "132.830",
+    "abbreviation": "AHT",
+    "description": "Heringsdorf Tower"
+  },
+  {
+    "logon": "EDAV_I_TWR",
+    "frequency": "119.055",
+    "abbreviation": "AVT",
+    "description": "Finow Radio"
+  },
+  {
+    "logon": "EDAV_I_TWR",
+    "frequency": "119.055",
+    "abbreviation": "AVT",
+    "description": "Finow Radio"
+  },
+  {
+    "logon": "EDAY_I_TWR",
+    "frequency": "118.735",
+    "abbreviation": "AYT",
+    "description": "Strausberg Information"
+  },
+  {
+    "logon": "EDAZ_I_TWR",
+    "frequency": "131.155",
+    "abbreviation": "AZT",
+    "description": "Schoenhagen Information"
+  },
+  {
+    "logon": "EDBC_I_TWR",
+    "frequency": "131.130",
+    "abbreviation": "BCT",
+    "description": "Cochstedt Radio"
+  },
+  {
+    "logon": "EDBH_I_TWR",
+    "frequency": "118.080",
+    "abbreviation": "BHT",
+    "description": "Barth Information"
+  },
+  {
+    "logon": "EDBK_I_TWR",
+    "frequency": "122.730",
+    "abbreviation": "BKT",
+    "description": "Kyritz Radio"
+  },
+  {
+    "logon": "EDBM_I_TWR",
+    "frequency": "119.305",
+    "abbreviation": "BMT",
+    "description": "Magdeburg Information"
+  },
+  {
+    "logon": "EDBN_I_TWR",
+    "frequency": "119.180",
+    "abbreviation": "BNT",
+    "description": "Neubrandenburg Information"
+  },
+  {
+    "logon": "EDBW_I_TWR",
+    "frequency": "128.740",
+    "abbreviation": "BWT",
+    "description": "Werneuchen Radio"
+  },
+  {
+    "logon": "EDCA_I_TWR",
+    "frequency": "122.655",
+    "abbreviation": "CAT",
+    "description": "Anklam Radio"
+  },
+  {
+    "logon": "EDCG_I_TWR",
+    "frequency": "123.005",
+    "abbreviation": "CGT",
+    "description": "Ruegen Radio"
+  },
+  {
+    "logon": "EDCP_I_TWR",
+    "frequency": "122.480",
+    "abbreviation": "CPT",
+    "description": "Peenemuende Radio"
+  },
+  {
+    "logon": "EDDB_A_GND",
+    "frequency": "121.855",
+    "abbreviation": "DBGA",
+    "description": "Berlin Apron (Main)"
+  },
+  {
+    "logon": "EDDB_DEL",
+    "frequency": "121.605",
+    "abbreviation": "DBC",
+    "description": "Berlin Delivery"
+  },
+  {
+    "logon": "EDDB_D_APP",
+    "frequency": "121.130",
+    "abbreviation": "DBAST",
+    "description": "Berlin Director Sued"
+  },
+  {
+    "logon": "EDDB_E_GND",
+    "frequency": "129.605",
+    "abbreviation": "DBGE",
+    "description": "Berlin Apron (Nord)"
+  },
+  {
+    "logon": "EDDB_F_APP",
+    "frequency": "136.105",
+    "abbreviation": "DBANT",
+    "description": "Berlin Director Nord"
+  },
+  {
+    "logon": "EDDB_N_APP",
+    "frequency": "119.630",
+    "abbreviation": "DBAN",
+    "description": "Bremen Radar (Berlin Arrival Nord)"
+  },
+  {
+    "logon": "EDDB_N_DEP",
+    "frequency": "134.430",
+    "abbreviation": "DBDN",
+    "description": "Bremen Radar (Berlin Departure Nord)"
+  },
+  {
+    "logon": "EDDB_N_GND",
+    "frequency": "129.505",
+    "abbreviation": "DBGN",
+    "description": "Berlin Ground (Nord)"
+  },
+  {
+    "logon": "EDDB_N_TWR",
+    "frequency": "120.030",
+    "abbreviation": "DBTN",
+    "description": "Berlin Tower (Nord)"
+  },
+  {
+    "logon": "EDDB_S_APP",
+    "frequency": "126.425",
+    "abbreviation": "DBAS",
+    "description": "Bremen Radar (Berlin Arrival Sued)"
+  },
+  {
+    "logon": "EDDB_S_DEP",
+    "frequency": "120.630",
+    "abbreviation": "DBDS",
+    "description": "Bremen Radar (Berlin Departure Sued)"
+  },
+  {
+    "logon": "EDDB_S_GND",
+    "frequency": "121.705",
+    "abbreviation": "DBGS",
+    "description": "Berlin Ground (Sued)"
+  },
+  {
+    "logon": "EDDB_S_TWR",
+    "frequency": "118.805",
+    "abbreviation": "DBTS",
+    "description": "Berlin Tower (Sued)"
+  },
+  {
+    "logon": "EDDB_Y_APP",
+    "frequency": "119.630",
+    "abbreviation": "DBANQ",
+    "description": "Bremen Radar (Berlin Arrival Nord Coordinator)"
+  },
+  {
+    "logon": "EDDB_Z_APP",
+    "frequency": "126.425",
+    "abbreviation": "DBASQ",
+    "description": "Bremen Radar (Berlin Arrival Sued Coordinator)"
+  },
+  {
     "logon": "EDDF_DEL",
     "frequency": "121.905",
     "abbreviation": "DFC",
@@ -300,6 +474,12 @@
     "description": "Soest Radio"
   },
   {
+    "logon": "EDOI_I_TWR",
+    "frequency": "134.990",
+    "abbreviation": "OIT",
+    "description": "Bienenfarm Radio"
+  },
+  {
     "logon": "EDPA_I_TWR",
     "frequency": "121.405",
     "abbreviation": "PAI",
@@ -498,6 +678,12 @@
     "description": "Bremen Radar (Aller)"
   },
   {
+    "logon": "EDWW_B_CTR",
+    "frequency": "123.225",
+    "abbreviation": "BOR",
+    "description": "Bremen Radar (Boerde)"
+  },
+  {
     "logon": "EDWW_D_CTR",
     "frequency": "128.760",
     "abbreviation": "DST",
@@ -510,10 +696,28 @@
     "description": "Bremen Radar (Eider East)"
   },
   {
+    "logon": "EDWW_F_CTR",
+    "frequency": "136.450",
+    "abbreviation": "FLG",
+    "description": "Bremen Radar (Flaeming)"
+  },
+  {
     "logon": "EDWW_H_CTR",
     "frequency": "125.855",
     "abbreviation": "HEI",
     "description": "Bremen Radar (Heide)"
+  },
+  {
+    "logon": "EDWW_K_CTR",
+    "frequency": "136.050",
+    "abbreviation": "MAR",
+    "description": "Bremen Radar (Mark)"
+  },
+  {
+    "logon": "EDWW_M_CTR",
+    "frequency": "124.175",
+    "abbreviation": "MRZ",
+    "description": "Bremen Radar (Mueritz)"
   },
   {
     "logon": "EDWW_R_CTR",
@@ -588,6 +792,30 @@
     "description": "Frisbee Tower"
   },
   {
+    "logon": "ETNL_APP",
+    "frequency": "123.300",
+    "abbreviation": "NLR",
+    "description": "Laage Radar"
+  },
+  {
+    "logon": "ETNL_A_GND",
+    "frequency": "121.955",
+    "abbreviation": "NLA",
+    "description": "Laage Apron"
+  },
+  {
+    "logon": "ETNL_P_APP",
+    "frequency": "133.105",
+    "abbreviation": "NLP",
+    "description": "Laage Precision"
+  },
+  {
+    "logon": "ETNL_TWR",
+    "frequency": "118.430",
+    "abbreviation": "NLT",
+    "description": "Laage Tower"
+  },
+  {
     "logon": "ETNN_APP",
     "frequency": "129.055",
     "abbreviation": "TNNA",
@@ -604,5 +832,17 @@
     "frequency": "122.100",
     "abbreviation": "OUT",
     "description": "Wiesbaden Tower"
+  },
+  {
+    "logon": "ETSH_APP",
+    "frequency": "129.855",
+    "abbreviation": "SHR",
+    "description": "Holzdorf Radar"
+  },
+  {
+    "logon": "ETSH_TWR",
+    "frequency": "130.505",
+    "abbreviation": "SHT",
+    "description": "Holzdorf Tower"
   }
 ]
