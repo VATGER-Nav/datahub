@@ -24,8 +24,10 @@ def removeRedundantScheduleEntries(folders):
                     if new_schedule_group != schedule_group:
                         print("Removed:", [group for group in schedule_group if group not in new_schedule_group], "from", element["logon"])
 
-                    # Update the schedule_group with the new list
-                    element["schedule_groups"] = new_schedule_group
+                    if not new_schedule_group:
+                        del element["schedule_groups"]  # Remove the key if the list is empty
+                    else:
+                        element["schedule_groups"] = new_schedule_group  # Update with the new list
 
                 with open(file_path, 'w') as json_file:
                     json.dump(data, json_file, indent=2)
