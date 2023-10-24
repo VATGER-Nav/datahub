@@ -1,9 +1,6 @@
 name: data-sorter
 run-name: Push by ${{ github.actor }} is sorting station mappings.json
-on:
-  push:
-    branches:
-      - "*"
+on: [push]
 permissions: write-all
 jobs:
   consolidate-and-sort-data:
