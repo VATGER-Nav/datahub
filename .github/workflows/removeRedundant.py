@@ -1,6 +1,6 @@
 import os, json
 
-def removeRedudantScheduleEntries(folders):
+def removeRedundantScheduleEntries(folders):
     print("Removing redundant entries: ")
     for folder in folders:
         for filename in os.listdir(folder):

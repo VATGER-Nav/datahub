@@ -2,14 +2,14 @@ from formatJsons import format_and_sort_json_files
 from consolidateData import consolidateJsons
 from createTsBotJson import createTeamspeakStationBotJson
 from createScheduleJson import createScheduleJson
-from removeRedundant import removeRedudantScheduleEntries
+from removeRedundant import removeRedundantScheduleEntries
 
 combinedFile = "data.json"
 folders_to_sort = ['edgg', 'edmm', 'eduu', 'edww', 'edyy', 'event_schedules']
 folders_to_consolidate = ['edgg', 'edmm', 'eduu', 'edww', 'edyy']
 
 # remove redundant schedule_groups entries
-removeRedudantScheduleEntries(folders_to_consolidate)
+removeRedundantScheduleEntries(folders_to_consolidate)
 
 # format all source jsons
 format_and_sort_json_files(folders_to_sort)
