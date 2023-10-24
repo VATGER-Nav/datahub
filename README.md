@@ -32,7 +32,7 @@ This repository used github-actions to automatically consolidate and keep consis
 edgg, edmm, edww, eduu, edyy, event_schedules
 
 **The following jsons will be updated automatically:**
-data.json, atc_station_mappings.json
+data.json, atc_station_mappings.json, schedule.json
 
 ## Scheduled merges
 
