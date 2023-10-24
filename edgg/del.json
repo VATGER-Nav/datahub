@@ -7,9 +7,7 @@
     "schedule_minstation": [
       "EDFF"
     ],
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "schedule_groups": []
   },
   {
     "logon": "EDDK_DEL",
@@ -19,9 +17,7 @@
     "schedule_minstation": [
       "EDLL"
     ],
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": []
   },
   {
     "logon": "EDDL_DEL",
@@ -31,9 +27,7 @@
     "schedule_minstation": [
       "EDLL"
     ],
-    "schedule_groups": [
-      "EDLL"
-    ]
+    "schedule_groups": []
   },
   {
     "logon": "EDDS_DEL",
@@ -43,8 +37,6 @@
     "schedule_minstation": [
       "EDFF"
     ],
-    "schedule_groups": [
-      "EDFF"
-    ]
+    "schedule_groups": []
   }
 ]
