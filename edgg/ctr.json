@@ -3,7 +3,7 @@
     "logon": "EDGG_BAD_CTR",
     "frequency": "131.300",
     "abbreviation": "BAD",
-    "description": "Langen Radar (Baden)"
+    "description": "Langen Radar (Baden)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -27,7 +27,7 @@
     "logon": "EDGG_GED_CTR",
     "frequency": "124.430",
     "abbreviation": "GED",
-    "description": "Langen Radar (Gedern)"
+    "description": "Langen Radar (Gedern)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -53,7 +53,7 @@
     "logon": "EDGG_HAB_CTR",
     "frequency": "134.800",
     "abbreviation": "HAB",
-    "description": "Langen Radar (Hammelburg)"
+    "description": "Langen Radar (Hammelburg)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -63,7 +63,7 @@
     "logon": "EDGG_HEF_CTR",
     "frequency": "127.725",
     "abbreviation": "HEF",
-    "description": "Langen Radar (Hersfeld)"
+    "description": "Langen Radar (Hersfeld)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -73,7 +73,7 @@
     "logon": "EDGG_KIR_CTR",
     "frequency": "133.460",
     "abbreviation": "KIR",
-    "description": "Langen Radar (Kirn)"
+    "description": "Langen Radar (Kirn)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -83,7 +83,7 @@
     "logon": "EDGG_KNG_CTR",
     "frequency": "125.680",
     "abbreviation": "KNG",
-    "description": "Langen Radar (K\u00f6nig)"
+    "description": "Langen Radar (K\u00f6nig)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -110,7 +110,7 @@
     "logon": "EDGG_LBU_CTR",
     "frequency": "127.050",
     "abbreviation": "LBU",
-    "description": "Langen Radar (Luburg)"
+    "description": "Langen Radar (Luburg)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -120,7 +120,7 @@
     "logon": "EDGG_MAN_CTR",
     "frequency": "132.155",
     "abbreviation": "MAIN",
-    "description": "Langen Radar (Main)"
+    "description": "Langen Radar (Main)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -130,7 +130,7 @@
     "logon": "EDGG_NKH_CTR",
     "frequency": "127.500",
     "abbreviation": "NKRH",
-    "description": "Langen Radar (Neckar High)"
+    "description": "Langen Radar (Neckar High)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -154,7 +154,7 @@
     "logon": "EDGG_PSA_CTR",
     "frequency": "125.405",
     "abbreviation": "PSA",
-    "description": "Langen Radar (Spessart)"
+    "description": "Langen Radar (Spessart)",
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -164,7 +164,8 @@
     "logon": "EDGG_RUD_CTR",
     "frequency": "133.435",
     "abbreviation": "RUD",
-    "description": "Langen Radar (R\u00fcdesheim)""schedule_groups": [
+    "description": "Langen Radar (R\u00fcdesheim)",
+    "schedule_groups": [
       "EDFF",
       "EDGG",
       "EDLL"
@@ -174,7 +175,7 @@
     "logon": "EDGG_SIG_CTR",
     "frequency": "124.900",
     "abbreviation": "SIG",
-    "description": "Langen Radar (Siegen)"
+    "description": "Langen Radar (Siegen)",
     "schedule_groups": [
       "EDFF",
       "EDGG",
@@ -185,7 +186,7 @@
     "logon": "EDGG_TAU_CTR",
     "frequency": "127.625",
     "abbreviation": "TAU",
-    "description": "Langen Radar (Taunus)"
+    "description": "Langen Radar (Taunus)",
     "schedule_groups": [
       "EDFF",
       "EDGG",

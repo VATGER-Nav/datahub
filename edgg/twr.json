@@ -97,7 +97,7 @@
     "logon": "EDFH_TWR",
     "frequency": "119.655",
     "abbreviation": "FHT",
-    "description": "Hahn Tower"
+    "description": "Hahn Tower",
     "schedule_groups": [
       "EDFF"
     ]
@@ -106,7 +106,7 @@
     "logon": "EDFM_TWR",
     "frequency": "129.780",
     "abbreviation": "FMT",
-    "description": "Mannheim Tower"
+    "description": "Mannheim Tower",
     "schedule_groups": [
       "EDFF"
     ]
@@ -151,7 +151,7 @@
     "logon": "EDSB_TWR",
     "frequency": "134.105",
     "abbreviation": "SBT",
-    "description": "Baden Tower"
+    "description": "Baden Tower",
     "schedule_groups": [
       "EDFF"
     ]
@@ -160,7 +160,7 @@
     "logon": "EDTL_TWR",
     "frequency": "125.180",
     "abbreviation": "TLT",
-    "description": "Lahr Tower"
+    "description": "Lahr Tower",
     "schedule_groups": [
       "EDFF"
     ]
