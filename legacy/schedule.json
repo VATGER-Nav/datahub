@@ -1,44 +1,5 @@
 [
     {
-        "name": "EDLL",
-        "schedule_minstation": [
-            "EDDG_HMM_APP",
-            "EDDK_APP",
-            "EDDK_DEL",
-            "EDDK_F_APP",
-            "EDDK_GND",
-            "EDDK_NOR_APP",
-            "EDDK_TWR",
-            "EDDL_APP",
-            "EDDL_BOT_APP",
-            "EDDL_DEL",
-            "EDDL_DEP",
-            "EDDL_E_GND",
-            "EDDL_F_APP",
-            "EDDL_TWR",
-            "EDDL_W_GND",
-            "EDGG_PAH_CTR"
-        ],
-        "schedule_group": [
-            "EDDG_GND",
-            "EDDG_TWR",
-            "EDDK_P_GND",
-            "EDGG_GIN_CTR",
-            "EDGG_KTG_CTR",
-            "EDGG_RUD_CTR",
-            "EDGG_SIG_CTR",
-            "EDGG_TAU_CTR",
-            "EDLN_GND",
-            "EDLN_TWR",
-            "EDLP_GND",
-            "EDLP_PAL_APP",
-            "EDLP_TWR",
-            "EDLV_TWR",
-            "EDLW_GND",
-            "EDLW_TWR"
-        ]
-    },
-    {
         "name": "EDFF",
         "schedule_minstation": [
             "EDDF_C_GND",
@@ -94,6 +55,45 @@
             "EDGG_TAU_CTR",
             "EDSB_TWR",
             "EDTL_TWR"
+        ]
+    },
+    {
+        "name": "EDLL",
+        "schedule_minstation": [
+            "EDDG_HMM_APP",
+            "EDDK_APP",
+            "EDDK_DEL",
+            "EDDK_F_APP",
+            "EDDK_GND",
+            "EDDK_NOR_APP",
+            "EDDK_TWR",
+            "EDDL_APP",
+            "EDDL_BOT_APP",
+            "EDDL_DEL",
+            "EDDL_DEP",
+            "EDDL_E_GND",
+            "EDDL_F_APP",
+            "EDDL_TWR",
+            "EDDL_W_GND",
+            "EDGG_PAH_CTR"
+        ],
+        "schedule_group": [
+            "EDDG_GND",
+            "EDDG_TWR",
+            "EDDK_P_GND",
+            "EDGG_GIN_CTR",
+            "EDGG_KTG_CTR",
+            "EDGG_RUD_CTR",
+            "EDGG_SIG_CTR",
+            "EDGG_TAU_CTR",
+            "EDLN_GND",
+            "EDLN_TWR",
+            "EDLP_GND",
+            "EDLP_PAL_APP",
+            "EDLP_TWR",
+            "EDLV_TWR",
+            "EDLW_GND",
+            "EDLW_TWR"
         ]
     },
     {
