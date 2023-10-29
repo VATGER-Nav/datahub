@@ -168,6 +168,15 @@
     "description": "Bremen Radar (Berlin Arrival Sued Coordinator)"
   },
   {
+    "logon": "EDDC_APP",
+    "frequency": "125.875",
+    "abbreviation": "SAS",
+    "description": "M\u00fcnchen Radar (Sachsen Low)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDF_C_GND",
     "frequency": "121.855",
     "abbreviation": "DFGC",
@@ -570,6 +579,114 @@
     "description": "D\u00fcsseldorf Ground (West)",
     "schedule_minstation": [
       "EDLL"
+    ]
+  },
+  {
+    "logon": "EDDM_1_APP",
+    "frequency": "128.030",
+    "abbreviation": "DMNH",
+    "description": "M\u00fcnchen Arrival (North High)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_2_APP",
+    "frequency": "120.780",
+    "abbreviation": "DMSH",
+    "description": "M\u00fcnchen Arrival (South High)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_D_APP",
+    "frequency": "132.305",
+    "abbreviation": "DMSAT",
+    "description": "M\u00fcnchen Director (South Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_F_APP",
+    "frequency": "118.030",
+    "abbreviation": "DMNAT",
+    "description": "M\u00fcnchen Director (North Director)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_N_APP",
+    "frequency": "123.905",
+    "abbreviation": "DMNL",
+    "description": "M\u00fcnchen Radar (North Low)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_S_APP",
+    "frequency": "127.955",
+    "abbreviation": "DMSL",
+    "description": "M\u00fcnchen Radar (South Low)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDN_APP",
+    "frequency": "129.525",
+    "abbreviation": "FRK",
+    "description": "M\u00fcnchen Radar (Franken)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDN_F_APP",
+    "frequency": "119.475",
+    "abbreviation": "DNAT",
+    "description": "N\u00fcrnberg Director",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_D_APP",
+    "frequency": "129.765",
+    "abbreviation": "DPSAT",
+    "description": "Leipzig Director (South Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_F_APP",
+    "frequency": "120.840",
+    "abbreviation": "DPNAT",
+    "description": "Leipzig Director (North Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_N_APP",
+    "frequency": "126.065",
+    "abbreviation": "TRN",
+    "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_S_APP",
+    "frequency": "126.175",
+    "abbreviation": "TRS",
+    "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
+    "schedule_groups": [
+      "EDMM"
     ]
   },
   {
@@ -1095,6 +1212,15 @@
     "description": "Luebeck Tower"
   },
   {
+    "logon": "EDJA_APP",
+    "frequency": "129.450",
+    "abbreviation": "ILR",
+    "description": "M\u00fcnchen Radar (Iller)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDKA_I_TWR",
     "frequency": "122.880",
     "abbreviation": "KAI",
@@ -1244,6 +1370,188 @@
     "frequency": "133.465",
     "abbreviation": "LZI",
     "description": "Soest Radio"
+  },
+  {
+    "logon": "EDMM_A_CTR",
+    "frequency": "129.100",
+    "abbreviation": "ALB",
+    "description": "M\u00fcnchen Radar (Allersberg)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_B_CTR",
+    "frequency": "133.615",
+    "abbreviation": "BBG",
+    "description": "M\u00fcnchen Radar (Bamberg)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDN"
+    ]
+  },
+  {
+    "logon": "EDMM_CTR",
+    "frequency": "124.050",
+    "abbreviation": "MMC",
+    "description": "M\u00fcnchen Radar (Complete)",
+    "schedule-groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_E_CTR",
+    "frequency": "129.555",
+    "abbreviation": "EGG",
+    "description": "M\u00fcnchen Radar (Eggenfelden)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_G_CTR",
+    "frequency": "133.230",
+    "abbreviation": "GER",
+    "description": "M\u00fcnchen Radar (Gera)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_H_CTR",
+    "frequency": "118.235",
+    "abbreviation": "HAL",
+    "description": "M\u00fcnchen Radar (Halle)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_M_CTR",
+    "frequency": "124.960",
+    "abbreviation": "MEI",
+    "description": "M\u00fcnchen Radar (Meissen)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_N_CTR",
+    "frequency": "125.140",
+    "abbreviation": "NDG",
+    "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_O_CTR",
+    "frequency": "133.565",
+    "abbreviation": "HOF",
+    "description": "M\u00fcnchen Radar (Hof)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDN",
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_R_CTR",
+    "frequency": "132.550",
+    "abbreviation": "RDG",
+    "description": "M\u00fcnchen Radar (Roding)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM",
+      "EDDN"
+    ]
+  },
+  {
+    "logon": "EDMM_T_CTR",
+    "frequency": "133.680",
+    "abbreviation": "TEG",
+    "description": "M\u00fcnchen Radar (Tegernsee)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_U_CTR",
+    "frequency": "132.635",
+    "abbreviation": "TRU",
+    "description": "M\u00fcnchen Radar (Traun)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_W_APP",
+    "frequency": "136.525",
+    "abbreviation": "SWA",
+    "description": "M\u00fcnchen Radar (Schwaben)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDJA",
+      "ETSI",
+      "ETSL",
+      "ETHL",
+      "ETSN"
+    ]
+  },
+  {
+    "logon": "EDMM_W_CTR",
+    "frequency": "136.230",
+    "abbreviation": "WLD",
+    "description": "M\u00fcnchen Radar (Walda)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_Z_CTR",
+    "frequency": "134.150",
+    "abbreviation": "ZUG",
+    "description": "M\u00fcnchen Radar (Zugspitze)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
   },
   {
     "logon": "EDOI_I_TWR",
