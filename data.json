@@ -12,12 +12,6 @@
     "description": "Finow Radio"
   },
   {
-    "logon": "EDAV_I_TWR",
-    "frequency": "119.055",
-    "abbreviation": "AVT",
-    "description": "Finow Radio"
-  },
-  {
     "logon": "EDAY_I_TWR",
     "frequency": "118.735",
     "abbreviation": "AYT",
