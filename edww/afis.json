@@ -72,12 +72,6 @@
     "description": "Peenemuende Radio"
   },
   {
-    "logon": "EDAV_I_TWR",
-    "frequency": "119.055",
-    "abbreviation": "AVT",
-    "description": "Finow Radio"
-  },
-  {
     "logon": "EDOI_I_TWR",
     "frequency": "134.990",
     "abbreviation": "OIT",
