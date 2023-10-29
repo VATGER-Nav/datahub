@@ -1,0 +1,168 @@
+[
+  {
+    "logon": "EDMM_CTR",
+    "frequency": "124.050",
+    "abbreviation": "MMC",
+    "description": "München Radar (Complete)",
+    "schedule-groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_A_CTR",
+    "frequency": "129.100",
+    "abbreviation": "ALB",
+    "description": "München Radar (Allersberg)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_B_CTR",
+    "frequency": "133.615",
+    "abbreviation": "BBG",
+    "description": "München Radar (Bamberg)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDN"
+    ]
+  },
+  {
+    "logon": "EDMM_E_CTR",
+    "frequency": "129.555",
+    "abbreviation": "EGG",
+    "description": "München Radar (Eggenfelden)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_G_CTR",
+    "frequency": "133.230",
+    "abbreviation": "GER",
+    "description": "München Radar (Gera)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_H_CTR",
+    "frequency": "118.235",
+    "abbreviation": "HAL",
+    "description": "München Radar (Halle)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_M_CTR",
+    "frequency": "124.960",
+    "abbreviation": "MEI",
+    "description": "München Radar (Meissen)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_N_CTR",
+    "frequency": "125.140",
+    "abbreviation": "NDG",
+    "description": "München Radar (Nördlingen)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_O_CTR",
+    "frequency": "133.565",
+    "abbreviation": "HOF",
+    "description": "München Radar (Hof)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDN",
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ]
+  },
+  {
+    "logon": "EDMM_R_CTR",
+    "frequency": "132.550",
+    "abbreviation": "RDG",
+    "description": "München Radar (Roding)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM",
+      "EDDN"
+    ]
+  },
+  {
+    "logon": "EDMM_T_CTR",
+    "frequency": "133.680",
+    "abbreviation": "TEG",
+    "description": "München Radar (Tegernsee)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_U_CTR",
+    "frequency": "132.635",
+    "abbreviation": "TRU",
+    "description": "München Radar (Traun)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_W_CTR",
+    "frequency": "136.230",
+    "abbreviation": "WLD",
+    "description": "München Radar (Walda)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_Z_CTR",
+    "frequency": "134.150",
+    "abbreviation": "ZUG",
+    "description": "München Radar (Zugspitze)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDM"
+    ]
+  }
+]
