@@ -1,144 +1,144 @@
 [
-    {
-        "logon": "EDDC_APP",
-        "frequency": "125.875",
-        "abbreviation": "SAS",
-        "description": "München Radar (Sachsen Low)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDM_1_APP",
-        "frequency": "128.030",
-        "abbreviation": "DMNH",
-        "description": "München Arrival (North High)",
-        "schedule_minstation": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDM_2_APP",
-        "frequency": "120.780",
-        "abbreviation": "DMSH",
-        "description": "München Arrival (South High)",
-        "schedule_minstation": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDM_F_APP",
-        "frequency": "118.030",
-        "abbreviation": "DMNAT",
-        "description": "München Director (North Director)",
-        "schedule_minstation": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDM_N_APP",
-        "frequency": "123.905",
-        "abbreviation": "DMNL",
-        "description": "München Radar (North Low)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDM_S_APP",
-        "frequency": "127.955",
-        "abbreviation": "DMSL",
-        "description": "München Radar (South Low)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDM_D_APP",
-        "frequency": "132.305",
-        "abbreviation": "DMSAT",
-        "description": "München Director (South Director)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDN_APP",
-        "frequency": "129.525",
-        "abbreviation": "FRK",
-        "description": "München Radar (Franken)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDN_F_APP",
-        "frequency": "119.475",
-        "abbreviation": "DNAT",
-        "description": "Nürnberg Director",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDP_S_APP",
-        "frequency": "126.175",
-        "abbreviation": "TRS",
-        "description": "München Radar (Thüringen Low South)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDP_F_APP",
-        "frequency": "120.840",
-        "abbreviation": "DPNAT",
-        "description": "Leipzig Director (North Director)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDP_N_APP",
-        "frequency": "126.065",
-        "abbreviation": "TRN",
-        "description": "München Radar (Thüringen Low North)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDDP_D_APP",
-        "frequency": "129.765",
-        "abbreviation": "DPSAT",
-        "description": "Leipzig Director (South Director)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDJA_APP",
-        "frequency": "129.450",
-        "abbreviation": "ILR",
-        "description": "München Radar (Iller)",
-        "schedule_groups": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDMM_W_APP",
-        "frequency": "136.525",
-        "abbreviation": "SWA",
-        "description": "München Radar (Schwaben)",
-        "schedule_groups": [
-            "EDMM"
-        ],
-        "relevant_airports": [
-            "EDJA",
-            "ETSI",
-            "ETSL",
-            "ETHL",
-            "ETSN"
-        ]
-    }
+  {
+    "logon": "EDDC_APP",
+    "frequency": "125.875",
+    "abbreviation": "SAS",
+    "description": "M\u00fcnchen Radar (Sachsen Low)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_1_APP",
+    "frequency": "128.030",
+    "abbreviation": "DMNH",
+    "description": "M\u00fcnchen Arrival (North High)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_2_APP",
+    "frequency": "120.780",
+    "abbreviation": "DMSH",
+    "description": "M\u00fcnchen Arrival (South High)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_F_APP",
+    "frequency": "118.030",
+    "abbreviation": "DMNAT",
+    "description": "M\u00fcnchen Director (North Director)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_N_APP",
+    "frequency": "123.905",
+    "abbreviation": "DMNL",
+    "description": "M\u00fcnchen Radar (North Low)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_S_APP",
+    "frequency": "127.955",
+    "abbreviation": "DMSL",
+    "description": "M\u00fcnchen Radar (South Low)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_D_APP",
+    "frequency": "132.305",
+    "abbreviation": "DMSAT",
+    "description": "M\u00fcnchen Director (South Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDN_APP",
+    "frequency": "129.525",
+    "abbreviation": "FRK",
+    "description": "M\u00fcnchen Radar (Franken)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDN_F_APP",
+    "frequency": "119.475",
+    "abbreviation": "DNAT",
+    "description": "N\u00fcrnberg Director",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_S_APP",
+    "frequency": "126.175",
+    "abbreviation": "TRS",
+    "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_F_APP",
+    "frequency": "120.840",
+    "abbreviation": "DPNAT",
+    "description": "Leipzig Director (North Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_N_APP",
+    "frequency": "126.065",
+    "abbreviation": "TRN",
+    "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_D_APP",
+    "frequency": "129.765",
+    "abbreviation": "DPSAT",
+    "description": "Leipzig Director (South Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDJA_APP",
+    "frequency": "129.450",
+    "abbreviation": "ILR",
+    "description": "M\u00fcnchen Radar (Iller)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_W_APP",
+    "frequency": "136.525",
+    "abbreviation": "SWA",
+    "description": "M\u00fcnchen Radar (Schwaben)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDJA",
+      "ETSI",
+      "ETSL",
+      "ETHL",
+      "ETSN"
+    ]
+  }
 ]
