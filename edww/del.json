@@ -4,5 +4,23 @@
     "frequency": "121.605",
     "abbreviation": "DBC",
     "description": "Berlin Delivery"
+  },
+  {
+    "logon": "EDDH_DEL",
+    "frequency": "121.805",
+    "abbreviation": "DHL",
+    "description": "Hamburg Ground"
+  },
+  {
+    "logon": "EDDV_DEL",
+    "frequency": "120.405",
+    "abbreviation": "DVL",
+    "description": "Hannover Delivery"
+  },
+  {
+    "logon": "EDDW_DEL",
+    "frequency": "134.830",
+    "abbreviation": "DWL",
+    "description": "Bremen Delivery"
   }
 ]
