@@ -245,6 +245,11 @@
     "frequency": "129.805"
   },
   {
+    "id": "DHL",
+    "callsignPrefix": "EDDH",
+    "frequency": "121.805"
+  },
+  {
     "id": "HAME",
     "callsignPrefix": "EDDH",
     "frequency": "119.510"
@@ -400,6 +405,11 @@
     "frequency": "119.490"
   },
   {
+    "id": "DVL",
+    "callsignPrefix": "EDDV",
+    "frequency": "120.405"
+  },
+  {
     "id": "DVAT",
     "callsignPrefix": "EDDV",
     "frequency": "119.605"
@@ -413,6 +423,11 @@
     "id": "FRI",
     "callsignPrefix": "EDDW",
     "frequency": "124.800"
+  },
+  {
+    "id": "DWL",
+    "callsignPrefix": "EDDW",
+    "frequency": "134.830"
   },
   {
     "id": "DWAT",

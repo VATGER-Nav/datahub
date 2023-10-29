@@ -371,6 +371,12 @@
     ]
   },
   {
+    "logon": "EDDH_DEL",
+    "frequency": "121.805",
+    "abbreviation": "DHL",
+    "description": "Hamburg Ground"
+  },
+  {
     "logon": "EDDH_E_APP",
     "frequency": "119.510",
     "abbreviation": "HAME",
@@ -665,6 +671,12 @@
     "description": "Bremen Radar (Hannover)"
   },
   {
+    "logon": "EDDV_DEL",
+    "frequency": "120.405",
+    "abbreviation": "DVL",
+    "description": "Hannover Delivery"
+  },
+  {
     "logon": "EDDV_F_APP",
     "frequency": "119.605",
     "abbreviation": "DVAT",
@@ -681,6 +693,12 @@
     "frequency": "124.800",
     "abbreviation": "FRI",
     "description": "Bremen Radar (Friesland)"
+  },
+  {
+    "logon": "EDDW_DEL",
+    "frequency": "134.830",
+    "abbreviation": "DWL",
+    "description": "Bremen Delivery"
   },
   {
     "logon": "EDDW_F_APP",
