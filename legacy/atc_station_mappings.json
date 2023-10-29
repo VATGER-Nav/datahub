@@ -255,6 +255,11 @@
     "frequency": "119.510"
   },
   {
+    "id": "DHE",
+    "callsignPrefix": "EDDH",
+    "frequency": "121.705"
+  },
+  {
     "id": "DHAT",
     "callsignPrefix": "EDDH",
     "frequency": "118.205"
@@ -273,6 +278,11 @@
     "id": "HAMW",
     "callsignPrefix": "EDDH",
     "frequency": "134.255"
+  },
+  {
+    "id": "DHW",
+    "callsignPrefix": "EDDH",
+    "frequency": "121.980"
   },
   {
     "id": "DKA",
@@ -415,6 +425,11 @@
     "frequency": "119.605"
   },
   {
+    "id": "DVG",
+    "callsignPrefix": "EDDV",
+    "frequency": "121.955"
+  },
+  {
     "id": "DVT",
     "callsignPrefix": "EDDV",
     "frequency": "120.180"
@@ -433,6 +448,11 @@
     "id": "DWAT",
     "callsignPrefix": "EDDW",
     "frequency": "120.350"
+  },
+  {
+    "id": "DWG",
+    "callsignPrefix": "EDDW",
+    "frequency": "121.755"
   },
   {
     "id": "DWT",
@@ -638,6 +658,11 @@
     "id": "HIT",
     "callsignPrefix": "EDHI",
     "frequency": "123.255"
+  },
+  {
+    "id": "HLG",
+    "callsignPrefix": "EDHL",
+    "frequency": "121.780"
   },
   {
     "id": "HLT",
@@ -973,6 +998,11 @@
     "id": "VET",
     "callsignPrefix": "EDVE",
     "frequency": "120.055"
+  },
+  {
+    "id": "VKG",
+    "callsignPrefix": "EDVK",
+    "frequency": "121.905"
   },
   {
     "id": "VKT",

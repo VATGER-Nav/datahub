@@ -383,6 +383,12 @@
     "description": "Bremen Radar (Hamburg East)"
   },
   {
+    "logon": "EDDH_E_GND",
+    "frequency": "121.705",
+    "abbreviation": "DHE",
+    "description": "Hamburg Apron (East)"
+  },
+  {
     "logon": "EDDH_F_APP",
     "frequency": "118.205",
     "abbreviation": "DHAT",
@@ -405,6 +411,12 @@
     "frequency": "134.255",
     "abbreviation": "HAMW",
     "description": "Bremen Radar (Hamburg West)"
+  },
+  {
+    "logon": "EDDH_W_GND",
+    "frequency": "121.980",
+    "abbreviation": "DHW",
+    "description": "Hamburg Apron (West)"
   },
   {
     "logon": "EDDK_APP",
@@ -683,6 +695,12 @@
     "description": "Hannover Director"
   },
   {
+    "logon": "EDDV_GND",
+    "frequency": "121.955",
+    "abbreviation": "DVG",
+    "description": "Hannover Ground"
+  },
+  {
     "logon": "EDDV_TWR",
     "frequency": "120.180",
     "abbreviation": "DVT",
@@ -705,6 +723,12 @@
     "frequency": "120.350",
     "abbreviation": "DWAT",
     "description": "Bremen Director"
+  },
+  {
+    "logon": "EDDW_GND",
+    "frequency": "121.755",
+    "abbreviation": "DWG",
+    "description": "Bremen Ground"
   },
   {
     "logon": "EDDW_TWR",
@@ -1063,6 +1087,12 @@
     "frequency": "123.255",
     "abbreviation": "HIT",
     "description": "Finkenwerder Tower"
+  },
+  {
+    "logon": "EDHL_GND",
+    "frequency": "121.780",
+    "abbreviation": "HLG",
+    "description": "L\u00fcbeck Ground"
   },
   {
     "logon": "EDHL_TWR",
@@ -1499,6 +1529,12 @@
     "frequency": "120.055",
     "abbreviation": "VET",
     "description": "Braunschweig Tower"
+  },
+  {
+    "logon": "EDVK_GND",
+    "frequency": "121.905",
+    "abbreviation": "VKG",
+    "description": "Kassel Ground"
   },
   {
     "logon": "EDVK_TWR",
