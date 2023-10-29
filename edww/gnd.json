@@ -22,5 +22,41 @@
     "frequency": "121.705",
     "abbreviation": "DBGS",
     "description": "Berlin Ground (Sued)"
+  },
+  {
+    "logon": "EDDH_E_GND",
+    "frequency": "121.705",
+    "abbreviation": "DHE",
+    "description": "Hamburg Apron (East)"
+  },
+  {
+    "logon": "EDDH_W_GND",
+    "frequency": "121.980",
+    "abbreviation": "DHW",
+    "description": "Hamburg Apron (West)"
+  },
+  {
+    "logon": "EDDV_GND",
+    "frequency": "121.955",
+    "abbreviation": "DVG",
+    "description": "Hannover Ground"
+  },
+  {
+    "logon": "EDDW_GND",
+    "frequency": "121.755",
+    "abbreviation": "DWG",
+    "description": "Bremen Ground"
+  },
+  {
+    "logon": "EDHL_GND",
+    "frequency": "121.780",
+    "abbreviation": "HLG",
+    "description": "Lübeck Ground"
+  },
+  {
+    "logon": "EDVK_GND",
+    "frequency": "121.905",
+    "abbreviation": "VKG",
+    "description": "Kassel Ground"
   }
 ]
