@@ -177,6 +177,60 @@
     ]
   },
   {
+    "logon": "EDDC_A_GND",
+    "frequency": "121.755",
+    "abbreviation": "DCAG",
+    "description": "",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDC_GND",
+    "frequency": "121.980",
+    "abbreviation": "DCG",
+    "description": "Dresden Ground",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDC_TWR",
+    "frequency": "122.930",
+    "abbreviation": "DCT",
+    "description": "Dresden Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDE_A_GND",
+    "frequency": "121.905",
+    "abbreviation": "DEAG",
+    "description": "Erfurt Apron",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDE_GND",
+    "frequency": "121.755",
+    "abbreviation": "DEG",
+    "description": "Erfurt Ground",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDE_TWR",
+    "frequency": "121.155",
+    "abbreviation": "DET",
+    "description": "Erfurt Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDF_C_GND",
     "frequency": "121.855",
     "abbreviation": "DFGC",
@@ -591,11 +645,38 @@
     ]
   },
   {
+    "logon": "EDDM_1_GND",
+    "frequency": "121.780",
+    "abbreviation": "DMG1",
+    "description": "M\u00fcnchen Apron (Apron 1)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDM_2_APP",
     "frequency": "120.780",
     "abbreviation": "DMSH",
     "description": "M\u00fcnchen Arrival (South High)",
     "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_2_GND",
+    "frequency": "121.710",
+    "abbreviation": "DMG2",
+    "description": "M\u00fcnchen Apron (Apron 2)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_3_GND",
+    "frequency": "121.930",
+    "abbreviation": "DMG3",
+    "description": "M\u00fcnchen Apron (Apron 3)",
+    "schedule_groups": [
       "EDMM"
     ]
   },
@@ -618,6 +699,15 @@
     ]
   },
   {
+    "logon": "EDDM_I_GND",
+    "frequency": "121.990",
+    "abbreviation": "DMGI",
+    "description": "M\u00fcnchen DeIcing Coordinator",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDM_N_APP",
     "frequency": "123.905",
     "abbreviation": "DMNL",
@@ -627,11 +717,47 @@
     ]
   },
   {
+    "logon": "EDDM_N_GND",
+    "frequency": "121.980",
+    "abbreviation": "DMGN",
+    "description": "M\u00fcnchen Ground (North)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_N_TWR",
+    "frequency": "118.705",
+    "abbreviation": "DMTN",
+    "description": "M\u00fcnchen Tower (North)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDM_S_APP",
     "frequency": "127.955",
     "abbreviation": "DMSL",
     "description": "M\u00fcnchen Radar (South Low)",
     "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_S_GND",
+    "frequency": "121.830",
+    "abbreviation": "DMGS",
+    "description": "M\u00fcnchen Ground (South)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_S_TWR",
+    "frequency": "120.505",
+    "abbreviation": "DMTS",
+    "description": "M\u00fcnchen Tower (South)",
+    "schedule_minstation": [
       "EDMM"
     ]
   },
@@ -654,6 +780,24 @@
     ]
   },
   {
+    "logon": "EDDN_GND",
+    "frequency": "121.760",
+    "abbreviation": "DNG",
+    "description": "N\u00fcrnberg Ground",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDN_TWR",
+    "frequency": "118.305",
+    "abbreviation": "DNT",
+    "description": "N\u00fcrnberg Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDP_D_APP",
     "frequency": "129.765",
     "abbreviation": "DPSAT",
@@ -672,6 +816,15 @@
     ]
   },
   {
+    "logon": "EDDP_GND",
+    "frequency": "121.805",
+    "abbreviation": "DPG",
+    "description": "Leipzig Ground",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDP_N_APP",
     "frequency": "126.065",
     "abbreviation": "TRN",
@@ -681,11 +834,29 @@
     ]
   },
   {
+    "logon": "EDDP_N_TWR",
+    "frequency": "125.955",
+    "abbreviation": "DPTN",
+    "description": "Leipzig Tower (North)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDP_S_APP",
     "frequency": "126.175",
     "abbreviation": "TRS",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
     "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_S_TWR",
+    "frequency": "121.105",
+    "abbreviation": "DPTS",
+    "description": "Leipzig Tower (South)",
+    "schedule_minstation": [
       "EDMM"
     ]
   },
@@ -1221,6 +1392,24 @@
     ]
   },
   {
+    "logon": "EDJA_GND",
+    "frequency": "121.680",
+    "abbreviation": "JAG",
+    "description": "Memmingen Ground",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDJA_TWR",
+    "frequency": "126.855",
+    "abbreviation": "JAT",
+    "description": "Memmingen Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDKA_I_TWR",
     "frequency": "122.880",
     "abbreviation": "KAI",
@@ -1370,6 +1559,15 @@
     "frequency": "133.465",
     "abbreviation": "LZI",
     "description": "Soest Radio"
+  },
+  {
+    "logon": "EDMA_TWR",
+    "frequency": "124.980",
+    "abbreviation": "MAT",
+    "description": "Augsburg Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDMM_A_CTR",
@@ -1554,6 +1752,24 @@
     ]
   },
   {
+    "logon": "EDMO_TWR",
+    "frequency": "119.555",
+    "abbreviation": "MOT",
+    "description": "Oberpfaffenhofen Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDNY_TWR",
+    "frequency": "120.080",
+    "abbreviation": "NYT",
+    "description": "Friedrichshafen Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDOI_I_TWR",
     "frequency": "134.990",
     "abbreviation": "OIT",
@@ -1576,6 +1792,15 @@
     "frequency": "121.235",
     "abbreviation": "PYI",
     "description": "Ellwangen Radio"
+  },
+  {
+    "logon": "EDQM_TWR",
+    "frequency": "124.355",
+    "abbreviation": "QMT",
+    "description": "Hof Tower",
+    "schedule_minstation": [
+      "EDMM"
+    ]
   },
   {
     "logon": "EDRA_I_TWR",

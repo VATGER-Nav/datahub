@@ -145,6 +145,36 @@
     "frequency": "125.875"
   },
   {
+    "id": "DCAG",
+    "callsignPrefix": "EDDC",
+    "frequency": "121.755"
+  },
+  {
+    "id": "DCG",
+    "callsignPrefix": "EDDC",
+    "frequency": "121.980"
+  },
+  {
+    "id": "DCT",
+    "callsignPrefix": "EDDC",
+    "frequency": "122.930"
+  },
+  {
+    "id": "DEAG",
+    "callsignPrefix": "EDDE",
+    "frequency": "121.905"
+  },
+  {
+    "id": "DEG",
+    "callsignPrefix": "EDDE",
+    "frequency": "121.755"
+  },
+  {
+    "id": "DET",
+    "callsignPrefix": "EDDE",
+    "frequency": "121.155"
+  },
+  {
     "id": "DFGC",
     "callsignPrefix": "EDDF",
     "frequency": "121.855"
@@ -365,9 +395,24 @@
     "frequency": "128.030"
   },
   {
+    "id": "DMG1",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.780"
+  },
+  {
     "id": "DMSH",
     "callsignPrefix": "EDDM",
     "frequency": "120.780"
+  },
+  {
+    "id": "DMG2",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.710"
+  },
+  {
+    "id": "DMG3",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.930"
   },
   {
     "id": "DMSAT",
@@ -380,14 +425,39 @@
     "frequency": "118.030"
   },
   {
+    "id": "DMGI",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.990"
+  },
+  {
     "id": "DMNL",
     "callsignPrefix": "EDDM",
     "frequency": "123.905"
   },
   {
+    "id": "DMGN",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.980"
+  },
+  {
+    "id": "DMTN",
+    "callsignPrefix": "EDDM",
+    "frequency": "118.705"
+  },
+  {
     "id": "DMSL",
     "callsignPrefix": "EDDM",
     "frequency": "127.955"
+  },
+  {
+    "id": "DMGS",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.830"
+  },
+  {
+    "id": "DMTS",
+    "callsignPrefix": "EDDM",
+    "frequency": "120.505"
   },
   {
     "id": "FRK",
@@ -400,6 +470,16 @@
     "frequency": "119.475"
   },
   {
+    "id": "DNG",
+    "callsignPrefix": "EDDN",
+    "frequency": "121.760"
+  },
+  {
+    "id": "DNT",
+    "callsignPrefix": "EDDN",
+    "frequency": "118.305"
+  },
+  {
     "id": "DPSAT",
     "callsignPrefix": "EDDP",
     "frequency": "129.765"
@@ -410,14 +490,29 @@
     "frequency": "120.840"
   },
   {
+    "id": "DPG",
+    "callsignPrefix": "EDDP",
+    "frequency": "121.805"
+  },
+  {
     "id": "TRN",
     "callsignPrefix": "EDDP",
     "frequency": "126.065"
   },
   {
+    "id": "DPTN",
+    "callsignPrefix": "EDDP",
+    "frequency": "125.955"
+  },
+  {
     "id": "TRS",
     "callsignPrefix": "EDDP",
     "frequency": "126.175"
+  },
+  {
+    "id": "DPTS",
+    "callsignPrefix": "EDDP",
+    "frequency": "121.105"
   },
   {
     "id": "DRG",
@@ -735,6 +830,16 @@
     "frequency": "129.450"
   },
   {
+    "id": "JAG",
+    "callsignPrefix": "EDJA",
+    "frequency": "121.680"
+  },
+  {
+    "id": "JAT",
+    "callsignPrefix": "EDJA",
+    "frequency": "126.855"
+  },
+  {
     "id": "KAI",
     "callsignPrefix": "EDKA",
     "frequency": "122.880"
@@ -840,6 +945,11 @@
     "frequency": "133.465"
   },
   {
+    "id": "MAT",
+    "callsignPrefix": "EDMA",
+    "frequency": "124.980"
+  },
+  {
     "id": "ALB",
     "callsignPrefix": "EDMM",
     "frequency": "129.100"
@@ -915,6 +1025,16 @@
     "frequency": "134.150"
   },
   {
+    "id": "MOT",
+    "callsignPrefix": "EDMO",
+    "frequency": "119.555"
+  },
+  {
+    "id": "NYT",
+    "callsignPrefix": "EDNY",
+    "frequency": "120.080"
+  },
+  {
     "id": "OIT",
     "callsignPrefix": "EDOI",
     "frequency": "134.990"
@@ -933,6 +1053,11 @@
     "id": "PYI",
     "callsignPrefix": "EDPY",
     "frequency": "121.235"
+  },
+  {
+    "id": "QMT",
+    "callsignPrefix": "EDQM",
+    "frequency": "124.355"
   },
   {
     "id": "RAI",

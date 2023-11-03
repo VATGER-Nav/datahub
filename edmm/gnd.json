@@ -39,7 +39,7 @@
     "logon": "EDDM_1_GND",
     "frequency": "121.780",
     "abbreviation": "DMG1",
-    "description": "München Apron (Apron 1)",
+    "description": "M\u00fcnchen Apron (Apron 1)",
     "schedule_minstation": [
       "EDMM"
     ]
@@ -48,7 +48,7 @@
     "logon": "EDDM_2_GND",
     "frequency": "121.710",
     "abbreviation": "DMG2",
-    "description": "München Apron (Apron 2)",
+    "description": "M\u00fcnchen Apron (Apron 2)",
     "schedule_minstation": [
       "EDMM"
     ]
@@ -57,7 +57,7 @@
     "logon": "EDDM_3_GND",
     "frequency": "121.930",
     "abbreviation": "DMG3",
-    "description": "München Apron (Apron 3)",
+    "description": "M\u00fcnchen Apron (Apron 3)",
     "schedule_groups": [
       "EDMM"
     ]
@@ -66,7 +66,7 @@
     "logon": "EDDM_N_GND",
     "frequency": "121.980",
     "abbreviation": "DMGN",
-    "description": "München Ground (North)",
+    "description": "M\u00fcnchen Ground (North)",
     "schedule_groups": [
       "EDMM"
     ]
@@ -75,7 +75,7 @@
     "logon": "EDDM_S_GND",
     "frequency": "121.830",
     "abbreviation": "DMGS",
-    "description": "München Ground (South)",
+    "description": "M\u00fcnchen Ground (South)",
     "schedule_groups": [
       "EDMM"
     ]
@@ -84,7 +84,7 @@
     "logon": "EDDM_I_GND",
     "frequency": "121.990",
     "abbreviation": "DMGI",
-    "description": "München DeIcing Coordinator",
+    "description": "M\u00fcnchen DeIcing Coordinator",
     "schedule_groups": [
       "EDMM"
     ]
@@ -93,7 +93,7 @@
     "logon": "EDDN_GND",
     "frequency": "121.760",
     "abbreviation": "DNG",
-    "description": "Nürnberg Ground",
+    "description": "N\u00fcrnberg Ground",
     "schedule_minstation": [
       "EDMM"
     ]
