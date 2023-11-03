@@ -1,0 +1,110 @@
+[
+    {
+        "logon": "EDDC_TWR",
+        "frequency": "122.930",
+        "abbreviation": "DCT",
+        "description": "Dresden Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDDE_TWR",
+        "frequency": "121.155",
+        "abbreviation": "DET",
+        "description": "Erfurt Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDDM_N_TWR",
+        "frequency": "118.705",
+        "abbreviation": "DMTN",
+        "description": "München Tower (North)",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDDM_S_TWR",
+        "frequency": "120.505",
+        "abbreviation": "DMTS",
+        "description": "München Tower (South)",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDDN_TWR",
+        "frequency": "118.305",
+        "abbreviation": "DNT",
+        "description": "Nürnberg Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDDP_N_TWR",
+        "frequency": "125.955",
+        "abbreviation": "DPTN",
+        "description": "Leipzig Tower (North)",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDDP_S_TWR",
+        "frequency": "121.105",
+        "abbreviation": "DPTS",
+        "description": "Leipzig Tower (South)",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDJA_TWR",
+        "frequency": "126.855",
+        "abbreviation": "JAT",
+        "description": "Memmingen Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDMA_TWR",
+        "frequency": "124.980",
+        "abbreviation": "MAT",
+        "description": "Augsburg Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDMO_TWR",
+        "frequency": "119.555",
+        "abbreviation": "MOT",
+        "description": "Oberpfaffenhofen Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDNY_TWR",
+        "frequency": "120.080",
+        "abbreviation": "NYT",
+        "description": "Friedrichshafen Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "EDQM_TWR",
+        "frequency": "124.355",
+        "abbreviation": "QMT",
+        "description": "Hof Tower",
+        "schedule_minstation": [
+            "EDMM"
+        ]
+    }
+]
