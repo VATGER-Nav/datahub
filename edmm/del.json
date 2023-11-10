@@ -1,0 +1,20 @@
+[
+  {
+    "logon": "EDDM_DEL",
+    "frequency": "121.730",
+    "abbreviation": "DMC",
+    "description": "München Delivery",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_DEL",
+    "frequency": "121.680",
+    "abbreviation": "DPC",
+    "description": "Leipzig Delivery",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  }
+]
