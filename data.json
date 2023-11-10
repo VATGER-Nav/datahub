@@ -1,5 +1,14 @@
 [
   {
+    "logon": "",
+    "frequency": "",
+    "abbreviation": "",
+    "description": "",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDAH_TWR",
     "frequency": "132.830",
     "abbreviation": "AHT",
@@ -681,6 +690,15 @@
     ]
   },
   {
+    "logon": "EDDM_DEL",
+    "frequency": "121.730",
+    "abbreviation": "DMC",
+    "description": "M\u00fcnchen Delivery",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "EDDM_D_APP",
     "frequency": "132.305",
     "abbreviation": "DMSAT",
@@ -794,6 +812,15 @@
     "abbreviation": "DNT",
     "description": "N\u00fcrnberg Tower",
     "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_DEL",
+    "frequency": "121.680",
+    "abbreviation": "DPC",
+    "description": "Leipzig Delivery",
+    "schedule_groups": [
       "EDMM"
     ]
   },
@@ -2215,6 +2242,15 @@
     "description": "Ramstein Tower"
   },
   {
+    "logon": "ETHL_TWR",
+    "frequency": "122.100",
+    "abbreviation": "HLT",
+    "description": "Lima Tower",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
     "logon": "ETHN_APP",
     "frequency": "127.190",
     "abbreviation": "HNA",
@@ -2231,6 +2267,15 @@
     "frequency": "122.100",
     "abbreviation": "HNT",
     "description": "Stetten Tower"
+  },
+  {
+    "logon": "ETIC_TWR",
+    "frequency": "122.075",
+    "abbreviation": "ICT",
+    "description": "Grafenwoehr Tower",
+    "schedule_groups": [
+      "EDMM"
+    ]
   },
   {
     "logon": "ETNG_APP",
@@ -2297,5 +2342,50 @@
     "frequency": "130.505",
     "abbreviation": "SHT",
     "description": "Holzdorf Tower"
+  },
+  {
+    "logon": "ETSI_APP",
+    "frequency": "120.605",
+    "abbreviation": "IGL",
+    "description": "Ingo Radar",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "ETSI_TWR",
+    "frequency": "125.255",
+    "abbreviation": "SIT",
+    "description": "Ingo Tower",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "ETSL_APP",
+    "frequency": "129.030",
+    "abbreviation": "LCH",
+    "description": "Lechfeld Radar",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "ETSL_TWR",
+    "frequency": "122.100",
+    "abbreviation": "SLT",
+    "description": "Lechfeld Tower",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "ETSN_TWR",
+    "frequency": "122.100",
+    "abbreviation": "SNT",
+    "description": "Donau Tower",
+    "schedule_groups": [
+      "EDMM"
+    ]
   }
 ]

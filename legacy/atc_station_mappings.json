@@ -1,5 +1,10 @@
 [
   {
+    "id": "",
+    "callsignPrefix": "",
+    "frequency": ""
+  },
+  {
     "id": "AHT",
     "callsignPrefix": "EDAH",
     "frequency": "132.830"
@@ -415,6 +420,11 @@
     "frequency": "121.930"
   },
   {
+    "id": "DMC",
+    "callsignPrefix": "EDDM",
+    "frequency": "121.730"
+  },
+  {
     "id": "DMSAT",
     "callsignPrefix": "EDDM",
     "frequency": "132.305"
@@ -478,6 +488,11 @@
     "id": "DNT",
     "callsignPrefix": "EDDN",
     "frequency": "118.305"
+  },
+  {
+    "id": "DPC",
+    "callsignPrefix": "EDDP",
+    "frequency": "121.680"
   },
   {
     "id": "DPSAT",
@@ -1390,6 +1405,11 @@
     "frequency": "133.205"
   },
   {
+    "id": "HLT",
+    "callsignPrefix": "ETHL",
+    "frequency": "122.100"
+  },
+  {
     "id": "HNA",
     "callsignPrefix": "ETHN",
     "frequency": "127.190"
@@ -1403,6 +1423,11 @@
     "id": "HNT",
     "callsignPrefix": "ETHN",
     "frequency": "122.100"
+  },
+  {
+    "id": "ICT",
+    "callsignPrefix": "ETIC",
+    "frequency": "122.075"
   },
   {
     "id": "TNGA",
@@ -1458,5 +1483,30 @@
     "id": "SHT",
     "callsignPrefix": "ETSH",
     "frequency": "130.505"
+  },
+  {
+    "id": "IGL",
+    "callsignPrefix": "ETSI",
+    "frequency": "120.605"
+  },
+  {
+    "id": "SIT",
+    "callsignPrefix": "ETSI",
+    "frequency": "125.255"
+  },
+  {
+    "id": "LCH",
+    "callsignPrefix": "ETSL",
+    "frequency": "129.030"
+  },
+  {
+    "id": "SLT",
+    "callsignPrefix": "ETSL",
+    "frequency": "122.100"
+  },
+  {
+    "id": "SNT",
+    "callsignPrefix": "ETSN",
+    "frequency": "122.100"
   }
 ]
