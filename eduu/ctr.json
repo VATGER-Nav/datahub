@@ -61,28 +61,28 @@
     "schedule_groups": "EDMM"
   },
   {
-    "logon": "EDUU_C_CTR",
+    "logon": "EDUU_CHI_CTR",
     "frequency": "123.390",
     "abbreviation": "CHI",
     "description": "Rhein Radar (Chiem)",
     "schedule_groups": "EDMM"
   },
   {
-    "logon": "EDUU_D_CTR",
+    "logon": "EDUU_DON_CTR",
     "frequency": "127.290",
     "abbreviation": "DON",
     "description": "Rhein Radar (Donau)",
     "schedule_groups": "EDMM"
   },
   {
-    "logon": "EDUU_I_CTR",
+    "logon": "EDUU_ISA_CTR",
     "frequency": "136.335",
     "abbreviation": "ISA",
     "description": "Rhein Radar (Isar)",
     "schedule_groups": "EDMM"
   },
   {
-    "logon": "EDUU_L_CTR",
+    "logon": "EDUU_ALP_CTR",
     "frequency": "133.755",
     "abbreviation": "ALP",
     "description": "Rhein Radar (Alpen)",

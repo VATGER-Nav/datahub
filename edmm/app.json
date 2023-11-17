@@ -9,7 +9,7 @@
     ]
   },
   {
-    "logon": "EDDM_1_APP",
+    "logon": "EDDM_NH_APP",
     "frequency": "128.030",
     "abbreviation": "DMNH",
     "description": "M\u00fcnchen Arrival (North High)",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "logon": "EDDM_2_APP",
+    "logon": "EDDM_SH_APP",
     "frequency": "120.780",
     "abbreviation": "DMSH",
     "description": "M\u00fcnchen Arrival (South High)",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "logon": "EDDM_F_APP",
+    "logon": "EDDM_ND_APP",
     "frequency": "118.030",
     "abbreviation": "DMNAT",
     "description": "M\u00fcnchen Director (North Director)",
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "logon": "EDDM_N_APP",
+    "logon": "EDDM_NL_APP",
     "frequency": "123.905",
     "abbreviation": "DMNL",
     "description": "M\u00fcnchen Radar (North Low)",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "logon": "EDDM_S_APP",
+    "logon": "EDDM_SL_APP",
     "frequency": "127.955",
     "abbreviation": "DMSL",
     "description": "M\u00fcnchen Radar (South Low)",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "logon": "EDDM_D_APP",
+    "logon": "EDDM_SD_APP",
     "frequency": "132.305",
     "abbreviation": "DMSAT",
     "description": "M\u00fcnchen Director (South Director)",
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "logon": "EDJA_APP",
+    "logon": "EDJA_ILR_APP",
     "frequency": "129.450",
     "abbreviation": "ILR",
     "description": "M\u00fcnchen Radar (Iller)",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "logon": "EDMM_W_APP",
+    "logon": "EDMM_SWA_APP",
     "frequency": "136.525",
     "abbreviation": "SWA",
     "description": "M\u00fcnchen Radar (Schwaben)",

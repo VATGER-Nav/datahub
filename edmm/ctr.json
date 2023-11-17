@@ -9,7 +9,7 @@
     ]
   },
   {
-    "logon": "EDMM_A_CTR",
+    "logon": "EDMM_ALB_CTR",
     "frequency": "129.100",
     "abbreviation": "ALB",
     "description": "M\u00fcnchen Radar (Allersberg)",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "logon": "EDMM_E_CTR",
+    "logon": "EDMM_EGG_CTR",
     "frequency": "129.555",
     "abbreviation": "EGG",
     "description": "M\u00fcnchen Radar (Eggenfelden)",
@@ -42,6 +42,15 @@
     ],
     "relevant_airports": [
       "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_FUE_CTR",
+    "frequency": "133.550",
+    "abbreviation": "FUE",
+    "description": "M\u00fcnchen Radar (F\u00fcssen)",
+    "schedule_groups": [
+      "EDMM"
     ]
   },
   {
@@ -87,7 +96,7 @@
     ]
   },
   {
-    "logon": "EDMM_N_CTR",
+    "logon": "EDMM_NDG_CTR",
     "frequency": "125.140",
     "abbreviation": "NDG",
     "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
@@ -114,7 +123,7 @@
     ]
   },
   {
-    "logon": "EDMM_R_CTR",
+    "logon": "EDMM_RDG_CTR",
     "frequency": "132.550",
     "abbreviation": "RDG",
     "description": "M\u00fcnchen Radar (Roding)",
@@ -127,7 +136,16 @@
     ]
   },
   {
-    "logon": "EDMM_T_CTR",
+    "logon": "EDMM_STA_CTR",
+    "frequency": "132.455",
+    "abbreviation": "STA",
+    "description": "M\u00fcnchen Radar (Starnberg)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_TEG_CTR",
     "frequency": "133.680",
     "abbreviation": "TEG",
     "description": "M\u00fcnchen Radar (Tegernsee)",
@@ -136,7 +154,7 @@
     ]
   },
   {
-    "logon": "EDMM_U_CTR",
+    "logon": "EDMM_TRU_CTR",
     "frequency": "132.635",
     "abbreviation": "TRU",
     "description": "M\u00fcnchen Radar (Traun)",
@@ -145,7 +163,7 @@
     ]
   },
   {
-    "logon": "EDMM_W_CTR",
+    "logon": "EDMM_WLD_CTR",
     "frequency": "136.230",
     "abbreviation": "WLD",
     "description": "M\u00fcnchen Radar (Walda)",
@@ -154,7 +172,7 @@
     ]
   },
   {
-    "logon": "EDMM_Z_CTR",
+    "logon": "EDMM_ZUG_CTR",
     "frequency": "134.150",
     "abbreviation": "ZUG",
     "description": "M\u00fcnchen Radar (Zugspitze)",
