@@ -1,10 +1,5 @@
 [
   {
-    "id": "",
-    "callsignPrefix": "",
-    "frequency": ""
-  },
-  {
     "id": "AHT",
     "callsignPrefix": "EDAH",
     "frequency": "132.830"
@@ -395,19 +390,9 @@
     "frequency": "121.905"
   },
   {
-    "id": "DMNH",
-    "callsignPrefix": "EDDM",
-    "frequency": "128.030"
-  },
-  {
     "id": "DMG1",
     "callsignPrefix": "EDDM",
     "frequency": "121.780"
-  },
-  {
-    "id": "DMSH",
-    "callsignPrefix": "EDDM",
-    "frequency": "120.780"
   },
   {
     "id": "DMG2",
@@ -425,9 +410,9 @@
     "frequency": "121.730"
   },
   {
-    "id": "DMSAT",
+    "id": "DMGI",
     "callsignPrefix": "EDDM",
-    "frequency": "132.305"
+    "frequency": "121.990"
   },
   {
     "id": "DMNAT",
@@ -435,9 +420,9 @@
     "frequency": "118.030"
   },
   {
-    "id": "DMGI",
+    "id": "DMNH",
     "callsignPrefix": "EDDM",
-    "frequency": "121.990"
+    "frequency": "128.030"
   },
   {
     "id": "DMNL",
@@ -453,6 +438,16 @@
     "id": "DMTN",
     "callsignPrefix": "EDDM",
     "frequency": "118.705"
+  },
+  {
+    "id": "DMSAT",
+    "callsignPrefix": "EDDM",
+    "frequency": "132.305"
+  },
+  {
+    "id": "DMSH",
+    "callsignPrefix": "EDDM",
+    "frequency": "120.780"
   },
   {
     "id": "DMSL",
@@ -840,14 +835,14 @@
     "frequency": "128.705"
   },
   {
-    "id": "ILR",
-    "callsignPrefix": "EDJA",
-    "frequency": "129.450"
-  },
-  {
     "id": "JAG",
     "callsignPrefix": "EDJA",
     "frequency": "121.680"
+  },
+  {
+    "id": "ILR",
+    "callsignPrefix": "EDJA",
+    "frequency": "129.450"
   },
   {
     "id": "JAT",
@@ -985,6 +980,11 @@
     "frequency": "129.555"
   },
   {
+    "id": "FUE",
+    "callsignPrefix": "EDMM",
+    "frequency": "133.550"
+  },
+  {
     "id": "GER",
     "callsignPrefix": "EDMM",
     "frequency": "133.230"
@@ -1015,6 +1015,16 @@
     "frequency": "132.550"
   },
   {
+    "id": "STA",
+    "callsignPrefix": "EDMM",
+    "frequency": "132.455"
+  },
+  {
+    "id": "SWA",
+    "callsignPrefix": "EDMM",
+    "frequency": "136.525"
+  },
+  {
     "id": "TEG",
     "callsignPrefix": "EDMM",
     "frequency": "133.680"
@@ -1023,11 +1033,6 @@
     "id": "TRU",
     "callsignPrefix": "EDMM",
     "frequency": "132.635"
-  },
-  {
-    "id": "SWA",
-    "callsignPrefix": "EDMM",
-    "frequency": "136.525"
   },
   {
     "id": "WLD",
@@ -1195,6 +1200,11 @@
     "frequency": "124.355"
   },
   {
+    "id": "ALP",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.755"
+  },
+  {
     "id": "SAL",
     "callsignPrefix": "EDUU",
     "frequency": "133.860"
@@ -1228,11 +1238,6 @@
     "id": "ISA",
     "callsignPrefix": "EDUU",
     "frequency": "136.335"
-  },
-  {
-    "id": "ALP",
-    "callsignPrefix": "EDUU",
-    "frequency": "133.755"
   },
   {
     "id": "NTM",

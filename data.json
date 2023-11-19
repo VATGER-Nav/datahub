@@ -1,14 +1,5 @@
 [
   {
-    "logon": "",
-    "frequency": "",
-    "abbreviation": "",
-    "description": "",
-    "schedule_groups": [
-      "EDMM"
-    ]
-  },
-  {
     "logon": "EDAH_TWR",
     "frequency": "132.830",
     "abbreviation": "AHT",
@@ -636,28 +627,10 @@
     ]
   },
   {
-    "logon": "EDDM_1_APP",
-    "frequency": "128.030",
-    "abbreviation": "DMNH",
-    "description": "M\u00fcnchen Arrival (North High)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
-  },
-  {
     "logon": "EDDM_1_GND",
     "frequency": "121.780",
     "abbreviation": "DMG1",
     "description": "M\u00fcnchen Apron (Apron 1)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
-  },
-  {
-    "logon": "EDDM_2_APP",
-    "frequency": "120.780",
-    "abbreviation": "DMSH",
-    "description": "M\u00fcnchen Arrival (South High)",
     "schedule_minstation": [
       "EDMM"
     ]
@@ -690,24 +663,6 @@
     ]
   },
   {
-    "logon": "EDDM_D_APP",
-    "frequency": "132.305",
-    "abbreviation": "DMSAT",
-    "description": "M\u00fcnchen Director (South Director)",
-    "schedule_groups": [
-      "EDMM"
-    ]
-  },
-  {
-    "logon": "EDDM_F_APP",
-    "frequency": "118.030",
-    "abbreviation": "DMNAT",
-    "description": "M\u00fcnchen Director (North Director)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
-  },
-  {
     "logon": "EDDM_I_GND",
     "frequency": "121.990",
     "abbreviation": "DMGI",
@@ -717,7 +672,25 @@
     ]
   },
   {
-    "logon": "EDDM_N_APP",
+    "logon": "EDDM_ND_APP",
+    "frequency": "118.030",
+    "abbreviation": "DMNAT",
+    "description": "M\u00fcnchen Director (North Director)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_NH_APP",
+    "frequency": "128.030",
+    "abbreviation": "DMNH",
+    "description": "M\u00fcnchen Arrival (North High)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_NL_APP",
     "frequency": "123.905",
     "abbreviation": "DMNL",
     "description": "M\u00fcnchen Radar (North Low)",
@@ -744,7 +717,25 @@
     ]
   },
   {
-    "logon": "EDDM_S_APP",
+    "logon": "EDDM_SD_APP",
+    "frequency": "132.305",
+    "abbreviation": "DMSAT",
+    "description": "M\u00fcnchen Director (South Director)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_SH_APP",
+    "frequency": "120.780",
+    "abbreviation": "DMSH",
+    "description": "M\u00fcnchen Arrival (South High)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDM_SL_APP",
     "frequency": "127.955",
     "abbreviation": "DMSL",
     "description": "M\u00fcnchen Radar (South Low)",
@@ -1398,19 +1389,19 @@
     "description": "Luebeck Tower"
   },
   {
-    "logon": "EDJA_APP",
-    "frequency": "129.450",
-    "abbreviation": "ILR",
-    "description": "M\u00fcnchen Radar (Iller)",
+    "logon": "EDJA_GND",
+    "frequency": "121.680",
+    "abbreviation": "JAG",
+    "description": "Memmingen Ground",
     "schedule_groups": [
       "EDMM"
     ]
   },
   {
-    "logon": "EDJA_GND",
-    "frequency": "121.680",
-    "abbreviation": "JAG",
-    "description": "Memmingen Ground",
+    "logon": "EDJA_ILR_APP",
+    "frequency": "129.450",
+    "abbreviation": "ILR",
+    "description": "M\u00fcnchen Radar (Iller)",
     "schedule_groups": [
       "EDMM"
     ]
@@ -1585,7 +1576,7 @@
     ]
   },
   {
-    "logon": "EDMM_A_CTR",
+    "logon": "EDMM_ALB_CTR",
     "frequency": "129.100",
     "abbreviation": "ALB",
     "description": "M\u00fcnchen Radar (Allersberg)",
@@ -1618,7 +1609,7 @@
     ]
   },
   {
-    "logon": "EDMM_E_CTR",
+    "logon": "EDMM_EGG_CTR",
     "frequency": "129.555",
     "abbreviation": "EGG",
     "description": "M\u00fcnchen Radar (Eggenfelden)",
@@ -1627,6 +1618,15 @@
     ],
     "relevant_airports": [
       "EDDM"
+    ]
+  },
+  {
+    "logon": "EDMM_FUE_CTR",
+    "frequency": "133.550",
+    "abbreviation": "FUE",
+    "description": "M\u00fcnchen Radar (F\u00fcssen)",
+    "schedule_groups": [
+      "EDMM"
     ]
   },
   {
@@ -1672,7 +1672,7 @@
     ]
   },
   {
-    "logon": "EDMM_N_CTR",
+    "logon": "EDMM_NDG_CTR",
     "frequency": "125.140",
     "abbreviation": "NDG",
     "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
@@ -1699,7 +1699,7 @@
     ]
   },
   {
-    "logon": "EDMM_R_CTR",
+    "logon": "EDMM_RDG_CTR",
     "frequency": "132.550",
     "abbreviation": "RDG",
     "description": "M\u00fcnchen Radar (Roding)",
@@ -1712,25 +1712,16 @@
     ]
   },
   {
-    "logon": "EDMM_T_CTR",
-    "frequency": "133.680",
-    "abbreviation": "TEG",
-    "description": "M\u00fcnchen Radar (Tegernsee)",
+    "logon": "EDMM_STA_CTR",
+    "frequency": "132.455",
+    "abbreviation": "STA",
+    "description": "M\u00fcnchen Radar (Starnberg)",
     "schedule_groups": [
       "EDMM"
     ]
   },
   {
-    "logon": "EDMM_U_CTR",
-    "frequency": "132.635",
-    "abbreviation": "TRU",
-    "description": "M\u00fcnchen Radar (Traun)",
-    "schedule_groups": [
-      "EDMM"
-    ]
-  },
-  {
-    "logon": "EDMM_W_APP",
+    "logon": "EDMM_SWA_APP",
     "frequency": "136.525",
     "abbreviation": "SWA",
     "description": "M\u00fcnchen Radar (Schwaben)",
@@ -1746,7 +1737,25 @@
     ]
   },
   {
-    "logon": "EDMM_W_CTR",
+    "logon": "EDMM_TEG_CTR",
+    "frequency": "133.680",
+    "abbreviation": "TEG",
+    "description": "M\u00fcnchen Radar (Tegernsee)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_TRU_CTR",
+    "frequency": "132.635",
+    "abbreviation": "TRU",
+    "description": "M\u00fcnchen Radar (Traun)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDMM_WLD_CTR",
     "frequency": "136.230",
     "abbreviation": "WLD",
     "description": "M\u00fcnchen Radar (Walda)",
@@ -1755,7 +1764,7 @@
     ]
   },
   {
-    "logon": "EDMM_Z_CTR",
+    "logon": "EDMM_ZUG_CTR",
     "frequency": "134.150",
     "abbreviation": "ZUG",
     "description": "M\u00fcnchen Radar (Zugspitze)",
@@ -1971,6 +1980,13 @@
     "description": "Konstanz Radio"
   },
   {
+    "logon": "EDUU_ALP_CTR",
+    "frequency": "133.755",
+    "abbreviation": "ALP",
+    "description": "Rhein Radar (Alpen)",
+    "schedule_groups": "EDMM"
+  },
+  {
     "logon": "EDUU_A_CTR",
     "frequency": "133.860",
     "abbreviation": "SAL",
@@ -1978,14 +1994,14 @@
     "schedule_groups": "EDMM"
   },
   {
-    "logon": "EDUU_C_CTR",
+    "logon": "EDUU_CHI_CTR",
     "frequency": "123.390",
     "abbreviation": "CHI",
     "description": "Rhein Radar (Chiem)",
     "schedule_groups": "EDMM"
   },
   {
-    "logon": "EDUU_D_CTR",
+    "logon": "EDUU_DON_CTR",
     "frequency": "127.290",
     "abbreviation": "DON",
     "description": "Rhein Radar (Donau)",
@@ -2010,17 +2026,10 @@
     "description": "Rhein Radar (Havel)"
   },
   {
-    "logon": "EDUU_I_CTR",
+    "logon": "EDUU_ISA_CTR",
     "frequency": "136.335",
     "abbreviation": "ISA",
     "description": "Rhein Radar (Isar)",
-    "schedule_groups": "EDMM"
-  },
-  {
-    "logon": "EDUU_L_CTR",
-    "frequency": "133.755",
-    "abbreviation": "ALP",
-    "description": "Rhein Radar (Alpen)",
     "schedule_groups": "EDMM"
   },
   {
