@@ -1,10 +1,5 @@
 [
   {
-    "id": "AHT",
-    "callsignPrefix": "EDAH",
-    "frequency": "132.830"
-  },
-  {
     "id": "AVT",
     "callsignPrefix": "EDAV",
     "frequency": "119.055"
@@ -85,19 +80,9 @@
     "frequency": "129.505"
   },
   {
-    "id": "DBTN",
-    "callsignPrefix": "EDDB",
-    "frequency": "120.030"
-  },
-  {
     "id": "DBGS",
     "callsignPrefix": "EDDB",
     "frequency": "121.705"
-  },
-  {
-    "id": "DBTS",
-    "callsignPrefix": "EDDB",
-    "frequency": "118.805"
   },
   {
     "id": "SAS",
@@ -243,16 +228,6 @@
     "id": "DHE",
     "callsignPrefix": "EDDH",
     "frequency": "121.705"
-  },
-  {
-    "id": "DHT",
-    "callsignPrefix": "EDDH",
-    "frequency": "126.855"
-  },
-  {
-    "id": "DHR",
-    "callsignPrefix": "EDDH",
-    "frequency": "121.280"
   },
   {
     "id": "DHW",
@@ -530,11 +505,6 @@
     "frequency": "121.955"
   },
   {
-    "id": "DVT",
-    "callsignPrefix": "EDDV",
-    "frequency": "120.180"
-  },
-  {
     "id": "DWL",
     "callsignPrefix": "EDDW",
     "frequency": "134.830"
@@ -543,11 +513,6 @@
     "id": "DWG",
     "callsignPrefix": "EDDW",
     "frequency": "121.755"
-  },
-  {
-    "id": "DWT",
-    "callsignPrefix": "EDDW",
-    "frequency": "120.330"
   },
   {
     "id": "EHI",
@@ -745,19 +710,9 @@
     "frequency": "120.380"
   },
   {
-    "id": "HIT",
-    "callsignPrefix": "EDHI",
-    "frequency": "123.255"
-  },
-  {
     "id": "HLG",
     "callsignPrefix": "EDHL",
     "frequency": "121.780"
-  },
-  {
-    "id": "HLT",
-    "callsignPrefix": "EDHL",
-    "frequency": "128.705"
   },
   {
     "id": "JAG",
@@ -1205,24 +1160,9 @@
     "frequency": "134.085"
   },
   {
-    "id": "VET",
-    "callsignPrefix": "EDVE",
-    "frequency": "120.055"
-  },
-  {
     "id": "VKG",
     "callsignPrefix": "EDVK",
     "frequency": "121.905"
-  },
-  {
-    "id": "VKT",
-    "callsignPrefix": "EDVK",
-    "frequency": "118.105"
-  },
-  {
-    "id": "XWT",
-    "callsignPrefix": "EDXW",
-    "frequency": "119.750"
   },
   {
     "id": "CELH",
