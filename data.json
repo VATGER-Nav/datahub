@@ -72,12 +72,6 @@
     "description": "Peenemuende Radio"
   },
   {
-    "logon": "EDDB_DEL",
-    "frequency": "121.605",
-    "abbreviation": "DBC",
-    "description": "Berlin Delivery"
-  },
-  {
     "logon": "EDDC_APP",
     "frequency": "125.875",
     "abbreviation": "SAS",
@@ -333,12 +327,6 @@
     "schedule_groups": [
       "EDLL"
     ]
-  },
-  {
-    "logon": "EDDH_DEL",
-    "frequency": "121.805",
-    "abbreviation": "DHL",
-    "description": "Hamburg Ground"
   },
   {
     "logon": "EDDK_APP",
@@ -831,18 +819,6 @@
     "schedule_groups": [
       "EDFF"
     ]
-  },
-  {
-    "logon": "EDDV_DEL",
-    "frequency": "120.405",
-    "abbreviation": "DVL",
-    "description": "Hannover Delivery"
-  },
-  {
-    "logon": "EDDW_DEL",
-    "frequency": "134.830",
-    "abbreviation": "DWL",
-    "description": "Bremen Delivery"
   },
   {
     "logon": "EDEH_I_TWR",

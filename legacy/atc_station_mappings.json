@@ -60,11 +60,6 @@
     "frequency": "122.480"
   },
   {
-    "id": "DBC",
-    "callsignPrefix": "EDDB",
-    "frequency": "121.605"
-  },
-  {
     "id": "SAS",
     "callsignPrefix": "EDDC",
     "frequency": "125.875"
@@ -198,11 +193,6 @@
     "id": "DGT",
     "callsignPrefix": "EDDG",
     "frequency": "129.805"
-  },
-  {
-    "id": "DHL",
-    "callsignPrefix": "EDDH",
-    "frequency": "121.805"
   },
   {
     "id": "DKA",
@@ -463,16 +453,6 @@
     "id": "DSTV",
     "callsignPrefix": "EDDS",
     "frequency": "119.055"
-  },
-  {
-    "id": "DVL",
-    "callsignPrefix": "EDDV",
-    "frequency": "120.405"
-  },
-  {
-    "id": "DWL",
-    "callsignPrefix": "EDDW",
-    "frequency": "134.830"
   },
   {
     "id": "EHI",
