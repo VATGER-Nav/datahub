@@ -1,17 +1,20 @@
 [
   {
-    "day": "1",
-    "booking": [
-      "EDDN",
-      "EDMM_O"
-    ]
+    "rule": "every_X_days",
+    "one_date": "2023-10-05",
+    "days": "21",
+    "booking": ["EDDB", "EDXW", "EDDH", "EDDW", "EDDV", "EDWW_A", "EDWW_M", "EDWW_D", "EDWW_H"]
+  },   
+  {
+    "day": "4",
+    "booking": ["EDDH", "EDWW_A", "EDWW_D", "EDWW_H", "EDWW_M"]
   },
   {
-    "day": "3",
-    "booking": [
-      "EDDM",
-      "EDMM_R",
-      "EDMM_Z"
-    ]
+    "day": "2",
+    "booking": ["EDDB", "EDWW_F", "EDWW_M", "EDWW_D"]
+  },
+  {
+    "day": "7",
+    "booking": ["EDDV", "EDWW_A", "EDWW_D"]
   }
 ]
