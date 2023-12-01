@@ -3,18 +3,43 @@
     "rule": "every_X_days",
     "one_date": "2023-10-05",
     "days": "21",
-    "booking": ["EDDB", "EDXW", "EDDH", "EDDW", "EDDV", "EDWW_A", "EDWW_M", "EDWW_D", "EDWW_H"]
-  },   
+    "booking": [
+      "EDDB",
+      "EDXW",
+      "EDDH",
+      "EDDW",
+      "EDDV",
+      "EDWW_A",
+      "EDWW_M",
+      "EDWW_D",
+      "EDWW_H"
+    ]
+  },
   {
     "day": "4",
-    "booking": ["EDDH", "EDWW_A", "EDWW_D", "EDWW_H", "EDWW_M"]
+    "booking": [
+      "EDDH",
+      "EDWW_A",
+      "EDWW_D",
+      "EDWW_H",
+      "EDWW_M"
+    ]
   },
   {
     "day": "2",
-    "booking": ["EDDB", "EDWW_F", "EDWW_M", "EDWW_D"]
+    "booking": [
+      "EDDB",
+      "EDWW_F",
+      "EDWW_M",
+      "EDWW_D"
+    ]
   },
   {
     "day": "7",
-    "booking": ["EDDV", "EDWW_A", "EDWW_D"]
+    "booking": [
+      "EDDV",
+      "EDWW_A",
+      "EDWW_D"
+    ]
   }
 ]
