@@ -75,29 +75,9 @@
     "frequency": "121.605"
   },
   {
-    "id": "DBAST",
-    "callsignPrefix": "EDDB",
-    "frequency": "121.130"
-  },
-  {
     "id": "DBGE",
     "callsignPrefix": "EDDB",
     "frequency": "129.605"
-  },
-  {
-    "id": "DBANT",
-    "callsignPrefix": "EDDB",
-    "frequency": "136.105"
-  },
-  {
-    "id": "DBAN",
-    "callsignPrefix": "EDDB",
-    "frequency": "119.630"
-  },
-  {
-    "id": "DBDN",
-    "callsignPrefix": "EDDB",
-    "frequency": "134.430"
   },
   {
     "id": "DBGN",
@@ -110,16 +90,6 @@
     "frequency": "120.030"
   },
   {
-    "id": "DBAS",
-    "callsignPrefix": "EDDB",
-    "frequency": "126.425"
-  },
-  {
-    "id": "DBDS",
-    "callsignPrefix": "EDDB",
-    "frequency": "120.630"
-  },
-  {
     "id": "DBGS",
     "callsignPrefix": "EDDB",
     "frequency": "121.705"
@@ -128,16 +98,6 @@
     "id": "DBTS",
     "callsignPrefix": "EDDB",
     "frequency": "118.805"
-  },
-  {
-    "id": "DBANQ",
-    "callsignPrefix": "EDDB",
-    "frequency": "119.630"
-  },
-  {
-    "id": "DBASQ",
-    "callsignPrefix": "EDDB",
-    "frequency": "126.425"
   },
   {
     "id": "SAS",
@@ -280,19 +240,9 @@
     "frequency": "121.805"
   },
   {
-    "id": "HAME",
-    "callsignPrefix": "EDDH",
-    "frequency": "119.510"
-  },
-  {
     "id": "DHE",
     "callsignPrefix": "EDDH",
     "frequency": "121.705"
-  },
-  {
-    "id": "DHAT",
-    "callsignPrefix": "EDDH",
-    "frequency": "118.205"
   },
   {
     "id": "DHT",
@@ -303,11 +253,6 @@
     "id": "DHR",
     "callsignPrefix": "EDDH",
     "frequency": "121.280"
-  },
-  {
-    "id": "HAMW",
-    "callsignPrefix": "EDDH",
-    "frequency": "134.255"
   },
   {
     "id": "DHW",
@@ -575,19 +520,9 @@
     "frequency": "119.055"
   },
   {
-    "id": "HAN",
-    "callsignPrefix": "EDDV",
-    "frequency": "119.490"
-  },
-  {
     "id": "DVL",
     "callsignPrefix": "EDDV",
     "frequency": "120.405"
-  },
-  {
-    "id": "DVAT",
-    "callsignPrefix": "EDDV",
-    "frequency": "119.605"
   },
   {
     "id": "DVG",
@@ -600,19 +535,9 @@
     "frequency": "120.180"
   },
   {
-    "id": "FRI",
-    "callsignPrefix": "EDDW",
-    "frequency": "124.800"
-  },
-  {
     "id": "DWL",
     "callsignPrefix": "EDDW",
     "frequency": "134.830"
-  },
-  {
-    "id": "DWAT",
-    "callsignPrefix": "EDDW",
-    "frequency": "120.350"
   },
   {
     "id": "DWG",

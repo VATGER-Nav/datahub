@@ -90,34 +90,10 @@
     "description": "Berlin Delivery"
   },
   {
-    "logon": "EDDB_D_APP",
-    "frequency": "121.130",
-    "abbreviation": "DBAST",
-    "description": "Berlin Director Sued"
-  },
-  {
     "logon": "EDDB_E_GND",
     "frequency": "129.605",
     "abbreviation": "DBGE",
     "description": "Berlin Apron (Nord)"
-  },
-  {
-    "logon": "EDDB_F_APP",
-    "frequency": "136.105",
-    "abbreviation": "DBANT",
-    "description": "Berlin Director Nord"
-  },
-  {
-    "logon": "EDDB_N_APP",
-    "frequency": "119.630",
-    "abbreviation": "DBAN",
-    "description": "Bremen Radar (Berlin Arrival Nord)"
-  },
-  {
-    "logon": "EDDB_N_DEP",
-    "frequency": "134.430",
-    "abbreviation": "DBDN",
-    "description": "Bremen Radar (Berlin Departure Nord)"
   },
   {
     "logon": "EDDB_N_GND",
@@ -132,18 +108,6 @@
     "description": "Berlin Tower (Nord)"
   },
   {
-    "logon": "EDDB_S_APP",
-    "frequency": "126.425",
-    "abbreviation": "DBAS",
-    "description": "Bremen Radar (Berlin Arrival Sued)"
-  },
-  {
-    "logon": "EDDB_S_DEP",
-    "frequency": "120.630",
-    "abbreviation": "DBDS",
-    "description": "Bremen Radar (Berlin Departure Sued)"
-  },
-  {
     "logon": "EDDB_S_GND",
     "frequency": "121.705",
     "abbreviation": "DBGS",
@@ -154,18 +118,6 @@
     "frequency": "118.805",
     "abbreviation": "DBTS",
     "description": "Berlin Tower (Sued)"
-  },
-  {
-    "logon": "EDDB_Y_APP",
-    "frequency": "119.630",
-    "abbreviation": "DBANQ",
-    "description": "Bremen Radar (Berlin Arrival Nord Coordinator)"
-  },
-  {
-    "logon": "EDDB_Z_APP",
-    "frequency": "126.425",
-    "abbreviation": "DBASQ",
-    "description": "Bremen Radar (Berlin Arrival Sued Coordinator)"
   },
   {
     "logon": "EDDC_APP",
@@ -431,22 +383,10 @@
     "description": "Hamburg Ground"
   },
   {
-    "logon": "EDDH_E_APP",
-    "frequency": "119.510",
-    "abbreviation": "HAME",
-    "description": "Bremen Radar (Hamburg East)"
-  },
-  {
     "logon": "EDDH_E_GND",
     "frequency": "121.705",
     "abbreviation": "DHE",
     "description": "Hamburg Apron (East)"
-  },
-  {
-    "logon": "EDDH_F_APP",
-    "frequency": "118.205",
-    "abbreviation": "DHAT",
-    "description": "Hamburg Director"
   },
   {
     "logon": "EDDH_TWR",
@@ -459,12 +399,6 @@
     "frequency": "121.280",
     "abbreviation": "DHR",
     "description": "Hamburg VFR Tower"
-  },
-  {
-    "logon": "EDDH_W_APP",
-    "frequency": "134.255",
-    "abbreviation": "HAMW",
-    "description": "Bremen Radar (Hamburg West)"
   },
   {
     "logon": "EDDH_W_GND",
@@ -965,22 +899,10 @@
     ]
   },
   {
-    "logon": "EDDV_APP",
-    "frequency": "119.490",
-    "abbreviation": "HAN",
-    "description": "Bremen Radar (Hannover)"
-  },
-  {
     "logon": "EDDV_DEL",
     "frequency": "120.405",
     "abbreviation": "DVL",
     "description": "Hannover Delivery"
-  },
-  {
-    "logon": "EDDV_F_APP",
-    "frequency": "119.605",
-    "abbreviation": "DVAT",
-    "description": "Hannover Director"
   },
   {
     "logon": "EDDV_GND",
@@ -995,22 +917,10 @@
     "description": "Hannover Tower"
   },
   {
-    "logon": "EDDW_APP",
-    "frequency": "124.800",
-    "abbreviation": "FRI",
-    "description": "Bremen Radar (Friesland)"
-  },
-  {
     "logon": "EDDW_DEL",
     "frequency": "134.830",
     "abbreviation": "DWL",
     "description": "Bremen Delivery"
-  },
-  {
-    "logon": "EDDW_F_APP",
-    "frequency": "120.350",
-    "abbreviation": "DWAT",
-    "description": "Bremen Director"
   },
   {
     "logon": "EDDW_GND",
