@@ -20,9 +20,6 @@
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)"
     "schedule_minstation": [
-      "EDWW",
-    ],
-    "schedule_groups": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -48,9 +45,6 @@
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)"
     "schedule_minstation": [
-      "EDWW",
-    ],
-    "schedule_groups": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -75,9 +69,6 @@
     "abbreviation": "FLG",
     "description": "Bremen Radar (Flaeming)"
     "schedule_minstation": [
-      "EDWW",
-    ],
-    "schedule_groups": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -90,9 +81,6 @@
     "abbreviation": "HEI",
     "description": "Bremen Radar (Heide)"
     "schedule_minstation": [
-      "EDWW",
-    ],
-    "schedule_groups": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -117,9 +105,6 @@
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)"
     "schedule_minstation": [
-      "EDWW",
-    ],
-    "schedule_groups": [
       "EDWW"
     ],
     "relevant_airports": [
@@ -156,9 +141,6 @@
     "abbreviation": "EIDW",
     "description": "Bremen Radar (Eider West)"
     "schedule_minstation": [
-      "EDWW",
-    ],
-    "schedule_groups": [
       "EDWW"
     ],
     "relevant_airports": [
