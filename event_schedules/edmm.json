@@ -1,0 +1,17 @@
+[
+  {
+    "day": "3",
+    "booking": [
+      "EDDM",
+      "EDMM_ALB",
+      "EDMM_ZUG"
+    ]
+  },
+  {
+    "day": "1",
+    "booking": [
+      "EDDN",
+      "EDMM_O"
+    ]
+  }
+]
