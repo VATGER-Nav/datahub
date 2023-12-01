@@ -1,68 +1,170 @@
 [
+    {
+    "logon": "EDWW_CTR",
+    "frequency": "133.725",
+    "abbreviation": "WC",
+    "description": "Bremen Radar (Complete)"
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDB",
+      "EDDH",
+      "EDDV",
+      "EDDW"
+    ]
+  },
   {
     "logon": "EDWW_A_CTR",
     "frequency": "123.925",
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)"
+    "schedule_minstation": [
+      "EDWW",
+    ],
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDH",
+      "EDDW"
+    ]
   },
   {
     "logon": "EDWW_B_CTR",
     "frequency": "123.225",
     "abbreviation": "BOR",
     "description": "Bremen Radar (Boerde)"
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDB"
+    ]
   },
   {
     "logon": "EDWW_D_CTR",
     "frequency": "128.760",
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)"
+    "schedule_minstation": [
+      "EDWW",
+    ],
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDV"
+    ]
   },
   {
     "logon": "EDWW_E_CTR",
     "frequency": "124.075",
     "abbreviation": "EIDE",
     "description": "Bremen Radar (Eider East)"
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDB"
+    ]
   },
   {
     "logon": "EDWW_F_CTR",
     "frequency": "136.450",
     "abbreviation": "FLG",
     "description": "Bremen Radar (Flaeming)"
+    "schedule_minstation": [
+      "EDWW",
+    ],
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDB"
+    ]
   },
   {
     "logon": "EDWW_H_CTR",
     "frequency": "125.855",
     "abbreviation": "HEI",
     "description": "Bremen Radar (Heide)"
+    "schedule_minstation": [
+      "EDWW",
+    ],
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDH"
+    ]
   },
   {
     "logon": "EDWW_K_CTR",
     "frequency": "136.050",
     "abbreviation": "MAR",
     "description": "Bremen Radar (Mark)"
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDB"
+    ]
   },
   {
     "logon": "EDWW_M_CTR",
     "frequency": "124.175",
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)"
+    "schedule_minstation": [
+      "EDWW",
+    ],
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDB"
+    ]
   },
   {
     "logon": "EDWW_R_CTR",
     "frequency": "126.655",
     "abbreviation": "HRZ",
     "description": "Bremen Radar (Harz)"
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDV"
+    ]
   },
   {
     "logon": "EDWW_S_CTR",
     "frequency": "125.025",
     "abbreviation": "EMS",
     "description": "Bremen Radar (Ems)"
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDV"
+    ]
   },
   {
     "logon": "EDWW_W_CTR",
     "frequency": "120.225",
     "abbreviation": "EIDW",
     "description": "Bremen Radar (Eider West)"
+    "schedule_minstation": [
+      "EDWW",
+    ],
+    "schedule_groups": [
+      "EDWW"
+    ],
+    "relevant_airports": [
+      "EDDH",
+      "EDDV",
+      "EDDW"
+    ]
   }
 ]
