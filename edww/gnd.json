@@ -10,53 +10,80 @@
     "frequency": "129.605",
     "abbreviation": "DBGE",
     "description": "Berlin Apron (Nord)"
+    "schedule_minstation": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDB_N_GND",
     "frequency": "129.505",
     "abbreviation": "DBGN",
     "description": "Berlin Ground (Nord)"
+    "schedule_groups": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDB_S_GND",
     "frequency": "121.705",
     "abbreviation": "DBGS",
     "description": "Berlin Ground (Sued)"
+    "schedule_minstation": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDH_E_GND",
     "frequency": "121.705",
     "abbreviation": "DHE",
     "description": "Hamburg Apron (East)"
+    "schedule_minstation": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDH_W_GND",
     "frequency": "121.980",
     "abbreviation": "DHW",
     "description": "Hamburg Apron (West)"
+    "schedule_groups": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDV_GND",
     "frequency": "121.955",
     "abbreviation": "DVG",
     "description": "Hannover Ground"
+    "schedule_minstation": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDW_GND",
     "frequency": "121.755",
     "abbreviation": "DWG",
     "description": "Bremen Ground"
+    "schedule_groups": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDHL_GND",
     "frequency": "121.780",
     "abbreviation": "HLG",
     "description": "Luebeck Ground"
+    "schedule_groups": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDVK_GND",
     "frequency": "121.905",
     "abbreviation": "VKG",
     "description": "Kassel Ground"
+    "schedule_groups": [
+      "EDWW"
+    ]
   }
 ]
