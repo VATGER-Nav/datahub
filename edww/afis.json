@@ -76,5 +76,233 @@
     "frequency": "134.990",
     "abbreviation": "OIT",
     "description": "Bienenfarm Radio"
+  },
+  {
+    "logon": "EDHP_I_TWR",
+    "frequency": "123.910",
+    "abbreviation": "HPT",
+    "description": "Pellworm Radio"
+  },
+  {
+    "logon": "EDHS_I_TWR",
+    "frequency": "132.740",
+    "abbreviation": "HST",
+    "description": "Stade Radio"
+  },
+  {
+    "logon": "EDVH_I_TWR",
+    "frequency": "119.005",
+    "abbreviation": "VHT",
+    "description": "Hodenhagen Radio"
+  },
+  {
+    "logon": "EDVS_I_TWR",
+    "frequency": "122.855",
+    "abbreviation": "VST",
+    "description": "Salzgitter Radio"
+  },
+  {
+    "logon": "EDVW_I_TWR",
+    "frequency": "121.180",
+    "abbreviation": "VWT",
+    "description": "Pyrmont Radio"
+  },
+  {
+    "logon": "EDWF_I_TWR",
+    "frequency": "130.780",
+    "abbreviation": "WFT",
+    "description": "Leer Radio"
+  },
+  {
+    "logon": "EDWO_I_TWR",
+    "frequency": "118.680",
+    "abbreviation": "WOT",
+    "description": "Osnabrück Radio"
+  },
+  {
+    "logon": "EDWQ_I_TWR",
+    "frequency": "118.630",
+    "abbreviation": "WQT",
+    "description": "Ganderkesee Radio"
+  },
+  {
+    "logon": "EDWT_I_TWR",
+    "frequency": "120.605",
+    "abbreviation": "WTT",
+    "description": "Blexen Radio"
+  },
+  {
+    "logon": "EDWZ_I_TWR",
+    "frequency": "132.015",
+    "abbreviation": "WZT",
+    "description": "Baltrum Radio"
+  },
+  {
+    "logon": "EDXB_I_TWR",
+    "frequency": "125.860",
+    "abbreviation": "XBT",
+    "description": "Büsum Radio"
+  },
+  {
+    "logon": "EDXM_I_TWR",
+    "frequency": "132.990",
+    "abbreviation": "XMT",
+    "description": "St. Michael Radio"
+  },
+  {
+    "logon": "EDXN_I_TWR",
+    "frequency": "121.030",
+    "abbreviation": "XNT",
+    "description": "Spieka Radio"
+  },
+  {
+    "logon": "EDXQ_I_TWR",
+    "frequency": "136.015",
+    "abbreviation": "XQT",
+    "description": "Wümme Radio"
+  },
+  {
+    "logon": "EDVY_I_TWR",
+    "frequency": "130.640",
+    "abbreviation": "VYT",
+    "description": "Porta Radio"
+  },
+  {
+    "logon": "EDWR_I_TWR",
+    "frequency": "121.210",
+    "abbreviation": "WRT",
+    "description": "Borkum Radio"
+  },
+  {
+    "logon": "EDVN_I_TWR",
+    "frequency": "118.705",
+    "abbreviation": "VNT",
+    "description": "Northeim Radio"
+  },
+  {
+    "logon": "ETND_I_TWR",
+    "frequency": "122.530",
+    "abbreviation": "NDT",
+    "description": "Diepholz Radio"
+  },
+  {
+    "logon": "EDHE_I_TWR",
+    "frequency": "122.705",
+    "abbreviation": "HET",
+    "description": "Uetersen Radio"
+  },
+  {
+    "logon": "EDHG_I_TWR",
+    "frequency": "122.180",
+    "abbreviation": "HGT",
+    "description": "Lüneburg Radio"
+  },
+  {
+    "logon": "EDHK_I_TWR",
+    "frequency": "119.980",
+    "abbreviation": "HKT",
+    "description": "Kiel Information"
+  },
+  {
+    "logon": "EDVC_I_TWR",
+    "frequency": "123.655",
+    "abbreviation": "VCT",
+    "description": "Arloh Radio"
+  },
+  {
+    "logon": "EDVI_I_TWR",
+    "frequency": "130.280",
+    "abbreviation": "VIT",
+    "description": "Höxter Radio"
+  },
+  {
+    "logon": "EDVU_I_TWR",
+    "frequency": "130.905",
+    "abbreviation": "VUT",
+    "description": "Uelzen Radio"
+  },
+  {
+    "logon": "EDWE_I_TWR",
+    "frequency": "118.605",
+    "abbreviation": "WET",
+    "description": "Emden Information"
+  },
+  {
+    "logon": "EDWG_I_TWR",
+    "frequency": "122.405",
+    "abbreviation": "WGT",
+    "description": "Wooge Radio"
+  },
+  {
+    "logon": "EDWI_I_TWR",
+    "frequency": "129.255",
+    "abbreviation": "WIT",
+    "description": "Wilhelmshaven Information"
+  },
+  {
+    "logon": "EDWJ_I_TWR",
+    "frequency": "120.505",
+    "abbreviation": "WJT",
+    "description": "Juist Radio"
+  },
+  {
+    "logon": "EDWL_I_TWR",
+    "frequency": "122.030",
+    "abbreviation": "WLT",
+    "description": "Langeoog Radio"
+  },
+  {
+    "logon": "EDWN_I_TWR",
+    "frequency": "122.655",
+    "abbreviation": "WNT",
+    "description": "Nordhorn Radio"
+  },
+  {
+    "logon": "EDWS_I_TWR",
+    "frequency": "123.030",
+    "abbreviation": "WST",
+    "description": "Norddeich Radio"
+  },
+  {
+    "logon": "EDWY_I_TWR",
+    "frequency": "122.605",
+    "abbreviation": "WYT",
+    "description": "Norderney Radio"
+  },
+  {
+    "logon": "EDXH_I_TWR",
+    "frequency": "122.455",
+    "abbreviation": "XHT",
+    "description": "Helgoland Radio"
+  },
+  {
+    "logon": "EDXJ_I_TWR",
+    "frequency": "125.850",
+    "abbreviation": "XJT",
+    "description": "Husum Radio"
+  },
+  {
+    "logon": "EDXO_I_TWR",
+    "frequency": "129.780",
+    "abbreviation": "XOT",
+    "description": "St. Peter Radio"
+  },
+  {
+    "logon": "EDXP_I_TWR",
+    "frequency": "122.405",
+    "abbreviation": "XPT",
+    "description": "Harle Radio"
+  },
+  {
+    "logon": "EDXY_I_TWR",
+    "frequency": "118.255",
+    "abbreviation": "XYT",
+    "description": "Wyk Radio"
+  },
+  {
+    "logon": "EDXR_I_TWR",
+    "frequency": "123.650",
+    "abbreviation": "XRT",
+    "description": "Rendsburg Radio"
   }
 ]
