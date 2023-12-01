@@ -72,34 +72,10 @@
     "description": "Peenemuende Radio"
   },
   {
-    "logon": "EDDB_A_GND",
-    "frequency": "121.855",
-    "abbreviation": "DBGA",
-    "description": "Berlin Apron (Main)"
-  },
-  {
     "logon": "EDDB_DEL",
     "frequency": "121.605",
     "abbreviation": "DBC",
     "description": "Berlin Delivery"
-  },
-  {
-    "logon": "EDDB_E_GND",
-    "frequency": "129.605",
-    "abbreviation": "DBGE",
-    "description": "Berlin Apron (Nord)"
-  },
-  {
-    "logon": "EDDB_N_GND",
-    "frequency": "129.505",
-    "abbreviation": "DBGN",
-    "description": "Berlin Ground (Nord)"
-  },
-  {
-    "logon": "EDDB_S_GND",
-    "frequency": "121.705",
-    "abbreviation": "DBGS",
-    "description": "Berlin Ground (Sued)"
   },
   {
     "logon": "EDDC_APP",
@@ -363,18 +339,6 @@
     "frequency": "121.805",
     "abbreviation": "DHL",
     "description": "Hamburg Ground"
-  },
-  {
-    "logon": "EDDH_E_GND",
-    "frequency": "121.705",
-    "abbreviation": "DHE",
-    "description": "Hamburg Apron (East)"
-  },
-  {
-    "logon": "EDDH_W_GND",
-    "frequency": "121.980",
-    "abbreviation": "DHW",
-    "description": "Hamburg Apron (West)"
   },
   {
     "logon": "EDDK_APP",
@@ -875,22 +839,10 @@
     "description": "Hannover Delivery"
   },
   {
-    "logon": "EDDV_GND",
-    "frequency": "121.955",
-    "abbreviation": "DVG",
-    "description": "Hannover Ground"
-  },
-  {
     "logon": "EDDW_DEL",
     "frequency": "134.830",
     "abbreviation": "DWL",
     "description": "Bremen Delivery"
-  },
-  {
-    "logon": "EDDW_GND",
-    "frequency": "121.755",
-    "abbreviation": "DWG",
-    "description": "Bremen Ground"
   },
   {
     "logon": "EDEH_I_TWR",
@@ -1237,12 +1189,6 @@
     "frequency": "120.380",
     "abbreviation": "GSI",
     "description": "Siegerland Information"
-  },
-  {
-    "logon": "EDHL_GND",
-    "frequency": "121.780",
-    "abbreviation": "HLG",
-    "description": "Luebeck Ground"
   },
   {
     "logon": "EDJA_GND",
@@ -1937,12 +1883,6 @@
     "frequency": "134.085",
     "abbreviation": "WUR",
     "description": "Rhein Radar (W\u00fcrzburg)"
-  },
-  {
-    "logon": "EDVK_GND",
-    "frequency": "121.905",
-    "abbreviation": "VKG",
-    "description": "Kassel Ground"
   },
   {
     "logon": "EDYY_CH_CTR",

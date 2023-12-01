@@ -60,29 +60,9 @@
     "frequency": "122.480"
   },
   {
-    "id": "DBGA",
-    "callsignPrefix": "EDDB",
-    "frequency": "121.855"
-  },
-  {
     "id": "DBC",
     "callsignPrefix": "EDDB",
     "frequency": "121.605"
-  },
-  {
-    "id": "DBGE",
-    "callsignPrefix": "EDDB",
-    "frequency": "129.605"
-  },
-  {
-    "id": "DBGN",
-    "callsignPrefix": "EDDB",
-    "frequency": "129.505"
-  },
-  {
-    "id": "DBGS",
-    "callsignPrefix": "EDDB",
-    "frequency": "121.705"
   },
   {
     "id": "SAS",
@@ -223,16 +203,6 @@
     "id": "DHL",
     "callsignPrefix": "EDDH",
     "frequency": "121.805"
-  },
-  {
-    "id": "DHE",
-    "callsignPrefix": "EDDH",
-    "frequency": "121.705"
-  },
-  {
-    "id": "DHW",
-    "callsignPrefix": "EDDH",
-    "frequency": "121.980"
   },
   {
     "id": "DKA",
@@ -500,19 +470,9 @@
     "frequency": "120.405"
   },
   {
-    "id": "DVG",
-    "callsignPrefix": "EDDV",
-    "frequency": "121.955"
-  },
-  {
     "id": "DWL",
     "callsignPrefix": "EDDW",
     "frequency": "134.830"
-  },
-  {
-    "id": "DWG",
-    "callsignPrefix": "EDDW",
-    "frequency": "121.755"
   },
   {
     "id": "EHI",
@@ -708,11 +668,6 @@
     "id": "GSI",
     "callsignPrefix": "EDGS",
     "frequency": "120.380"
-  },
-  {
-    "id": "HLG",
-    "callsignPrefix": "EDHL",
-    "frequency": "121.780"
   },
   {
     "id": "JAG",
@@ -1158,11 +1113,6 @@
     "id": "WUR",
     "callsignPrefix": "EDUU",
     "frequency": "134.085"
-  },
-  {
-    "id": "VKG",
-    "callsignPrefix": "EDVK",
-    "frequency": "121.905"
   },
   {
     "id": "CELH",
