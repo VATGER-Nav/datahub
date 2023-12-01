@@ -1185,26 +1185,6 @@
     "frequency": "120.055"
   },
   {
-    "id": "NLR",
-    "callsignPrefix": "ETNL",
-    "frequency": "123.300"
-  },
-  {
-    "id": "NLA",
-    "callsignPrefix": "ETNL",
-    "frequency": "121.955"
-  },
-  {
-    "id": "NLP",
-    "callsignPrefix": "ETNL",
-    "frequency": "133.105"
-  },
-  {
-    "id": "NLT",
-    "callsignPrefix": "ETNL",
-    "frequency": "118.430"
-  },
-  {
     "id": "TNNA",
     "callsignPrefix": "ETNN",
     "frequency": "129.055"
@@ -1218,16 +1198,6 @@
     "id": "OUT",
     "callsignPrefix": "ETOU",
     "frequency": "122.100"
-  },
-  {
-    "id": "SHR",
-    "callsignPrefix": "ETSH",
-    "frequency": "129.855"
-  },
-  {
-    "id": "SHT",
-    "callsignPrefix": "ETSH",
-    "frequency": "130.505"
   },
   {
     "id": "IGL",
