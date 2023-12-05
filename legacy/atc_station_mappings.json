@@ -1360,6 +1360,81 @@
     "frequency": "119.750"
   },
   {
+    "id": "IXX",
+    "callsignPrefix": "EDXX",
+    "frequency": "128.950"
+  },
+  {
+    "id": "IGG",
+    "callsignPrefix": "EDXX",
+    "frequency": "123.525"
+  },
+  {
+    "id": "IDB",
+    "callsignPrefix": "EDXX",
+    "frequency": "132.650"
+  },
+  {
+    "id": "IDC",
+    "callsignPrefix": "EDXX",
+    "frequency": "125.800"
+  },
+  {
+    "id": "IDF",
+    "callsignPrefix": "EDXX",
+    "frequency": "119.150"
+  },
+  {
+    "id": "IDH",
+    "callsignPrefix": "EDXX",
+    "frequency": "125.100"
+  },
+  {
+    "id": "IDL",
+    "callsignPrefix": "EDXX",
+    "frequency": "129.875"
+  },
+  {
+    "id": "IDM",
+    "callsignPrefix": "EDXX",
+    "frequency": "126.950"
+  },
+  {
+    "id": "IDO",
+    "callsignPrefix": "EDXX",
+    "frequency": "120.650"
+  },
+  {
+    "id": "IDR",
+    "callsignPrefix": "EDXX",
+    "frequency": "123.525"
+  },
+  {
+    "id": "IDS",
+    "callsignPrefix": "EDXX",
+    "frequency": "128.950"
+  },
+  {
+    "id": "IDV",
+    "callsignPrefix": "EDXX",
+    "frequency": "119.825"
+  },
+  {
+    "id": "ISW",
+    "callsignPrefix": "EDXX",
+    "frequency": "128.525"
+  },
+  {
+    "id": "IMM",
+    "callsignPrefix": "EDXX",
+    "frequency": "120.650"
+  },
+  {
+    "id": "IWW",
+    "callsignPrefix": "EDXX",
+    "frequency": "119.825"
+  },
+  {
     "id": "CELH",
     "callsignPrefix": "EDYY",
     "frequency": "128.810"
