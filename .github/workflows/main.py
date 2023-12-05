@@ -8,9 +8,9 @@ from removeRedundant import removeRedundantScheduleEntries
 
 try:
     combinedFile = "data.json"
-    folders_to_sort = ["edgg", "edmm", "eduu", "edww", "edyy", "event_schedules"]
-    folders_to_consolidate = ["edgg", "edmm", "eduu", "edww", "edyy"]
 
+    folders_to_consolidate = ["edgg", "edmm", "eduu", "edww", "edyy", "edxx"]
+    folders_to_sort = folders_to_consolidate + ["event_schedules"]
     dataValid(folders_to_consolidate)
 
     # remove redundant schedule_groups entries
