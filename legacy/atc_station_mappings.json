@@ -820,9 +820,24 @@
     "frequency": "120.380"
   },
   {
+    "id": "HET",
+    "callsignPrefix": "EDHE",
+    "frequency": "122.705"
+  },
+  {
+    "id": "HGT",
+    "callsignPrefix": "EDHG",
+    "frequency": "122.180"
+  },
+  {
     "id": "HIT",
     "callsignPrefix": "EDHI",
     "frequency": "123.255"
+  },
+  {
+    "id": "HKT",
+    "callsignPrefix": "EDHK",
+    "frequency": "119.980"
   },
   {
     "id": "HLG",
@@ -833,6 +848,16 @@
     "id": "HLT",
     "callsignPrefix": "EDHL",
     "frequency": "128.705"
+  },
+  {
+    "id": "HPT",
+    "callsignPrefix": "EDHP",
+    "frequency": "123.910"
+  },
+  {
+    "id": "HST",
+    "callsignPrefix": "EDHS",
+    "frequency": "132.740"
   },
   {
     "id": "JAG",
@@ -1280,9 +1305,24 @@
     "frequency": "134.085"
   },
   {
+    "id": "VCT",
+    "callsignPrefix": "EDVC",
+    "frequency": "123.655"
+  },
+  {
     "id": "VET",
     "callsignPrefix": "EDVE",
     "frequency": "120.055"
+  },
+  {
+    "id": "VHT",
+    "callsignPrefix": "EDVH",
+    "frequency": "119.005"
+  },
+  {
+    "id": "VIT",
+    "callsignPrefix": "EDVI",
+    "frequency": "130.280"
   },
   {
     "id": "VKG",
@@ -1293,6 +1333,91 @@
     "id": "VKT",
     "callsignPrefix": "EDVK",
     "frequency": "118.105"
+  },
+  {
+    "id": "VNT",
+    "callsignPrefix": "EDVN",
+    "frequency": "118.705"
+  },
+  {
+    "id": "VST",
+    "callsignPrefix": "EDVS",
+    "frequency": "122.855"
+  },
+  {
+    "id": "VUT",
+    "callsignPrefix": "EDVU",
+    "frequency": "130.905"
+  },
+  {
+    "id": "VWT",
+    "callsignPrefix": "EDVW",
+    "frequency": "121.180"
+  },
+  {
+    "id": "VYT",
+    "callsignPrefix": "EDVY",
+    "frequency": "130.640"
+  },
+  {
+    "id": "WET",
+    "callsignPrefix": "EDWE",
+    "frequency": "118.605"
+  },
+  {
+    "id": "WFT",
+    "callsignPrefix": "EDWF",
+    "frequency": "130.780"
+  },
+  {
+    "id": "WGT",
+    "callsignPrefix": "EDWG",
+    "frequency": "122.405"
+  },
+  {
+    "id": "WIT",
+    "callsignPrefix": "EDWI",
+    "frequency": "129.255"
+  },
+  {
+    "id": "WJT",
+    "callsignPrefix": "EDWJ",
+    "frequency": "120.505"
+  },
+  {
+    "id": "WLT",
+    "callsignPrefix": "EDWL",
+    "frequency": "122.030"
+  },
+  {
+    "id": "WNT",
+    "callsignPrefix": "EDWN",
+    "frequency": "122.655"
+  },
+  {
+    "id": "WOT",
+    "callsignPrefix": "EDWO",
+    "frequency": "118.680"
+  },
+  {
+    "id": "WQT",
+    "callsignPrefix": "EDWQ",
+    "frequency": "118.630"
+  },
+  {
+    "id": "WRT",
+    "callsignPrefix": "EDWR",
+    "frequency": "121.210"
+  },
+  {
+    "id": "WST",
+    "callsignPrefix": "EDWS",
+    "frequency": "123.030"
+  },
+  {
+    "id": "WTT",
+    "callsignPrefix": "EDWT",
+    "frequency": "120.605"
   },
   {
     "id": "ALR",
@@ -1353,6 +1478,61 @@
     "id": "EIDW",
     "callsignPrefix": "EDWW",
     "frequency": "120.225"
+  },
+  {
+    "id": "WYT",
+    "callsignPrefix": "EDWY",
+    "frequency": "122.605"
+  },
+  {
+    "id": "WZT",
+    "callsignPrefix": "EDWZ",
+    "frequency": "132.015"
+  },
+  {
+    "id": "XBT",
+    "callsignPrefix": "EDXB",
+    "frequency": "125.860"
+  },
+  {
+    "id": "XHT",
+    "callsignPrefix": "EDXH",
+    "frequency": "122.455"
+  },
+  {
+    "id": "XJT",
+    "callsignPrefix": "EDXJ",
+    "frequency": "125.850"
+  },
+  {
+    "id": "XMT",
+    "callsignPrefix": "EDXM",
+    "frequency": "132.990"
+  },
+  {
+    "id": "XNT",
+    "callsignPrefix": "EDXN",
+    "frequency": "121.030"
+  },
+  {
+    "id": "XOT",
+    "callsignPrefix": "EDXO",
+    "frequency": "129.780"
+  },
+  {
+    "id": "XPT",
+    "callsignPrefix": "EDXP",
+    "frequency": "122.405"
+  },
+  {
+    "id": "XQT",
+    "callsignPrefix": "EDXQ",
+    "frequency": "136.015"
+  },
+  {
+    "id": "XRT",
+    "callsignPrefix": "EDXR",
+    "frequency": "123.650"
   },
   {
     "id": "XWT",
@@ -1433,6 +1613,11 @@
     "id": "IWW",
     "callsignPrefix": "EDXX",
     "frequency": "119.825"
+  },
+  {
+    "id": "XYT",
+    "callsignPrefix": "EDXY",
+    "frequency": "118.255"
   },
   {
     "id": "CELH",
@@ -1533,6 +1718,11 @@
     "id": "MNT",
     "callsignPrefix": "ETMN",
     "frequency": "131.255"
+  },
+  {
+    "id": "NDT",
+    "callsignPrefix": "ETND",
+    "frequency": "122.530"
   },
   {
     "id": "TNGA",

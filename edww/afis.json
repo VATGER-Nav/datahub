@@ -117,7 +117,7 @@
     "logon": "EDWO_I_TWR",
     "frequency": "118.680",
     "abbreviation": "WOT",
-    "description": "Osnabrück Radio"
+    "description": "Osnabr\u00fcck Radio"
   },
   {
     "logon": "EDWQ_I_TWR",
@@ -141,7 +141,7 @@
     "logon": "EDXB_I_TWR",
     "frequency": "125.860",
     "abbreviation": "XBT",
-    "description": "Büsum Radio"
+    "description": "B\u00fcsum Radio"
   },
   {
     "logon": "EDXM_I_TWR",
@@ -159,7 +159,7 @@
     "logon": "EDXQ_I_TWR",
     "frequency": "136.015",
     "abbreviation": "XQT",
-    "description": "Wümme Radio"
+    "description": "W\u00fcmme Radio"
   },
   {
     "logon": "EDVY_I_TWR",
@@ -195,7 +195,7 @@
     "logon": "EDHG_I_TWR",
     "frequency": "122.180",
     "abbreviation": "HGT",
-    "description": "Lüneburg Radio"
+    "description": "L\u00fcneburg Radio"
   },
   {
     "logon": "EDHK_I_TWR",
@@ -213,7 +213,7 @@
     "logon": "EDVI_I_TWR",
     "frequency": "130.280",
     "abbreviation": "VIT",
-    "description": "Höxter Radio"
+    "description": "H\u00f6xter Radio"
   },
   {
     "logon": "EDVU_I_TWR",
