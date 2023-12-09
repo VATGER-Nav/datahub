@@ -1,0 +1,22 @@
+[
+  {
+    "login": "EDG",
+    "callsign": "LANGEN CTR"
+  },
+  {
+    "login": "EDM",
+    "callsign": "MUENCHEN CTR"
+  },
+  {
+    "login": "EDW",
+    "callsign": "BREMEN CTR"
+  },
+  {
+    "login": "EDY",
+    "callsign": "MAASTRICHT CTR"
+  },
+  {
+    "login": "EDU",
+    "callsign": "RHEIN CTR"
+  }
+]
