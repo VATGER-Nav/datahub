@@ -42,6 +42,7 @@
     "description": "Rhein Radar (Havel)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDUU_O_CTR",
@@ -50,6 +51,7 @@
     "description": "Rhein Radar (Ostsee)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDUU_OH_CTR",
@@ -58,6 +60,7 @@
     "description": "Rhein Radar (Ostsee High)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDUU_A_CTR",
