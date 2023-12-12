@@ -3,7 +3,7 @@
     "logon": "EDYY_C_CTR",
     "frequency": "133.955",
     "abbreviation": "CEL",
-    "description": "Maastricht Radar (Celle)"
+    "description": "Maastricht Radar (Celle)",
     "schedule_groups": [
       "EDWW"
   },
@@ -11,7 +11,7 @@
     "logon": "EDYY_CH_CTR",
     "frequency": "128.810",
     "abbreviation": "CELH",
-    "description": "Maastricht Radar (Celle High)"
+    "description": "Maastricht Radar (Celle High)",
     "schedule_groups": [
       "EDWW"
   },
@@ -19,7 +19,7 @@
     "logon": "EDYY_H_CTR",
     "frequency": "120.860",
     "abbreviation": "HOL",
-    "description": "Maastricht Radar (Holstein)"
+    "description": "Maastricht Radar (Holstein)",
     "schedule_groups": [
       "EDWW"
   },
@@ -27,7 +27,7 @@
     "logon": "EDYY_J_CTR",
     "frequency": "136.425",
     "abbreviation": "JEV",
-    "description": "Maastricht Radar (Jever)"
+    "description": "Maastricht Radar (Jever)",
     "schedule_groups": [
       "EDWW"
   },
@@ -35,7 +35,7 @@
     "logon": "EDYY_JH_CTR",
     "frequency": "129.735",
     "abbreviation": "JEVH",
-    "description": "Maastricht Radar (Jever High)"
+    "description": "Maastricht Radar (Jever High)",
     "schedule_groups": [
       "EDWW"
   },
@@ -43,7 +43,7 @@
     "logon": "EDYY_MNS_CTR",
     "frequency": "122.185",
     "abbreviation": "MNS",
-    "description": "Maastricht Radar (Muenster)"
+    "description": "Maastricht Radar (Muenster)",
     "schedule_groups": [
       "EDWW"
   },
@@ -57,7 +57,7 @@
     "logon": "EDYY_S_CTR",
     "frequency": "134.710",
     "abbreviation": "SOL",
-    "description": "Maastricht Radar (Solling)"
+    "description": "Maastricht Radar (Solling)",
     "schedule_groups": [
       "EDWW"
   },
@@ -65,7 +65,7 @@
     "logon": "EDYY_SH_CTR",
     "frequency": "131.380",
     "abbreviation": "SOLH",
-    "description": "Maastricht Radar (Solling High)"
+    "description": "Maastricht Radar (Solling High)",
     "schedule_groups": [
       "EDWW"
   }
