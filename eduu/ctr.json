@@ -39,19 +39,25 @@
     "logon": "EDUU_H_CTR",
     "frequency": "128.235",
     "abbreviation": "HVL",
-    "description": "Rhein Radar (Havel)"
+    "description": "Rhein Radar (Havel)",
+    "schedule_groups": [
+      "EDWW"
   },
   {
     "logon": "EDUU_O_CTR",
     "frequency": "133.035",
     "abbreviation": "OSE",
-    "description": "Rhein Radar (Ostsee)"
+    "description": "Rhein Radar (Ostsee)",
+    "schedule_groups": [
+      "EDWW"
   },
   {
     "logon": "EDUU_OH_CTR",
     "frequency": "126.785",
     "abbreviation": "OH2",
-    "description": "Rhein Radar (Ostsee High)"
+    "description": "Rhein Radar (Ostsee High)",
+    "schedule_groups": [
+      "EDWW"
   },
   {
     "logon": "EDUU_A_CTR",
