@@ -6,6 +6,7 @@
     "description": "Maastricht Radar (Celle)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_CH_CTR",
@@ -14,6 +15,7 @@
     "description": "Maastricht Radar (Celle High)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_H_CTR",
@@ -22,6 +24,7 @@
     "description": "Maastricht Radar (Holstein)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_J_CTR",
@@ -30,6 +33,7 @@
     "description": "Maastricht Radar (Jever)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_JH_CTR",
@@ -38,6 +42,7 @@
     "description": "Maastricht Radar (Jever High)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_MNS_CTR",
@@ -46,6 +51,7 @@
     "description": "Maastricht Radar (Muenster)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_RHR_CTR",
@@ -60,6 +66,7 @@
     "description": "Maastricht Radar (Solling)",
     "schedule_groups": [
       "EDWW"
+    ]
   },
   {
     "logon": "EDYY_SH_CTR",
@@ -68,5 +75,6 @@
     "description": "Maastricht Radar (Solling High)",
     "schedule_groups": [
       "EDWW"
+    ]
   }
 ]
