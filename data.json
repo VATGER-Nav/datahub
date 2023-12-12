@@ -84,7 +84,10 @@
     "logon": "EDDB_A_GND",
     "frequency": "121.855",
     "abbreviation": "DBGA",
-    "description": "Berlin Apron (Main)"
+    "description": "Berlin Apron (Main)",
+    "schedule_minstation": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDDB_DEL",
@@ -109,7 +112,7 @@
     "frequency": "129.605",
     "abbreviation": "DBGE",
     "description": "Berlin Apron (Nord)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDWW"
     ]
   },

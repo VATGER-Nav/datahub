@@ -227,9 +227,9 @@
     {
         "name": "EDWW",
         "schedule_minstation": [
+            "EDDB_A_GND",
             "EDDB_DEL",
             "EDDB_D_APP",
-            "EDDB_E_GND",
             "EDDB_S_APP",
             "EDDB_S_DEP",
             "EDDB_S_GND",
@@ -253,6 +253,7 @@
         ],
         "schedule_group": [
             "EDAH_TWR",
+            "EDDB_E_GND",
             "EDDB_F_APP",
             "EDDB_N_APP",
             "EDDB_N_DEP",
