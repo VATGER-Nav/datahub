@@ -5,6 +5,7 @@ from tasks.formatting import format_and_sort_json_files
 from tasks.consolidateData import consolidateJsons
 from tasks.tsBotWorkflow import createTeamspeakStationBotJson
 from tasks.scheduleWorkflow import createScheduleJson
+from tasks.topskyCpdlc import createTopskyCpdlcTxt
 
 try:
     OUTPUT_PATH = "data.json"
@@ -27,6 +28,9 @@ try:
 
     # create legacy jsons
     createTeamspeakStationBotJson(OUTPUT_PATH, "legacy/atc_station_mappings.json")
+
+    # create TopSkyCPDLC.txt
+    createTopskyCpdlcTxt(OUTPUT_PATH, "topsky/TopSkyCPDLC.txt")
 
 except Exception as error:
     print(error)
