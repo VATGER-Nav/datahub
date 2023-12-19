@@ -10,6 +10,7 @@
     "relevant_airports": ["EDDY"],
     "gcap_status": "0" | "1" | "AFIS" | "MIL TWR" | "MIL APP",
     "gcap_training_aiport": true | false,
+    "cpdlc_login": "EDXX"
   }
 ]
 ```

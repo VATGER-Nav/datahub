@@ -4,77 +4,70 @@
     "frequency": "133.955",
     "abbreviation": "CEL",
     "description": "Maastricht Radar (Celle)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDYC"
   },
   {
     "logon": "EDYY_CH_CTR",
     "frequency": "128.810",
     "abbreviation": "CELH",
     "description": "Maastricht Radar (Celle High)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDCH"
   },
   {
     "logon": "EDYY_H_CTR",
     "frequency": "120.860",
     "abbreviation": "HOL",
     "description": "Maastricht Radar (Holstein)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDYH"
   },
   {
     "logon": "EDYY_J_CTR",
     "frequency": "136.425",
     "abbreviation": "JEV",
     "description": "Maastricht Radar (Jever)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDYJ"
   },
   {
     "logon": "EDYY_JH_CTR",
     "frequency": "129.735",
     "abbreviation": "JEVH",
     "description": "Maastricht Radar (Jever High)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDJH"
   },
   {
     "logon": "EDYY_MNS_CTR",
     "frequency": "122.185",
     "abbreviation": "MNS",
     "description": "Maastricht Radar (Muenster)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDYM"
   },
   {
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
     "abbreviation": "RHR",
-    "description": "Maastricht Radar (Ruhr)"
+    "description": "Maastricht Radar (Ruhr)",
+    "cpdlc_login": "EDYR"
   },
   {
     "logon": "EDYY_S_CTR",
     "frequency": "134.710",
     "abbreviation": "SOL",
     "description": "Maastricht Radar (Solling)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDYS"
   },
   {
     "logon": "EDYY_SH_CTR",
     "frequency": "131.380",
     "abbreviation": "SOLH",
     "description": "Maastricht Radar (Solling High)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW"],
+    "cpdlc_login": "EDSH"
   }
 ]
