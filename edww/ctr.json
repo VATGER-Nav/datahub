@@ -78,7 +78,7 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
     "cpdlc_login": "EDWF"
   },
   {
@@ -103,7 +103,7 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
     "cpdlc_login": "EDWK"
   },
   {
@@ -156,7 +156,7 @@
       "EDDH",
       "EDDV",
       "EDDW"
-    ]
+    ],
     "cpdlc_login": "EDWW"
   }
 ]
