@@ -92,7 +92,8 @@
     "description": "Rhein Radar (Ostsee High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDU2"
   },
   {
     "logon": "EDUU_A_CTR",
