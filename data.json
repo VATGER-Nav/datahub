@@ -1898,7 +1898,7 @@
   },
   {
     "logon": "EDMM_RDG_CTR",
-    "frequency": "132.550",
+    "frequency": "132.555",
     "abbreviation": "RDG",
     "description": "M\u00fcnchen Radar (Roding)",
     "schedule_minstation": [
@@ -2413,7 +2413,8 @@
     "description": "Rhein Radar (Ostsee High)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "cpdlc_login": "EDU2"
   },
   {
     "logon": "EDUU_O_CTR",
@@ -2666,7 +2667,7 @@
       "EDDV",
       "EDDW"
     ],
-    "cpdlc_login": "EDWW"
+    "cpdlc_login": "EDWC"
   },
   {
     "logon": "EDWW_D_CTR",
@@ -2704,7 +2705,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWF"
   },
   {
     "logon": "EDWW_H_CTR",
@@ -2728,7 +2730,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWK"
   },
   {
     "logon": "EDWW_M_CTR",
@@ -2765,7 +2768,8 @@
     ],
     "relevant_airports": [
       "EDDV"
-    ]
+    ],
+    "cpdlc_login": "EDWS"
   },
   {
     "logon": "EDWW_W_CTR",
@@ -2779,7 +2783,8 @@
       "EDDH",
       "EDDV",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWW"
   },
   {
     "logon": "EDWY_I_TWR",
