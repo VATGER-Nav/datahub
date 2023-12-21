@@ -133,7 +133,7 @@
   },
   {
     "logon": "EDMM_RDG_CTR",
-    "frequency": "132.550",
+    "frequency": "132.555",
     "abbreviation": "RDG",
     "description": "M\u00fcnchen Radar (Roding)",
     "schedule_minstation": [
