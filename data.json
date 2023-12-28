@@ -1601,6 +1601,12 @@
     "description": "Meschede Radio"
   },
   {
+    "logon": "EDKN_I_TWR",
+    "frequency": "133.850",
+    "abbreviation": "KNI",
+    "description": "Wipperfuerth Info"
+  },
+  {
     "logon": "EDLD_I_TWR",
     "frequency": "122.705",
     "abbreviation": "LDI",
