@@ -318,6 +318,12 @@
     "description": "Konstanz Radio"
   },
   {
+    "logon": "EDKN_I_TWR",
+    "frequency": "133.850",
+    "abbreviation": "KNI",
+    "description": "Wipperfuerth Info"
+  },
+  {
     "logon": "ETHN_I_TWR",
     "frequency": "119.780",
     "abbreviation": "HNI",
