@@ -116,7 +116,9 @@
             "EDGG_SIG_CTR",
             "EDGG_TAU_CTR",
             "EDLP_PAL_APP",
-            "EDSB_GND"
+            "EDSB_GND",
+            "EDYY_MNS_CTR",
+            "EDYY_RHR_CTR"
         ]
     },
     {
@@ -155,7 +157,9 @@
             "EDLP_TWR",
             "EDLV_TWR",
             "EDLW_GND",
-            "EDLW_TWR"
+            "EDLW_TWR",
+            "EDYY_MNS_CTR",
+            "EDYY_RHR_CTR"
         ]
     },
     {
