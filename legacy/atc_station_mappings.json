@@ -910,6 +910,11 @@
     "frequency": "126.015"
   },
   {
+    "id": "KNI",
+    "callsignPrefix": "EDKN",
+    "frequency": "133.850"
+  },
+  {
     "id": "LDI",
     "callsignPrefix": "EDLD",
     "frequency": "122.705"

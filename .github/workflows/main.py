@@ -1,17 +1,18 @@
 import sys
-from check import dataValid
-from formatJsons import format_and_sort_json_files
-from consolidateData import consolidateJsons
-from createTsBotJson import createTeamspeakStationBotJson
-from createScheduleJson import createScheduleJson
-from removeRedundant import removeRedundantScheduleEntries
+from tasks.verifyData import checkData
+from tasks.removeRedundantEntries import removeRedundantScheduleEntries
+from tasks.formatting import format_and_sort_json_files
+from tasks.consolidateData import consolidateJsons
+from tasks.tsBotWorkflow import createTeamspeakStationBotJson
+from tasks.scheduleWorkflow import createScheduleJson
+from tasks.topskyCpdlc import createTopskyCpdlcTxt
 
 try:
-    combinedFile = "data.json"
+    OUTPUT_PATH = "data.json"
 
     folders_to_consolidate = ["edgg", "edmm", "eduu", "edww", "edyy", "edxx"]
     folders_to_sort = folders_to_consolidate + ["event_schedules"]
-    dataValid(folders_to_consolidate)
+    checkData(folders_to_consolidate)
 
     # remove redundant schedule_groups entries
     removeRedundantScheduleEntries(folders_to_consolidate)
@@ -20,13 +21,16 @@ try:
     format_and_sort_json_files(folders_to_sort)
 
     # consolidate all source files into one combined file
-    consolidateJsons(folders_to_consolidate, combinedFile)
+    consolidateJsons(folders_to_consolidate, OUTPUT_PATH)
 
     # create schedule json
-    createScheduleJson(combinedFile, "legacy/schedule.json")
+    createScheduleJson(OUTPUT_PATH, "legacy/schedule.json")
 
     # create legacy jsons
-    createTeamspeakStationBotJson(combinedFile, "legacy/atc_station_mappings.json")
+    createTeamspeakStationBotJson(OUTPUT_PATH, "legacy/atc_station_mappings.json")
+
+    # create TopSkyCPDLC.txt
+    createTopskyCpdlcTxt(OUTPUT_PATH, "topsky/TopSkyCPDLC.txt")
 
 except Exception as error:
     print(error)
