@@ -49,15 +49,14 @@
     "frequency": "122.185",
     "abbreviation": "MNS",
     "description": "Maastricht Radar (Muenster)",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_groups": ["EDWW","EDLL","EDGG"]
   },
   {
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
     "abbreviation": "RHR",
-    "description": "Maastricht Radar (Ruhr)"
+    "description": "Maastricht Radar (Ruhr)",
+	"schedule_groups": ["EDGG","EDLL"]
   },
   {
     "logon": "EDYY_S_CTR",
