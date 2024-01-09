@@ -15,10 +15,7 @@
     "frequency": "133.655",
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_minstation": ["EDGG", "EDLL", "EDFF"],
     "cpdlc_login": "EDUU"
   },
   {
@@ -37,10 +34,7 @@
     "frequency": "120.930",
     "abbreviation": "SLN",
     "description": "Rhein Radar (S\u00f6llingen)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_minstation": ["EDGG", "EDLL", "EDFF"],
     "cpdlc_login": "EDUS"
   },
   {
