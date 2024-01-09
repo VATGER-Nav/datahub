@@ -97,7 +97,7 @@
     "frequency": "123.280",
     "abbreviation": "KTG",
     "description": "Langen Radar (Kitzingen)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
       "EDGG",
       "EDLL"
