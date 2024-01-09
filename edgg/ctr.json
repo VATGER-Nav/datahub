@@ -99,9 +99,7 @@
     "description": "Langen Radar (Kitzingen)",
     "schedule_minstation": [
       "EDFF",
-      "EDGG"
-    ],
-    "schedule_groups": [
+      "EDGG",
       "EDLL"
     ],
     "relevant_airports": [
