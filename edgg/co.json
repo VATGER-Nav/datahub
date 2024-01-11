@@ -7,7 +7,7 @@
     "schedule_groups": [
       "EDGG",
       "EDFF"
-    ],
+    ]
   },
   {
     "logon": "EDDK_CO_DEL",
@@ -17,7 +17,7 @@
     "schedule_groups": [
       "EDGG",
       "EDLL"
-    ],
+    ]
   },
   {
     "logon": "EDDL_CO_DEL",
@@ -27,7 +27,7 @@
     "schedule_groups": [
       "EDGG",
       "EDLL"
-    ],
+    ]
   },
   {
     "logon": "EDDS_CO_DEL",
@@ -37,6 +37,6 @@
     "schedule_groups": [
       "EDGG",
       "EDFF"
-    ],
+    ]
   }
 ]
