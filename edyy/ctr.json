@@ -57,7 +57,8 @@
     "schedule_groups": [
       "EDWW",
       "EDLL",
-      "EDGG"
+      "EDGG",
+	  "EDFF"
     ],
     "cpdlc_login": "EDYM"
   },
@@ -65,10 +66,12 @@
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
     "description": "Maastricht Radar (Ruhr)",
-    "schedule_minstation": [
-      "EDGG",
+    "schedule_groups": [
       "EDLL",
       "EDFF"
+    ],
+	"schedule_minstation": [
+      "EDGG"
     ],
     "cpdlc_login": "EDYR"
   },

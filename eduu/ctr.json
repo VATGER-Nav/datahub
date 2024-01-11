@@ -4,9 +4,10 @@
     "frequency": "132.330",
     "abbreviation": "FFM",
     "description": "Rhein Radar (Frankfurt)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
-      "EDGG"
+	  "EDLL",
+	  "EDGG"
     ],
     "cpdlc_login": "EDUF"
   },
@@ -15,10 +16,12 @@
     "frequency": "133.655",
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL",
+    "schedule_groups": [
+	  "EDLL",
       "EDFF"
+    ],
+	"schedule_minstation": [
+      "EDGG"
     ],
     "cpdlc_login": "EDUU"
   },
@@ -27,8 +30,9 @@
     "frequency": "132.080",
     "abbreviation": "NTM",
     "description": "Rhein Radar (Nattenheim)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
+	  "EDLL",
       "EDGG"
     ],
     "cpdlc_login": "EDUN"
@@ -38,10 +42,11 @@
     "frequency": "120.930",
     "abbreviation": "SLN",
     "description": "Rhein Radar (S\u00f6llingen)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL",
+    "schedule_groups": [
       "EDFF"
+    ],
+	"schedule_minstation": [
+      "EDGG"
     ],
     "cpdlc_login": "EDUS"
   },
@@ -50,7 +55,7 @@
     "frequency": "132.405",
     "abbreviation": "TGO",
     "description": "Rhein Radar (Tango)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
       "EDGG"
     ],
@@ -63,6 +68,7 @@
     "description": "Rhein Radar (W\u00fcrzburg)",
     "schedule_minstation": [
       "EDFF",
+	  "EDLL",
       "EDGG"
     ],
     "cpdlc_login": "EDUW"
