@@ -58,7 +58,7 @@
       "EDWW",
       "EDLL",
       "EDGG",
-	  "EDFF"
+      "EDFF"
     ],
     "cpdlc_login": "EDYM"
   },
@@ -70,7 +70,7 @@
       "EDLL",
       "EDFF"
     ],
-	"schedule_minstation": [
+    "schedule_minstation": [
       "EDGG"
     ],
     "cpdlc_login": "EDYR"

@@ -6,8 +6,8 @@
     "description": "Rhein Radar (Frankfurt)",
     "schedule_groups": [
       "EDFF",
-	  "EDLL",
-	  "EDGG"
+      "EDLL",
+      "EDGG"
     ],
     "cpdlc_login": "EDUF"
   },
@@ -17,10 +17,10 @@
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
     "schedule_groups": [
-	  "EDLL",
+      "EDLL",
       "EDFF"
     ],
-	"schedule_minstation": [
+    "schedule_minstation": [
       "EDGG"
     ],
     "cpdlc_login": "EDUU"
@@ -32,7 +32,7 @@
     "description": "Rhein Radar (Nattenheim)",
     "schedule_groups": [
       "EDFF",
-	  "EDLL",
+      "EDLL",
       "EDGG"
     ],
     "cpdlc_login": "EDUN"
@@ -45,7 +45,7 @@
     "schedule_groups": [
       "EDFF"
     ],
-	"schedule_minstation": [
+    "schedule_minstation": [
       "EDGG"
     ],
     "cpdlc_login": "EDUS"
@@ -68,7 +68,7 @@
     "description": "Rhein Radar (W\u00fcrzburg)",
     "schedule_minstation": [
       "EDFF",
-	  "EDLL",
+      "EDLL",
       "EDGG"
     ],
     "cpdlc_login": "EDUW"
