@@ -7,7 +7,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "cpdlc_login": "EDGB"
   },
   {
     "logon": "EDGG_DKB_CTR",
@@ -21,7 +22,8 @@
     "relevant_airports": [
       "EDDF",
       "EDDS"
-    ]
+    ],
+    "cpdlc_login": "EDGD"
   },
   {
     "logon": "EDGG_GED_CTR",
@@ -47,7 +49,8 @@
     ],
     "relevant_airports": [
       "EDDF"
-    ]
+    ],
+    "cpdlc_login": "EDGG"
   },
   {
     "logon": "EDGG_HAB_CTR",
@@ -94,17 +97,16 @@
     "frequency": "123.280",
     "abbreviation": "KTG",
     "description": "Langen Radar (Kitzingen)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
     "schedule_groups": [
+      "EDFF",
+      "EDGG",
       "EDLL"
     ],
     "relevant_airports": [
       "EDDF",
       "EDDS"
-    ]
+    ],
+    "cpdlc_login": "EDGK"
   },
   {
     "logon": "EDGG_LBU_CTR",
@@ -148,7 +150,8 @@
     "relevant_airports": [
       "EDDL",
       "EDDK"
-    ]
+    ],
+    "cpdlc_login": "EDGP"
   },
   {
     "logon": "EDGG_PSA_CTR",
@@ -169,7 +172,8 @@
       "EDFF",
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "cpdlc_login": "EDGR"
   },
   {
     "logon": "EDGG_SIG_CTR",

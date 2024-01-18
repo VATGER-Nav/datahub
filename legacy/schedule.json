@@ -20,7 +20,13 @@
             "EDDS_TWR",
             "EDGG_DKB_CTR",
             "EDGG_GIN_CTR",
-            "EDGG_KTG_CTR"
+            "EDUU_FFM_CTR",
+            "EDUU_FUL_CTR",
+            "EDUU_NTM_CTR",
+            "EDUU_SLN_CTR",
+            "EDUU_TGO_CTR",
+            "EDUU_WUR_CTR",
+            "EDYY_RHR_CTR"
         ],
         "schedule_group": [
             "EDDF_GND",
@@ -46,6 +52,7 @@
             "EDGG_HEF_CTR",
             "EDGG_KIR_CTR",
             "EDGG_KNG_CTR",
+            "EDGG_KTG_CTR",
             "EDGG_LBU_CTR",
             "EDGG_MAN_CTR",
             "EDGG_NKH_CTR",
@@ -71,8 +78,14 @@
             "EDDS_TWR",
             "EDGG_DKB_CTR",
             "EDGG_GIN_CTR",
-            "EDGG_KTG_CTR",
-            "EDGG_PAH_CTR"
+            "EDGG_PAH_CTR",
+            "EDUU_FFM_CTR",
+            "EDUU_FUL_CTR",
+            "EDUU_NTM_CTR",
+            "EDUU_SLN_CTR",
+            "EDUU_TGO_CTR",
+            "EDUU_WUR_CTR",
+            "EDYY_RHR_CTR"
         ],
         "schedule_group": [
             "EDDF_H_APP",
@@ -96,6 +109,7 @@
             "EDGG_HEF_CTR",
             "EDGG_KIR_CTR",
             "EDGG_KNG_CTR",
+            "EDGG_KTG_CTR",
             "EDGG_LBU_CTR",
             "EDGG_MAN_CTR",
             "EDGG_NKH_CTR",
@@ -104,7 +118,8 @@
             "EDGG_SIG_CTR",
             "EDGG_TAU_CTR",
             "EDLP_PAL_APP",
-            "EDSB_GND"
+            "EDSB_GND",
+            "EDYY_MNS_CTR"
         ]
     },
     {
@@ -125,7 +140,10 @@
             "EDDL_F_APP",
             "EDDL_TWR",
             "EDDL_W_GND",
-            "EDGG_PAH_CTR"
+            "EDGG_PAH_CTR",
+            "EDUU_FUL_CTR",
+            "EDUU_SLN_CTR",
+            "EDYY_RHR_CTR"
         ],
         "schedule_group": [
             "EDDG_GND",
@@ -143,7 +161,8 @@
             "EDLP_TWR",
             "EDLV_TWR",
             "EDLW_GND",
-            "EDLW_TWR"
+            "EDLW_TWR",
+            "EDYY_MNS_CTR"
         ]
     },
     {

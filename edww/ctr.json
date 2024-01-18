@@ -12,7 +12,8 @@
       "EDDH",
       "EDDV",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWC"
   },
   {
     "logon": "EDWW_A_CTR",
@@ -25,7 +26,8 @@
     "relevant_airports": [
       "EDDH",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWA"
   },
   {
     "logon": "EDWW_B_CTR",
@@ -37,7 +39,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWB"
   },
   {
     "logon": "EDWW_D_CTR",
@@ -49,7 +52,8 @@
     ],
     "relevant_airports": [
       "EDDV"
-    ]
+    ],
+    "cpdlc_login": "EDWD"
   },
   {
     "logon": "EDWW_E_CTR",
@@ -61,7 +65,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWE"
   },
   {
     "logon": "EDWW_F_CTR",
@@ -73,7 +78,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWF"
   },
   {
     "logon": "EDWW_H_CTR",
@@ -97,7 +103,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWK"
   },
   {
     "logon": "EDWW_M_CTR",
@@ -109,7 +116,8 @@
     ],
     "relevant_airports": [
       "EDDB"
-    ]
+    ],
+    "cpdlc_login": "EDWM"
   },
   {
     "logon": "EDWW_R_CTR",
@@ -133,7 +141,8 @@
     ],
     "relevant_airports": [
       "EDDV"
-    ]
+    ],
+    "cpdlc_login": "EDWS"
   },
   {
     "logon": "EDWW_W_CTR",
@@ -147,6 +156,7 @@
       "EDDH",
       "EDDV",
       "EDDW"
-    ]
+    ],
+    "cpdlc_login": "EDWW"
   }
 ]
