@@ -852,7 +852,7 @@
     "frequency": "129.525",
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDMM"
     ]
   },
@@ -861,7 +861,7 @@
     "frequency": "119.475",
     "abbreviation": "DNAT",
     "description": "N\u00fcrnberg Director",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDMM"
     ]
   },
@@ -897,7 +897,7 @@
     "frequency": "129.765",
     "abbreviation": "DPSAT",
     "description": "Leipzig Director (South Director)",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDMM"
     ]
   },
@@ -942,7 +942,7 @@
     "frequency": "126.175",
     "abbreviation": "TRS",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDMM"
     ]
   },
