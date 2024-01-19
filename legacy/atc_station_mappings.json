@@ -150,11 +150,6 @@
     "frequency": "126.425"
   },
   {
-    "id": "SAS",
-    "callsignPrefix": "EDDC",
-    "frequency": "125.875"
-  },
-  {
     "id": "DCAG",
     "callsignPrefix": "EDDC",
     "frequency": "121.755"
@@ -163,6 +158,11 @@
     "id": "DCG",
     "callsignPrefix": "EDDC",
     "frequency": "121.980"
+  },
+  {
+    "id": "SAS",
+    "callsignPrefix": "EDDC",
+    "frequency": "125.875"
   },
   {
     "id": "DCT",
@@ -475,14 +475,14 @@
     "frequency": "120.505"
   },
   {
+    "id": "DND",
+    "callsignPrefix": "EDDN",
+    "frequency": "119.475"
+  },
+  {
     "id": "FRK",
     "callsignPrefix": "EDDN",
     "frequency": "129.525"
-  },
-  {
-    "id": "DNAT",
-    "callsignPrefix": "EDDN",
-    "frequency": "119.475"
   },
   {
     "id": "DNG",
@@ -500,24 +500,14 @@
     "frequency": "121.680"
   },
   {
-    "id": "DPSAT",
-    "callsignPrefix": "EDDP",
-    "frequency": "129.765"
-  },
-  {
-    "id": "DPNAT",
-    "callsignPrefix": "EDDP",
-    "frequency": "120.840"
-  },
-  {
     "id": "DPG",
     "callsignPrefix": "EDDP",
     "frequency": "121.805"
   },
   {
-    "id": "TRN",
+    "id": "DPND",
     "callsignPrefix": "EDDP",
-    "frequency": "126.065"
+    "frequency": "120.840"
   },
   {
     "id": "DPTN",
@@ -525,14 +515,24 @@
     "frequency": "125.955"
   },
   {
-    "id": "TRS",
+    "id": "DPSD",
     "callsignPrefix": "EDDP",
-    "frequency": "126.175"
+    "frequency": "129.765"
   },
   {
     "id": "DPTS",
     "callsignPrefix": "EDDP",
     "frequency": "121.105"
+  },
+  {
+    "id": "TRN",
+    "callsignPrefix": "EDDP",
+    "frequency": "126.065"
+  },
+  {
+    "id": "TRS",
+    "callsignPrefix": "EDDP",
+    "frequency": "126.175"
   },
   {
     "id": "DRG",
@@ -1055,6 +1055,11 @@
     "frequency": "118.235"
   },
   {
+    "id": "HOF",
+    "callsignPrefix": "EDMM",
+    "frequency": "133.565"
+  },
+  {
     "id": "MEI",
     "callsignPrefix": "EDMM",
     "frequency": "124.960"
@@ -1063,11 +1068,6 @@
     "id": "NDG",
     "callsignPrefix": "EDMM",
     "frequency": "125.140"
-  },
-  {
-    "id": "HOF",
-    "callsignPrefix": "EDMM",
-    "frequency": "133.565"
   },
   {
     "id": "RDG",
@@ -1360,11 +1360,6 @@
     "frequency": "133.755"
   },
   {
-    "id": "SAL",
-    "callsignPrefix": "EDUU",
-    "frequency": "133.860"
-  },
-  {
     "id": "CHI",
     "callsignPrefix": "EDUU",
     "frequency": "123.390"
@@ -1373,6 +1368,11 @@
     "id": "DON",
     "callsignPrefix": "EDUU",
     "frequency": "127.290"
+  },
+  {
+    "id": "ERL",
+    "callsignPrefix": "EDUU",
+    "frequency": "136.405"
   },
   {
     "id": "FFM",
@@ -1410,19 +1410,19 @@
     "frequency": "133.035"
   },
   {
-    "id": "SPE",
+    "id": "SAL",
     "callsignPrefix": "EDUU",
-    "frequency": "133.285"
-  },
-  {
-    "id": "ERL",
-    "callsignPrefix": "EDUU",
-    "frequency": "136.405"
+    "frequency": "133.860"
   },
   {
     "id": "SLN",
     "callsignPrefix": "EDUU",
     "frequency": "120.930"
+  },
+  {
+    "id": "SPE",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.285"
   },
   {
     "id": "TGO",

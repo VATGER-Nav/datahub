@@ -230,15 +230,6 @@
     ]
   },
   {
-    "logon": "EDDC_APP",
-    "frequency": "125.875",
-    "abbreviation": "SAS",
-    "description": "M\u00fcnchen Radar (Sachsen Low)",
-    "schedule_groups": [
-      "EDMM"
-    ]
-  },
-  {
     "logon": "EDDC_A_GND",
     "frequency": "121.755",
     "abbreviation": "DCAG",
@@ -252,6 +243,15 @@
     "frequency": "121.980",
     "abbreviation": "DCG",
     "description": "Dresden Ground",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDC_SAS_APP",
+    "frequency": "125.875",
+    "abbreviation": "SAS",
+    "description": "M\u00fcnchen Radar (Sachsen Low)",
     "schedule_groups": [
       "EDMM"
     ]
@@ -848,19 +848,19 @@
     ]
   },
   {
-    "logon": "EDDN_APP",
-    "frequency": "129.525",
-    "abbreviation": "FRK",
-    "description": "M\u00fcnchen Radar (Franken)",
+    "logon": "EDDN_D_APP",
+    "frequency": "119.475",
+    "abbreviation": "DND",
+    "description": "N\u00fcrnberg Director",
     "schedule_minstation": [
       "EDMM"
     ]
   },
   {
-    "logon": "EDDN_F_APP",
-    "frequency": "119.475",
-    "abbreviation": "DNAT",
-    "description": "N\u00fcrnberg Director",
+    "logon": "EDDN_FRK_APP",
+    "frequency": "129.525",
+    "abbreviation": "FRK",
+    "description": "M\u00fcnchen Radar (Franken)",
     "schedule_minstation": [
       "EDMM"
     ]
@@ -893,24 +893,6 @@
     ]
   },
   {
-    "logon": "EDDP_D_APP",
-    "frequency": "129.765",
-    "abbreviation": "DPSAT",
-    "description": "Leipzig Director (South Director)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
-  },
-  {
-    "logon": "EDDP_F_APP",
-    "frequency": "120.840",
-    "abbreviation": "DPNAT",
-    "description": "Leipzig Director (North Director)",
-    "schedule_groups": [
-      "EDMM"
-    ]
-  },
-  {
     "logon": "EDDP_GND",
     "frequency": "121.805",
     "abbreviation": "DPG",
@@ -920,10 +902,10 @@
     ]
   },
   {
-    "logon": "EDDP_N_APP",
-    "frequency": "126.065",
-    "abbreviation": "TRN",
-    "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
+    "logon": "EDDP_ND_APP",
+    "frequency": "120.840",
+    "abbreviation": "DPND",
+    "description": "Leipzig Director (North Director)",
     "schedule_groups": [
       "EDMM"
     ]
@@ -938,10 +920,10 @@
     ]
   },
   {
-    "logon": "EDDP_S_APP",
-    "frequency": "126.175",
-    "abbreviation": "TRS",
-    "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
+    "logon": "EDDP_SD_APP",
+    "frequency": "129.765",
+    "abbreviation": "DPSD",
+    "description": "Leipzig Director (South Director)",
     "schedule_minstation": [
       "EDMM"
     ]
@@ -951,6 +933,24 @@
     "frequency": "121.105",
     "abbreviation": "DPTS",
     "description": "Leipzig Tower (South)",
+    "schedule_minstation": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_TRN_APP",
+    "frequency": "126.065",
+    "abbreviation": "TRN",
+    "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
+    "schedule_groups": [
+      "EDMM"
+    ]
+  },
+  {
+    "logon": "EDDP_TRS_APP",
+    "frequency": "126.175",
+    "abbreviation": "TRS",
+    "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
     "schedule_minstation": [
       "EDMM"
     ]
@@ -1782,7 +1782,7 @@
     "cpdlc_login": "EDML"
   },
   {
-    "logon": "EDMM_B_CTR",
+    "logon": "EDMM_BBG_CTR",
     "frequency": "133.615",
     "abbreviation": "BBG",
     "description": "M\u00fcnchen Radar (Bamberg)",
@@ -1827,7 +1827,7 @@
     ]
   },
   {
-    "logon": "EDMM_G_CTR",
+    "logon": "EDMM_GER_CTR",
     "frequency": "133.230",
     "abbreviation": "GER",
     "description": "M\u00fcnchen Radar (Gera)",
@@ -1842,7 +1842,7 @@
     "cpdlc_login": "EDMG"
   },
   {
-    "logon": "EDMM_H_CTR",
+    "logon": "EDMM_HAL_CTR",
     "frequency": "118.235",
     "abbreviation": "HAL",
     "description": "M\u00fcnchen Radar (Halle)",
@@ -1857,7 +1857,23 @@
     "cpdlc_login": "EDMH"
   },
   {
-    "logon": "EDMM_M_CTR",
+    "logon": "EDMM_HOF_CTR",
+    "frequency": "133.565",
+    "abbreviation": "HOF",
+    "description": "M\u00fcnchen Radar (Hof)",
+    "schedule_minstation": [
+      "EDMM"
+    ],
+    "relevant_airports": [
+      "EDDN",
+      "EDDP",
+      "EDDC",
+      "EDDE"
+    ],
+    "cpdlc_login": "EDMO"
+  },
+  {
+    "logon": "EDMM_MEI_CTR",
     "frequency": "124.960",
     "abbreviation": "MEI",
     "description": "M\u00fcnchen Radar (Meissen)",
@@ -1883,22 +1899,6 @@
       "EDDM"
     ],
     "cpdlc_login": "EDMN"
-  },
-  {
-    "logon": "EDMM_O_CTR",
-    "frequency": "133.565",
-    "abbreviation": "HOF",
-    "description": "M\u00fcnchen Radar (Hof)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDN",
-      "EDDP",
-      "EDDC",
-      "EDDE"
-    ],
-    "cpdlc_login": "EDMO"
   },
   {
     "logon": "EDMM_RDG_CTR",
@@ -2328,16 +2328,6 @@
     "cpdlc_login": "EDUL"
   },
   {
-    "logon": "EDUU_A_CTR",
-    "frequency": "133.860",
-    "abbreviation": "SAL",
-    "description": "Rhein Radar (Saale)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "cpdlc_login": "EDUA"
-  },
-  {
     "logon": "EDUU_CHI_CTR",
     "frequency": "123.390",
     "abbreviation": "CHI",
@@ -2356,6 +2346,16 @@
       "EDMM"
     ],
     "cpdlc_login": "EDUD"
+  },
+  {
+    "logon": "EDUU_ERL_CTR",
+    "frequency": "136.405",
+    "abbreviation": "ERL",
+    "description": "Rhein Radar (Erlangen)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "cpdlc_login": "EDUR"
   },
   {
     "logon": "EDUU_FFM_CTR",
@@ -2432,24 +2432,14 @@
     "cpdlc_login": "EDUO"
   },
   {
-    "logon": "EDUU_P_CTR",
-    "frequency": "133.285",
-    "abbreviation": "SPE",
-    "description": "Rhein Radar (Spree)",
+    "logon": "EDUU_SAL_CTR",
+    "frequency": "133.860",
+    "abbreviation": "SAL",
+    "description": "Rhein Radar (Saale)",
     "schedule_groups": [
       "EDMM"
     ],
-    "cpdlc_login": "EDUP"
-  },
-  {
-    "logon": "EDUU_R_CTR",
-    "frequency": "136.405",
-    "abbreviation": "ERL",
-    "description": "Rhein Radar (Erlangen)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "cpdlc_login": "EDUR"
+    "cpdlc_login": "EDUA"
   },
   {
     "logon": "EDUU_SLN_CTR",
@@ -2462,6 +2452,16 @@
       "EDFF"
     ],
     "cpdlc_login": "EDUS"
+  },
+  {
+    "logon": "EDUU_SPE_CTR",
+    "frequency": "133.285",
+    "abbreviation": "SPE",
+    "description": "Rhein Radar (Spree)",
+    "schedule_groups": [
+      "EDMM"
+    ],
+    "cpdlc_login": "EDUP"
   },
   {
     "logon": "EDUU_TGO_CTR",
