@@ -294,7 +294,7 @@
   },
   {
     "logon": "EDDF_CO_DEL",
-    "frequency": "121.905",
+    "frequency": "122.035",
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery Coordinator",
     "schedule_groups": [
