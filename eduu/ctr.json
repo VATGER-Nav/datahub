@@ -98,7 +98,7 @@
     "cpdlc_login": "EDU2"
   },
   {
-    "logon": "EDUU_A_CTR",
+    "logon": "EDUU_SAL_CTR",
     "frequency": "133.860",
     "abbreviation": "SAL",
     "description": "Rhein Radar (Saale)",
@@ -148,7 +148,7 @@
     "cpdlc_login": "EDUL"
   },
   {
-    "logon": "EDUU_P_CTR",
+    "logon": "EDUU_SPE_CTR",
     "frequency": "133.285",
     "abbreviation": "SPE",
     "description": "Rhein Radar (Spree)",
@@ -158,7 +158,7 @@
     "cpdlc_login": "EDUP"
   },
   {
-    "logon": "EDUU_R_CTR",
+    "logon": "EDUU_ERL_CTR",
     "frequency": "136.405",
     "abbreviation": "ERL",
     "description": "Rhein Radar (Erlangen)",

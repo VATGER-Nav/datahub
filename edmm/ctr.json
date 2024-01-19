@@ -23,7 +23,7 @@
     "cpdlc_login": "EDML"
   },
   {
-    "logon": "EDMM_B_CTR",
+    "logon": "EDMM_BBG_CTR",
     "frequency": "133.615",
     "abbreviation": "BBG",
     "description": "M\u00fcnchen Radar (Bamberg)",
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "logon": "EDMM_G_CTR",
+    "logon": "EDMM_GER_CTR",
     "frequency": "133.230",
     "abbreviation": "GER",
     "description": "M\u00fcnchen Radar (Gera)",
@@ -73,7 +73,7 @@
     "cpdlc_login": "EDMG"
   },
   {
-    "logon": "EDMM_H_CTR",
+    "logon": "EDMM_HAL_CTR",
     "frequency": "118.235",
     "abbreviation": "HAL",
     "description": "M\u00fcnchen Radar (Halle)",
@@ -88,7 +88,7 @@
     "cpdlc_login": "EDMH"
   },
   {
-    "logon": "EDMM_M_CTR",
+    "logon": "EDMM_MEI_CTR",
     "frequency": "124.960",
     "abbreviation": "MEI",
     "description": "M\u00fcnchen Radar (Meissen)",
@@ -116,7 +116,7 @@
     "cpdlc_login": "EDMN"
   },
   {
-    "logon": "EDMM_O_CTR",
+    "logon": "EDMM_HOF_CTR",
     "frequency": "133.565",
     "abbreviation": "HOF",
     "description": "M\u00fcnchen Radar (Hof)",

@@ -1,6 +1,6 @@
 [
   {
-    "logon": "EDDC_APP",
+    "logon": "EDDC_SAS_APP",
     "frequency": "125.875",
     "abbreviation": "SAS",
     "description": "M\u00fcnchen Radar (Sachsen Low)",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "logon": "EDDN_APP",
+    "logon": "EDDN_FRK_APP",
     "frequency": "129.525",
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
@@ -72,16 +72,16 @@
     ]
   },
   {
-    "logon": "EDDN_F_APP",
+    "logon": "EDDN_D_APP",
     "frequency": "119.475",
-    "abbreviation": "DNAT",
+    "abbreviation": "DND",
     "description": "N\u00fcrnberg Director",
     "schedule_minstation": [
       "EDMM"
     ]
   },
   {
-    "logon": "EDDP_S_APP",
+    "logon": "EDDP_TRS_APP",
     "frequency": "126.175",
     "abbreviation": "TRS",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
@@ -90,16 +90,16 @@
     ]
   },
   {
-    "logon": "EDDP_F_APP",
+    "logon": "EDDP_ND_APP",
     "frequency": "120.840",
-    "abbreviation": "DPNAT",
+    "abbreviation": "DPND",
     "description": "Leipzig Director (North Director)",
     "schedule_groups": [
       "EDMM"
     ]
   },
   {
-    "logon": "EDDP_N_APP",
+    "logon": "EDDP_TRN_APP",
     "frequency": "126.065",
     "abbreviation": "TRN",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
@@ -108,9 +108,9 @@
     ]
   },
   {
-    "logon": "EDDP_D_APP",
+    "logon": "EDDP_SD_APP",
     "frequency": "129.765",
-    "abbreviation": "DPSAT",
+    "abbreviation": "DPSD",
     "description": "Leipzig Director (South Director)",
     "schedule_minstation": [
       "EDMM"
