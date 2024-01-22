@@ -3028,6 +3028,7 @@
   {
     "logon": "EDYY_RHR_CTR",
     "frequency": "124.435",
+    "abbreviation": "RHR",
     "description": "Maastricht Radar (Ruhr)",
     "schedule_minstation": [
       "EDGG",
