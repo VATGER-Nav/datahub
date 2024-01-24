@@ -2243,7 +2243,6 @@
     "abbreviation": "SBG",
     "description": "Baden Ground",
     "schedule_groups": [
-      "EDGG",
       "EDGG"
     ]
   },
