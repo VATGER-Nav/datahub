@@ -5,6 +5,7 @@
             "EDDF_C_GND",
             "EDDF_C_TWR",
             "EDDF_DEL",
+            "EDDF_E_GND",
             "EDDF_H_APP",
             "EDDF_L_APP",
             "EDDF_N_APP",
@@ -69,7 +70,6 @@
             "EDDF_C_GND",
             "EDDF_C_TWR",
             "EDDF_DEL",
-            "EDDF_E_GND",
             "EDDF_H_APP",
             "EDDF_N_APP",
             "EDDF_S_APP",
@@ -97,6 +97,7 @@
             "EDYY_RHR_CTR"
         ],
         "schedule_group": [
+            "EDDF_E_GND",
             "EDDF_GND",
             "EDDF_ICE_GND",
             "EDDF_L_APP",
