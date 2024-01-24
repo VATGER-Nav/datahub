@@ -4,7 +4,10 @@
     "frequency": "132.330",
     "abbreviation": "FFM",
     "description": "Rhein Radar (Frankfurt)",
-    "schedule_groups": ["EDFF", "EDGG"],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
     "cpdlc_login": "EDUF"
   },
   {
@@ -12,7 +15,11 @@
     "frequency": "133.655",
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
-    "schedule_minstation": ["EDGG", "EDLL", "EDFF"],
+    "schedule_minstation": [
+      "EDGG",
+      "EDLL",
+      "EDFF"
+    ],
     "cpdlc_login": "EDUU"
   },
   {
@@ -20,7 +27,10 @@
     "frequency": "132.080",
     "abbreviation": "NTM",
     "description": "Rhein Radar (Nattenheim)",
-    "schedule_groups": ["EDFF", "EDGG"],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
     "cpdlc_login": "EDUN"
   },
   {
@@ -28,7 +38,11 @@
     "frequency": "120.930",
     "abbreviation": "SLN",
     "description": "Rhein Radar (S\u00f6llingen)",
-    "schedule_minstation": ["EDGG", "EDLL", "EDFF"],
+    "schedule_minstation": [
+      "EDGG",
+      "EDLL",
+      "EDFF"
+    ],
     "cpdlc_login": "EDUS"
   },
   {
@@ -36,7 +50,10 @@
     "frequency": "132.405",
     "abbreviation": "TGO",
     "description": "Rhein Radar (Tango)",
-    "schedule_groups": ["EDFF", "EDGG"],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
     "cpdlc_login": "EDUT"
   },
   {
@@ -44,7 +61,10 @@
     "frequency": "134.085",
     "abbreviation": "WUR",
     "description": "Rhein Radar (W\u00fcrzburg)",
-    "schedule_groups": ["EDFF", "EDGG"],
+    "schedule_groups": [
+      "EDFF",
+      "EDGG"
+    ],
     "cpdlc_login": "EDUW"
   },
   {
@@ -52,7 +72,9 @@
     "frequency": "128.235",
     "abbreviation": "HVL",
     "description": "Rhein Radar (Havel)",
-    "schedule_groups": ["EDWW"],
+    "schedule_groups": [
+      "EDWW"
+    ],
     "cpdlc_login": "EDUH"
   },
   {
@@ -60,7 +82,9 @@
     "frequency": "133.035",
     "abbreviation": "OSE",
     "description": "Rhein Radar (Ostsee)",
-    "schedule_groups": ["EDWW"],
+    "schedule_groups": [
+      "EDWW"
+    ],
     "cpdlc_login": "EDUO"
   },
   {
@@ -68,7 +92,9 @@
     "frequency": "126.785",
     "abbreviation": "OH2",
     "description": "Rhein Radar (Ostsee High)",
-    "schedule_groups": ["EDWW"],
+    "schedule_groups": [
+      "EDWW"
+    ],
     "cpdlc_login": "EDU2"
   },
   {
@@ -76,7 +102,9 @@
     "frequency": "133.860",
     "abbreviation": "SAL",
     "description": "Rhein Radar (Saale)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUA"
   },
   {
@@ -84,7 +112,9 @@
     "frequency": "123.390",
     "abbreviation": "CHI",
     "description": "Rhein Radar (Chiem)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUC"
   },
   {
@@ -92,7 +122,9 @@
     "frequency": "127.290",
     "abbreviation": "DON",
     "description": "Rhein Radar (Donau)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUD"
   },
   {
@@ -100,7 +132,9 @@
     "frequency": "136.335",
     "abbreviation": "ISA",
     "description": "Rhein Radar (Isar)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUI"
   },
   {
@@ -108,7 +142,9 @@
     "frequency": "133.755",
     "abbreviation": "ALP",
     "description": "Rhein Radar (Alpen)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUL"
   },
   {
@@ -116,7 +152,9 @@
     "frequency": "133.285",
     "abbreviation": "SPE",
     "description": "Rhein Radar (Spree)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUP"
   },
   {
@@ -124,7 +162,9 @@
     "frequency": "136.405",
     "abbreviation": "ERL",
     "description": "Rhein Radar (Erlangen)",
-    "schedule_groups": ["EDMM"],
+    "schedule_groups": [
+      "EDMM"
+    ],
     "cpdlc_login": "EDUR"
   }
 ]
