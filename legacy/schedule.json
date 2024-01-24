@@ -29,6 +29,7 @@
             "EDYY_RHR_CTR"
         ],
         "schedule_group": [
+            "EDDF_CO_DEL",
             "EDDF_GND",
             "EDDF_ICE_GND",
             "EDDF_N_DEP",
@@ -37,6 +38,7 @@
             "EDDR_GND",
             "EDDR_PFA_APP",
             "EDDR_TWR",
+            "EDDS_CO_DEL",
             "EDDS_F_APP",
             "EDDS_REU_APP",
             "EDDS_VFR_TWR",
@@ -88,17 +90,21 @@
             "EDYY_RHR_CTR"
         ],
         "schedule_group": [
+            "EDDF_CO_DEL",
             "EDDF_H_APP",
             "EDDF_L_APP",
             "EDDF_N_DEP",
             "EDDF_S_APP",
             "EDDF_S_DEP",
+            "EDDK_CO_DEL",
             "EDDK_F_APP",
             "EDDK_NOR_APP",
             "EDDL_BOT_APP",
+            "EDDL_CO_DEL",
             "EDDL_DEP",
             "EDDL_F_APP",
             "EDDR_PFA_APP",
+            "EDDS_CO_DEL",
             "EDDS_F_APP",
             "EDDS_REU_APP",
             "EDFH_EIF_APP",
@@ -148,7 +154,9 @@
         "schedule_group": [
             "EDDG_GND",
             "EDDG_TWR",
+            "EDDK_CO_DEL",
             "EDDK_P_GND",
+            "EDDL_CO_DEL",
             "EDGG_GIN_CTR",
             "EDGG_KTG_CTR",
             "EDGG_RUD_CTR",

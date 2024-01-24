@@ -185,6 +185,11 @@
     "frequency": "121.155"
   },
   {
+    "id": "DFC",
+    "callsignPrefix": "EDDF",
+    "frequency": "122.035"
+  },
+  {
     "id": "DFGC",
     "callsignPrefix": "EDDF",
     "frequency": "121.855"
@@ -335,6 +340,11 @@
     "frequency": "121.855"
   },
   {
+    "id": "DKC",
+    "callsignPrefix": "EDDK",
+    "frequency": "121.855"
+  },
+  {
     "id": "DKAT",
     "callsignPrefix": "EDDK",
     "frequency": "121.055"
@@ -368,6 +378,11 @@
     "id": "BOT",
     "callsignPrefix": "EDDL",
     "frequency": "119.110"
+  },
+  {
+    "id": "DLC",
+    "callsignPrefix": "EDDL",
+    "frequency": "121.780"
   },
   {
     "id": "DLC",
@@ -548,6 +563,11 @@
     "id": "DRT",
     "callsignPrefix": "EDDR",
     "frequency": "118.355"
+  },
+  {
+    "id": "DSC",
+    "callsignPrefix": "EDDS",
+    "frequency": "121.915"
   },
   {
     "id": "DSC",
