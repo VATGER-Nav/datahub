@@ -4,35 +4,27 @@
     "frequency": "121.905",
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery",
-    "schedule_minstation": [
-      "EDFF"
-    ]
+    "schedule_minstation": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDK_DEL",
     "frequency": "121.855",
     "abbreviation": "DKC",
     "description": "K\u00f6ln/Bonn Delivery",
-    "schedule_minstation": [
-      "EDLL"
-    ]
+    "schedule_minstation": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDL_DEL",
     "frequency": "121.780",
     "abbreviation": "DLC",
     "description": "D\u00fcsseldorf Delivery",
-    "schedule_minstation": [
-      "EDLL"
-    ]
+    "schedule_minstation": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDS_DEL",
     "frequency": "121.915",
     "abbreviation": "DSC",
     "description": "Stuttgart Delivery",
-    "schedule_minstation": [
-      "EDFF"
-    ]
+    "schedule_minstation": ["EDFF", "EDGG"]
   }
 ]
