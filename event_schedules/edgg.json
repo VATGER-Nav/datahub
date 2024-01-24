@@ -43,6 +43,9 @@
   },
   {
     "day": "7",
-    "booking": ["EDDS", "EDGG_DKB"]
+    "booking": [
+      "EDDS",
+      "EDGG_DKB"
+    ]
   }
 ]
