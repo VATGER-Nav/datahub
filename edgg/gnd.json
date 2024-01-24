@@ -6,6 +6,9 @@
     "description": "Frankfurt Apron (East)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -14,7 +17,8 @@
     "abbreviation": "DFG",
     "description": "Frankfurt Ground",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -23,7 +27,8 @@
     "abbreviation": "DFGC",
     "description": "Frankfurt Apron (Center)",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -33,6 +38,9 @@
     "description": "Frankfurt Apron (West)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -41,7 +49,8 @@
     "abbreviation": "DFGI",
     "description": "Frankfurt Deicing",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -50,7 +59,8 @@
     "abbreviation": "DFGS",
     "description": "Frankfurt Apron (South)",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -59,7 +69,8 @@
     "abbreviation": "DGG",
     "description": "M\u00fcnster Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -68,7 +79,8 @@
     "abbreviation": "DKGP",
     "description": "K\u00f6ln/Bonn Apron",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -77,7 +89,8 @@
     "abbreviation": "DKG",
     "description": "K\u00f6ln/Bonn Ground",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -86,7 +99,8 @@
     "abbreviation": "DLGE",
     "description": "D\u00fcsseldorf Ground (East)",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -96,6 +110,9 @@
     "description": "D\u00fcsseldorf Ground (West)",
     "schedule_minstation": [
       "EDLL"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -104,7 +121,8 @@
     "abbreviation": "DRG",
     "description": "Saarbr\u00fccken Ground",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -113,7 +131,8 @@
     "abbreviation": "DSG",
     "description": "Stuttgart Ground",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -122,7 +141,8 @@
     "abbreviation": "FEG",
     "description": "Egelsbach Apron",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -131,7 +151,8 @@
     "abbreviation": "FHG",
     "description": "Hahn Ground",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -140,7 +161,8 @@
     "abbreviation": "LNG",
     "description": "M\u00f6nchengladbach Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -149,7 +171,8 @@
     "abbreviation": "LPG",
     "description": "Paderborn Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -158,7 +181,8 @@
     "abbreviation": "LWG",
     "description": "Dortmund Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {

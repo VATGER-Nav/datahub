@@ -308,7 +308,8 @@
     "abbreviation": "DFGC",
     "description": "Frankfurt Apron (Center)",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -327,7 +328,8 @@
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -337,6 +339,9 @@
     "description": "Frankfurt Apron (East)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -345,7 +350,8 @@
     "abbreviation": "DFG",
     "description": "Frankfurt Ground",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -354,9 +360,7 @@
     "abbreviation": "DFANT",
     "description": "Frankfurt Director (North)",
     "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
+      "EDFF",
       "EDGG"
     ]
   },
@@ -366,7 +370,8 @@
     "abbreviation": "DFGI",
     "description": "Frankfurt Deicing",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -408,6 +413,9 @@
     "description": "Frankfurt Tower (North)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -416,9 +424,7 @@
     "abbreviation": "DFAS",
     "description": "Langen Radar (Frankfurt Arrival South)",
     "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
+      "EDFF",
       "EDGG"
     ]
   },
@@ -438,7 +444,8 @@
     "abbreviation": "DFGS",
     "description": "Frankfurt Apron (South)",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -448,6 +455,9 @@
     "description": "Frankfurt Tower (South)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -457,6 +467,9 @@
     "description": "Frankfurt Apron (West)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -466,6 +479,9 @@
     "description": "Frankfurt Tower (West)",
     "schedule_minstation": [
       "EDFF"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -474,7 +490,8 @@
     "abbreviation": "DGG",
     "description": "M\u00fcnster Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -493,7 +510,8 @@
     "abbreviation": "DGT",
     "description": "M\u00fcnster Tower",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -594,7 +612,8 @@
     "abbreviation": "DKC",
     "description": "K\u00f6ln/Bonn Delivery",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -603,9 +622,7 @@
     "abbreviation": "DKAT",
     "description": "K\u00f6ln/Bonn Director",
     "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
+      "EDLL",
       "EDGG"
     ]
   },
@@ -615,7 +632,8 @@
     "abbreviation": "DKG",
     "description": "K\u00f6ln/Bonn Ground",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -636,7 +654,8 @@
     "abbreviation": "DKGP",
     "description": "K\u00f6ln/Bonn Apron",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -687,7 +706,8 @@
     "abbreviation": "DLC",
     "description": "D\u00fcsseldorf Delivery",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -708,7 +728,8 @@
     "abbreviation": "DLGE",
     "description": "D\u00fcsseldorf Ground (East)",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -717,9 +738,7 @@
     "abbreviation": "DLAT",
     "description": "D\u00fcsseldorf Director",
     "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
+      "EDLL",
       "EDGG"
     ]
   },
@@ -740,6 +759,9 @@
     "description": "D\u00fcsseldorf Ground (West)",
     "schedule_minstation": [
       "EDLL"
+    ],
+    "schedule_groups": [
+      "EDGG"
     ]
   },
   {
@@ -991,7 +1013,8 @@
     "abbreviation": "DRG",
     "description": "Saarbr\u00fccken Ground",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1010,7 +1033,8 @@
     "abbreviation": "DRT",
     "description": "Saarbr\u00fccken Tower",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1029,7 +1053,8 @@
     "abbreviation": "DSC",
     "description": "Stuttgart Delivery",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1037,7 +1062,7 @@
     "frequency": "119.850",
     "abbreviation": "DSAT",
     "description": "Stuttgart Director",
-    "schedule_groups": [
+    "schedule_minstation": [
       "EDFF",
       "EDGG"
     ]
@@ -1048,7 +1073,8 @@
     "abbreviation": "DSG",
     "description": "Stuttgart Ground",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1087,7 +1113,8 @@
     "abbreviation": "DSTV",
     "description": "Stuttgart Tower (VFR)",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1222,7 +1249,8 @@
     "abbreviation": "FEG",
     "description": "Egelsbach Apron",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1253,7 +1281,8 @@
     "abbreviation": "FHG",
     "description": "Hahn Ground",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1262,7 +1291,8 @@
     "abbreviation": "FHT",
     "description": "Hahn Tower",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1281,7 +1311,8 @@
     "abbreviation": "FMT",
     "description": "Mannheim Tower",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -1686,7 +1717,8 @@
     "abbreviation": "LNG",
     "description": "M\u00f6nchengladbach Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -1695,7 +1727,8 @@
     "abbreviation": "LNT",
     "description": "M\u00f6nchengladbach Tower",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -1710,7 +1743,8 @@
     "abbreviation": "LPG",
     "description": "Paderborn Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -1729,7 +1763,8 @@
     "abbreviation": "LPT",
     "description": "Paderborn Tower",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -1744,7 +1779,8 @@
     "abbreviation": "LVT",
     "description": "Niederrhein Tower",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -1753,7 +1789,8 @@
     "abbreviation": "LWG",
     "description": "Dortmund Ground",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -1762,7 +1799,8 @@
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
     "schedule_groups": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -2254,7 +2292,8 @@
     "abbreviation": "SBT",
     "description": "Baden Tower",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -2299,7 +2338,8 @@
     "abbreviation": "TLT",
     "description": "Lahr Tower",
     "schedule_groups": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -2402,7 +2442,7 @@
     "frequency": "132.330",
     "abbreviation": "FFM",
     "description": "Rhein Radar (Frankfurt)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
       "EDGG"
     ],
@@ -2445,7 +2485,7 @@
     "frequency": "132.080",
     "abbreviation": "NTM",
     "description": "Rhein Radar (Nattenheim)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
       "EDGG"
     ],
@@ -2508,7 +2548,7 @@
     "frequency": "132.405",
     "abbreviation": "TGO",
     "description": "Rhein Radar (Tango)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
       "EDGG"
     ],
@@ -2519,7 +2559,7 @@
     "frequency": "134.085",
     "abbreviation": "WUR",
     "description": "Rhein Radar (W\u00fcrzburg)",
-    "schedule_minstation": [
+    "schedule_groups": [
       "EDFF",
       "EDGG"
     ],

@@ -5,7 +5,8 @@
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   },
   {
@@ -14,7 +15,8 @@
     "abbreviation": "DKC",
     "description": "K\u00f6ln/Bonn Delivery",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -23,7 +25,8 @@
     "abbreviation": "DLC",
     "description": "D\u00fcsseldorf Delivery",
     "schedule_minstation": [
-      "EDLL"
+      "EDLL",
+      "EDGG"
     ]
   },
   {
@@ -32,7 +35,8 @@
     "abbreviation": "DSC",
     "description": "Stuttgart Delivery",
     "schedule_minstation": [
-      "EDFF"
+      "EDFF",
+      "EDGG"
     ]
   }
 ]
