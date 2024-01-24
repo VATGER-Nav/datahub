@@ -61,8 +61,7 @@
     "frequency": "121.055",
     "abbreviation": "DKAT",
     "description": "K\u00f6ln/Bonn Director",
-    "schedule_minstation": ["EDLL"],
-    "schedule_groups": ["EDGG"]
+    "schedule_minstation": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDK_NOR_APP",
@@ -84,8 +83,7 @@
     "frequency": "128.655",
     "abbreviation": "DLAT",
     "description": "D\u00fcsseldorf Director",
-    "schedule_minstation": ["EDLL"],
-    "schedule_groups": ["EDGG"]
+    "schedule_minstation": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDL_DEP",
@@ -115,7 +113,7 @@
     "frequency": "119.850",
     "abbreviation": "DSAT",
     "description": "Stuttgart Director",
-    "schedule_groups": ["EDFF", "EDGG"]
+    "schedule_minstation": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_STG_APP",

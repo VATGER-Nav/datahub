@@ -1,6 +1,48 @@
 [
   {
+    "rule": "every_X_days",
+    "one_date": "2024-01-05",
+    "days": "14",
+    "booking": [
+      "EDDF",
+      "EDGG_GIN",
+      "EDGG_DKB",
+      "EDUU_FUL",
+      "EDUU_SLN",
+      "EDDS_STG_APP",
+      "EDYY_R",
+      "EDGG_PAH"
+    ]
+  },
+  {
+    "rule": "weekday",
     "day": "1",
-    "booking": []
+    "booking": [
+      "EDDL",
+      "EDDK_APP",
+      "EDDG_HMM_APP",
+      "EDGG_PAH",
+      "EDGG_GIN",
+      "EDDF_APP",
+      "EDYY_R"
+    ]
+  },
+  {
+    "rule": "weekday",
+    "day": "3",
+    "booking": [
+      "EDDK_DEL",
+      "EDDK_GND",
+      "EDDK_TWR",
+      "EDDK_APP",
+      "EDDK_F_APP",
+      "EDGG_PAH",
+      "EDGG_GIN",
+      "EDDF_APP"
+    ]
+  },
+  {
+    "day": "7",
+    "booking": ["EDDS", "EDGG_DKB"]
   }
 ]

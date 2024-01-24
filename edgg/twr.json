@@ -12,7 +12,8 @@
     "frequency": "124.855",
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
-    "schedule_minstation": ["EDFF", "EDGG"]
+    "schedule_minstation": ["EDFF"],
+    "schedule_groups": ["EDGG"]
   },
   {
     "logon": "EDDF_C_TWR",

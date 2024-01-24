@@ -4,7 +4,8 @@
     "frequency": "121.955",
     "abbreviation": "DFGE",
     "description": "Frankfurt Apron (East)",
-    "schedule_minstation": ["EDFF", "EDGG"]
+    "schedule_minstation": ["EDGG"],
+    "schedule_groups": ["EDGG"]
   },
   {
     "logon": "EDDF_GND",
@@ -132,6 +133,6 @@
     "frequency": "121.830",
     "abbreviation": "SBG",
     "description": "Baden Ground",
-    "schedule_groups": ["EDGG", "EDGG"]
+    "schedule_groups": ["EDGG"]
   }
 ]
