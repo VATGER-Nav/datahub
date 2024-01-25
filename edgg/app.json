@@ -106,7 +106,7 @@
   {
     "logon": "EDDL_APP",
     "frequency": "128.555",
-    "abbreviation": "DUS",
+    "abbreviation": "DLA",
     "description": "Langen Radar (D\u00fcsseldorf Arrival)",
     "schedule_minstation": [
       "EDGG",
