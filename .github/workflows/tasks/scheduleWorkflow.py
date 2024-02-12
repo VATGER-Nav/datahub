@@ -1,28 +1,34 @@
 import json
 
+
 def createScheduleJson(inputFile, outputFile):
-    try: 
+    try:
         with open(inputFile, "r") as json_file:
             json_array = json.load(json_file)
 
         minstation_dict = {}
         group_dict = {}
 
+        MIL_STATION = "MIL"
+
         for element in json_array:
             # skip invalid elements
             if "logon" in element:
-                 logon = element["logon"]
+                logon = element["logon"]
             else:
                 continue
-            
+
             # populate schedule_minstation dict
             if "schedule_minstation" in element:
                 min_stations = element["schedule_minstation"]
                 for schedule_group in min_stations:
-                    if schedule_group in minstation_dict:
+                    if (
+                        schedule_group in minstation_dict
+                        and logon not in group_dict[schedule_group]
+                    ):
                         minstation_dict[schedule_group].append(logon)
                     else:
-                         minstation_dict[schedule_group] = [logon]
+                        minstation_dict[schedule_group] = [logon]
 
             # populate schedule_group dict
             if "schedule_groups" in element:
@@ -32,6 +38,17 @@ def createScheduleJson(inputFile, outputFile):
                         group_dict[schedule_group].append(logon)
                     else:
                         group_dict[schedule_group] = [logon]
+
+            # populate MIL stations, include all stations starting with "ET"
+            if logon.startswith("ET"):
+                # check if MIL_STATION key exists and logon does not exist in value list already
+                if (
+                    MIL_STATION in minstation_dict
+                    and logon not in minstation_dict[MIL_STATION]
+                ):
+                    minstation_dict[MIL_STATION].append(logon)
+                else:
+                    minstation_dict[MIL_STATION] = [logon]
 
         grouped_data = {}
 
@@ -43,14 +60,14 @@ def createScheduleJson(inputFile, outputFile):
             grouped_data[key] = {
                 "name": key,
                 "schedule_minstation": schedule_minstation,
-                "schedule_group": schedule_group
+                "schedule_group": schedule_group,
             }
 
         # Convert the grouped data into a list of objects
         json_data = list(grouped_data.values())
 
         # sort the data by name key
-        json_data.sort(key=lambda x: (x['name']))
+        json_data.sort(key=lambda x: (x["name"]))
 
         # Export the JSON data to a file
         with open(outputFile, "w") as json_file:
