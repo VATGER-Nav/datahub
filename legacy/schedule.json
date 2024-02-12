@@ -376,5 +376,48 @@
             "ETSH_APP",
             "ETSH_TWR"
         ]
+    },
+    {
+        "name": "MIL",
+        "schedule_minstation": [
+            "ETAR_GND",
+            "ETAR_TWR",
+            "ETHC_TWR",
+            "ETHL_TWR",
+            "ETHN_APP",
+            "ETHN_I_TWR",
+            "ETHN_TWR",
+            "ETHS_TWR",
+            "ETIC_TWR",
+            "ETMN_APP",
+            "ETMN_TWR",
+            "ETND_I_TWR",
+            "ETNG_APP",
+            "ETNG_TWR",
+            "ETNH_APP",
+            "ETNH_P_APP",
+            "ETNH_TWR",
+            "ETNL_APP",
+            "ETNL_A_GND",
+            "ETNL_P_APP",
+            "ETNL_TWR",
+            "ETNN_APP",
+            "ETNN_TWR",
+            "ETNS_APP",
+            "ETNS_P_APP",
+            "ETNS_TWR",
+            "ETNT_APP",
+            "ETNT_TWR",
+            "ETNW_TWR",
+            "ETOU_TWR",
+            "ETSH_APP",
+            "ETSH_TWR",
+            "ETSI_APP",
+            "ETSI_TWR",
+            "ETSL_APP",
+            "ETSL_TWR",
+            "ETSN_TWR"
+        ],
+        "schedule_group": []
     }
 ]
