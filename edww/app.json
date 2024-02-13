@@ -4,6 +4,7 @@
     "frequency": "126.425",
     "abbreviation": "DBAS",
     "description": "Bremen Radar (Berlin Arrival Sued)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -76,6 +77,7 @@
     "frequency": "119.510",
     "abbreviation": "HAME",
     "description": "Bremen Radar (Hamburg East)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -103,6 +105,7 @@
     "frequency": "119.490",
     "abbreviation": "HAN",
     "description": "Bremen Radar (Hannover)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -121,6 +124,7 @@
     "frequency": "124.800",
     "abbreviation": "FRI",
     "description": "Bremen Radar (Friesland)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ]
