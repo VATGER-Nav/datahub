@@ -20,6 +20,7 @@
     "frequency": "123.925",
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ],
@@ -47,6 +48,7 @@
     "frequency": "128.760",
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ],
@@ -111,6 +113,7 @@
     "frequency": "124.175",
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDWW"
     ],
