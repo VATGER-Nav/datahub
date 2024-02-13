@@ -1410,6 +1410,7 @@
     "frequency": "125.200",
     "abbreviation": "DKB",
     "description": "Langen Radar (Dinkelsb\u00fchl)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -1435,6 +1436,7 @@
     "frequency": "124.730",
     "abbreviation": "GIN",
     "description": "Langen Radar (Gie\u00dfen)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -1538,6 +1540,7 @@
     "frequency": "135.650",
     "abbreviation": "PADH",
     "description": "Langen Radar (Paderborn High)",
+    "gcap_training_aiport": true,
     "schedule_minstation": [
       "EDLL",
       "EDGG"
