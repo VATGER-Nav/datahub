@@ -15,14 +15,14 @@
       "EDWW_H"
     ]
   },
-   {
+  {
     "rule": "every_X_days",
     "one_date": "2024-02-15",
     "days": "14",
     "booking": [
       "EDDB",
       "EDWW_M",
-      "EDWW_D",
+      "EDWW_D"
     ]
   },
   {
