@@ -6,7 +6,8 @@
     "description": "Heringsdorf Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDB_S_TWR",
@@ -64,7 +65,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDHL_TWR",
@@ -73,7 +75,8 @@
     "description": "Luebeck Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDHI_TWR",
@@ -91,7 +94,8 @@
     "description": "Braunschweig Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDVK_TWR",
@@ -100,7 +104,8 @@
     "description": "Kassel Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDXW_TWR",
@@ -109,6 +114,7 @@
     "description": "Sylt Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "s1_twr": true
   }
 ]

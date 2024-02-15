@@ -54,7 +54,8 @@
     "schedule_groups": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDK_TWR",
@@ -86,7 +87,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDS_TWR",
@@ -117,7 +119,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDFM_TWR",
@@ -127,7 +130,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDLN_TWR",
@@ -147,7 +151,8 @@
     "schedule_groups": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDLV_TWR",
@@ -168,7 +173,8 @@
     "schedule_groups": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDSB_TWR",
@@ -179,7 +185,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDTL_TWR",

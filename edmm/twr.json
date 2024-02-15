@@ -6,7 +6,8 @@
     "description": "Dresden Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDE_TWR",
@@ -15,7 +16,8 @@
     "description": "Erfurt Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDDM_N_TWR",
@@ -71,7 +73,8 @@
     "description": "Memmingen Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDMA_TWR",
@@ -80,7 +83,8 @@
     "description": "Augsburg Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDMO_TWR",
@@ -89,7 +93,8 @@
     "description": "Oberpfaffenhofen Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDNY_TWR",
@@ -107,6 +112,7 @@
     "description": "Hof Tower",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "s1_twr": true
   }
 ]
