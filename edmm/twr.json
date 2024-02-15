@@ -22,7 +22,7 @@
     "frequency": "118.705",
     "abbreviation": "DMTN",
     "description": "M\u00fcnchen Tower (North)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -41,7 +41,7 @@
     "frequency": "118.305",
     "abbreviation": "DNT",
     "description": "N\u00fcrnberg Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]

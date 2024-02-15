@@ -28,7 +28,7 @@
     "frequency": "118.780",
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -61,7 +61,7 @@
     "frequency": "124.980",
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -72,7 +72,7 @@
     "frequency": "118.305",
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -93,7 +93,7 @@
     "frequency": "118.805",
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDFF"
@@ -164,7 +164,7 @@
     "frequency": "134.180",
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDLL",
       "EDGG"
@@ -175,7 +175,7 @@
     "frequency": "134.105",
     "abbreviation": "SBT",
     "description": "Baden Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDFF",
       "EDGG"

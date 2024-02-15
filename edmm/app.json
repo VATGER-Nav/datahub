@@ -13,7 +13,7 @@
     "frequency": "128.030",
     "abbreviation": "DMNH",
     "description": "M\u00fcnchen Arrival (North High)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -68,7 +68,7 @@
     "frequency": "129.525",
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]

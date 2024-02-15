@@ -192,7 +192,7 @@
     "frequency": "126.425",
     "abbreviation": "DBAS",
     "description": "Bremen Radar (Berlin Arrival Sued)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -220,7 +220,7 @@
     "frequency": "118.805",
     "abbreviation": "DBTS",
     "description": "Berlin Tower (Sued)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -331,7 +331,7 @@
     "frequency": "118.780",
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -406,7 +406,7 @@
     "frequency": "120.805",
     "abbreviation": "DFAN",
     "description": "Langen Radar (Frankfurt Arrival North)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -544,7 +544,7 @@
     "frequency": "119.510",
     "abbreviation": "HAME",
     "description": "Bremen Radar (Hamburg East)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -572,7 +572,7 @@
     "frequency": "126.855",
     "abbreviation": "DHT",
     "description": "Hamburg Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -609,7 +609,7 @@
     "frequency": "135.350",
     "abbreviation": "DKA",
     "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -682,7 +682,7 @@
     "frequency": "124.980",
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -693,7 +693,7 @@
     "frequency": "128.555",
     "abbreviation": "DLA",
     "description": "Langen Radar (D\u00fcsseldorf Arrival)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -768,7 +768,7 @@
     "frequency": "118.305",
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -845,7 +845,7 @@
     "frequency": "128.030",
     "abbreviation": "DMNH",
     "description": "M\u00fcnchen Arrival (North High)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -873,7 +873,7 @@
     "frequency": "118.705",
     "abbreviation": "DMTN",
     "description": "M\u00fcnchen Tower (North)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -937,7 +937,7 @@
     "frequency": "129.525",
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -956,7 +956,7 @@
     "frequency": "118.305",
     "abbreviation": "DNT",
     "description": "N\u00fcrnberg Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ]
@@ -1118,7 +1118,7 @@
     "frequency": "125.050",
     "abbreviation": "STG",
     "description": "Langen Radar (Stuttgart)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -1129,7 +1129,7 @@
     "frequency": "118.805",
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDFF"
@@ -1150,7 +1150,7 @@
     "frequency": "119.490",
     "abbreviation": "HAN",
     "description": "Bremen Radar (Hannover)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -1187,7 +1187,7 @@
     "frequency": "120.180",
     "abbreviation": "DVT",
     "description": "Hannover Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -1197,7 +1197,7 @@
     "frequency": "124.800",
     "abbreviation": "FRI",
     "description": "Bremen Radar (Friesland)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -1234,7 +1234,7 @@
     "frequency": "120.330",
     "abbreviation": "DWT",
     "description": "Bremen Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -1310,7 +1310,7 @@
     "frequency": "125.600",
     "abbreviation": "EIF",
     "description": "Langen Radar (Eifel)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -1414,7 +1414,7 @@
     "frequency": "125.200",
     "abbreviation": "DKB",
     "description": "Langen Radar (Dinkelsb\u00fchl)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -1440,7 +1440,7 @@
     "frequency": "124.730",
     "abbreviation": "GIN",
     "description": "Langen Radar (Gie\u00dfen)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -1544,7 +1544,7 @@
     "frequency": "135.650",
     "abbreviation": "PADH",
     "description": "Langen Radar (Paderborn High)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDLL",
       "EDGG"
@@ -1821,7 +1821,7 @@
     "frequency": "125.225",
     "abbreviation": "PADL",
     "description": "Langen Radar (Paderborn Low)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDGG",
       "EDLL"
@@ -1869,7 +1869,7 @@
     "frequency": "134.180",
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDLL",
       "EDGG"
@@ -2123,7 +2123,7 @@
     "frequency": "134.150",
     "abbreviation": "ZUG",
     "description": "M\u00fcnchen Radar (Zugspitze)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ],
@@ -2376,7 +2376,7 @@
     "frequency": "134.105",
     "abbreviation": "SBT",
     "description": "Baden Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -2837,7 +2837,7 @@
     "frequency": "123.925",
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ],
@@ -2881,7 +2881,7 @@
     "frequency": "128.760",
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ],
@@ -2946,7 +2946,7 @@
     "frequency": "124.175",
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ],

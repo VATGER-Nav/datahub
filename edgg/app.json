@@ -24,7 +24,7 @@
     "frequency": "120.805",
     "abbreviation": "DFAN",
     "description": "Langen Radar (Frankfurt Arrival North)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -77,7 +77,7 @@
     "frequency": "135.350",
     "abbreviation": "DKA",
     "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -110,7 +110,7 @@
     "frequency": "128.555",
     "abbreviation": "DLA",
     "description": "Langen Radar (D\u00fcsseldorf Arrival)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDGG",
       "EDLL"
@@ -175,7 +175,7 @@
     "frequency": "125.050",
     "abbreviation": "STG",
     "description": "Langen Radar (Stuttgart)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDFF",
       "EDGG"
@@ -196,7 +196,7 @@
     "frequency": "125.600",
     "abbreviation": "EIF",
     "description": "Langen Radar (Eifel)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDFF",
       "EDGG"
@@ -217,7 +217,7 @@
     "frequency": "125.225",
     "abbreviation": "PADL",
     "description": "Langen Radar (Paderborn Low)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_groups": [
       "EDGG",
       "EDLL"

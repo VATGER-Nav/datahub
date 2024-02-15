@@ -187,7 +187,7 @@
     "frequency": "134.150",
     "abbreviation": "ZUG",
     "description": "M\u00fcnchen Radar (Zugspitze)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
     ],

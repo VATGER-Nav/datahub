@@ -13,7 +13,7 @@
     "frequency": "118.805",
     "abbreviation": "DBTS",
     "description": "Berlin Tower (Sued)",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -32,7 +32,7 @@
     "frequency": "126.855",
     "abbreviation": "DHT",
     "description": "Hamburg Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -51,7 +51,7 @@
     "frequency": "120.180",
     "abbreviation": "DVT",
     "description": "Hannover Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
@@ -61,7 +61,7 @@
     "frequency": "120.330",
     "abbreviation": "DWT",
     "description": "Bremen Tower",
-    "gcap_training_aiport": true,
+    "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
     ]
