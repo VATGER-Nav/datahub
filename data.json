@@ -114,7 +114,8 @@
     "description": "Berlin Apron (Main)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_DEL",
@@ -123,7 +124,8 @@
     "description": "Berlin Delivery",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_D_APP",
@@ -132,7 +134,8 @@
     "description": "Berlin Director Sued",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_E_GND",
@@ -141,7 +144,8 @@
     "description": "Berlin Apron (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_F_APP",
@@ -150,7 +154,8 @@
     "description": "Berlin Director Nord",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_APP",
@@ -159,7 +164,8 @@
     "description": "Bremen Radar (Berlin Arrival Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_DEP",
@@ -168,7 +174,8 @@
     "description": "Bremen Radar (Berlin Departure Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_GND",
@@ -177,7 +184,8 @@
     "description": "Berlin Ground (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_TWR",
@@ -186,7 +194,8 @@
     "description": "Berlin Tower (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_S_APP",
@@ -196,7 +205,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_S_DEP",
@@ -205,7 +215,8 @@
     "description": "Bremen Radar (Berlin Departure Sued)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_S_GND",
@@ -214,7 +225,8 @@
     "description": "Berlin Ground (Sued)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_S_TWR",
@@ -224,7 +236,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_Y_APP",
@@ -233,7 +246,8 @@
     "description": "Bremen Radar (Berlin Arrival Nord Coordinator)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_Z_APP",
@@ -242,7 +256,8 @@
     "description": "Bremen Radar (Berlin Arrival Sued Coordinator)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDC_A_GND",
@@ -317,7 +332,8 @@
     "schedule_groups": [
       "EDGG",
       "EDFF"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_C_GND",
@@ -327,7 +343,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_C_TWR",
@@ -338,7 +355,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_DEL",
@@ -348,7 +366,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_E_GND",
@@ -360,7 +379,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_GND",
@@ -370,7 +390,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_H_APP",
@@ -380,7 +401,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_ICE_GND",
@@ -390,7 +412,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_L_APP",
@@ -402,7 +425,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_N_APP",
@@ -413,7 +437,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_N_DEP",
@@ -423,7 +448,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_N_TWR",
@@ -435,7 +461,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_S_APP",
@@ -445,7 +472,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_S_DEP",
@@ -455,7 +483,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_S_GND",
@@ -465,7 +494,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_S_TWR",
@@ -477,7 +507,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_W_GND",
@@ -489,7 +520,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_W_TWR",
@@ -501,7 +533,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDG_GND",
@@ -541,7 +574,8 @@
     "description": "Hamburg Ground",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_E_APP",
@@ -551,7 +585,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_E_GND",
@@ -560,7 +595,8 @@
     "description": "Hamburg Apron (East)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_F_APP",
@@ -569,7 +605,8 @@
     "description": "Hamburg Director",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_TWR",
@@ -579,7 +616,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_VFR_TWR",
@@ -588,7 +626,8 @@
     "description": "Hamburg VFR Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_W_APP",
@@ -597,7 +636,8 @@
     "description": "Bremen Radar (Hamburg West)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_W_GND",
@@ -606,7 +646,8 @@
     "description": "Hamburg Apron (West)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDK_APP",
@@ -701,7 +742,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_BOT_APP",
@@ -713,7 +755,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_CO_DEL",
@@ -723,7 +766,8 @@
     "schedule_groups": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_DEL",
@@ -733,7 +777,8 @@
     "schedule_minstation": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_DEP",
@@ -745,7 +790,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_E_GND",
@@ -755,7 +801,8 @@
     "schedule_minstation": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_F_APP",
@@ -765,7 +812,8 @@
     "schedule_minstation": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_TWR",
@@ -776,7 +824,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_W_GND",
@@ -788,7 +837,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_1_GND",
@@ -797,7 +847,8 @@
     "description": "M\u00fcnchen Apron (Apron 1)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_2_GND",
@@ -806,7 +857,8 @@
     "description": "M\u00fcnchen Apron (Apron 2)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_3_GND",
@@ -815,7 +867,8 @@
     "description": "M\u00fcnchen Apron (Apron 3)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_DEL",
@@ -824,7 +877,8 @@
     "description": "M\u00fcnchen Delivery",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_I_GND",
@@ -833,7 +887,8 @@
     "description": "M\u00fcnchen DeIcing Coordinator",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_ND_APP",
@@ -842,7 +897,8 @@
     "description": "M\u00fcnchen Director (North Director)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_NH_APP",
@@ -852,7 +908,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_NL_APP",
@@ -861,7 +918,8 @@
     "description": "M\u00fcnchen Radar (North Low)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_N_GND",
@@ -870,7 +928,8 @@
     "description": "M\u00fcnchen Ground (North)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_N_TWR",
@@ -880,7 +939,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_SD_APP",
@@ -889,7 +949,8 @@
     "description": "M\u00fcnchen Director (South Director)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_SH_APP",
@@ -898,7 +959,8 @@
     "description": "M\u00fcnchen Arrival (South High)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_SL_APP",
@@ -907,7 +969,8 @@
     "description": "M\u00fcnchen Radar (South Low)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_S_GND",
@@ -916,7 +979,8 @@
     "description": "M\u00fcnchen Ground (South)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_S_TWR",
@@ -925,7 +989,8 @@
     "description": "M\u00fcnchen Tower (South)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDN_D_APP",
