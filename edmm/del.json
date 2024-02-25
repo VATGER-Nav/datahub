@@ -6,7 +6,8 @@
     "description": "M\u00fcnchen Delivery",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDP_DEL",

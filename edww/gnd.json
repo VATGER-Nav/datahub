@@ -6,7 +6,8 @@
     "description": "Berlin Apron (Main)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_E_GND",
@@ -15,7 +16,8 @@
     "description": "Berlin Apron (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_GND",
@@ -24,7 +26,8 @@
     "description": "Berlin Ground (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_S_GND",
@@ -33,7 +36,8 @@
     "description": "Berlin Ground (Sued)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_E_GND",
@@ -42,7 +46,8 @@
     "description": "Hamburg Apron (East)",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_W_GND",
@@ -51,7 +56,8 @@
     "description": "Hamburg Apron (West)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDV_GND",

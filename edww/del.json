@@ -6,7 +6,8 @@
     "description": "Berlin Delivery",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_DEL",
@@ -15,7 +16,8 @@
     "description": "Hamburg Ground",
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDV_DEL",

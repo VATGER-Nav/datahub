@@ -42,7 +42,8 @@
     "description": "M\u00fcnchen Apron (Apron 1)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_2_GND",
@@ -51,7 +52,8 @@
     "description": "M\u00fcnchen Apron (Apron 2)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_3_GND",
@@ -60,7 +62,8 @@
     "description": "M\u00fcnchen Apron (Apron 3)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_N_GND",
@@ -69,7 +72,8 @@
     "description": "M\u00fcnchen Ground (North)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_S_GND",
@@ -78,7 +82,8 @@
     "description": "M\u00fcnchen Ground (South)",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_I_GND",
@@ -87,7 +92,8 @@
     "description": "M\u00fcnchen DeIcing Coordinator",
     "schedule_groups": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDN_GND",

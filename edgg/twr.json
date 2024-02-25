@@ -9,7 +9,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_W_TWR",
@@ -21,7 +22,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_C_TWR",
@@ -32,7 +34,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_N_TWR",
@@ -44,7 +47,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDG_TWR",
@@ -77,7 +81,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDR_TWR",

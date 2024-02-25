@@ -27,7 +27,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDM_S_TWR",
@@ -36,7 +37,8 @@
     "description": "M\u00fcnchen Tower (South)",
     "schedule_minstation": [
       "EDMM"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDN_TWR",

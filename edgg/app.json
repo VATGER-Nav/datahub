@@ -7,7 +7,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_S_DEP",
@@ -17,7 +18,8 @@
     "schedule_groups": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_N_APP",
@@ -28,7 +30,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_S_APP",
@@ -38,7 +41,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_H_APP",
@@ -48,7 +52,8 @@
     "schedule_minstation": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDF_L_APP",
@@ -60,7 +65,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDG_HMM_APP",
@@ -114,7 +120,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_F_APP",
@@ -124,7 +131,8 @@
     "schedule_minstation": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_DEP",
@@ -136,7 +144,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_BOT_APP",
@@ -148,7 +157,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDR_PFA_APP",

@@ -17,7 +17,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDB_N_TWR",
@@ -26,7 +27,8 @@
     "description": "Berlin Tower (Nord)",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_TWR",
@@ -36,7 +38,8 @@
     "gcap_training_airport": true,
     "schedule_minstation": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDH_VFR_TWR",
@@ -45,7 +48,8 @@
     "description": "Hamburg VFR Tower",
     "schedule_groups": [
       "EDWW"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDV_TWR",
