@@ -70,7 +70,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_TWR",
