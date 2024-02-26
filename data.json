@@ -658,7 +658,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDK_CO_DEL",
@@ -688,7 +689,8 @@
     "schedule_minstation": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDK_GND",
@@ -710,7 +712,8 @@
     ],
     "schedule_groups": [
       "EDGG"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDK_P_GND",
@@ -731,7 +734,8 @@
     "schedule_minstation": [
       "EDGG",
       "EDLL"
-    ]
+    ],
+    "gcap_status": "1"
   },
   {
     "logon": "EDDL_APP",
