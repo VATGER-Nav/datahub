@@ -1,4 +1,6 @@
-import os, json
+import os
+import json
+import sys
 
 def removeRedundantScheduleEntries(folders):
     print("Removing redundant entries: ")
@@ -34,5 +36,6 @@ def removeRedundantScheduleEntries(folders):
             
             except json.JSONDecodeError as e:
                 print(f"Error loadig JSON from {file_path}: {e}")
+                sys.exit(1)
 
     print("\n\n\n")

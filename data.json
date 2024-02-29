@@ -3038,7 +3038,7 @@
   },
   {
     "logon": "EDWW_A_CTR",
-    "frequency": "123.925",
+    "frequency": "126.325",
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)",
     "gcap_training_airport": true,

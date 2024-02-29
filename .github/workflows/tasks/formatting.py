@@ -1,4 +1,7 @@
-import os, json
+import os
+import json
+import sys
+
 
 def format_and_sort_json_files(folders):
     for folder in folders:
@@ -14,3 +17,4 @@ def format_and_sort_json_files(folders):
                     print(f"Reformatted JSON in {file_path}")
                 except json.JSONDecodeError as e:
                     print(f"Error loading JSON from {file_path}: {e}")
+                    sys.exit(1)
