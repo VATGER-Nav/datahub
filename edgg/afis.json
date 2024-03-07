@@ -67,7 +67,7 @@
     "logon": "EDFO_I_TWR",
     "frequency": "124.515",
     "abbreviation": "FOI",
-    "description": "Michelstadt Info",
+    "description": "Michelstadt Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -211,7 +211,7 @@
     "logon": "EDLO_I_TWR",
     "frequency": "136.410",
     "abbreviation": "LOI",
-    "description": "\u00d6rlinghausen Info",
+    "description": "\u00d6rlinghausen Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
