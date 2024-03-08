@@ -211,7 +211,7 @@
     "logon": "EDLO_I_TWR",
     "frequency": "136.410",
     "abbreviation": "LOI",
-    "description": "\u00d6rlinghausen Radio",
+    "description": "Oerlinghausen Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
