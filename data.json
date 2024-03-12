@@ -3301,7 +3301,10 @@
     "logon": "EDXX_FIS_CTR",
     "frequency": "128.950",
     "abbreviation": "IXX",
-    "description": "Langen Information"
+    "description": "Langen Information",
+    "schedule_group": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDXX_GG_CTR",
@@ -3313,7 +3316,10 @@
     "logon": "EDXX_IDB_CTR",
     "frequency": "132.650",
     "abbreviation": "IDB",
-    "description": "Langen Information"
+    "description": "Langen Information",
+    "schedule_group": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDXX_IDC_CTR",
@@ -3331,7 +3337,10 @@
     "logon": "EDXX_IDH_CTR",
     "frequency": "125.100",
     "abbreviation": "IDH",
-    "description": "Langen Information"
+    "description": "Langen Information",
+    "schedule_group": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDXX_IDL_CTR",
@@ -3367,13 +3376,19 @@
     "logon": "EDXX_IDV_CTR",
     "frequency": "119.825",
     "abbreviation": "IDV",
-    "description": "Langen Information"
+    "description": "Langen Information",
+    "schedule_group": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDXX_ISW_CTR",
     "frequency": "128.525",
     "abbreviation": "ISW",
-    "description": "Langen Information"
+    "description": "Langen Information",
+    "schedule_group": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDXX_MM_CTR",
@@ -3385,7 +3400,10 @@
     "logon": "EDXX_WW_CTR",
     "frequency": "119.825",
     "abbreviation": "IWW",
-    "description": "Langen Information"
+    "description": "Langen Information",
+    "schedule_group": [
+      "EDWW"
+    ]
   },
   {
     "logon": "EDXY_I_TWR",
