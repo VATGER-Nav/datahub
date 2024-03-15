@@ -4,15 +4,8 @@
     "frequency": "133.725",
     "abbreviation": "WC",
     "description": "Bremen Radar (Complete)",
-    "schedule_show_bookeds": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB",
-      "EDDH",
-      "EDDV",
-      "EDDW"
-    ],
+    "schedule_show_booked": ["EDWW"],
+    "relevant_airports": ["EDDB", "EDDH", "EDDV", "EDDW"],
     "cpdlc_login": "EDWC"
   },
   {
@@ -21,13 +14,8 @@
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)",
     "gcap_training_airport": true,
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDH",
-      "EDDW"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDH", "EDDW"],
     "cpdlc_login": "EDWA"
   },
   {
@@ -35,12 +23,8 @@
     "frequency": "123.225",
     "abbreviation": "BOR",
     "description": "Bremen Radar (Boerde)",
-    "schedule_show_bookeds": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_booked": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWB"
   },
   {
@@ -49,12 +33,8 @@
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)",
     "gcap_training_airport": true,
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDV"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDV"],
     "cpdlc_login": "EDWD"
   },
   {
@@ -62,12 +42,8 @@
     "frequency": "124.075",
     "abbreviation": "EIDE",
     "description": "Bremen Radar (Eider East)",
-    "schedule_show_bookeds": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_booked": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWE"
   },
   {
@@ -75,12 +51,8 @@
     "frequency": "136.450",
     "abbreviation": "FLG",
     "description": "Bremen Radar (Flaeming)",
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWF"
   },
   {
@@ -88,24 +60,16 @@
     "frequency": "125.855",
     "abbreviation": "HEI",
     "description": "Bremen Radar (Heide)",
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDH"
-    ]
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDH"]
   },
   {
     "logon": "EDWW_K_CTR",
     "frequency": "136.050",
     "abbreviation": "MAR",
     "description": "Bremen Radar (Mark)",
-    "schedule_show_bookeds": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_booked": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWK"
   },
   {
@@ -114,12 +78,8 @@
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)",
     "gcap_training_airport": true,
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWM"
   },
   {
@@ -127,24 +87,16 @@
     "frequency": "126.655",
     "abbreviation": "HRZ",
     "description": "Bremen Radar (Harz)",
-    "schedule_show_bookeds": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDV"
-    ]
+    "schedule_show_booked": ["EDWW"],
+    "relevant_airports": ["EDDV"]
   },
   {
     "logon": "EDWW_S_CTR",
     "frequency": "125.025",
     "abbreviation": "EMS",
     "description": "Bremen Radar (Ems)",
-    "schedule_show_bookeds": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDV"
-    ],
+    "schedule_show_booked": ["EDWW"],
+    "relevant_airports": ["EDDV"],
     "cpdlc_login": "EDWS"
   },
   {
@@ -152,14 +104,8 @@
     "frequency": "120.225",
     "abbreviation": "EIDW",
     "description": "Bremen Radar (Eider West)",
-    "schedule_show_always": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDH",
-      "EDDV",
-      "EDDW"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDH", "EDDV", "EDDW"],
     "cpdlc_login": "EDWW"
   }
 ]

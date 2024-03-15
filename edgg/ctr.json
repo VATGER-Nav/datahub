@@ -4,10 +4,7 @@
     "frequency": "131.300",
     "abbreviation": "BAD",
     "description": "Langen Radar (Baden)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_booked": ["EDFF", "EDGG"],
     "cpdlc_login": "EDGB"
   },
   {
@@ -16,14 +13,8 @@
     "abbreviation": "DKB",
     "description": "Langen Radar (Dinkelsb\u00fchl)",
     "gcap_training_airport": true,
-    "schedule_show_always": [
-      "EDFF",
-      "EDGG"
-    ],
-    "relevant_airports": [
-      "EDDF",
-      "EDDS"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
+    "relevant_airports": ["EDDF", "EDDS"],
     "cpdlc_login": "EDGD"
   },
   {
@@ -31,10 +22,7 @@
     "frequency": "124.430",
     "abbreviation": "GED",
     "description": "Langen Radar (Gedern)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_GIN_CTR",
@@ -42,16 +30,9 @@
     "abbreviation": "GIN",
     "description": "Langen Radar (Gie\u00dfen)",
     "gcap_training_airport": true,
-    "schedule_show_always": [
-      "EDFF",
-      "EDGG"
-    ],
-    "schedule_show_bookeds": [
-      "EDLL"
-    ],
-    "relevant_airports": [
-      "EDDF"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
+    "schedule_show_booked": ["EDLL"],
+    "relevant_airports": ["EDDF"],
     "cpdlc_login": "EDGG"
   },
   {
@@ -59,55 +40,36 @@
     "frequency": "134.800",
     "abbreviation": "HAB",
     "description": "Langen Radar (Hammelburg)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_HEF_CTR",
     "frequency": "127.725",
     "abbreviation": "HEF",
     "description": "Langen Radar (Hersfeld)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_KIR_CTR",
     "frequency": "133.460",
     "abbreviation": "KIR",
     "description": "Langen Radar (Kirn)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_KNG_CTR",
     "frequency": "125.680",
     "abbreviation": "KNG",
     "description": "Langen Radar (K\u00f6nig)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_KTG_CTR",
     "frequency": "123.280",
     "abbreviation": "KTG",
     "description": "Langen Radar (Kitzingen)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ],
-    "relevant_airports": [
-      "EDDF",
-      "EDDS"
-    ],
+    "schedule_show_booked": ["EDFF", "EDGG", "EDLL"],
+    "relevant_airports": ["EDDF", "EDDS"],
     "cpdlc_login": "EDGK"
   },
   {
@@ -115,30 +77,21 @@
     "frequency": "127.050",
     "abbreviation": "LBU",
     "description": "Langen Radar (Luburg)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_MAN_CTR",
     "frequency": "132.155",
     "abbreviation": "MAIN",
     "description": "Langen Radar (Main)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_NKH_CTR",
     "frequency": "127.500",
     "abbreviation": "NKRH",
     "description": "Langen Radar (Neckar High)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_PAH_CTR",
@@ -146,14 +99,8 @@
     "abbreviation": "PADH",
     "description": "Langen Radar (Paderborn High)",
     "gcap_training_airport": true,
-    "schedule_show_always": [
-      "EDLL",
-      "EDGG"
-    ],
-    "relevant_airports": [
-      "EDDL",
-      "EDDK"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
+    "relevant_airports": ["EDDL", "EDDK"],
     "cpdlc_login": "EDGP"
   },
   {
@@ -161,21 +108,14 @@
     "frequency": "125.405",
     "abbreviation": "PSA",
     "description": "Langen Radar (Spessart)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_RUD_CTR",
     "frequency": "133.435",
     "abbreviation": "RUD",
     "description": "Langen Radar (R\u00fcdesheim)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_booked": ["EDFF", "EDGG", "EDLL"],
     "cpdlc_login": "EDGR"
   },
   {
@@ -183,21 +123,13 @@
     "frequency": "124.900",
     "abbreviation": "SIG",
     "description": "Langen Radar (Siegen)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG", "EDLL"]
   },
   {
     "logon": "EDGG_TAU_CTR",
     "frequency": "127.625",
     "abbreviation": "TAU",
     "description": "Langen Radar (Taunus)",
-    "schedule_show_bookeds": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_booked": ["EDFF", "EDGG", "EDLL"]
   }
 ]
