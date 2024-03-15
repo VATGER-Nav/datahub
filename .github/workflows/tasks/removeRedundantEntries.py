@@ -2,11 +2,12 @@ import os
 import json
 import sys
 
+
 def removeRedundantScheduleEntries(folders):
     print("Removing redundant entries: ")
     for folder in folders:
         for filename in os.listdir(folder):
-            if not filename.endswith('.json'):
+            if not filename.endswith(".json"):
                 continue
             file_path = os.path.join(folder, filename)
             try:
@@ -14,26 +15,46 @@ def removeRedundantScheduleEntries(folders):
                     data = json.load(json_file)
 
                 for element in data:
-                    if not "schedule_minstation" in element or not "schedule_groups" in element:
+                    if (
+                        not "schedule_show_always" in element
+                        or not "schedule_show_booked" in element
+                    ):
                         continue
 
-                    schedule_minstation = element["schedule_minstation"]
-                    schedule_group = element["schedule_groups"]
+                    schedule_show_always = element["schedule_show_always"]
+                    schedule_show_booked = element["schedule_show_booked"]
 
-                    # Create a new list for schedule_group without redundant entries
-                    new_schedule_group = [group for group in schedule_group if group not in schedule_minstation]
+                    # Create a new list for schedule_show_booked without redundant entries
+                    new_schedule_show_booked = [
+                        group
+                        for group in schedule_show_booked
+                        if group not in schedule_show_always
+                    ]
 
-                    if new_schedule_group != schedule_group:
-                        print("Removed:", [group for group in schedule_group if group not in new_schedule_group], "from", element["logon"])
+                    if new_schedule_show_booked != schedule_show_booked:
+                        print(
+                            "Removed:",
+                            [
+                                group
+                                for group in schedule_show_booked
+                                if group not in new_schedule_show_booked
+                            ],
+                            "from",
+                            element["logon"],
+                        )
 
-                    if not new_schedule_group:
-                        del element["schedule_groups"]  # Remove the key if the list is empty
+                    if not new_schedule_show_booked:
+                        del element[
+                            "schedule_show_booked"
+                        ]  # Remove the key if the list is empty
                     else:
-                        element["schedule_groups"] = new_schedule_group  # Update with the new list
+                        element["schedule_show_booked"] = (
+                            new_schedule_show_booked  # Update with the new list
+                        )
 
-                with open(file_path, 'w') as json_file:
+                with open(file_path, "w") as json_file:
                     json.dump(data, json_file, indent=2)
-            
+
             except json.JSONDecodeError as e:
                 print(f"Error loadig JSON from {file_path}: {e}")
                 sys.exit(1)

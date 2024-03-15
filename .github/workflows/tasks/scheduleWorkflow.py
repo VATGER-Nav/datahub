@@ -18,26 +18,26 @@ def createScheduleJson(inputFile, outputFile):
             else:
                 continue
 
-            # populate schedule_minstation dict
-            if "schedule_minstation" in element:
-                min_stations = element["schedule_minstation"]
-                for schedule_group in min_stations:
+            # populate schedule_show_always dict
+            if "schedule_show_always" in element:
+                min_stations = element["schedule_show_always"]
+                for schedule_show_booked in min_stations:
                     if (
-                        schedule_group in minstation_dict
-                        and logon not in group_dict[schedule_group]
+                        schedule_show_booked in minstation_dict
+                        and logon not in group_dict[schedule_show_booked]
                     ):
-                        minstation_dict[schedule_group].append(logon)
+                        minstation_dict[schedule_show_booked].append(logon)
                     else:
-                        minstation_dict[schedule_group] = [logon]
+                        minstation_dict[schedule_show_booked] = [logon]
 
-            # populate schedule_group dict
-            if "schedule_groups" in element:
-                schedule_groups = element["schedule_groups"]
-                for schedule_group in schedule_groups:
-                    if schedule_group in group_dict:
-                        group_dict[schedule_group].append(logon)
+            # populate schedule_show_booked dict
+            if "schedule_show_booked" in element:
+                schedule_show_booked = element["schedule_show_booked"]
+                for schedule_show_booked in schedule_show_booked:
+                    if schedule_show_booked in group_dict:
+                        group_dict[schedule_show_booked].append(logon)
                     else:
-                        group_dict[schedule_group] = [logon]
+                        group_dict[schedule_show_booked] = [logon]
 
             # populate MIL stations, include all stations starting with "ET"
             if logon.startswith("ET"):
@@ -54,13 +54,13 @@ def createScheduleJson(inputFile, outputFile):
 
         # Group the data by keys
         for key in set(minstation_dict.keys()).union(group_dict.keys()):
-            schedule_minstation = minstation_dict.get(key, [])
-            schedule_group = group_dict.get(key, [])
+            schedule_show_always = minstation_dict.get(key, [])
+            schedule_show_booked = group_dict.get(key, [])
 
             grouped_data[key] = {
                 "name": key,
-                "schedule_minstation": schedule_minstation,
-                "schedule_group": schedule_group,
+                "schedule_show_always": schedule_show_always,
+                "schedule_show_booked": schedule_show_booked,
             }
 
         # Convert the grouped data into a list of objects

@@ -14,7 +14,7 @@ try:
     folders_to_sort = folders_to_consolidate + ["event_schedules"]
     checkData(folders_to_consolidate)
 
-    # remove redundant schedule_groups entries
+    # remove redundant schedule_show_booked entries
     removeRedundantScheduleEntries(folders_to_consolidate)
 
     # format all source jsons

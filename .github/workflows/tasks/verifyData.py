@@ -20,24 +20,24 @@ def checkData(folders):
 
                     for element in data:
                         if (
-                            not "schedule_minstation" in element
-                            and not "schedule_groups" in element
+                            not "schedule_show_always" in element
+                            and not "schedule_show_booked" in element
                         ):
                             continue
 
-                        if element.get("schedule_minstation") and not isinstance(
-                            element.get("schedule_minstation"), list
+                        if element.get("schedule_show_always") and not isinstance(
+                            element.get("schedule_show_always"), list
                         ):
                             scheduleListsValid = False
                             print(
-                                f"Error in {file_path}: {element.get('logon')} schedule_minstation has to be a list"
+                                f"Error in {file_path}: {element.get('logon')} schedule_show_always has to be a list"
                             )
-                        if element.get("schedule_groups") and not isinstance(
-                            element.get("schedule_groups"), list
+                        if element.get("schedule_show_booked") and not isinstance(
+                            element.get("schedule_show_booked"), list
                         ):
                             scheduleListsValid = False
                             print(
-                                f"Error in {file_path}: {element.get('logon')} schedule_groups has to be a list"
+                                f"Error in {file_path}: {element.get('logon')} schedule_show_booked has to be a list"
                             )
 
             except json.JSONDecodeError as e:
@@ -49,6 +49,6 @@ def checkData(folders):
         sys.exit(100)
     if not scheduleListsValid:
         print(
-            "Workflow aborted: schedule_minstation and schedule_groups must be of type list"
+            "Workflow aborted: schedule_show_always and schedule_show_booked must be of type list"
         )
         sys.exit(200)
