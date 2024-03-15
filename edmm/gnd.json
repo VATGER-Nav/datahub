@@ -4,45 +4,35 @@
     "frequency": "121.980",
     "abbreviation": "DCG",
     "description": "Dresden Ground",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDC_A_GND",
     "frequency": "121.755",
     "abbreviation": "DCAG",
     "description": "",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDE_GND",
     "frequency": "121.755",
     "abbreviation": "DEG",
     "description": "Erfurt Ground",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDE_A_GND",
     "frequency": "121.905",
     "abbreviation": "DEAG",
     "description": "Erfurt Apron",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDM_1_GND",
     "frequency": "121.780",
     "abbreviation": "DMG1",
     "description": "M\u00fcnchen Apron (Apron 1)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -50,9 +40,7 @@
     "frequency": "121.710",
     "abbreviation": "DMG2",
     "description": "M\u00fcnchen Apron (Apron 2)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -60,9 +48,7 @@
     "frequency": "121.930",
     "abbreviation": "DMG3",
     "description": "M\u00fcnchen Apron (Apron 3)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -70,9 +56,7 @@
     "frequency": "121.980",
     "abbreviation": "DMGN",
     "description": "M\u00fcnchen Ground (North)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -80,9 +64,7 @@
     "frequency": "121.830",
     "abbreviation": "DMGS",
     "description": "M\u00fcnchen Ground (South)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -90,9 +72,7 @@
     "frequency": "121.990",
     "abbreviation": "DMGI",
     "description": "M\u00fcnchen DeIcing Coordinator",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -100,26 +80,20 @@
     "frequency": "121.760",
     "abbreviation": "DNG",
     "description": "N\u00fcrnberg Ground",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_GND",
     "frequency": "121.805",
     "abbreviation": "DPG",
     "description": "Leipzig Ground",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDJA_GND",
     "frequency": "121.680",
     "abbreviation": "JAG",
     "description": "Memmingen Ground",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   }
 ]

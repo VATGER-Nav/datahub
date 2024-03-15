@@ -4,10 +4,7 @@
     "frequency": "120.155",
     "abbreviation": "DFDN",
     "description": "Langen Radar (Frankfurt Departure North)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -15,10 +12,7 @@
     "frequency": "136.130",
     "abbreviation": "DFDS",
     "description": "Langen Radar (Frankfurt Departure South)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -27,10 +21,7 @@
     "abbreviation": "DFAN",
     "description": "Langen Radar (Frankfurt Arrival North)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -38,10 +29,7 @@
     "frequency": "125.355",
     "abbreviation": "DFAS",
     "description": "Langen Radar (Frankfurt Arrival South)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -49,10 +37,7 @@
     "frequency": "127.280",
     "abbreviation": "DFANT",
     "description": "Frankfurt Director (North)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -60,12 +45,8 @@
     "frequency": "118.505",
     "abbreviation": "DFAST",
     "description": "Frankfurt Director (South)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -73,10 +54,7 @@
     "frequency": "129.300",
     "abbreviation": "HMM",
     "description": "Langen Radar (Hamm)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_always": ["EDGG", "EDLL"]
   },
   {
     "logon": "EDDK_APP",
@@ -84,10 +62,7 @@
     "abbreviation": "DKA",
     "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -95,10 +70,7 @@
     "frequency": "121.055",
     "abbreviation": "DKAT",
     "description": "K\u00f6ln/Bonn Director",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -106,12 +78,8 @@
     "frequency": "127.365",
     "abbreviation": "NOR",
     "description": "Langen Radar (N\u00f6rvenich)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -120,10 +88,7 @@
     "abbreviation": "DLA",
     "description": "Langen Radar (D\u00fcsseldorf Arrival)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -131,10 +96,7 @@
     "frequency": "128.655",
     "abbreviation": "DLAT",
     "description": "D\u00fcsseldorf Director",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -142,12 +104,8 @@
     "frequency": "121.355",
     "abbreviation": "DLD",
     "description": "Langen Radar (D\u00fcsseldorf Departure)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -155,12 +113,8 @@
     "frequency": "119.110",
     "abbreviation": "BOT",
     "description": "Langen Radar (Bottrop)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -168,20 +122,14 @@
     "frequency": "129.675",
     "abbreviation": "PFA",
     "description": "Langen Radar (Pfalz)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_F_APP",
     "frequency": "119.850",
     "abbreviation": "DSAT",
     "description": "Stuttgart Director",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_STG_APP",
@@ -189,20 +137,14 @@
     "abbreviation": "STG",
     "description": "Langen Radar (Stuttgart)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_REU_APP",
     "frequency": "119.200",
     "abbreviation": "REU",
     "description": "Langen Radar (Reutlingen)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDFH_EIF_APP",
@@ -210,20 +152,14 @@
     "abbreviation": "EIF",
     "description": "Langen Radar (Eifel)",
     "gcap_training_airport": true,
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDFM_NKL_APP",
     "frequency": "129.355",
     "abbreviation": "NKRL",
     "description": "Langen Radar (Neckar Low)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDLP_PAL_APP",
@@ -231,9 +167,6 @@
     "abbreviation": "PADL",
     "description": "Langen Radar (Paderborn Low)",
     "gcap_training_airport": true,
-    "schedule_groups": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_bookeds": ["EDGG", "EDLL"]
   }
 ]

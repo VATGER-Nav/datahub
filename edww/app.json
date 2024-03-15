@@ -5,9 +5,7 @@
     "abbreviation": "DBAS",
     "description": "Bremen Radar (Berlin Arrival Sued)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -15,9 +13,7 @@
     "frequency": "119.630",
     "abbreviation": "DBAN",
     "description": "Bremen Radar (Berlin Arrival Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -25,9 +21,7 @@
     "frequency": "121.130",
     "abbreviation": "DBAST",
     "description": "Berlin Director Sued",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -35,9 +29,7 @@
     "frequency": "136.105",
     "abbreviation": "DBANT",
     "description": "Berlin Director Nord",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -45,9 +37,7 @@
     "frequency": "120.630",
     "abbreviation": "DBDS",
     "description": "Bremen Radar (Berlin Departure Sued)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -55,9 +45,7 @@
     "frequency": "134.430",
     "abbreviation": "DBDN",
     "description": "Bremen Radar (Berlin Departure Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -65,9 +53,7 @@
     "frequency": "126.425",
     "abbreviation": "DBASQ",
     "description": "Bremen Radar (Berlin Arrival Sued Coordinator)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -75,9 +61,7 @@
     "frequency": "119.630",
     "abbreviation": "DBANQ",
     "description": "Bremen Radar (Berlin Arrival Nord Coordinator)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -86,9 +70,7 @@
     "abbreviation": "HAME",
     "description": "Bremen Radar (Hamburg East)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -96,9 +78,7 @@
     "frequency": "118.205",
     "abbreviation": "DHAT",
     "description": "Hamburg Director",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -106,9 +86,7 @@
     "frequency": "134.255",
     "abbreviation": "HAMW",
     "description": "Bremen Radar (Hamburg West)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -117,18 +95,14 @@
     "abbreviation": "HAN",
     "description": "Bremen Radar (Hannover)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDV_F_APP",
     "frequency": "119.605",
     "abbreviation": "DVAT",
     "description": "Hannover Director",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDW_APP",
@@ -136,17 +110,13 @@
     "abbreviation": "FRI",
     "description": "Bremen Radar (Friesland)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDW_F_APP",
     "frequency": "120.350",
     "abbreviation": "DWAT",
     "description": "Bremen Director",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   }
 ]

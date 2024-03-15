@@ -4,9 +4,7 @@
     "frequency": "122.930",
     "abbreviation": "DCT",
     "description": "Dresden Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -14,9 +12,7 @@
     "frequency": "121.155",
     "abbreviation": "DET",
     "description": "Erfurt Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -25,9 +21,7 @@
     "abbreviation": "DMTN",
     "description": "M\u00fcnchen Tower (North)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -35,9 +29,7 @@
     "frequency": "120.505",
     "abbreviation": "DMTS",
     "description": "M\u00fcnchen Tower (South)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -46,36 +38,28 @@
     "abbreviation": "DNT",
     "description": "N\u00fcrnberg Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_N_TWR",
     "frequency": "125.955",
     "abbreviation": "DPTN",
     "description": "Leipzig Tower (North)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_S_TWR",
     "frequency": "121.105",
     "abbreviation": "DPTS",
     "description": "Leipzig Tower (South)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDJA_TWR",
     "frequency": "126.855",
     "abbreviation": "JAT",
     "description": "Memmingen Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -83,9 +67,7 @@
     "frequency": "124.980",
     "abbreviation": "MAT",
     "description": "Augsburg Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -93,9 +75,7 @@
     "frequency": "119.555",
     "abbreviation": "MOT",
     "description": "Oberpfaffenhofen Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -103,18 +83,14 @@
     "frequency": "120.080",
     "abbreviation": "NYT",
     "description": "Friedrichshafen Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDQM_TWR",
     "frequency": "124.355",
     "abbreviation": "QMT",
     "description": "Hof Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   }
 ]

@@ -4,9 +4,7 @@
     "frequency": "121.605",
     "abbreviation": "DBC",
     "description": "Berlin Delivery",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -14,9 +12,7 @@
     "frequency": "121.805",
     "abbreviation": "DHL",
     "description": "Hamburg Ground",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -24,17 +20,13 @@
     "frequency": "120.405",
     "abbreviation": "DVL",
     "description": "Hannover Delivery",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDW_DEL",
     "frequency": "134.830",
     "abbreviation": "DWL",
     "description": "Bremen Delivery",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   }
 ]

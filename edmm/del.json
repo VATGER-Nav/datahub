@@ -4,9 +4,7 @@
     "frequency": "121.730",
     "abbreviation": "DMC",
     "description": "M\u00fcnchen Delivery",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -14,8 +12,6 @@
     "frequency": "121.680",
     "abbreviation": "DPC",
     "description": "Leipzig Delivery",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   }
 ]

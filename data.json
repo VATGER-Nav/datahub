@@ -20,9 +20,7 @@
     "frequency": "132.830",
     "abbreviation": "AHT",
     "description": "Heringsdorf Tower",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "s1_twr": true
   },
   {
@@ -126,9 +124,7 @@
     "frequency": "121.855",
     "abbreviation": "DBGA",
     "description": "Berlin Apron (Main)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -136,9 +132,7 @@
     "frequency": "121.605",
     "abbreviation": "DBC",
     "description": "Berlin Delivery",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -146,9 +140,7 @@
     "frequency": "121.130",
     "abbreviation": "DBAST",
     "description": "Berlin Director Sued",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -156,9 +148,7 @@
     "frequency": "129.605",
     "abbreviation": "DBGE",
     "description": "Berlin Apron (Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -166,9 +156,7 @@
     "frequency": "136.105",
     "abbreviation": "DBANT",
     "description": "Berlin Director Nord",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -176,9 +164,7 @@
     "frequency": "119.630",
     "abbreviation": "DBAN",
     "description": "Bremen Radar (Berlin Arrival Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -186,9 +172,7 @@
     "frequency": "134.430",
     "abbreviation": "DBDN",
     "description": "Bremen Radar (Berlin Departure Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -196,9 +180,7 @@
     "frequency": "129.505",
     "abbreviation": "DBGN",
     "description": "Berlin Ground (Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -206,9 +188,7 @@
     "frequency": "120.030",
     "abbreviation": "DBTN",
     "description": "Berlin Tower (Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -217,9 +197,7 @@
     "abbreviation": "DBAS",
     "description": "Bremen Radar (Berlin Arrival Sued)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -227,9 +205,7 @@
     "frequency": "120.630",
     "abbreviation": "DBDS",
     "description": "Bremen Radar (Berlin Departure Sued)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -237,9 +213,7 @@
     "frequency": "121.705",
     "abbreviation": "DBGS",
     "description": "Berlin Ground (Sued)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -248,9 +222,7 @@
     "abbreviation": "DBTS",
     "description": "Berlin Tower (Sued)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -258,9 +230,7 @@
     "frequency": "119.630",
     "abbreviation": "DBANQ",
     "description": "Bremen Radar (Berlin Arrival Nord Coordinator)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -268,9 +238,7 @@
     "frequency": "126.425",
     "abbreviation": "DBASQ",
     "description": "Bremen Radar (Berlin Arrival Sued Coordinator)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -278,36 +246,28 @@
     "frequency": "121.755",
     "abbreviation": "DCAG",
     "description": "",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDC_GND",
     "frequency": "121.980",
     "abbreviation": "DCG",
     "description": "Dresden Ground",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDC_SAS_APP",
     "frequency": "125.875",
     "abbreviation": "SAS",
     "description": "M\u00fcnchen Radar (Sachsen Low)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDC_TWR",
     "frequency": "122.930",
     "abbreviation": "DCT",
     "description": "Dresden Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -315,27 +275,21 @@
     "frequency": "121.905",
     "abbreviation": "DEAG",
     "description": "Erfurt Apron",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDE_GND",
     "frequency": "121.755",
     "abbreviation": "DEG",
     "description": "Erfurt Ground",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDE_TWR",
     "frequency": "121.155",
     "abbreviation": "DET",
     "description": "Erfurt Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -343,10 +297,7 @@
     "frequency": "122.035",
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery Coordinator",
-    "schedule_groups": [
-      "EDGG",
-      "EDFF"
-    ],
+    "schedule_show_bookeds": ["EDGG", "EDFF"],
     "gcap_status": "1"
   },
   {
@@ -354,10 +305,7 @@
     "frequency": "121.855",
     "abbreviation": "DFGC",
     "description": "Frankfurt Apron (Center)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -366,10 +314,7 @@
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -377,10 +322,7 @@
     "frequency": "122.035",
     "abbreviation": "DFC",
     "description": "Frankfurt Delivery",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -388,12 +330,8 @@
     "frequency": "121.955",
     "abbreviation": "DFGE",
     "description": "Frankfurt Apron (East)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -401,10 +339,7 @@
     "frequency": "121.805",
     "abbreviation": "DFG",
     "description": "Frankfurt Ground",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -412,10 +347,7 @@
     "frequency": "127.280",
     "abbreviation": "DFANT",
     "description": "Frankfurt Director (North)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -423,10 +355,7 @@
     "frequency": "121.985",
     "abbreviation": "DFGI",
     "description": "Frankfurt Deicing",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -434,12 +363,8 @@
     "frequency": "118.505",
     "abbreviation": "DFAST",
     "description": "Frankfurt Director (South)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -448,10 +373,7 @@
     "abbreviation": "DFAN",
     "description": "Langen Radar (Frankfurt Arrival North)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -459,10 +381,7 @@
     "frequency": "120.155",
     "abbreviation": "DFDN",
     "description": "Langen Radar (Frankfurt Departure North)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -470,12 +389,8 @@
     "frequency": "136.500",
     "abbreviation": "DFTN",
     "description": "Frankfurt Tower (North)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -483,10 +398,7 @@
     "frequency": "125.355",
     "abbreviation": "DFAS",
     "description": "Langen Radar (Frankfurt Arrival South)",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -494,10 +406,7 @@
     "frequency": "136.130",
     "abbreviation": "DFDS",
     "description": "Langen Radar (Frankfurt Departure South)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -505,10 +414,7 @@
     "frequency": "121.655",
     "abbreviation": "DFGS",
     "description": "Frankfurt Apron (South)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -516,12 +422,8 @@
     "frequency": "119.905",
     "abbreviation": "DFTS",
     "description": "Frankfurt Tower (South)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -529,12 +431,8 @@
     "frequency": "121.755",
     "abbreviation": "DFGW",
     "description": "Frankfurt Apron (West)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -542,12 +440,8 @@
     "frequency": "124.855",
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
-    "schedule_minstation": [
-      "EDFF"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDFF"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -555,30 +449,21 @@
     "frequency": "121.880",
     "abbreviation": "DGG",
     "description": "M\u00fcnster Ground",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDG_HMM_APP",
     "frequency": "129.300",
     "abbreviation": "HMM",
     "description": "Langen Radar (Hamm)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_always": ["EDGG", "EDLL"]
   },
   {
     "logon": "EDDG_TWR",
     "frequency": "129.805",
     "abbreviation": "DGT",
     "description": "M\u00fcnster Tower",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDLL", "EDGG"],
     "s1_twr": true
   },
   {
@@ -586,9 +471,7 @@
     "frequency": "121.805",
     "abbreviation": "DHL",
     "description": "Hamburg Ground",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -597,9 +480,7 @@
     "abbreviation": "HAME",
     "description": "Bremen Radar (Hamburg East)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -607,9 +488,7 @@
     "frequency": "121.705",
     "abbreviation": "DHE",
     "description": "Hamburg Apron (East)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -617,9 +496,7 @@
     "frequency": "118.205",
     "abbreviation": "DHAT",
     "description": "Hamburg Director",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -628,9 +505,7 @@
     "abbreviation": "DHT",
     "description": "Hamburg Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -638,9 +513,7 @@
     "frequency": "121.280",
     "abbreviation": "DHR",
     "description": "Hamburg VFR Tower",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -648,9 +521,7 @@
     "frequency": "134.255",
     "abbreviation": "HAMW",
     "description": "Bremen Radar (Hamburg West)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -658,9 +529,7 @@
     "frequency": "121.980",
     "abbreviation": "DHW",
     "description": "Hamburg Apron (West)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -669,10 +538,7 @@
     "abbreviation": "DKA",
     "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -680,30 +546,21 @@
     "frequency": "121.855",
     "abbreviation": "DKC",
     "description": "K\u00f6ln/Bonn Delivery Coordinator",
-    "schedule_groups": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_bookeds": ["EDGG", "EDLL"]
   },
   {
     "logon": "EDDK_DEL",
     "frequency": "121.855",
     "abbreviation": "DKC",
     "description": "K\u00f6ln/Bonn Delivery",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDK_F_APP",
     "frequency": "121.055",
     "abbreviation": "DKAT",
     "description": "K\u00f6ln/Bonn Director",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -711,22 +568,15 @@
     "frequency": "121.730",
     "abbreviation": "DKG",
     "description": "K\u00f6ln/Bonn Ground",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDK_NOR_APP",
     "frequency": "127.365",
     "abbreviation": "NOR",
     "description": "Langen Radar (N\u00f6rvenich)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -734,10 +584,7 @@
     "frequency": "121.955",
     "abbreviation": "DKGP",
     "description": "K\u00f6ln/Bonn Apron",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDDK_TWR",
@@ -745,10 +592,7 @@
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -757,10 +601,7 @@
     "abbreviation": "DLA",
     "description": "Langen Radar (D\u00fcsseldorf Arrival)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -768,12 +609,8 @@
     "frequency": "119.110",
     "abbreviation": "BOT",
     "description": "Langen Radar (Bottrop)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -781,10 +618,7 @@
     "frequency": "121.780",
     "abbreviation": "DLC",
     "description": "D\u00fcsseldorf Delivery Coordinator",
-    "schedule_groups": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_bookeds": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -792,10 +626,7 @@
     "frequency": "121.780",
     "abbreviation": "DLC",
     "description": "D\u00fcsseldorf Delivery",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -803,12 +634,8 @@
     "frequency": "121.355",
     "abbreviation": "DLD",
     "description": "Langen Radar (D\u00fcsseldorf Departure)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -816,10 +643,7 @@
     "frequency": "121.605",
     "abbreviation": "DLGE",
     "description": "D\u00fcsseldorf Ground (East)",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -827,10 +651,7 @@
     "frequency": "128.655",
     "abbreviation": "DLAT",
     "description": "D\u00fcsseldorf Director",
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
     "gcap_status": "1"
   },
   {
@@ -839,10 +660,7 @@
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL"],
     "gcap_status": "1"
   },
   {
@@ -850,12 +668,8 @@
     "frequency": "121.905",
     "abbreviation": "DLGW",
     "description": "D\u00fcsseldorf Ground (West)",
-    "schedule_minstation": [
-      "EDLL"
-    ],
-    "schedule_groups": [
-      "EDGG"
-    ],
+    "schedule_show_always": ["EDLL"],
+    "schedule_show_bookeds": ["EDGG"],
     "gcap_status": "1"
   },
   {
@@ -863,9 +677,7 @@
     "frequency": "121.780",
     "abbreviation": "DMG1",
     "description": "M\u00fcnchen Apron (Apron 1)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -873,9 +685,7 @@
     "frequency": "121.710",
     "abbreviation": "DMG2",
     "description": "M\u00fcnchen Apron (Apron 2)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -883,9 +693,7 @@
     "frequency": "121.930",
     "abbreviation": "DMG3",
     "description": "M\u00fcnchen Apron (Apron 3)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -893,9 +701,7 @@
     "frequency": "121.730",
     "abbreviation": "DMC",
     "description": "M\u00fcnchen Delivery",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -903,9 +709,7 @@
     "frequency": "121.990",
     "abbreviation": "DMGI",
     "description": "M\u00fcnchen DeIcing Coordinator",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -913,9 +717,7 @@
     "frequency": "118.830",
     "abbreviation": "DMNAT",
     "description": "M\u00fcnchen Director (North Director)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -924,9 +726,7 @@
     "abbreviation": "DMNH",
     "description": "M\u00fcnchen Arrival (North High)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -934,9 +734,7 @@
     "frequency": "123.905",
     "abbreviation": "DMNL",
     "description": "M\u00fcnchen Radar (North Low)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -944,9 +742,7 @@
     "frequency": "121.980",
     "abbreviation": "DMGN",
     "description": "M\u00fcnchen Ground (North)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -955,9 +751,7 @@
     "abbreviation": "DMTN",
     "description": "M\u00fcnchen Tower (North)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -965,9 +759,7 @@
     "frequency": "132.305",
     "abbreviation": "DMSAT",
     "description": "M\u00fcnchen Director (South Director)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -975,9 +767,7 @@
     "frequency": "120.780",
     "abbreviation": "DMSH",
     "description": "M\u00fcnchen Arrival (South High)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -985,9 +775,7 @@
     "frequency": "127.955",
     "abbreviation": "DMSL",
     "description": "M\u00fcnchen Radar (South Low)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -995,9 +783,7 @@
     "frequency": "121.830",
     "abbreviation": "DMGS",
     "description": "M\u00fcnchen Ground (South)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -1005,9 +791,7 @@
     "frequency": "120.505",
     "abbreviation": "DMTS",
     "description": "M\u00fcnchen Tower (South)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "gcap_status": "1"
   },
   {
@@ -1015,9 +799,7 @@
     "frequency": "119.475",
     "abbreviation": "DND",
     "description": "N\u00fcrnberg Director",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDN_FRK_APP",
@@ -1025,18 +807,14 @@
     "abbreviation": "FRK",
     "description": "M\u00fcnchen Radar (Franken)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDN_GND",
     "frequency": "121.760",
     "abbreviation": "DNG",
     "description": "N\u00fcrnberg Ground",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDN_TWR",
@@ -1044,111 +822,84 @@
     "abbreviation": "DNT",
     "description": "N\u00fcrnberg Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_DEL",
     "frequency": "121.680",
     "abbreviation": "DPC",
     "description": "Leipzig Delivery",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDP_GND",
     "frequency": "121.805",
     "abbreviation": "DPG",
     "description": "Leipzig Ground",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_ND_APP",
     "frequency": "120.840",
     "abbreviation": "DPND",
     "description": "Leipzig Director (North Director)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDP_N_TWR",
     "frequency": "125.955",
     "abbreviation": "DPTN",
     "description": "Leipzig Tower (North)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_SD_APP",
     "frequency": "129.765",
     "abbreviation": "DPSD",
     "description": "Leipzig Director (South Director)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_S_TWR",
     "frequency": "121.105",
     "abbreviation": "DPTS",
     "description": "Leipzig Tower (South)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDP_TRN_APP",
     "frequency": "126.065",
     "abbreviation": "TRN",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDDP_TRS_APP",
     "frequency": "126.175",
     "abbreviation": "TRS",
     "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDDR_GND",
     "frequency": "118.555",
     "abbreviation": "DRG",
     "description": "Saarbr\u00fccken Ground",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDR_PFA_APP",
     "frequency": "129.675",
     "abbreviation": "PFA",
     "description": "Langen Radar (Pfalz)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDR_TWR",
     "frequency": "118.355",
     "abbreviation": "DRT",
     "description": "Saarbr\u00fccken Tower",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "s1_twr": true
   },
   {
@@ -1156,50 +907,35 @@
     "frequency": "121.915",
     "abbreviation": "DSC",
     "description": "Stuttgart Delivery Coordinator",
-    "schedule_groups": [
-      "EDGG",
-      "EDFF"
-    ]
+    "schedule_show_bookeds": ["EDGG", "EDFF"]
   },
   {
     "logon": "EDDS_DEL",
     "frequency": "121.915",
     "abbreviation": "DSC",
     "description": "Stuttgart Delivery",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_F_APP",
     "frequency": "119.850",
     "abbreviation": "DSAT",
     "description": "Stuttgart Director",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_GND",
     "frequency": "118.605",
     "abbreviation": "DSG",
     "description": "Stuttgart Ground",
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_REU_APP",
     "frequency": "119.200",
     "abbreviation": "REU",
     "description": "Langen Radar (Reutlingen)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_STG_APP",
@@ -1207,10 +943,7 @@
     "abbreviation": "STG",
     "description": "Langen Radar (Stuttgart)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_always": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDS_TWR",
@@ -1218,20 +951,14 @@
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDGG",
-      "EDFF"
-    ]
+    "schedule_show_always": ["EDGG", "EDFF"]
   },
   {
     "logon": "EDDS_VFR_TWR",
     "frequency": "119.055",
     "abbreviation": "DSTV",
     "description": "Stuttgart Tower (VFR)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDDV_APP",
@@ -1239,36 +966,28 @@
     "abbreviation": "HAN",
     "description": "Bremen Radar (Hannover)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDV_DEL",
     "frequency": "120.405",
     "abbreviation": "DVL",
     "description": "Hannover Delivery",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDV_F_APP",
     "frequency": "119.605",
     "abbreviation": "DVAT",
     "description": "Hannover Director",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDV_GND",
     "frequency": "121.955",
     "abbreviation": "DVG",
     "description": "Hannover Ground",
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDV_TWR",
@@ -1276,9 +995,7 @@
     "abbreviation": "DVT",
     "description": "Hannover Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDW_APP",
@@ -1286,36 +1003,28 @@
     "abbreviation": "FRI",
     "description": "Bremen Radar (Friesland)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDW_DEL",
     "frequency": "134.830",
     "abbreviation": "DWL",
     "description": "Bremen Delivery",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDW_F_APP",
     "frequency": "120.350",
     "abbreviation": "DWAT",
     "description": "Bremen Director",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDW_GND",
     "frequency": "121.755",
     "abbreviation": "DWG",
     "description": "Bremen Ground",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDDW_TWR",
@@ -1323,9 +1032,7 @@
     "abbreviation": "DWT",
     "description": "Bremen Tower",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "s1_twr": true
   },
   {
@@ -1381,10 +1088,7 @@
     "frequency": "121.730",
     "abbreviation": "FEG",
     "description": "Egelsbach Apron",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDFE_I_TWR",
@@ -1408,30 +1112,21 @@
     "abbreviation": "EIF",
     "description": "Langen Radar (Eifel)",
     "gcap_training_airport": true,
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDFH_GND",
     "frequency": "121.980",
     "abbreviation": "FHG",
     "description": "Hahn Ground",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDFH_TWR",
     "frequency": "119.655",
     "abbreviation": "FHT",
     "description": "Hahn Tower",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "s1_twr": true
   },
   {
@@ -1439,20 +1134,14 @@
     "frequency": "129.355",
     "abbreviation": "NKRL",
     "description": "Langen Radar (Neckar Low)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDFM_TWR",
     "frequency": "129.780",
     "abbreviation": "FMT",
     "description": "Mannheim Tower",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "s1_twr": true
   },
   {
@@ -1508,10 +1197,7 @@
     "frequency": "131.300",
     "abbreviation": "BAD",
     "description": "Langen Radar (Baden)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "cpdlc_login": "EDGB"
   },
   {
@@ -1520,14 +1206,8 @@
     "abbreviation": "DKB",
     "description": "Langen Radar (Dinkelsb\u00fchl)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
-    "relevant_airports": [
-      "EDDF",
-      "EDDS"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
+    "relevant_airports": ["EDDF", "EDDS"],
     "cpdlc_login": "EDGD"
   },
   {
@@ -1535,10 +1215,7 @@
     "frequency": "124.430",
     "abbreviation": "GED",
     "description": "Langen Radar (Gedern)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_GIN_CTR",
@@ -1546,16 +1223,9 @@
     "abbreviation": "GIN",
     "description": "Langen Radar (Gie\u00dfen)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDFF",
-      "EDGG"
-    ],
-    "schedule_groups": [
-      "EDLL"
-    ],
-    "relevant_airports": [
-      "EDDF"
-    ],
+    "schedule_show_always": ["EDFF", "EDGG"],
+    "schedule_show_bookeds": ["EDLL"],
+    "relevant_airports": ["EDDF"],
     "cpdlc_login": "EDGG"
   },
   {
@@ -1563,55 +1233,36 @@
     "frequency": "134.800",
     "abbreviation": "HAB",
     "description": "Langen Radar (Hammelburg)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_HEF_CTR",
     "frequency": "127.725",
     "abbreviation": "HEF",
     "description": "Langen Radar (Hersfeld)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_KIR_CTR",
     "frequency": "133.460",
     "abbreviation": "KIR",
     "description": "Langen Radar (Kirn)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_KNG_CTR",
     "frequency": "125.680",
     "abbreviation": "KNG",
     "description": "Langen Radar (K\u00f6nig)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_KTG_CTR",
     "frequency": "123.280",
     "abbreviation": "KTG",
     "description": "Langen Radar (Kitzingen)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ],
-    "relevant_airports": [
-      "EDDF",
-      "EDDS"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG", "EDLL"],
+    "relevant_airports": ["EDDF", "EDDS"],
     "cpdlc_login": "EDGK"
   },
   {
@@ -1619,30 +1270,21 @@
     "frequency": "127.050",
     "abbreviation": "LBU",
     "description": "Langen Radar (Luburg)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_MAN_CTR",
     "frequency": "132.155",
     "abbreviation": "MAIN",
     "description": "Langen Radar (Main)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_NKH_CTR",
     "frequency": "127.500",
     "abbreviation": "NKRH",
     "description": "Langen Radar (Neckar High)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_PAH_CTR",
@@ -1650,14 +1292,8 @@
     "abbreviation": "PADH",
     "description": "Langen Radar (Paderborn High)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDLL",
-      "EDGG"
-    ],
-    "relevant_airports": [
-      "EDDL",
-      "EDDK"
-    ],
+    "schedule_show_always": ["EDLL", "EDGG"],
+    "relevant_airports": ["EDDL", "EDDK"],
     "cpdlc_login": "EDGP"
   },
   {
@@ -1665,21 +1301,14 @@
     "frequency": "125.405",
     "abbreviation": "PSA",
     "description": "Langen Radar (Spessart)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDGG_RUD_CTR",
     "frequency": "133.435",
     "abbreviation": "RUD",
     "description": "Langen Radar (R\u00fcdesheim)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG", "EDLL"],
     "cpdlc_login": "EDGR"
   },
   {
@@ -1687,22 +1316,14 @@
     "frequency": "124.900",
     "abbreviation": "SIG",
     "description": "Langen Radar (Siegen)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG", "EDLL"]
   },
   {
     "logon": "EDGG_TAU_CTR",
     "frequency": "127.625",
     "abbreviation": "TAU",
     "description": "Langen Radar (Taunus)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG", "EDLL"]
   },
   {
     "logon": "EDGP_I_TWR",
@@ -1741,9 +1362,7 @@
     "frequency": "123.255",
     "abbreviation": "HIT",
     "description": "Finkenwerder Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDHK_I_TWR",
@@ -1758,18 +1377,14 @@
     "frequency": "121.780",
     "abbreviation": "HLG",
     "description": "Luebeck Ground",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDHL_TWR",
     "frequency": "128.705",
     "abbreviation": "HLT",
     "description": "Luebeck Tower",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "s1_twr": true
   },
   {
@@ -1793,27 +1408,21 @@
     "frequency": "121.680",
     "abbreviation": "JAG",
     "description": "Memmingen Ground",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDJA_ILR_APP",
     "frequency": "129.450",
     "abbreviation": "ILR",
     "description": "M\u00fcnchen Radar (Iller)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDJA_TWR",
     "frequency": "126.855",
     "abbreviation": "JAT",
     "description": "Memmingen Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -1909,20 +1518,14 @@
     "frequency": "121.930",
     "abbreviation": "LNG",
     "description": "M\u00f6nchengladbach Ground",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDLN_TWR",
     "frequency": "120.455",
     "abbreviation": "LNT",
     "description": "M\u00f6nchengladbach Tower",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDLO_I_TWR",
@@ -1937,10 +1540,7 @@
     "frequency": "121.930",
     "abbreviation": "LPG",
     "description": "Paderborn Ground",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDLP_PAL_APP",
@@ -1948,20 +1548,14 @@
     "abbreviation": "PADL",
     "description": "Langen Radar (Paderborn Low)",
     "gcap_training_airport": true,
-    "schedule_groups": [
-      "EDGG",
-      "EDLL"
-    ]
+    "schedule_show_bookeds": ["EDGG", "EDLL"]
   },
   {
     "logon": "EDLP_TWR",
     "frequency": "133.380",
     "abbreviation": "LPT",
     "description": "Paderborn Tower",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDLL", "EDGG"],
     "s1_twr": true
   },
   {
@@ -1977,20 +1571,14 @@
     "frequency": "129.405",
     "abbreviation": "LVT",
     "description": "Niederrhein Tower",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDLW_GND",
     "frequency": "121.830",
     "abbreviation": "LWG",
     "description": "Dortmund Ground",
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDLL", "EDGG"]
   },
   {
     "logon": "EDLW_TWR",
@@ -1998,10 +1586,7 @@
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
     "gcap_training_airport": true,
-    "schedule_groups": [
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDLL", "EDGG"],
     "s1_twr": true
   },
   {
@@ -2017,9 +1602,7 @@
     "frequency": "124.980",
     "abbreviation": "MAT",
     "description": "Augsburg Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -2059,12 +1642,8 @@
     "frequency": "129.100",
     "abbreviation": "ALB",
     "description": "M\u00fcnchen Radar (Allersberg)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDM"
-    ],
+    "schedule_show_always": ["EDMM"],
+    "relevant_airports": ["EDDM"],
     "cpdlc_login": "EDML"
   },
   {
@@ -2072,12 +1651,8 @@
     "frequency": "133.615",
     "abbreviation": "BBG",
     "description": "M\u00fcnchen Radar (Bamberg)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDN"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDDN"],
     "cpdlc_login": "EDMB"
   },
   {
@@ -2085,9 +1660,7 @@
     "frequency": "124.050",
     "abbreviation": "MMC",
     "description": "M\u00fcnchen Radar (Complete)",
-    "schedule-groups": [
-      "EDMM"
-    ],
+    "schedule-groups": ["EDMM"],
     "cpdlc_login": "EDMM"
   },
   {
@@ -2095,12 +1668,8 @@
     "frequency": "129.555",
     "abbreviation": "EGG",
     "description": "M\u00fcnchen Radar (Eggenfelden)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDDM"],
     "cpdlc_login": "EDME"
   },
   {
@@ -2108,23 +1677,15 @@
     "frequency": "133.550",
     "abbreviation": "FUE",
     "description": "M\u00fcnchen Radar (F\u00fcssen)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDMM_GER_CTR",
     "frequency": "133.230",
     "abbreviation": "GER",
     "description": "M\u00fcnchen Radar (Gera)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDP",
-      "EDDC",
-      "EDDE"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDDP", "EDDC", "EDDE"],
     "cpdlc_login": "EDMG"
   },
   {
@@ -2132,14 +1693,8 @@
     "frequency": "118.235",
     "abbreviation": "HAL",
     "description": "M\u00fcnchen Radar (Halle)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDP",
-      "EDDC",
-      "EDDE"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDDP", "EDDC", "EDDE"],
     "cpdlc_login": "EDMH"
   },
   {
@@ -2147,15 +1702,8 @@
     "frequency": "133.565",
     "abbreviation": "HOF",
     "description": "M\u00fcnchen Radar (Hof)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDN",
-      "EDDP",
-      "EDDC",
-      "EDDE"
-    ],
+    "schedule_show_always": ["EDMM"],
+    "relevant_airports": ["EDDN", "EDDP", "EDDC", "EDDE"],
     "cpdlc_login": "EDMO"
   },
   {
@@ -2163,14 +1711,8 @@
     "frequency": "124.960",
     "abbreviation": "MEI",
     "description": "M\u00fcnchen Radar (Meissen)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDP",
-      "EDDC",
-      "EDDE"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDDP", "EDDC", "EDDE"],
     "cpdlc_login": "EDMS"
   },
   {
@@ -2178,12 +1720,8 @@
     "frequency": "125.140",
     "abbreviation": "NDG",
     "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDDM"],
     "cpdlc_login": "EDMN"
   },
   {
@@ -2191,13 +1729,8 @@
     "frequency": "132.555",
     "abbreviation": "RDG",
     "description": "M\u00fcnchen Radar (Roding)",
-    "schedule_minstation": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDM",
-      "EDDN"
-    ],
+    "schedule_show_always": ["EDMM"],
+    "relevant_airports": ["EDDM", "EDDN"],
     "cpdlc_login": "EDMR"
   },
   {
@@ -2205,43 +1738,29 @@
     "frequency": "132.455",
     "abbreviation": "STA",
     "description": "M\u00fcnchen Radar (Starnberg)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDMM_SWA_APP",
     "frequency": "136.525",
     "abbreviation": "SWA",
     "description": "M\u00fcnchen Radar (Schwaben)",
-    "schedule_groups": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDJA",
-      "ETSI",
-      "ETSL",
-      "ETHL",
-      "ETSN"
-    ]
+    "schedule_show_bookeds": ["EDMM"],
+    "relevant_airports": ["EDJA", "ETSI", "ETSL", "ETHL", "ETSN"]
   },
   {
     "logon": "EDMM_TEG_CTR",
     "frequency": "133.680",
     "abbreviation": "TEG",
     "description": "M\u00fcnchen Radar (Tegernsee)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDMM_TRU_CTR",
     "frequency": "132.635",
     "abbreviation": "TRU",
     "description": "M\u00fcnchen Radar (Traun)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDMU"
   },
   {
@@ -2249,9 +1768,7 @@
     "frequency": "136.230",
     "abbreviation": "WLD",
     "description": "M\u00fcnchen Radar (Walda)",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "EDMM_ZUG_CTR",
@@ -2259,12 +1776,8 @@
     "abbreviation": "ZUG",
     "description": "M\u00fcnchen Radar (Zugspitze)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDMM"
-    ],
-    "relevant_airports": [
-      "EDDM"
-    ],
+    "schedule_show_always": ["EDMM"],
+    "relevant_airports": ["EDDM"],
     "cpdlc_login": "EDMZ"
   },
   {
@@ -2272,9 +1785,7 @@
     "frequency": "119.555",
     "abbreviation": "MOT",
     "description": "Oberpfaffenhofen Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -2330,9 +1841,7 @@
     "frequency": "120.080",
     "abbreviation": "NYT",
     "description": "Friedrichshafen Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ]
+    "schedule_show_always": ["EDMM"]
   },
   {
     "logon": "EDOI_I_TWR",
@@ -2427,9 +1936,7 @@
     "frequency": "124.355",
     "abbreviation": "QMT",
     "description": "Hof Tower",
-    "schedule_minstation": [
-      "EDMM"
-    ],
+    "schedule_show_always": ["EDMM"],
     "s1_twr": true
   },
   {
@@ -2533,9 +2040,7 @@
     "frequency": "121.830",
     "abbreviation": "SBG",
     "description": "Baden Ground",
-    "schedule_groups": [
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDGG"]
   },
   {
     "logon": "EDSB_TWR",
@@ -2543,10 +2048,7 @@
     "abbreviation": "SBT",
     "description": "Baden Tower",
     "gcap_training_airport": true,
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "s1_twr": true
   },
   {
@@ -2602,10 +2104,7 @@
     "frequency": "125.180",
     "abbreviation": "TLT",
     "description": "Lahr Tower",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ]
+    "schedule_show_bookeds": ["EDFF", "EDGG"]
   },
   {
     "logon": "EDTM_I_TWR",
@@ -2684,9 +2183,7 @@
     "frequency": "133.755",
     "abbreviation": "ALP",
     "description": "Rhein Radar (Alpen)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUL"
   },
   {
@@ -2694,9 +2191,7 @@
     "frequency": "123.390",
     "abbreviation": "CHI",
     "description": "Rhein Radar (Chiem)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUC"
   },
   {
@@ -2704,9 +2199,7 @@
     "frequency": "127.290",
     "abbreviation": "DON",
     "description": "Rhein Radar (Donau)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUD"
   },
   {
@@ -2714,9 +2207,7 @@
     "frequency": "136.405",
     "abbreviation": "ERL",
     "description": "Rhein Radar (Erlangen)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUR"
   },
   {
@@ -2724,10 +2215,7 @@
     "frequency": "132.330",
     "abbreviation": "FFM",
     "description": "Rhein Radar (Frankfurt)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "cpdlc_login": "EDUF"
   },
   {
@@ -2735,11 +2223,7 @@
     "frequency": "133.655",
     "abbreviation": "FUL",
     "description": "Rhein Radar (Fulda)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL",
-      "EDFF"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL", "EDFF"],
     "cpdlc_login": "EDUU"
   },
   {
@@ -2747,9 +2231,7 @@
     "frequency": "128.235",
     "abbreviation": "HVL",
     "description": "Rhein Radar (Havel)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDUH"
   },
   {
@@ -2757,9 +2239,7 @@
     "frequency": "136.335",
     "abbreviation": "ISA",
     "description": "Rhein Radar (Isar)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUI"
   },
   {
@@ -2767,10 +2247,7 @@
     "frequency": "132.080",
     "abbreviation": "NTM",
     "description": "Rhein Radar (Nattenheim)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "cpdlc_login": "EDUN"
   },
   {
@@ -2778,9 +2255,7 @@
     "frequency": "126.785",
     "abbreviation": "OH2",
     "description": "Rhein Radar (Ostsee High)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDU2"
   },
   {
@@ -2788,9 +2263,7 @@
     "frequency": "133.035",
     "abbreviation": "OSE",
     "description": "Rhein Radar (Ostsee)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDUO"
   },
   {
@@ -2798,9 +2271,7 @@
     "frequency": "133.860",
     "abbreviation": "SAL",
     "description": "Rhein Radar (Saale)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUA"
   },
   {
@@ -2808,11 +2279,7 @@
     "frequency": "120.930",
     "abbreviation": "SLN",
     "description": "Rhein Radar (S\u00f6llingen)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL",
-      "EDFF"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL", "EDFF"],
     "cpdlc_login": "EDUS"
   },
   {
@@ -2820,9 +2287,7 @@
     "frequency": "133.285",
     "abbreviation": "SPE",
     "description": "Rhein Radar (Spree)",
-    "schedule_groups": [
-      "EDMM"
-    ],
+    "schedule_show_bookeds": ["EDMM"],
     "cpdlc_login": "EDUP"
   },
   {
@@ -2830,10 +2295,7 @@
     "frequency": "132.405",
     "abbreviation": "TGO",
     "description": "Rhein Radar (Tango)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "cpdlc_login": "EDUT"
   },
   {
@@ -2841,10 +2303,7 @@
     "frequency": "134.085",
     "abbreviation": "WUR",
     "description": "Rhein Radar (W\u00fcrzburg)",
-    "schedule_groups": [
-      "EDFF",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDFF", "EDGG"],
     "cpdlc_login": "EDUW"
   },
   {
@@ -2860,9 +2319,7 @@
     "frequency": "120.055",
     "abbreviation": "VET",
     "description": "Braunschweig Tower",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "s1_twr": true
   },
   {
@@ -2886,18 +2343,14 @@
     "frequency": "121.905",
     "abbreviation": "VKG",
     "description": "Kassel Ground",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDVK_TWR",
     "frequency": "118.105",
     "abbreviation": "VKT",
     "description": "Kassel Tower",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "s1_twr": true
   },
   {
@@ -3042,13 +2495,8 @@
     "abbreviation": "ALR",
     "description": "Bremen Radar (Aller)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDH",
-      "EDDW"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDH", "EDDW"],
     "cpdlc_login": "EDWA"
   },
   {
@@ -3056,12 +2504,8 @@
     "frequency": "123.225",
     "abbreviation": "BOR",
     "description": "Bremen Radar (Boerde)",
-    "schedule_groups": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWB"
   },
   {
@@ -3069,15 +2513,8 @@
     "frequency": "133.725",
     "abbreviation": "WC",
     "description": "Bremen Radar (Complete)",
-    "schedule_groups": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB",
-      "EDDH",
-      "EDDV",
-      "EDDW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
+    "relevant_airports": ["EDDB", "EDDH", "EDDV", "EDDW"],
     "cpdlc_login": "EDWC"
   },
   {
@@ -3086,12 +2523,8 @@
     "abbreviation": "DST",
     "description": "Bremen Radar (Deister)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDV"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDV"],
     "cpdlc_login": "EDWD"
   },
   {
@@ -3099,12 +2532,8 @@
     "frequency": "124.075",
     "abbreviation": "EIDE",
     "description": "Bremen Radar (Eider East)",
-    "schedule_groups": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWE"
   },
   {
@@ -3112,12 +2541,8 @@
     "frequency": "136.450",
     "abbreviation": "FLG",
     "description": "Bremen Radar (Flaeming)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWF"
   },
   {
@@ -3125,24 +2550,16 @@
     "frequency": "125.855",
     "abbreviation": "HEI",
     "description": "Bremen Radar (Heide)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDH"
-    ]
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDH"]
   },
   {
     "logon": "EDWW_K_CTR",
     "frequency": "136.050",
     "abbreviation": "MAR",
     "description": "Bremen Radar (Mark)",
-    "schedule_groups": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWK"
   },
   {
@@ -3151,12 +2568,8 @@
     "abbreviation": "MRZ",
     "description": "Bremen Radar (Mueritz)",
     "gcap_training_airport": true,
-    "schedule_minstation": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDB"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDB"],
     "cpdlc_login": "EDWM"
   },
   {
@@ -3164,24 +2577,16 @@
     "frequency": "126.655",
     "abbreviation": "HRZ",
     "description": "Bremen Radar (Harz)",
-    "schedule_groups": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDV"
-    ]
+    "schedule_show_bookeds": ["EDWW"],
+    "relevant_airports": ["EDDV"]
   },
   {
     "logon": "EDWW_S_CTR",
     "frequency": "125.025",
     "abbreviation": "EMS",
     "description": "Bremen Radar (Ems)",
-    "schedule_groups": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDV"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
+    "relevant_airports": ["EDDV"],
     "cpdlc_login": "EDWS"
   },
   {
@@ -3189,14 +2594,8 @@
     "frequency": "120.225",
     "abbreviation": "EIDW",
     "description": "Bremen Radar (Eider West)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
-    "relevant_airports": [
-      "EDDH",
-      "EDDV",
-      "EDDW"
-    ],
+    "schedule_show_always": ["EDWW"],
+    "relevant_airports": ["EDDH", "EDDV", "EDDW"],
     "cpdlc_login": "EDWW"
   },
   {
@@ -3292,9 +2691,7 @@
     "frequency": "119.750",
     "abbreviation": "XWT",
     "description": "Sylt Tower",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "s1_twr": true
   },
   {
@@ -3302,9 +2699,7 @@
     "frequency": "128.950",
     "abbreviation": "IXX",
     "description": "Langen Information",
-    "schedule_group": [
-      "EDWW"
-    ]
+    "schedule_show_booked": ["EDWW"]
   },
   {
     "logon": "EDXX_GG_CTR",
@@ -3317,9 +2712,7 @@
     "frequency": "132.650",
     "abbreviation": "IDB",
     "description": "Langen Information",
-    "schedule_group": [
-      "EDWW"
-    ]
+    "schedule_show_booked": ["EDWW"]
   },
   {
     "logon": "EDXX_IDC_CTR",
@@ -3338,9 +2731,7 @@
     "frequency": "125.100",
     "abbreviation": "IDH",
     "description": "Langen Information",
-    "schedule_group": [
-      "EDWW"
-    ]
+    "schedule_show_booked": ["EDWW"]
   },
   {
     "logon": "EDXX_IDL_CTR",
@@ -3377,18 +2768,14 @@
     "frequency": "119.825",
     "abbreviation": "IDV",
     "description": "Langen Information",
-    "schedule_group": [
-      "EDWW"
-    ]
+    "schedule_show_booked": ["EDWW"]
   },
   {
     "logon": "EDXX_ISW_CTR",
     "frequency": "128.525",
     "abbreviation": "ISW",
     "description": "Langen Information",
-    "schedule_group": [
-      "EDWW"
-    ]
+    "schedule_show_booked": ["EDWW"]
   },
   {
     "logon": "EDXX_MM_CTR",
@@ -3401,9 +2788,7 @@
     "frequency": "119.825",
     "abbreviation": "IWW",
     "description": "Langen Information",
-    "schedule_group": [
-      "EDWW"
-    ]
+    "schedule_show_booked": ["EDWW"]
   },
   {
     "logon": "EDXY_I_TWR",
@@ -3418,9 +2803,7 @@
     "frequency": "128.810",
     "abbreviation": "CELH",
     "description": "Maastricht Radar (Celle High)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDCH"
   },
   {
@@ -3428,9 +2811,7 @@
     "frequency": "133.955",
     "abbreviation": "CEL",
     "description": "Maastricht Radar (Celle)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDYC"
   },
   {
@@ -3438,9 +2819,7 @@
     "frequency": "120.860",
     "abbreviation": "HOL",
     "description": "Maastricht Radar (Holstein)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDYH"
   },
   {
@@ -3448,9 +2827,7 @@
     "frequency": "129.735",
     "abbreviation": "JEVH",
     "description": "Maastricht Radar (Jever High)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDJH"
   },
   {
@@ -3458,9 +2835,7 @@
     "frequency": "136.465",
     "abbreviation": "JEV",
     "description": "Maastricht Radar (Jever)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDYJ"
   },
   {
@@ -3468,11 +2843,7 @@
     "frequency": "122.185",
     "abbreviation": "MNS",
     "description": "Maastricht Radar (Muenster)",
-    "schedule_groups": [
-      "EDWW",
-      "EDLL",
-      "EDGG"
-    ],
+    "schedule_show_bookeds": ["EDWW", "EDLL", "EDGG"],
     "cpdlc_login": "EDYM"
   },
   {
@@ -3480,11 +2851,7 @@
     "frequency": "124.435",
     "abbreviation": "RHR",
     "description": "Maastricht Radar (Ruhr)",
-    "schedule_minstation": [
-      "EDGG",
-      "EDLL",
-      "EDFF"
-    ],
+    "schedule_show_always": ["EDGG", "EDLL", "EDFF"],
     "cpdlc_login": "EDYR"
   },
   {
@@ -3492,9 +2859,7 @@
     "frequency": "131.380",
     "abbreviation": "SOLH",
     "description": "Maastricht Radar (Solling High)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDSH"
   },
   {
@@ -3502,9 +2867,7 @@
     "frequency": "134.710",
     "abbreviation": "SOL",
     "description": "Maastricht Radar (Solling)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "cpdlc_login": "EDYS"
   },
   {
@@ -3524,18 +2887,14 @@
     "frequency": "118.255",
     "abbreviation": "HCT",
     "description": "Celle Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETHL_TWR",
     "frequency": "122.100",
     "abbreviation": "HLT",
     "description": "Lima Tower",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "ETHN_APP",
@@ -3562,36 +2921,28 @@
     "frequency": "118.525",
     "abbreviation": "HST",
     "description": "Fassberg Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETIC_TWR",
     "frequency": "122.075",
     "abbreviation": "ICT",
     "description": "Grafenwoehr Tower",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "ETMN_APP",
     "frequency": "129.855",
     "abbreviation": "MNR",
     "description": "Nordholz Radar",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETMN_TWR",
     "frequency": "131.255",
     "abbreviation": "MNT",
     "description": "Nordholz Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETND_I_TWR",
@@ -3618,63 +2969,49 @@
     "frequency": "122.700",
     "abbreviation": "NHR",
     "description": "Hohn Radar",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNH_P_APP",
     "frequency": "125.600",
     "abbreviation": "NHP",
     "description": "Hohn Precision",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNH_TWR",
     "frequency": "122.100",
     "abbreviation": "NHT",
     "description": "Hohn Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNL_APP",
     "frequency": "123.300",
     "abbreviation": "NLR",
     "description": "Laage Radar",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNL_A_GND",
     "frequency": "121.955",
     "abbreviation": "NLA",
     "description": "Laage Apron",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNL_P_APP",
     "frequency": "133.105",
     "abbreviation": "NLP",
     "description": "Laage Precision",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNL_TWR",
     "frequency": "118.430",
     "abbreviation": "NLT",
     "description": "Laage Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNN_APP",
@@ -3693,54 +3030,42 @@
     "frequency": "123.300",
     "abbreviation": "NSR",
     "description": "Schleswig Radar",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNS_P_APP",
     "frequency": "133.105",
     "abbreviation": "NSP",
     "description": "Schleswig Precision",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNS_TWR",
     "frequency": "135.155",
     "abbreviation": "NST",
     "description": "Schleswig Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNT_APP",
     "frequency": "123.600",
     "abbreviation": "NTR",
     "description": "Wittmund Radar",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNT_TWR",
     "frequency": "118.730",
     "abbreviation": "NTT",
     "description": "Wittmund Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETNW_TWR",
     "frequency": "132.055",
     "abbreviation": "NWT",
     "description": "Wunstorf Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETOU_TWR",
@@ -3753,62 +3078,48 @@
     "frequency": "129.855",
     "abbreviation": "SHR",
     "description": "Holzdorf Radar",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETSH_TWR",
     "frequency": "130.505",
     "abbreviation": "SHT",
     "description": "Holzdorf Tower",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "ETSI_APP",
     "frequency": "120.605",
     "abbreviation": "IGL",
     "description": "Ingo Radar",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "ETSI_TWR",
     "frequency": "125.255",
     "abbreviation": "SIT",
     "description": "Ingo Tower",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "ETSL_APP",
     "frequency": "129.030",
     "abbreviation": "LCH",
     "description": "Lechfeld Radar",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "ETSL_TWR",
     "frequency": "122.100",
     "abbreviation": "SLT",
     "description": "Lechfeld Tower",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   },
   {
     "logon": "ETSN_TWR",
     "frequency": "122.100",
     "abbreviation": "SNT",
     "description": "Donau Tower",
-    "schedule_groups": [
-      "EDMM"
-    ]
+    "schedule_show_bookeds": ["EDMM"]
   }
 ]

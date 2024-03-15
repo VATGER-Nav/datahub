@@ -4,9 +4,7 @@
     "frequency": "121.855",
     "abbreviation": "DBGA",
     "description": "Berlin Apron (Main)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -14,9 +12,7 @@
     "frequency": "129.605",
     "abbreviation": "DBGE",
     "description": "Berlin Apron (Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -24,9 +20,7 @@
     "frequency": "129.505",
     "abbreviation": "DBGN",
     "description": "Berlin Ground (Nord)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -34,9 +28,7 @@
     "frequency": "121.705",
     "abbreviation": "DBGS",
     "description": "Berlin Ground (Sued)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -44,9 +36,7 @@
     "frequency": "121.705",
     "abbreviation": "DHE",
     "description": "Hamburg Apron (East)",
-    "schedule_minstation": [
-      "EDWW"
-    ],
+    "schedule_show_always": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -54,9 +44,7 @@
     "frequency": "121.980",
     "abbreviation": "DHW",
     "description": "Hamburg Apron (West)",
-    "schedule_groups": [
-      "EDWW"
-    ],
+    "schedule_show_bookeds": ["EDWW"],
     "gcap_status": "1"
   },
   {
@@ -64,35 +52,27 @@
     "frequency": "121.955",
     "abbreviation": "DVG",
     "description": "Hannover Ground",
-    "schedule_minstation": [
-      "EDWW"
-    ]
+    "schedule_show_always": ["EDWW"]
   },
   {
     "logon": "EDDW_GND",
     "frequency": "121.755",
     "abbreviation": "DWG",
     "description": "Bremen Ground",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDHL_GND",
     "frequency": "121.780",
     "abbreviation": "HLG",
     "description": "Luebeck Ground",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   },
   {
     "logon": "EDVK_GND",
     "frequency": "121.905",
     "abbreviation": "VKG",
     "description": "Kassel Ground",
-    "schedule_groups": [
-      "EDWW"
-    ]
+    "schedule_show_bookeds": ["EDWW"]
   }
 ]
