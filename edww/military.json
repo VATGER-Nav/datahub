@@ -4,132 +4,170 @@
     "frequency": "118.255",
     "abbreviation": "HCT",
     "description": "Celle Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETHS_TWR",
     "frequency": "118.525",
     "abbreviation": "HST",
     "description": "Fassberg Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETMN_APP",
     "frequency": "129.855",
     "abbreviation": "MNR",
     "description": "Nordholz Radar",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETMN_TWR",
     "frequency": "131.255",
     "abbreviation": "MNT",
     "description": "Nordholz Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNH_APP",
     "frequency": "122.700",
     "abbreviation": "NHR",
     "description": "Hohn Radar",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNH_P_APP",
     "frequency": "125.600",
     "abbreviation": "NHP",
     "description": "Hohn Precision",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNH_TWR",
     "frequency": "122.100",
     "abbreviation": "NHT",
     "description": "Hohn Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNL_A_GND",
     "frequency": "121.955",
     "abbreviation": "NLA",
     "description": "Laage Apron",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNL_TWR",
     "frequency": "118.430",
     "abbreviation": "NLT",
     "description": "Laage Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNL_APP",
     "frequency": "123.300",
     "abbreviation": "NLR",
     "description": "Laage Radar",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNL_P_APP",
     "frequency": "133.105",
     "abbreviation": "NLP",
     "description": "Laage Precision",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNS_APP",
     "frequency": "123.300",
     "abbreviation": "NSR",
     "description": "Schleswig Radar",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNS_P_APP",
     "frequency": "133.105",
     "abbreviation": "NSP",
     "description": "Schleswig Precision",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNS_TWR",
     "frequency": "135.155",
     "abbreviation": "NST",
     "description": "Schleswig Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNT_APP",
     "frequency": "123.600",
     "abbreviation": "NTR",
     "description": "Wittmund Radar",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNT_TWR",
     "frequency": "118.730",
     "abbreviation": "NTT",
     "description": "Wittmund Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETNW_TWR",
     "frequency": "132.055",
     "abbreviation": "NWT",
     "description": "Wunstorf Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETSH_TWR",
     "frequency": "130.505",
     "abbreviation": "SHT",
     "description": "Holzdorf Tower",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   },
   {
     "logon": "ETSH_APP",
     "frequency": "129.855",
     "abbreviation": "SHR",
     "description": "Holzdorf Radar",
-    "schedule_show_booked": ["EDWW"]
+    "schedule_show_booked": [
+      "EDWW"
+    ]
   }
 ]
