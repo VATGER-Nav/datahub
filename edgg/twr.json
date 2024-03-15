@@ -4,8 +4,12 @@
     "frequency": "119.905",
     "abbreviation": "DFTS",
     "description": "Frankfurt Tower (South)",
-    "schedule_show_always": ["EDFF"],
-    "schedule_show_bookeds": ["EDGG"],
+    "schedule_show_always": [
+      "EDFF"
+    ],
+    "schedule_show_bookeds": [
+      "EDGG"
+    ],
     "gcap_status": "1"
   },
   {
@@ -13,8 +17,12 @@
     "frequency": "124.855",
     "abbreviation": "DFTW",
     "description": "Frankfurt Tower (West)",
-    "schedule_show_always": ["EDFF"],
-    "schedule_show_bookeds": ["EDGG"],
+    "schedule_show_always": [
+      "EDFF"
+    ],
+    "schedule_show_bookeds": [
+      "EDGG"
+    ],
     "gcap_status": "1"
   },
   {
@@ -23,7 +31,10 @@
     "abbreviation": "DFTC",
     "description": "Frankfurt Tower (Center)",
     "gcap_training_airport": true,
-    "schedule_show_always": ["EDFF", "EDGG"],
+    "schedule_show_always": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "1"
   },
   {
@@ -31,8 +42,12 @@
     "frequency": "136.500",
     "abbreviation": "DFTN",
     "description": "Frankfurt Tower (North)",
-    "schedule_show_always": ["EDFF"],
-    "schedule_show_bookeds": ["EDGG"],
+    "schedule_show_always": [
+      "EDFF"
+    ],
+    "schedule_show_bookeds": [
+      "EDGG"
+    ],
     "gcap_status": "1"
   },
   {
@@ -40,7 +55,10 @@
     "frequency": "129.805",
     "abbreviation": "DGT",
     "description": "M\u00fcnster Tower",
-    "schedule_show_bookeds": ["EDLL", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDLL",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -49,7 +67,10 @@
     "abbreviation": "DKT",
     "description": "K\u00f6ln/Bonn Tower",
     "gcap_training_airport": true,
-    "schedule_show_always": ["EDGG", "EDLL"],
+    "schedule_show_always": [
+      "EDGG",
+      "EDLL"
+    ],
     "gcap_status": "1"
   },
   {
@@ -58,7 +79,10 @@
     "abbreviation": "DLT",
     "description": "D\u00fcsseldorf Tower",
     "gcap_training_airport": true,
-    "schedule_show_always": ["EDGG", "EDLL"],
+    "schedule_show_always": [
+      "EDGG",
+      "EDLL"
+    ],
     "gcap_status": "1"
   },
   {
@@ -66,7 +90,10 @@
     "frequency": "118.355",
     "abbreviation": "DRT",
     "description": "Saarbr\u00fccken Tower",
-    "schedule_show_bookeds": ["EDFF", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDFF",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -75,21 +102,30 @@
     "abbreviation": "DST",
     "description": "Stuttgart Tower",
     "gcap_training_airport": true,
-    "schedule_show_always": ["EDGG", "EDFF"]
+    "schedule_show_always": [
+      "EDGG",
+      "EDFF"
+    ]
   },
   {
     "logon": "EDDS_VFR_TWR",
     "frequency": "119.055",
     "abbreviation": "DSTV",
     "description": "Stuttgart Tower (VFR)",
-    "schedule_show_bookeds": ["EDFF", "EDGG"]
+    "schedule_show_bookeds": [
+      "EDFF",
+      "EDGG"
+    ]
   },
   {
     "logon": "EDFH_TWR",
     "frequency": "119.655",
     "abbreviation": "FHT",
     "description": "Hahn Tower",
-    "schedule_show_bookeds": ["EDFF", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDFF",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -97,7 +133,10 @@
     "frequency": "129.780",
     "abbreviation": "FMT",
     "description": "Mannheim Tower",
-    "schedule_show_bookeds": ["EDFF", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDFF",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -105,14 +144,20 @@
     "frequency": "120.455",
     "abbreviation": "LNT",
     "description": "M\u00f6nchengladbach Tower",
-    "schedule_show_bookeds": ["EDLL", "EDGG"]
+    "schedule_show_bookeds": [
+      "EDLL",
+      "EDGG"
+    ]
   },
   {
     "logon": "EDLP_TWR",
     "frequency": "133.380",
     "abbreviation": "LPT",
     "description": "Paderborn Tower",
-    "schedule_show_bookeds": ["EDLL", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDLL",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -120,7 +165,10 @@
     "frequency": "129.405",
     "abbreviation": "LVT",
     "description": "Niederrhein Tower",
-    "schedule_show_bookeds": ["EDLL", "EDGG"]
+    "schedule_show_bookeds": [
+      "EDLL",
+      "EDGG"
+    ]
   },
   {
     "logon": "EDLW_TWR",
@@ -128,7 +176,10 @@
     "abbreviation": "LWT",
     "description": "Dortmund Tower",
     "gcap_training_airport": true,
-    "schedule_show_bookeds": ["EDLL", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDLL",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -137,7 +188,10 @@
     "abbreviation": "SBT",
     "description": "Baden Tower",
     "gcap_training_airport": true,
-    "schedule_show_bookeds": ["EDFF", "EDGG"],
+    "schedule_show_bookeds": [
+      "EDFF",
+      "EDGG"
+    ],
     "s1_twr": true
   },
   {
@@ -145,6 +199,9 @@
     "frequency": "125.180",
     "abbreviation": "TLT",
     "description": "Lahr Tower",
-    "schedule_show_bookeds": ["EDFF", "EDGG"]
+    "schedule_show_bookeds": [
+      "EDFF",
+      "EDGG"
+    ]
   }
 ]
