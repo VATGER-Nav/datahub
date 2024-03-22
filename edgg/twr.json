@@ -147,7 +147,8 @@
     "schedule_show_booked": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDLP_TWR",
@@ -168,7 +169,8 @@
     "schedule_show_booked": [
       "EDLL",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   },
   {
     "logon": "EDLW_TWR",
@@ -202,6 +204,7 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
-    ]
+    ],
+    "s1_twr": true
   }
 ]
