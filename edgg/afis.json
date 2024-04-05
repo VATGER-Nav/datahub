@@ -51,7 +51,7 @@
     "logon": "EDEW_I_TWR",
     "frequency": "131.010",
     "abbreviation": "EWI",
-    "description": "Walldürn Radio",
+    "description": "Walld\u00fcrn Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -131,7 +131,7 @@
     "logon": "EDFL_I_TWR",
     "frequency": "122.505",
     "abbreviation": "FLI",
-    "description": "Lützellinden Radio",
+    "description": "L\u00fctzellinden Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -155,7 +155,7 @@
     "logon": "EDFP_I_TWR",
     "frequency": "122.340",
     "abbreviation": "FPI",
-    "description": "Ober-Mörlen Radio",
+    "description": "Ober-M\u00f6rlen Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -211,7 +211,7 @@
     "logon": "EDFW_I_TWR",
     "frequency": "132.990",
     "abbreviation": "FWI",
-    "description": "Würzburg Radio",
+    "description": "W\u00fcrzburg Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -339,7 +339,7 @@
     "logon": "EDGU_I_TWR",
     "frequency": "132.015",
     "abbreviation": "GUI",
-    "description": "Unterschüpf Radio",
+    "description": "Untersch\u00fcpf Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -403,7 +403,7 @@
     "logon": "EDKH_I_TWR",
     "frequency": "123.685",
     "abbreviation": "KHI",
-    "description": "Hünsborn Radio",
+    "description": "H\u00fcnsborn Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -435,7 +435,7 @@
     "logon": "EDKN_I_TWR",
     "frequency": "133.580",
     "abbreviation": "KNI",
-    "description": "Wipperfürth Radio",
+    "description": "Wipperf\u00fcrth Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -763,7 +763,7 @@
     "logon": "EDRH_I_TWR",
     "frequency": "130.655",
     "abbreviation": "RHI",
-    "description": "Hoppstädten Radio",
+    "description": "Hoppst\u00e4dten Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -947,7 +947,7 @@
     "logon": "EDSM_I_TWR",
     "frequency": "122.430",
     "abbreviation": "SMI",
-    "description": "Müllheim Radio",
+    "description": "M\u00fcllheim Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -987,7 +987,7 @@
     "logon": "EDSV_I_TWR",
     "frequency": "119.415",
     "abbreviation": "SVI",
-    "description": "Wächtersberg Radio",
+    "description": "W\u00e4chtersberg Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
