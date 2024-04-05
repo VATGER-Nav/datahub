@@ -79,6 +79,16 @@
     ]
   },
   {
+    "logon": "EDDG_F_APP",
+    "frequency": "129.180",
+    "abbreviation": "DGAT",
+    "description": "Münster/Osnabrück Director",
+    "schedule_show_booked": [
+      "EDGG",
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDDK_APP",
     "frequency": "135.350",
     "abbreviation": "DKA",
