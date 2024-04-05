@@ -2280,14 +2280,39 @@
     "frequency": "134.710"
   },
   {
-    "id": "ARG",
+    "id": "TADC",
+    "callsignPrefix": "ETAD",
+    "frequency": "120.905"
+  },
+  {
+    "id": "TADG",
+    "callsignPrefix": "ETAD",
+    "frequency": "121.865"
+  },
+  {
+    "id": "TADT",
+    "callsignPrefix": "ETAD",
+    "frequency": "122.200"
+  },
+  {
+    "id": "TARG",
     "callsignPrefix": "ETAR",
     "frequency": "121.775"
   },
   {
-    "id": "ART",
+    "id": "TART",
     "callsignPrefix": "ETAR",
     "frequency": "133.205"
+  },
+  {
+    "id": "TEBG",
+    "callsignPrefix": "ETEB",
+    "frequency": "121.660"
+  },
+  {
+    "id": "TEBT",
+    "callsignPrefix": "ETEB",
+    "frequency": "122.100"
   },
   {
     "id": "HCT",
@@ -2295,19 +2320,29 @@
     "frequency": "118.255"
   },
   {
+    "id": "THFG",
+    "callsignPrefix": "ETHF",
+    "frequency": "131.450"
+  },
+  {
+    "id": "THFT",
+    "callsignPrefix": "ETHF",
+    "frequency": "128.830"
+  },
+  {
     "id": "HLT",
     "callsignPrefix": "ETHL",
     "frequency": "122.100"
   },
   {
-    "id": "HNA",
+    "id": "THNA",
     "callsignPrefix": "ETHN",
     "frequency": "127.190"
   },
   {
-    "id": "HNT",
+    "id": "THNT",
     "callsignPrefix": "ETHN",
-    "frequency": "122.100"
+    "frequency": "119.780"
   },
   {
     "id": "HST",
@@ -2318,6 +2353,16 @@
     "id": "ICT",
     "callsignPrefix": "ETIC",
     "frequency": "122.075"
+  },
+  {
+    "id": "TIKG",
+    "callsignPrefix": "ETIK",
+    "frequency": "133.835"
+  },
+  {
+    "id": "TIKT",
+    "callsignPrefix": "ETIK",
+    "frequency": "129.850"
   },
   {
     "id": "MNR",
@@ -2420,9 +2465,19 @@
     "frequency": "132.055"
   },
   {
-    "id": "OUT",
+    "id": "TOUG",
+    "callsignPrefix": "ETOU",
+    "frequency": "126.555"
+  },
+  {
+    "id": "TOUT",
     "callsignPrefix": "ETOU",
     "frequency": "122.100"
+  },
+  {
+    "id": "TSBT",
+    "callsignPrefix": "ETSB",
+    "frequency": "131.460"
   },
   {
     "id": "SHR",

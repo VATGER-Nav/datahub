@@ -4257,16 +4257,46 @@
     "cpdlc_login": "EDYS"
   },
   {
+    "logon": "ETAD_DEL",
+    "frequency": "120.905",
+    "abbreviation": "TADC",
+    "description": "Spangdahlem Clearance"
+  },
+  {
+    "logon": "ETAD_GND",
+    "frequency": "121.865",
+    "abbreviation": "TADG",
+    "description": "Spangdahlem Ground"
+  },
+  {
+    "logon": "ETAD_TWR",
+    "frequency": "122.200",
+    "abbreviation": "TADT",
+    "description": "Spangdahlem Tower"
+  },
+  {
     "logon": "ETAR_GND",
     "frequency": "121.775",
-    "abbreviation": "ARG",
+    "abbreviation": "TARG",
     "description": "Ramstein Ground"
   },
   {
     "logon": "ETAR_TWR",
     "frequency": "133.205",
-    "abbreviation": "ART",
+    "abbreviation": "TART",
     "description": "Ramstein Tower"
+  },
+  {
+    "logon": "ETEB_GND",
+    "frequency": "121.660",
+    "abbreviation": "TEBG",
+    "description": "Ansbach Ground"
+  },
+  {
+    "logon": "ETEB_TWR",
+    "frequency": "122.100",
+    "abbreviation": "TEBT",
+    "description": "Ansbach Tower"
   },
   {
     "logon": "ETHC_TWR",
@@ -4276,6 +4306,18 @@
     "schedule_show_booked": [
       "EDWW"
     ]
+  },
+  {
+    "logon": "ETHF_GND",
+    "frequency": "131.450",
+    "abbreviation": "THFG",
+    "description": "Fritzlar Ground"
+  },
+  {
+    "logon": "ETHF_TWR",
+    "frequency": "128.830",
+    "abbreviation": "THFT",
+    "description": "Fritzlar Tower"
   },
   {
     "logon": "ETHL_TWR",
@@ -4289,13 +4331,13 @@
   {
     "logon": "ETHN_APP",
     "frequency": "127.190",
-    "abbreviation": "HNA",
+    "abbreviation": "THNA",
     "description": "Stetten Radar"
   },
   {
     "logon": "ETHN_TWR",
-    "frequency": "122.100",
-    "abbreviation": "HNT",
+    "frequency": "119.780",
+    "abbreviation": "THNT",
     "description": "Stetten Tower"
   },
   {
@@ -4315,6 +4357,18 @@
     "schedule_show_booked": [
       "EDMM"
     ]
+  },
+  {
+    "logon": "ETIK_GND",
+    "frequency": "133.835",
+    "abbreviation": "TIKG",
+    "description": "Illesheim Ground"
+  },
+  {
+    "logon": "ETIK_TWR",
+    "frequency": "129.850",
+    "abbreviation": "TIKT",
+    "description": "Illesheim Tower"
   },
   {
     "logon": "ETMN_APP",
@@ -4484,10 +4538,22 @@
     ]
   },
   {
+    "logon": "ETOU_GND",
+    "frequency": "126.555",
+    "abbreviation": "TOUG",
+    "description": "Wiesbaden Ground"
+  },
+  {
     "logon": "ETOU_TWR",
     "frequency": "122.100",
-    "abbreviation": "OUT",
+    "abbreviation": "TOUT",
     "description": "Wiesbaden Tower"
+  },
+  {
+    "logon": "ETSB_TWR",
+    "frequency": "131.460",
+    "abbreviation": "TSBT",
+    "description": "B\u00fcchel Tower"
   },
   {
     "logon": "ETSH_APP",
