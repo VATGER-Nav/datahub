@@ -551,6 +551,16 @@
     "gcap_status": "1"
   },
   {
+    "logon": "EDDG_F_APP",
+    "frequency": "129.180",
+    "abbreviation": "DGAT",
+    "description": "M\u00fcnster/Osnabr\u00fcck Director",
+    "schedule_show_booked": [
+      "EDGG",
+      "EDLL"
+    ]
+  },
+  {
     "logon": "EDDG_GND",
     "frequency": "121.880",
     "abbreviation": "DGG",

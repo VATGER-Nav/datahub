@@ -82,7 +82,7 @@
     "logon": "EDDG_F_APP",
     "frequency": "129.180",
     "abbreviation": "DGAT",
-    "description": "Münster/Osnabrück Director",
+    "description": "M\u00fcnster/Osnabr\u00fcck Director",
     "schedule_show_booked": [
       "EDGG",
       "EDLL"

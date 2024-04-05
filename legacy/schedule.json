@@ -111,6 +111,7 @@
             "EDDF_S_TWR",
             "EDDF_W_GND",
             "EDDF_W_TWR",
+            "EDDG_F_APP",
             "EDDG_GND",
             "EDDG_TWR",
             "EDDK_CO_DEL",
@@ -188,6 +189,7 @@
             "EDYY_RHR_CTR"
         ],
         "schedule_show_booked": [
+            "EDDG_F_APP",
             "EDDG_GND",
             "EDDG_TWR",
             "EDDK_CO_DEL",

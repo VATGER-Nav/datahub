@@ -275,6 +275,11 @@
     "frequency": "124.855"
   },
   {
+    "id": "DGAT",
+    "callsignPrefix": "EDDG",
+    "frequency": "129.180"
+  },
+  {
     "id": "DGG",
     "callsignPrefix": "EDDG",
     "frequency": "121.880"
