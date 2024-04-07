@@ -7,7 +7,8 @@
     "schedule-groups": [
       "EDMM"
     ],
-    "cpdlc_login": "EDMM"
+    "cpdlc_login": "EDMM",
+    "gcap_status": "1"
   },
   {
     "logon": "EDMM_ALB_CTR",
@@ -194,6 +195,7 @@
     "relevant_airports": [
       "EDDM"
     ],
-    "cpdlc_login": "EDMZ"
+    "cpdlc_login": "EDMZ",
+    "gcap_status": "1"
   }
 ]

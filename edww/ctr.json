@@ -13,7 +13,8 @@
       "EDDV",
       "EDDW"
     ],
-    "cpdlc_login": "EDWC"
+    "cpdlc_login": "EDWC",
+    "gcap_status": "1"
   },
   {
     "logon": "EDWW_A_CTR",
@@ -160,6 +161,7 @@
       "EDDV",
       "EDDW"
     ],
-    "cpdlc_login": "EDWW"
+    "cpdlc_login": "EDWW",
+    "gcap_status": "1"
   }
 ]

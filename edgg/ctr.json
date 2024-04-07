@@ -108,7 +108,8 @@
       "EDDF",
       "EDDS"
     ],
-    "cpdlc_login": "EDGK"
+    "cpdlc_login": "EDGK",
+    "gcap_status": "1"
   },
   {
     "logon": "EDGG_LBU_CTR",
