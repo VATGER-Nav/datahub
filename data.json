@@ -1612,7 +1612,8 @@
       "EDDF",
       "EDDS"
     ],
-    "cpdlc_login": "EDGK"
+    "cpdlc_login": "EDGK",
+    "gcap_status": "1"
   },
   {
     "logon": "EDGG_LBU_CTR",
@@ -2090,7 +2091,8 @@
     "schedule-groups": [
       "EDMM"
     ],
-    "cpdlc_login": "EDMM"
+    "cpdlc_login": "EDMM",
+    "gcap_status": "1"
   },
   {
     "logon": "EDMM_EGG_CTR",
@@ -2200,7 +2202,8 @@
       "EDDM",
       "EDDN"
     ],
-    "cpdlc_login": "EDMR"
+    "cpdlc_login": "EDMR",
+    "gcap_status": "1"
   },
   {
     "logon": "EDMM_STA_CTR",
@@ -3081,7 +3084,8 @@
       "EDDV",
       "EDDW"
     ],
-    "cpdlc_login": "EDWC"
+    "cpdlc_login": "EDWC",
+    "gcap_status": "1"
   },
   {
     "logon": "EDWW_D_CTR",
@@ -3200,7 +3204,8 @@
       "EDDV",
       "EDDW"
     ],
-    "cpdlc_login": "EDWW"
+    "cpdlc_login": "EDWW",
+    "gcap_status": "1"
   },
   {
     "logon": "EDWY_I_TWR",
