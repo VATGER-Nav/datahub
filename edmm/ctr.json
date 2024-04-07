@@ -144,7 +144,8 @@
       "EDDM",
       "EDDN"
     ],
-    "cpdlc_login": "EDMR"
+    "cpdlc_login": "EDMR",
+    "gcap_status": "1"
   },
   {
     "logon": "EDMM_STA_CTR",
@@ -195,7 +196,6 @@
     "relevant_airports": [
       "EDDM"
     ],
-    "cpdlc_login": "EDMZ",
-    "gcap_status": "1"
+    "cpdlc_login": "EDMZ"
   }
 ]
