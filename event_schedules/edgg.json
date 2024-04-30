@@ -42,7 +42,8 @@
     ]
   },
   {
-    "day": "2",
+    "rule": "weekday",
+    "day": "4",
     "booking": [
       "EDDS",
       "EDGG_DKB"
