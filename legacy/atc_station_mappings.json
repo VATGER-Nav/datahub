@@ -950,6 +950,11 @@
     "frequency": "120.835"
   },
   {
+    "id": "GJI",
+    "callsignPrefix": "EDGJ",
+    "frequency": "119.990"
+  },
+  {
     "id": "GKI",
     "callsignPrefix": "EDGK",
     "frequency": "125.815"
@@ -1663,6 +1668,11 @@
     "id": "SDI",
     "callsignPrefix": "EDSD",
     "frequency": "128.755"
+  },
+  {
+    "id": "SFI",
+    "callsignPrefix": "EDSF",
+    "frequency": "125.815"
   },
   {
     "id": "SGI",

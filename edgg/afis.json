@@ -915,7 +915,7 @@
     "logon": "EDSF_I_TWR",
     "frequency": "125.815",
     "abbreviation": "SFI",
-    "description": "Hütten-Hotzenwald Radio",
+    "description": "H\u00fctten-Hotzenwald Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
