@@ -280,6 +280,14 @@
     "s1_twr": true
   },
   {
+    "logon": "EDGJ_I_TWR",
+    "frequency": "119.990",
+    "abbreviation": "GJI",
+    "description": "Ochsenfurt Radio",
+    "gcap_status": "AFIS",
+    "s1_twr": true
+  },
+  {
     "logon": "EDGK_I_TWR",
     "frequency": "125.815",
     "abbreviation": "GKI",
@@ -900,6 +908,14 @@
     "frequency": "128.755",
     "abbreviation": "SDI",
     "description": "Egelsee Radio",
+    "gcap_status": "AFIS",
+    "s1_twr": true
+  },
+  {
+    "logon": "EDSF_I_TWR",
+    "frequency": "125.815",
+    "abbreviation": "SFI",
+    "description": "Hütten-Hotzenwald Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
