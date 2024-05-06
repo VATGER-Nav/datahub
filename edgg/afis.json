@@ -92,6 +92,10 @@
     "frequency": "118.405",
     "abbreviation": "FEI",
     "description": "Egelsbach Radio",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -164,6 +168,11 @@
     "frequency": "135.165",
     "abbreviation": "FQI",
     "description": "Allendorf Radio",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDLL",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -332,6 +341,11 @@
     "frequency": "120.380",
     "abbreviation": "GSI",
     "description": "Siegerland Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDLL",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -708,6 +722,10 @@
     "frequency": "125.505",
     "abbreviation": "QGI",
     "description": "Giebelstadt Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -884,6 +902,10 @@
     "frequency": "118.080",
     "abbreviation": "RYI",
     "description": "Speyer Radio",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -892,6 +914,10 @@
     "frequency": "123.830",
     "abbreviation": "RZI",
     "description": "Zweibr\u00fccken Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -1051,7 +1077,7 @@
     "logon": "EDTD_I_TWR",
     "frequency": "126.690",
     "abbreviation": "TDI",
-    "description": "Donaueschingen Radio",
+    "description": "Donaueschingen Information",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
@@ -1172,6 +1198,10 @@
     "frequency": "129.230",
     "abbreviation": "TYI",
     "description": "Schw\u00e4bisch Hall Information",
+    "schedule_show_booked": [
+      "EDFF",
+      "EDGG"
+    ],
     "gcap_status": "AFIS",
     "s1_twr": true
   },
