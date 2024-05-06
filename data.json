@@ -4278,6 +4278,12 @@
     "cpdlc_login": "EDYS"
   },
   {
+    "logon": "ETAD_APP",
+    "frequency": "129.475",
+    "abbreviation": "TADA",
+    "description": "Spangdahlem GCA"
+  },
+  {
     "logon": "ETAD_DEL",
     "frequency": "120.905",
     "abbreviation": "TADC",
@@ -4294,6 +4300,12 @@
     "frequency": "122.200",
     "abbreviation": "TADT",
     "description": "Spangdahlem Tower"
+  },
+  {
+    "logon": "ETAR_APP",
+    "frequency": "124.280",
+    "abbreviation": "TARA",
+    "description": "Ramstein GCA"
   },
   {
     "logon": "ETAR_GND",
@@ -4327,6 +4339,12 @@
     "schedule_show_booked": [
       "EDWW"
     ]
+  },
+  {
+    "logon": "ETHF_APP",
+    "frequency": "120.865",
+    "abbreviation": "THFA",
+    "description": "Fritzlar Radar"
   },
   {
     "logon": "ETHF_GND",
@@ -4569,6 +4587,12 @@
     "frequency": "122.100",
     "abbreviation": "TOUT",
     "description": "Wiesbaden Tower"
+  },
+  {
+    "logon": "ETSB_APP",
+    "frequency": "130.155",
+    "abbreviation": "TSBA",
+    "description": "B\u00fcchel Radarr"
   },
   {
     "logon": "ETSB_TWR",

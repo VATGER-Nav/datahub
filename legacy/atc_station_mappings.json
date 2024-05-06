@@ -2290,6 +2290,11 @@
     "frequency": "134.710"
   },
   {
+    "id": "TADA",
+    "callsignPrefix": "ETAD",
+    "frequency": "129.475"
+  },
+  {
     "id": "TADC",
     "callsignPrefix": "ETAD",
     "frequency": "120.905"
@@ -2303,6 +2308,11 @@
     "id": "TADT",
     "callsignPrefix": "ETAD",
     "frequency": "122.200"
+  },
+  {
+    "id": "TARA",
+    "callsignPrefix": "ETAR",
+    "frequency": "124.280"
   },
   {
     "id": "TARG",
@@ -2328,6 +2338,11 @@
     "id": "HCT",
     "callsignPrefix": "ETHC",
     "frequency": "118.255"
+  },
+  {
+    "id": "THFA",
+    "callsignPrefix": "ETHF",
+    "frequency": "120.865"
   },
   {
     "id": "THFG",
@@ -2483,6 +2498,11 @@
     "id": "TOUT",
     "callsignPrefix": "ETOU",
     "frequency": "122.100"
+  },
+  {
+    "id": "TSBA",
+    "callsignPrefix": "ETSB",
+    "frequency": "130.155"
   },
   {
     "id": "TSBT",
