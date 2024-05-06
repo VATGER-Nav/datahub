@@ -18,6 +18,12 @@
     "description": "Spangdahlem Tower"
   },
   {
+    "logon": "ETAD_APP",
+    "frequency": "129.475",
+    "abbreviation": "TADA",
+    "description": "Spangdahlem GCA"
+  },
+  {
     "logon": "ETAR_GND",
     "frequency": "121.775",
     "abbreviation": "TARG",
@@ -28,6 +34,12 @@
     "frequency": "133.205",
     "abbreviation": "TART",
     "description": "Ramstein Tower"
+  },
+  {
+    "logon": "ETAR_APP",
+    "frequency": "124.280",
+    "abbreviation": "TARA",
+    "description": "Ramstein GCA"
   },
   {
     "logon": "ETEB_GND",
@@ -54,16 +66,22 @@
     "description": "Fritzlar Tower"
   },
   {
-    "logon": "ETHN_APP",
-    "frequency": "127.190",
-    "abbreviation": "THNA",
-    "description": "Stetten Radar"
+    "logon": "ETHF_APP",
+    "frequency": "120.865",
+    "abbreviation": "THFA",
+    "description": "Fritzlar Radar"
   },
   {
     "logon": "ETHN_TWR",
     "frequency": "119.780",
     "abbreviation": "THNT",
     "description": "Stetten Tower"
+  },
+  {
+    "logon": "ETHN_APP",
+    "frequency": "127.190",
+    "abbreviation": "THNA",
+    "description": "Stetten Radar"
   },
   {
     "logon": "ETIK_GND",
@@ -78,28 +96,28 @@
     "description": "Illesheim Tower"
   },
   {
-    "logon": "ETNG_APP",
-    "frequency": "123.730",
-    "abbreviation": "TNGA",
-    "description": "Frisbee Radar"
-  },
-  {
     "logon": "ETNG_TWR",
     "frequency": "120.055",
     "abbreviation": "TNGT",
     "description": "Frisbee Tower"
   },
   {
-    "logon": "ETNN_APP",
-    "frequency": "129.055",
-    "abbreviation": "TNNA",
-    "description": "N\u00f6rvenich Radar"
+    "logon": "ETNG_APP",
+    "frequency": "123.730",
+    "abbreviation": "TNGA",
+    "description": "Frisbee Radar"
   },
   {
     "logon": "ETNN_TWR",
     "frequency": "136.205",
     "abbreviation": "TNNT",
     "description": "N\u00f6rvenich Tower"
+  },
+  {
+    "logon": "ETNN_APP",
+    "frequency": "129.055",
+    "abbreviation": "TNNA",
+    "description": "N\u00f6rvenich Radar"
   },
   {
     "logon": "ETOU_GND",
@@ -118,5 +136,11 @@
     "frequency": "131.460",
     "abbreviation": "TSBT",
     "description": "B\u00fcchel Tower"
+  },
+  {
+    "logon": "ETSB_APP",
+    "frequency": "130.155",
+    "abbreviation": "TSBA",
+    "description": "B\u00fcchel Radarr"
   }
 ]
