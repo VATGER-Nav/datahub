@@ -1430,11 +1430,7 @@
     "logon": "EDFE_GND",
     "frequency": "121.730",
     "abbreviation": "FEG",
-    "description": "Egelsbach Apron",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
+    "description": "Egelsbach Apron"
   },
   {
     "logon": "EDFE_I_TWR",
