@@ -183,7 +183,7 @@
   },
   {
     "logon": "EDDB_N_DEP",
-    "frequency": "134.430",
+    "frequency": "120.340",
     "abbreviation": "DBDN",
     "description": "Bremen Radar (Berlin Departure Nord)",
     "schedule_show_booked": [
