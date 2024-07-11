@@ -22,8 +22,7 @@
             "EDGG_DKB_CTR",
             "EDGG_GIN_CTR",
             "EDUU_FUL_CTR",
-            "EDUU_SLN_CTR",
-            "EDYY_RHR_CTR"
+            "EDUU_SLN_CTR"
         ],
         "schedule_show_booked": [
             "EDDF_CO_DEL",
@@ -223,8 +222,7 @@
             "EDDL_W_GND",
             "EDGG_PAH_CTR",
             "EDUU_FUL_CTR",
-            "EDUU_SLN_CTR",
-            "EDYY_RHR_CTR"
+            "EDUU_SLN_CTR"
         ],
         "schedule_show_booked": [
             "EDDG_F_APP",
@@ -248,7 +246,6 @@
             "EDLV_TWR",
             "EDLW_GND",
             "EDLW_TWR",
-            "EDYY_MNS_CTR",
             "ETNG_APP",
             "ETNG_TWR",
             "ETNN_APP",
@@ -405,7 +402,6 @@
             "EDYY_H_CTR",
             "EDYY_JH_CTR",
             "EDYY_J_CTR",
-            "EDYY_MNS_CTR",
             "EDYY_SH_CTR",
             "EDYY_S_CTR",
             "ETHC_TWR",
