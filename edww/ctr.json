@@ -29,7 +29,10 @@
       "EDDH",
       "EDDW"
     ],
-    "cpdlc_login": "EDWA"
+    "cpdlc_login": "EDWA",
+    "airspace_groups": [
+      "ALR"
+    ]
   },
   {
     "logon": "EDWW_B_CTR",
@@ -42,7 +45,10 @@
     "relevant_airports": [
       "EDDB"
     ],
-    "cpdlc_login": "EDWB"
+    "cpdlc_login": "EDWB",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDWW_D_CTR",
@@ -56,7 +62,10 @@
     "relevant_airports": [
       "EDDV"
     ],
-    "cpdlc_login": "EDWD"
+    "cpdlc_login": "EDWD",
+    "airspace_groups": [
+      "DST"
+    ]
   },
   {
     "logon": "EDWW_E_CTR",
@@ -69,7 +78,10 @@
     "relevant_airports": [
       "EDDB"
     ],
-    "cpdlc_login": "EDWE"
+    "cpdlc_login": "EDWE",
+    "airspace_groups": [
+      "ALR"
+    ]
   },
   {
     "logon": "EDWW_F_CTR",
@@ -82,7 +94,10 @@
     "relevant_airports": [
       "EDDB"
     ],
-    "cpdlc_login": "EDWF"
+    "cpdlc_login": "EDWF",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDWW_H_CTR",
@@ -94,6 +109,9 @@
     ],
     "relevant_airports": [
       "EDDH"
+    ],
+    "airspace_groups": [
+      "ALR"
     ]
   },
   {
@@ -107,7 +125,10 @@
     "relevant_airports": [
       "EDDB"
     ],
-    "cpdlc_login": "EDWK"
+    "cpdlc_login": "EDWK",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDWW_M_CTR",
@@ -121,7 +142,10 @@
     "relevant_airports": [
       "EDDB"
     ],
-    "cpdlc_login": "EDWM"
+    "cpdlc_login": "EDWM",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDWW_R_CTR",
@@ -133,6 +157,9 @@
     ],
     "relevant_airports": [
       "EDDV"
+    ],
+    "airspace_groups": [
+      "DST"
     ]
   },
   {
@@ -146,7 +173,10 @@
     "relevant_airports": [
       "EDDV"
     ],
-    "cpdlc_login": "EDWS"
+    "cpdlc_login": "EDWS",
+    "airspace_groups": [
+      "DST"
+    ]
   },
   {
     "logon": "EDWW_W_CTR",
@@ -162,6 +192,9 @@
       "EDDW"
     ],
     "cpdlc_login": "EDWW",
-    "gcap_status": "1"
+    "gcap_status": "1",
+    "airspace_groups": [
+      "ALR"
+    ]
   }
 ]
