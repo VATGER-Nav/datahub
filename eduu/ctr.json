@@ -93,7 +93,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDUH"
+    "cpdlc_login": "EDUH",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDUU_O_CTR",
@@ -103,7 +106,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDUO"
+    "cpdlc_login": "EDUO",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDUU_OH_CTR",
@@ -113,7 +119,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDU2"
+    "cpdlc_login": "EDU2",
+    "airspace_groups": [
+      "MRZ"
+    ]
   },
   {
     "logon": "EDUU_SAL_CTR",
