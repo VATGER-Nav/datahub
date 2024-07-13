@@ -4319,7 +4319,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDCH"
+    "cpdlc_login": "EDCH",
+    "airspace_groups": [
+      "DST"
+    ]
   },
   {
     "logon": "EDYY_C_CTR",
@@ -4329,7 +4332,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDYC"
+    "cpdlc_login": "EDYC",
+    "airspace_groups": [
+      "DST"
+    ]
   },
   {
     "logon": "EDYY_H_CTR",
@@ -4339,7 +4345,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDYH"
+    "cpdlc_login": "EDYH",
+    "airspace_groups": [
+      "ALR"
+    ]
   },
   {
     "logon": "EDYY_JH_CTR",
@@ -4349,7 +4358,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDJH"
+    "cpdlc_login": "EDJH",
+    "airspace_groups": [
+      "ALR"
+    ]
   },
   {
     "logon": "EDYY_J_CTR",
@@ -4359,7 +4371,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDYJ"
+    "cpdlc_login": "EDYJ",
+    "airspace_groups": [
+      "ALR"
+    ]
   },
   {
     "logon": "EDYY_MNS_CTR",
@@ -4400,7 +4415,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDSH"
+    "cpdlc_login": "EDSH",
+    "airspace_groups": [
+      "DST"
+    ]
   },
   {
     "logon": "EDYY_S_CTR",
@@ -4410,7 +4428,10 @@
     "schedule_show_booked": [
       "EDWW"
     ],
-    "cpdlc_login": "EDYS"
+    "cpdlc_login": "EDYS",
+    "airspace_groups": [
+      "DST"
+    ]
   },
   {
     "logon": "ETAD_APP",
