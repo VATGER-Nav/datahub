@@ -22,7 +22,8 @@
             "EDGG_DKB_CTR",
             "EDGG_GIN_CTR",
             "EDUU_FUL_CTR",
-            "EDUU_SLN_CTR"
+            "EDUU_SLN_CTR",
+            "EDYY_RHR_CTR"
         ],
         "schedule_show_booked": [
             "EDDF_CO_DEL",
@@ -222,7 +223,8 @@
             "EDDL_W_GND",
             "EDGG_PAH_CTR",
             "EDUU_FUL_CTR",
-            "EDUU_SLN_CTR"
+            "EDUU_SLN_CTR",
+            "EDYY_RHR_CTR"
         ],
         "schedule_show_booked": [
             "EDDG_F_APP",

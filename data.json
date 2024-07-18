@@ -4275,7 +4275,9 @@
     "abbreviation": "RHR",
     "description": "Maastricht Radar (Ruhr)",
     "schedule_show_always": [
-      "EDGG"
+      "EDGG",
+      "EDLL",
+      "EDFF"
     ],
     "cpdlc_login": "EDYR"
   },
