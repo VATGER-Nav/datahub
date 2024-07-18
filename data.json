@@ -4265,6 +4265,8 @@
     "abbreviation": "MNS",
     "description": "Maastricht Radar (Muenster)",
     "schedule_show_booked": [
+      "EDWW",
+      "EDLL",
       "EDGG"
     ],
     "cpdlc_login": "EDYM"
