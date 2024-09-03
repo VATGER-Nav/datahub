@@ -965,6 +965,11 @@
     "frequency": "128.340"
   },
   {
+    "id": "GOI",
+    "callsignPrefix": "EDGO",
+    "frequency": "118.410"
+  },
+  {
     "id": "GPI",
     "callsignPrefix": "EDGP",
     "frequency": "130.640"
@@ -1733,6 +1738,11 @@
     "id": "SWI",
     "callsignPrefix": "EDSW",
     "frequency": "127.155"
+  },
+  {
+    "id": "SXI",
+    "callsignPrefix": "EDSX",
+    "frequency": "119.610"
   },
   {
     "id": "SZI",
