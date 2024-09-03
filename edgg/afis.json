@@ -313,6 +313,14 @@
     "s1_twr": true
   },
   {
+    "logon": "EDGO_I_TWR",
+    "frequency": "118.410",
+    "abbreviation": "GOI",
+    "description": "Oedheim Radio",
+    "gcap_status": "AFIS",
+    "s1_twr": true
+  },
+  {
     "logon": "EDGP_I_TWR",
     "frequency": "130.640",
     "abbreviation": "GPI",
@@ -1038,6 +1046,14 @@
     "frequency": "127.155",
     "abbreviation": "SWI",
     "description": "Altdorf Radio",
+    "gcap_status": "AFIS",
+    "s1_twr": true
+  },
+  {
+    "logon": "EDSX_I_TWR",
+    "frequency": "119.610",
+    "abbreviation": "SXI",
+    "description": "Lichtenberg Radio",
     "gcap_status": "AFIS",
     "s1_twr": true
   },
