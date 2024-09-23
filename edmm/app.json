@@ -30,16 +30,6 @@
     "gcap_status": "1"
   },
   {
-    "logon": "EDDM_ND_APP",
-    "frequency": "118.830",
-    "abbreviation": "DMNAT",
-    "description": "M\u00fcnchen Director (North Director)",
-    "schedule_show_always": [
-      "EDMM"
-    ],
-    "gcap_status": "1"
-  },
-  {
     "logon": "EDDM_NL_APP",
     "frequency": "123.905",
     "abbreviation": "DMNL",
@@ -60,6 +50,16 @@
     "gcap_status": "1"
   },
   {
+    "logon": "EDDM_ND_APP",
+    "frequency": "118.830",
+    "abbreviation": "DMNAT",
+    "description": "M\u00fcnchen Director (North Director)",
+    "schedule_show_always": [
+      "EDMM"
+    ],
+    "gcap_status": "1"
+  },
+  {
     "logon": "EDDM_SD_APP",
     "frequency": "132.305",
     "abbreviation": "DMSAT",
@@ -67,6 +67,20 @@
     "schedule_show_booked": [
       "EDMM"
     ],
+    "gcap_status": "1"
+  },
+  {
+    "logon": "EDDM_FB_APP",
+    "frequency": "131.230",
+    "abbreviation": "DMFBA",
+    "description": "M\u00fcnchen Radar (Fallback)",
+    "gcap_status": "1"
+  },
+  {
+    "logon": "EDMA_APP",
+    "frequency": "128.255",
+    "abbreviation": "DMAG",
+    "description": "M\u00fcnchen Radar (Augsburg Sector)",
     "gcap_status": "1"
   },
   {
