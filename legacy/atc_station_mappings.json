@@ -440,6 +440,11 @@
     "frequency": "121.730"
   },
   {
+    "id": "DMFBA",
+    "callsignPrefix": "EDDM",
+    "frequency": "131.230"
+  },
+  {
     "id": "DMGI",
     "callsignPrefix": "EDDM",
     "frequency": "121.990"
@@ -1288,6 +1293,11 @@
     "id": "LZI",
     "callsignPrefix": "EDLZ",
     "frequency": "133.465"
+  },
+  {
+    "id": "DMAG",
+    "callsignPrefix": "EDMA",
+    "frequency": "128.255"
   },
   {
     "id": "MAT",
