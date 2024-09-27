@@ -1,17 +1,50 @@
 [
   {
-    "day": "3",
+    "day": "1",
+    "booking": [
+      "EDDN",
+      "EDMM_HOF"
+    ]
+  },
+  {
+    "rule": "every_X_days",
+    "one_date": "2024-09-25",
+    "days": "21",
     "booking": [
       "EDDM",
+      "EDMA",
+      "EDMO",
+      "EDJA",
       "EDMM_ALB",
+      "EDMM_WLD",
       "EDMM_ZUG"
     ]
   },
   {
-    "day": "1",
+    "rule": "every_X_days",
+    "one_date": "2024-09-18",
+    "days": "21",
     "booking": [
-      "EDDN",
-      "EDMM_O"
+      "EDDM",
+      "EDMA",
+      "EDMO",
+      "EDJA",
+      "EDMM_ALB",
+      "EDMM_WLD",
+      "EDMM_ZUG"
+    ]
+  },
+  {
+    "rule": "every_X_days",
+    "one_date": "2024-10-02",
+    "days": "21",
+    "booking": [
+      "EDDP",
+      "EDDC",
+      "EDDE",
+      "EDMM_GER",
+      "EDMM_MEI",
+      "EDMM_HOF"
     ]
   }
 ]
