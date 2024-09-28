@@ -100,6 +100,11 @@
     "frequency": "136.105"
   },
   {
+    "id": "DBI",
+    "callsignPrefix": "EDDB",
+    "frequency": "121.665"
+  },
+  {
     "id": "DBAN",
     "callsignPrefix": "EDDB",
     "frequency": "119.630"
