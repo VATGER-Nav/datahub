@@ -8,7 +8,7 @@
       "EDDG_HMM_APP",
       "EDGG_PAH",
       "EDGG_GIN",
-      "EDDF_APP",
+      "EDDF_N_APP",
       "EDYY_R"
     ]
   },
@@ -16,23 +16,31 @@
     "rule": "weekday",
     "day": "3",
     "booking": [
-      "EDDK_DEL",
-      "EDDK_GND",
-      "EDDK_TWR",
-      "EDDK_APP",
-      "EDDK_F_APP",
+      "EDDK",
       "EDGG_PAH",
       "EDGG_GIN",
-      "EDDF_APP"
+      "EDDF_N_APP"
     ]
   },
   {
-    "rule": "every_X_days",
-    "one_date": "2024-08-08",
-    "days": "14",
+    "rule": "weekday",
+    "one_date": "4",
     "booking": [
       "EDDS",
-      "EDGG_DKB"
+      "EDGG_DKB",
+      "EDDF_N_APP"
+    ]
+  },
+  {
+    "rule": "weekday",
+    "one_date": "5",
+    "booking": [
+      "EDDF",
+      "EDGG_GIN",
+      "EDGG_DKB",
+      "EDUU_FUL",
+      "EDUU_SLN",
+      "EDDS_STG_APP"
     ]
   }
 ]
