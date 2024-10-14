@@ -32,6 +32,9 @@ class Station(BaseModel):
             s1_twr=data.get("s1_twr"),
         )
 
+    def to_dict(self) -> dict:
+        return self.model_dump(exclude_none=True)
+
     @field_validator("logon")
     @classmethod
     def validate_logon(cls, value: str) -> str:
