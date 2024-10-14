@@ -16,7 +16,7 @@ class TestStation(TestCase):
         for folder in folders:
             folder_path = os.path.join(base_dir, folder)
             if os.path.exists(folder_path):
-                print(f"Reading JSON files from folder: {folder_path}")
+                # print(f"Reading JSON files from folder: {folder_path}")
                 read_json_files_in_folder(folder_path)
             else:
                 print(f"Folder does not exist: {folder_path}")
@@ -31,11 +31,11 @@ def parse_json(data):
     for element in test:
         station_dict = station.model_dump(exclude_none=True)
         # print(station_dict)
-        print(
-            toml.dumps(
-                station_dict,
-            )
-        )
+        # print(
+        #     toml.dumps(
+        #         station_dict,
+        #     )
+        # )
 
 
 def read_json_files_in_folder(folder_path):
