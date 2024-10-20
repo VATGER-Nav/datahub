@@ -650,11 +650,6 @@
     "frequency": "124.800"
   },
   {
-    "id": "DWL",
-    "callsignPrefix": "EDDW",
-    "frequency": "134.830"
-  },
-  {
     "id": "DWAT",
     "callsignPrefix": "EDDW",
     "frequency": "120.350"

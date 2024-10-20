@@ -1318,15 +1318,6 @@
     ]
   },
   {
-    "logon": "EDDW_DEL",
-    "frequency": "134.830",
-    "abbreviation": "DWL",
-    "description": "Bremen Delivery",
-    "schedule_show_booked": [
-      "EDWW"
-    ]
-  },
-  {
     "logon": "EDDW_F_APP",
     "frequency": "120.350",
     "abbreviation": "DWAT",
