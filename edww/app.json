@@ -139,14 +139,5 @@
     "schedule_show_always": [
       "EDWW"
     ]
-  },
-  {
-    "logon": "EDDW_F_APP",
-    "frequency": "120.350",
-    "abbreviation": "DWAT",
-    "description": "Bremen Director",
-    "schedule_show_booked": [
-      "EDWW"
-    ]
   }
 ]
