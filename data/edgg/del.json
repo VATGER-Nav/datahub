@@ -1,44 +1,44 @@
 [
-  {
-    "logon": "EDDF_DEL",
-    "frequency": "122.035",
-    "abbreviation": "DFC",
-    "description": "Frankfurt Delivery",
-    "schedule_show_always": [
-      "EDFF",
-      "EDGG"
-    ],
-    "gcap_status": "1"
-  },
-  {
-    "logon": "EDDK_DEL",
-    "frequency": "121.855",
-    "abbreviation": "DKC",
-    "description": "K\u00f6ln/Bonn Delivery",
-    "schedule_show_always": [
-      "EDLL",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "EDDL_DEL",
-    "frequency": "121.780",
-    "abbreviation": "DLC",
-    "description": "D\u00fcsseldorf Delivery",
-    "schedule_show_always": [
-      "EDLL",
-      "EDGG"
-    ],
-    "gcap_status": "1"
-  },
-  {
-    "logon": "EDDS_DEL",
-    "frequency": "121.915",
-    "abbreviation": "DSC",
-    "description": "Stuttgart Delivery",
-    "schedule_show_always": [
-      "EDFF",
-      "EDGG"
-    ]
-  }
+    {
+        "logon": "EDDF_DEL",
+        "frequency": "122.035",
+        "abbreviation": "DFC",
+        "description": "Frankfurt Delivery",
+        "schedule_show_always": [
+            "EDFF",
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDK_DEL",
+        "frequency": "121.855",
+        "abbreviation": "DKC",
+        "description": "K\u00f6ln/Bonn Delivery",
+        "schedule_show_always": [
+            "EDLL",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "EDDL_DEL",
+        "frequency": "121.780",
+        "abbreviation": "DLC",
+        "description": "D\u00fcsseldorf Delivery",
+        "schedule_show_always": [
+            "EDLL",
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDS_DEL",
+        "frequency": "121.915",
+        "abbreviation": "DSC",
+        "description": "Stuttgart Delivery",
+        "schedule_show_always": [
+            "EDFF",
+            "EDGG"
+        ]
+    }
 ]
