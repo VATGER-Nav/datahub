@@ -53,7 +53,8 @@ class Datahub:
         # maybe later we can validate event_schedules.json
 
     def combine_data(self):
-        pass
+        self.__read_data()
+        self.__export(self.data, destination="api", combine=True)
 
     def __export(
         self,
@@ -67,6 +68,12 @@ class Datahub:
 
         for element in data:
             file_path = element.source
+            if file_path.startswith("data") and destination is "api":
+                file_path = file_path.replace("data", destination, 1)
+                folder_path = os.path.dirname(file_path)
+                if not os.path.exists(folder_path):
+                    os.makedirs(folder_path)
+
             stations_data = [station.to_dict() for station in element.data]
 
             if file_path.endswith(".json"):
