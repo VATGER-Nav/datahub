@@ -1,0 +1,51 @@
+name: data builder
+run-name: Building data for commit ${{ github.sha }} by ${{ github.actor }}
+on:
+  push:
+    branches:
+      - "main"
+
+permissions: write-all
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: build data
+        run: python src/combine_data.py
+
+      - name: Archive generated files as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-files
+          path: ./api
+
+      - name: Checkout production branch
+        uses: actions/checkout@v2
+        with:
+          ref: production
+
+      - name: Download generated files artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: generated-files
+          path: ./api
+
+      - name: Apply changes to production branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || (git commit -a -m "Add generated files from main branch" --allow-empty && git push origin production)

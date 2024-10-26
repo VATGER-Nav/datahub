@@ -29,7 +29,7 @@ class Datahub:
         self.event_dir = event_dir
 
         self.data: List[Data] = []
-        self.combined_file_name = "data"
+        self.combined_file_name = "stations"
 
     def sort_data(self):
         """reads the data, sorts it, exports it back to the files it originates from"""
@@ -53,6 +53,7 @@ class Datahub:
         # maybe later we can validate event_schedules.json
 
     def combine_data(self):
+        """combines the data and exports it at into the "api" folder"""
         self.__read_data()
         self.__export(self.data, destination="api", combine=True)
 
@@ -62,7 +63,7 @@ class Datahub:
         destination: Literal["data", "api"] = "data",
         combine=False,
     ):
-        """exports data back to data/* and api/*"""
+        """exports data back to data/* or api/*"""
 
         combined_data = []
 
