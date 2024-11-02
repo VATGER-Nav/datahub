@@ -1,5 +1,5 @@
 from typing import List, Literal
-from pydantic import BaseModel, field_validator
+from pydantic import BaseModel, ValidationInfo, field_validator
 
 from validators.icao import icao_validator
 from validators.logon import logon_validator
@@ -33,7 +33,9 @@ class Station(BaseModel):
         )
 
     def to_dict(self) -> dict:
-        return self.model_dump(exclude_none=True)
+        """returns the station as dict, hides fields which are None or empty lists"""
+        data = self.model_dump(exclude_none=True)
+        return {k: v for k, v in data.items() if v != []}
 
     @field_validator("logon")
     @classmethod
@@ -53,3 +55,21 @@ class Station(BaseModel):
 
         for element in icao_list:
             element = icao_validator(element)
+
+    @field_validator("schedule_show_booked", mode="before")
+    @classmethod
+    def filter_schedule_show_booked(cls, schedule_show_booked, values):
+        """
+        Remove entries from schedule_show_booked that are already in schedule_show_always.
+        """
+        schedule_show_always = values.data.get("schedule_show_always") or []
+
+        # Filter out any entries from schedule_show_booked that are in schedule_show_always
+        if schedule_show_booked:
+            schedule_show_booked = [
+                entry
+                for entry in schedule_show_booked
+                if entry not in schedule_show_always
+            ]
+
+        return schedule_show_booked
