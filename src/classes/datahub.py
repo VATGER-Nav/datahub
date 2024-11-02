@@ -31,6 +31,8 @@ class Datahub:
         self.data: List[Data] = []
         self.combined_file_name = "stations"
 
+        self.teamspeak_mapping_path = "api/legacy/atc_station_mappings.json"
+
     def sort_data(self):
         """reads the data, sorts it, exports it back to the files it originates from"""
 
@@ -57,6 +59,34 @@ class Datahub:
         self.__read_data()
         self.__export(self.data, destination="api", combine=True)
 
+        self.__generate_teamspeak_mapping_file()
+        # TODO: generate schedules.json
+        # TODO: move event_schedules.json
+
+    def __generate_teamspeak_mapping_file(self):
+        mapping_data = []
+
+        for file in self.data:
+            for station in file.data:
+                callsign_parts = station.logon.split("_")
+                callsign_prefix = callsign_parts[0] if callsign_parts else ""
+
+                station_mapping = {
+                    "id": station.abbreviation,
+                    "callsignPrefix": callsign_prefix,
+                    "frequency": station.frequency,
+                }
+
+                mapping_data.append(station_mapping)
+
+        # Sort mapping_data by 'callsignPrefix' first, then by 'id'
+        mapping_data.sort(key=lambda x: (x["callsignPrefix"], x["id"]))
+
+        with open(
+            self.teamspeak_mapping_path, "w", encoding="utf-8"
+        ) as output_json_file:
+            json.dump(mapping_data, output_json_file, indent=JSON_INDENT)
+
     def __export(
         self,
         data: List[Data],
@@ -69,7 +99,7 @@ class Datahub:
 
         for element in data:
             file_path = element.source
-            if file_path.startswith("data") and destination is "api":
+            if file_path.startswith("data") and destination == "api":
                 file_path = file_path.replace("data", destination, 1)
                 folder_path = os.path.dirname(file_path)
                 if not os.path.exists(folder_path):
