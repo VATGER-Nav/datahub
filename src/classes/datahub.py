@@ -1,19 +1,25 @@
 from dataclasses import dataclass
 import os
 import json
-from pydantic import BaseModel
 import toml
-from typing import List, Literal
+from typing import Dict, List, Literal
 
 from functions.sort_station import sort_stations
 from settings.json import JSON_INDENT
 from views.station import Station
+from views.schedules import ScheduleType
 
 
 @dataclass
 class Data:
     source: str
     data: List[Station]
+
+
+@dataclass
+class Schedule:
+    show_always: List[ScheduleType]
+    show_booked: List[ScheduleType]
 
 
 class Datahub:
@@ -32,6 +38,7 @@ class Datahub:
         self.combined_file_name = "stations"
 
         self.teamspeak_mapping_path = "api/legacy/atc_station_mappings.json"
+        self.schedule_path = "api/legacy/schedule.json"
 
     def sort_data(self):
         """reads the data, sorts it, exports it back to the files it originates from"""
@@ -60,8 +67,50 @@ class Datahub:
         self.__export(self.data, destination="api", combine=True)
 
         self.__generate_teamspeak_mapping_file()
-        # TODO: generate schedules.json
+        self.__generate_schedules_json()
         # TODO: move event_schedules.json
+
+    def __generate_schedules_json(self):
+        inverted_schedule: List[Dict[str, List[str]]] = []
+
+        schedule_types = ["EDGG", "EDMM", "EDWW", "EDFF", "EDLL", "MIL"]
+
+        for schedule_type in schedule_types:
+            schedule_entry = {
+                "name": schedule_type,
+                "schedule_show_always": [],
+                "schedule_show_booked": [],
+            }
+
+            for file in self.data:
+                for station in file.data:
+                    # mil stations:
+                    if station.logon.startswith("ET") and schedule_type == "MIL":
+                        if station.schedule_show_always:
+                            schedule_entry["schedule_show_always"].append(station.logon)
+                        if station.schedule_show_booked:
+                            schedule_entry["schedule_show_booked"].append(station.logon)
+
+                    if (
+                        station.schedule_show_always
+                        and schedule_type in station.schedule_show_always
+                    ):
+                        schedule_entry["schedule_show_always"].append(station.logon)
+                    if (
+                        station.schedule_show_booked
+                        and schedule_type in station.schedule_show_booked
+                    ):
+                        schedule_entry["schedule_show_booked"].append(station.logon)
+
+            schedule_entry["schedule_show_always"].sort()
+            schedule_entry["schedule_show_booked"].sort()
+
+            inverted_schedule.append(schedule_entry)
+
+        inverted_schedule.sort(key=lambda x: x["name"])
+
+        with open(self.schedule_path, "w", encoding="utf-8") as output_json_file:
+            json.dump(inverted_schedule, output_json_file, indent=JSON_INDENT)
 
     def __generate_teamspeak_mapping_file(self):
         mapping_data = []
