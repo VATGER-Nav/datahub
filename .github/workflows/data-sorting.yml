@@ -1,11 +1,9 @@
 name: data sorter
 run-name: Sorting data on branch ${{github.ref_name}}
 on:
-  push:
-    branches:
-      - "!main"
-      - "!production"
-      - "*"
+    pull_request:
+      branches:
+        - main
 
 permissions: write-all
 jobs:
