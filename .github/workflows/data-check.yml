@@ -9,7 +9,7 @@ on:
 
 permissions: read-all
 jobs:
-  sort-data:
+  check-data:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
