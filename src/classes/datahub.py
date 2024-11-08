@@ -39,6 +39,8 @@ class Datahub:
 
         self.teamspeak_mapping_path = "api/legacy/atc_station_mappings.json"
         self.schedule_path = "api/legacy/schedule.json"
+        self.cpdlc_map = "data/topsky/cpdlcMap.json"
+        self.cpdlc_output_path = "api/topsky/TopSkyCPDLC.txt"
 
     def sort_data(self):
         """reads the data, sorts it, exports it back to the files it originates from"""
@@ -68,7 +70,47 @@ class Datahub:
 
         self.__generate_teamspeak_mapping_file()
         self.__generate_schedules_json()
-        # TODO: move event_schedules.json
+        self.__generate_topsky_cpdlc()
+
+    def __generate_topsky_cpdlc(self):
+        cpdlc_callsign_map = json.load(open(self.cpdlc_map, "r", encoding="utf-8"))
+
+        cpdlc_station_data = []
+
+        for file in self.data:
+            for station in file.data:
+                if not station.cpdlc_login:
+                    continue
+
+                callsign = cpdlc_callsign_map.get(station.logon.split("_")[0])
+
+                cpdlc_station_data.append(
+                    {
+                        "login": station.cpdlc_login,
+                        "callsign": callsign,
+                        "abbreviation": station.abbreviation,
+                    }
+                )
+
+        # sort data by callsign then by login
+        cpdlc_station_data.sort(key=lambda x: (x["callsign"], x["login"]))
+
+        output_lines = []
+        last_callsign = cpdlc_station_data[0]["callsign"]
+
+        for station in cpdlc_station_data:
+            # Add an empty line after every change of callsign
+            if station["callsign"] != last_callsign:
+                output_lines.append("\n")
+
+            output_lines.append(
+                f"LOGIN:{station['login']}:{station['callsign']}:{station['abbreviation']}\n"
+            )
+
+            last_callsign = station["callsign"]
+
+        with open(self.cpdlc_output_path, "w", encoding="utf-8") as output_text:
+            output_text.writelines(output_lines)
 
     def __generate_schedules_json(self):
         inverted_schedule: List[Dict[str, List[str]]] = []

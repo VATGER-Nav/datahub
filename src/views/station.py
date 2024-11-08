@@ -17,6 +17,7 @@ class Station(BaseModel):
     relevant_airports: List[str] | None
     gcap_status: Literal["AFIS", "1", "2", None]
     s1_twr: bool | None
+    cpdlc_login: str | None = None
 
     @classmethod
     def from_dict(cls, data: dict) -> "Station":
@@ -30,6 +31,7 @@ class Station(BaseModel):
             relevant_airports=data.get("relevant_airports"),
             gcap_status=data.get("gcap_status"),
             s1_twr=data.get("s1_twr"),
+            cpdlc_login=data.get("cpdlc_login"),
         )
 
     def to_dict(self) -> dict:
@@ -73,3 +75,10 @@ class Station(BaseModel):
             ]
 
         return schedule_show_booked
+
+    @field_validator("cpdlc_login")
+    @classmethod
+    def validate_length(cls, value):
+        if value is not None and len(value) != 4:
+            raise ValueError("cpdlc_login must be exactly 4 characters")
+        return value
