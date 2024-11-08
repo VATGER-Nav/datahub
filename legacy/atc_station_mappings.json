@@ -2260,6 +2260,11 @@
     "frequency": "133.955"
   },
   {
+    "id": "HOLH",
+    "callsignPrefix": "EDYY",
+    "frequency": "132.780"
+  },
+  {
     "id": "HOL",
     "callsignPrefix": "EDYY",
     "frequency": "120.860"

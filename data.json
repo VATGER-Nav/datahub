@@ -4232,10 +4232,20 @@
     "cpdlc_login": "EDYC"
   },
   {
-    "logon": "EDYY_H_CTR",
+    "logon": "EDYY_HH_CTR",
+    "frequency": "132.780",
+    "abbreviation": "HOLH",
+    "description": "Maastricht Radar (Holstein High)",
+    "schedule_show_booked": [
+      "EDWW"
+    ],
+    "cpdlc_login": "EDHH"
+  },
+  {
+    "logon": "EDYY_HL_CTR",
     "frequency": "120.860",
     "abbreviation": "HOL",
-    "description": "Maastricht Radar (Holstein)",
+    "description": "Maastricht Radar (Holstein Low)",
     "schedule_show_booked": [
       "EDWW"
     ],
@@ -4252,10 +4262,10 @@
     "cpdlc_login": "EDJH"
   },
   {
-    "logon": "EDYY_J_CTR",
+    "logon": "EDYY_JL_CTR",
     "frequency": "136.465",
     "abbreviation": "JEV",
-    "description": "Maastricht Radar (Jever)",
+    "description": "Maastricht Radar (Jever Low)",
     "schedule_show_booked": [
       "EDWW"
     ],
