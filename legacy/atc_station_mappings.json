@@ -75,6 +75,16 @@
     "frequency": "122.480"
   },
   {
+    "id": "DBANT",
+    "callsignPrefix": "EDDB",
+    "frequency": "136.105"
+  },
+  {
+    "id": "DBAST",
+    "callsignPrefix": "EDDB",
+    "frequency": "121.130"
+  },
+  {
     "id": "DBGA",
     "callsignPrefix": "EDDB",
     "frequency": "121.855"
@@ -85,19 +95,9 @@
     "frequency": "121.605"
   },
   {
-    "id": "DBAST",
-    "callsignPrefix": "EDDB",
-    "frequency": "121.130"
-  },
-  {
     "id": "DBGE",
     "callsignPrefix": "EDDB",
     "frequency": "129.605"
-  },
-  {
-    "id": "DBANT",
-    "callsignPrefix": "EDDB",
-    "frequency": "136.105"
   },
   {
     "id": "DBI",
@@ -143,16 +143,6 @@
     "id": "DBTS",
     "callsignPrefix": "EDDB",
     "frequency": "118.805"
-  },
-  {
-    "id": "DBANQ",
-    "callsignPrefix": "EDDB",
-    "frequency": "119.630"
-  },
-  {
-    "id": "DBASQ",
-    "callsignPrefix": "EDDB",
-    "frequency": "126.425"
   },
   {
     "id": "DCAG",
@@ -300,6 +290,11 @@
     "frequency": "129.805"
   },
   {
+    "id": "DHAT",
+    "callsignPrefix": "EDDH",
+    "frequency": "118.205"
+  },
+  {
     "id": "DHL",
     "callsignPrefix": "EDDH",
     "frequency": "121.805"
@@ -313,11 +308,6 @@
     "id": "DHE",
     "callsignPrefix": "EDDH",
     "frequency": "121.705"
-  },
-  {
-    "id": "DHAT",
-    "callsignPrefix": "EDDH",
-    "frequency": "118.205"
   },
   {
     "id": "DHT",
@@ -625,14 +615,14 @@
     "frequency": "119.490"
   },
   {
-    "id": "DVL",
-    "callsignPrefix": "EDDV",
-    "frequency": "120.405"
-  },
-  {
     "id": "DVAT",
     "callsignPrefix": "EDDV",
     "frequency": "119.605"
+  },
+  {
+    "id": "DVL",
+    "callsignPrefix": "EDDV",
+    "frequency": "120.405"
   },
   {
     "id": "DVG",
