@@ -12,7 +12,7 @@
     "logon": "EDDM_NH_APP",
     "frequency": "128.030",
     "abbreviation": "DMNH",
-    "description": "M\u00fcnchen Arrival (North High)",
+    "description": "M\u00fcnchen Radar (North High)",
     "gcap_training_airport": true,
     "schedule_show_always": [
       "EDMM"
@@ -23,7 +23,7 @@
     "logon": "EDDM_SH_APP",
     "frequency": "120.780",
     "abbreviation": "DMSH",
-    "description": "M\u00fcnchen Arrival (South High)",
+    "description": "M\u00fcnchen Radar (South High)",
     "schedule_show_always": [
       "EDMM"
     ],
@@ -53,7 +53,7 @@
     "logon": "EDDM_ND_APP",
     "frequency": "118.830",
     "abbreviation": "DMNAT",
-    "description": "M\u00fcnchen Director (North Director)",
+    "description": "M\u00fcnchen Arrival (North Director)",
     "schedule_show_always": [
       "EDMM"
     ],
@@ -63,7 +63,7 @@
     "logon": "EDDM_SD_APP",
     "frequency": "132.305",
     "abbreviation": "DMSAT",
-    "description": "M\u00fcnchen Director (South Director)",
+    "description": "M\u00fcnchen Arrival (South Director)",
     "schedule_show_booked": [
       "EDMM"
     ],
@@ -97,7 +97,7 @@
     "logon": "EDDN_D_APP",
     "frequency": "119.475",
     "abbreviation": "DND",
-    "description": "N\u00fcrnberg Director",
+    "description": "N\u00fcrnberg Arrival",
     "schedule_show_always": [
       "EDMM"
     ]
@@ -115,7 +115,7 @@
     "logon": "EDDP_ND_APP",
     "frequency": "120.840",
     "abbreviation": "DPND",
-    "description": "Leipzig Director (North Director)",
+    "description": "Leipzig Arrival (North Director)",
     "schedule_show_booked": [
       "EDMM"
     ]
@@ -133,7 +133,7 @@
     "logon": "EDDP_SD_APP",
     "frequency": "129.765",
     "abbreviation": "DPSD",
-    "description": "Leipzig Director (South Director)",
+    "description": "Leipzig Arrival (South Director)",
     "schedule_show_always": [
       "EDMM"
     ]
