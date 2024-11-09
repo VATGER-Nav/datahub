@@ -22,7 +22,7 @@
   {
     "logon": "EDYY_HL_CTR",
     "frequency": "120.860",
-    "abbreviation": "HOL",
+    "abbreviation": "HL",
     "description": "Maastricht Radar (Holstein Low)",
     "schedule_show_booked": [
       "EDWW"
@@ -32,7 +32,7 @@
   {
     "logon": "EDYY_HH_CTR",
     "frequency": "132.780",
-    "abbreviation": "HOLH",
+    "abbreviation": "HH",
     "description": "Maastricht Radar (Holstein High)",
     "schedule_show_booked": [
       "EDWW"
@@ -42,7 +42,7 @@
   {
     "logon": "EDYY_JL_CTR",
     "frequency": "136.465",
-    "abbreviation": "JEV",
+    "abbreviation": "JL",
     "description": "Maastricht Radar (Jever Low)",
     "schedule_show_booked": [
       "EDWW"
@@ -52,7 +52,7 @@
   {
     "logon": "EDYY_JH_CTR",
     "frequency": "129.735",
-    "abbreviation": "JEVH",
+    "abbreviation": "JH",
     "description": "Maastricht Radar (Jever High)",
     "schedule_show_booked": [
       "EDWW"
