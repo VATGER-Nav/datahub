@@ -2350,6 +2350,21 @@
     "frequency": "122.100"
   },
   {
+    "id": "HBR",
+    "callsignPrefix": "ETHB",
+    "frequency": "124.505"
+  },
+  {
+    "id": "HBT",
+    "callsignPrefix": "ETHB",
+    "frequency": "122.100"
+  },
+  {
+    "id": "HCR",
+    "callsignPrefix": "ETHC",
+    "frequency": "123.305"
+  },
+  {
     "id": "HCT",
     "callsignPrefix": "ETHC",
     "frequency": "118.255"
@@ -2383,6 +2398,11 @@
     "id": "THNT",
     "callsignPrefix": "ETHN",
     "frequency": "119.780"
+  },
+  {
+    "id": "HSR",
+    "callsignPrefix": "ETHS",
+    "frequency": "119.355"
   },
   {
     "id": "HST",
@@ -2498,6 +2518,11 @@
     "id": "NTT",
     "callsignPrefix": "ETNT",
     "frequency": "118.730"
+  },
+  {
+    "id": "NWR",
+    "callsignPrefix": "ETNW",
+    "frequency": "124.655"
   },
   {
     "id": "NWT",

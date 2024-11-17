@@ -4396,6 +4396,33 @@
     "description": "Ansbach Tower"
   },
   {
+    "logon": "ETHB_APP",
+    "frequency": "124.505",
+    "abbreviation": "HBR",
+    "description": "B\u00fckeburg Radar",
+    "schedule_show_booked": [
+      "EDWW"
+    ]
+  },
+  {
+    "logon": "ETHB_TWR",
+    "frequency": "122.100",
+    "abbreviation": "HBT",
+    "description": "B\u00fckeburg Tower",
+    "schedule_show_booked": [
+      "EDWW"
+    ]
+  },
+  {
+    "logon": "ETHC_APP",
+    "frequency": "123.305",
+    "abbreviation": "HCR",
+    "description": "Celle Radar",
+    "schedule_show_booked": [
+      "EDWW"
+    ]
+  },
+  {
     "logon": "ETHC_TWR",
     "frequency": "118.255",
     "abbreviation": "HCT",
@@ -4457,6 +4484,15 @@
     "schedule_show_booked": [
       "EDFF",
       "EDGG"
+    ]
+  },
+  {
+    "logon": "ETHS_APP",
+    "frequency": "119.355",
+    "abbreviation": "HSR",
+    "description": "Fassberg Radar",
+    "schedule_show_booked": [
+      "EDWW"
     ]
   },
   {
@@ -4659,6 +4695,15 @@
     "frequency": "118.730",
     "abbreviation": "NTT",
     "description": "Wittmund Tower",
+    "schedule_show_booked": [
+      "EDWW"
+    ]
+  },
+  {
+    "logon": "ETNW_APP",
+    "frequency": "124.655",
+    "abbreviation": "NWR",
+    "description": "Wunstorf Radar",
     "schedule_show_booked": [
       "EDWW"
     ]
