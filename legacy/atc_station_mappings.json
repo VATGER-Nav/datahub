@@ -2375,11 +2375,6 @@
     "frequency": "120.865"
   },
   {
-    "id": "THFG",
-    "callsignPrefix": "ETHF",
-    "frequency": "131.450"
-  },
-  {
     "id": "THFT",
     "callsignPrefix": "ETHF",
     "frequency": "128.830"
@@ -2547,7 +2542,7 @@
   {
     "id": "TSBT",
     "callsignPrefix": "ETSB",
-    "frequency": "131.460"
+    "frequency": "129.060"
   },
   {
     "id": "SHR",
