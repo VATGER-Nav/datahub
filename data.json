@@ -867,7 +867,7 @@
   },
   {
     "logon": "EDDL_W_GND",
-    "frequency": "121.905",
+    "frequency": "121.680",
     "abbreviation": "DLGW",
     "description": "D\u00fcsseldorf Ground (West)",
     "schedule_show_always": [
