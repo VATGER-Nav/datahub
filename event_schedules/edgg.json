@@ -24,7 +24,7 @@
   },
   {
     "rule": "weekday",
-    "one_date": "4",
+    "day": "4",
     "booking": [
       "EDDS",
       "EDGG_DKB",
@@ -33,7 +33,7 @@
   },
   {
     "rule": "weekday",
-    "one_date": "5",
+    "day": "5",
     "booking": [
       "EDDF",
       "EDGG_GIN",
