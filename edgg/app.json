@@ -59,7 +59,7 @@
     "logon": "EDDF_L_APP",
     "frequency": "118.505",
     "abbreviation": "DFAST",
-    "description": "Frankfurt  (South)",
+    "description": "Frankfurt Arrival (South)",
     "schedule_show_always": [
       "EDFF"
     ],
