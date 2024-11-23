@@ -421,7 +421,7 @@
     "logon": "EDDF_H_APP",
     "frequency": "127.280",
     "abbreviation": "DFANT",
-    "description": "Frankfurt  (North)",
+    "description": "Frankfurt Arrival (North)",
     "schedule_show_always": [
       "EDFF",
       "EDGG"
@@ -443,7 +443,7 @@
     "logon": "EDDF_L_APP",
     "frequency": "118.505",
     "abbreviation": "DFAST",
-    "description": "Frankfurt  (South)",
+    "description": "Frankfurt Arrival (South)",
     "schedule_show_always": [
       "EDFF"
     ],
