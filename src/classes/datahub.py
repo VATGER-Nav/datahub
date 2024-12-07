@@ -1,5 +1,5 @@
-from dataclasses import dataclass
 import os
+from dataclasses import dataclass
 import json
 import toml
 from typing import Dict, List, Literal
@@ -41,6 +41,16 @@ class Datahub:
         self.schedule_path = "api/legacy/schedule.json"
         self.cpdlc_map = "data/topsky/cpdlcMap.json"
         self.cpdlc_output_path = "api/topsky/TopSkyCPDLC.txt"
+
+        self.__ensure_folder_exists(os.path.dirname(self.teamspeak_mapping_path))
+        self.__ensure_folder_exists(os.path.dirname(self.schedule_path))
+        self.__ensure_folder_exists(os.path.dirname(self.cpdlc_map))
+        self.__ensure_folder_exists(os.path.dirname(self.cpdlc_output_path))
+
+    def __ensure_folder_exists(self, directory):
+        print(directory)
+        if directory and not os.path.exists(directory):
+            os.makedirs(directory)
 
     def sort_data(self):
         """reads the data, sorts it, exports it back to the files it originates from"""
