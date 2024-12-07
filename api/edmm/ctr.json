@@ -1,19 +1,13 @@
 [
     {
-        "logon": "EDMM_CTR",
-        "frequency": "124.050",
-        "abbreviation": "MMC",
-        "description": "M\u00fcnchen Radar (Complete)",
-        "gcap_status": "1"
-    },
-    {
         "logon": "EDMM_ALB_CTR",
         "frequency": "129.100",
         "abbreviation": "ALB",
         "description": "M\u00fcnchen Radar (Allersberg)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDML"
     },
     {
         "logon": "EDMM_BBG_CTR",
@@ -22,7 +16,16 @@
         "description": "M\u00fcnchen Radar (Bamberg)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMB"
+    },
+    {
+        "logon": "EDMM_CTR",
+        "frequency": "124.050",
+        "abbreviation": "MMC",
+        "description": "M\u00fcnchen Radar (Complete)",
+        "gcap_status": "1",
+        "cpdlc_login": "EDMM"
     },
     {
         "logon": "EDMM_EGG_CTR",
@@ -31,7 +34,8 @@
         "description": "M\u00fcnchen Radar (Eggenfelden)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDME"
     },
     {
         "logon": "EDMM_FUE_CTR",
@@ -49,7 +53,8 @@
         "description": "M\u00fcnchen Radar (Gera)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMG"
     },
     {
         "logon": "EDMM_HAL_CTR",
@@ -58,25 +63,8 @@
         "description": "M\u00fcnchen Radar (Halle)",
         "schedule_show_booked": [
             "EDMM"
-        ]
-    },
-    {
-        "logon": "EDMM_MEI_CTR",
-        "frequency": "124.960",
-        "abbreviation": "MEI",
-        "description": "M\u00fcnchen Radar (Meissen)",
-        "schedule_show_booked": [
-            "EDMM"
-        ]
-    },
-    {
-        "logon": "EDMM_NDG_CTR",
-        "frequency": "125.140",
-        "abbreviation": "NDG",
-        "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
-        "schedule_show_booked": [
-            "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMH"
     },
     {
         "logon": "EDMM_HOF_CTR",
@@ -85,7 +73,28 @@
         "description": "M\u00fcnchen Radar (Hof)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMO"
+    },
+    {
+        "logon": "EDMM_MEI_CTR",
+        "frequency": "124.960",
+        "abbreviation": "MEI",
+        "description": "M\u00fcnchen Radar (Meissen)",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
+        "cpdlc_login": "EDMS"
+    },
+    {
+        "logon": "EDMM_NDG_CTR",
+        "frequency": "125.140",
+        "abbreviation": "NDG",
+        "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
+        "cpdlc_login": "EDMN"
     },
     {
         "logon": "EDMM_RDG_CTR",
@@ -95,7 +104,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "cpdlc_login": "EDMR"
     },
     {
         "logon": "EDMM_STA_CTR",
@@ -122,7 +132,8 @@
         "description": "M\u00fcnchen Radar (Traun)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMU"
     },
     {
         "logon": "EDMM_WLD_CTR",
@@ -140,6 +151,7 @@
         "description": "M\u00fcnchen Radar (Zugspitze)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMZ"
     }
 ]

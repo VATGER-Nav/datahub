@@ -10,21 +10,21 @@
         "s1_twr": true
     },
     {
-        "logon": "EDDB_S_TWR",
-        "frequency": "118.805",
-        "abbreviation": "DBTS",
-        "description": "Berlin Tower (Sued)",
-        "schedule_show_always": [
-            "EDWW"
-        ],
-        "gcap_status": "1"
-    },
-    {
         "logon": "EDDB_N_TWR",
         "frequency": "120.030",
         "abbreviation": "DBTN",
         "description": "Berlin Tower (Nord)",
         "schedule_show_booked": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDB_S_TWR",
+        "frequency": "118.805",
+        "abbreviation": "DBTS",
+        "description": "Berlin Tower (Sued)",
+        "schedule_show_always": [
             "EDWW"
         ],
         "gcap_status": "1"
@@ -69,6 +69,15 @@
         "s1_twr": true
     },
     {
+        "logon": "EDHI_TWR",
+        "frequency": "123.255",
+        "abbreviation": "HIT",
+        "description": "Finkenwerder Tower",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
         "logon": "EDHL_TWR",
         "frequency": "128.705",
         "abbreviation": "HLT",
@@ -77,15 +86,6 @@
             "EDWW"
         ],
         "s1_twr": true
-    },
-    {
-        "logon": "EDHI_TWR",
-        "frequency": "123.255",
-        "abbreviation": "HIT",
-        "description": "Finkenwerder Tower",
-        "schedule_show_booked": [
-            "EDWW"
-        ]
     },
     {
         "logon": "EDVE_TWR",

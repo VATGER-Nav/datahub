@@ -22,6 +22,30 @@
         "gcap_status": "1"
     },
     {
+        "logon": "EDDF_H_APP",
+        "frequency": "127.280",
+        "abbreviation": "DFANT",
+        "description": "Frankfurt Arrival (North)",
+        "schedule_show_always": [
+            "EDFF",
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDF_L_APP",
+        "frequency": "118.505",
+        "abbreviation": "DFAST",
+        "description": "Frankfurt Arrival (South)",
+        "schedule_show_always": [
+            "EDFF"
+        ],
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
         "logon": "EDDF_N_APP",
         "frequency": "120.805",
         "abbreviation": "DFAN",
@@ -44,28 +68,14 @@
         "gcap_status": "1"
     },
     {
-        "logon": "EDDF_H_APP",
-        "frequency": "127.280",
-        "abbreviation": "DFANT",
-        "description": "Frankfurt Director (North)",
-        "schedule_show_always": [
-            "EDFF",
-            "EDGG"
-        ],
-        "gcap_status": "1"
-    },
-    {
-        "logon": "EDDF_L_APP",
-        "frequency": "118.505",
-        "abbreviation": "DFAST",
-        "description": "Frankfurt Director (South)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
+        "logon": "EDDG_F_APP",
+        "frequency": "129.180",
+        "abbreviation": "DGAT",
+        "description": "M\u00fcnster/Osnabr\u00fcck Arrival",
         "schedule_show_booked": [
-            "EDGG"
-        ],
-        "gcap_status": "1"
+            "EDGG",
+            "EDLL"
+        ]
     },
     {
         "logon": "EDDG_HMM_APP",
@@ -73,16 +83,6 @@
         "abbreviation": "HMM",
         "description": "Langen Radar (Hamm)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
-        ]
-    },
-    {
-        "logon": "EDDG_F_APP",
-        "frequency": "129.180",
-        "abbreviation": "DGAT",
-        "description": "M\u00fcnster/Osnabr\u00fcck Director",
-        "schedule_show_booked": [
             "EDGG",
             "EDLL"
         ]
@@ -102,7 +102,7 @@
         "logon": "EDDK_F_APP",
         "frequency": "121.055",
         "abbreviation": "DKAT",
-        "description": "K\u00f6ln/Bonn Director",
+        "description": "K\u00f6ln/Bonn Arrival",
         "schedule_show_always": [
             "EDLL",
             "EDGG"
@@ -123,28 +123,6 @@
         "gcap_status": "1"
     },
     {
-        "logon": "EDDL_APP",
-        "frequency": "128.555",
-        "abbreviation": "DLA",
-        "description": "Langen Radar (D\u00fcsseldorf Arrival)",
-        "schedule_show_always": [
-            "EDGG",
-            "EDLL"
-        ],
-        "gcap_status": "1"
-    },
-    {
-        "logon": "EDDL_F_APP",
-        "frequency": "128.655",
-        "abbreviation": "DLAT",
-        "description": "D\u00fcsseldorf Director",
-        "schedule_show_always": [
-            "EDLL",
-            "EDGG"
-        ],
-        "gcap_status": "1"
-    },
-    {
         "logon": "EDDL_DEP",
         "frequency": "121.355",
         "abbreviation": "DLD",
@@ -158,6 +136,17 @@
         "gcap_status": "1"
     },
     {
+        "logon": "EDDL_APP",
+        "frequency": "128.555",
+        "abbreviation": "DLA",
+        "description": "Langen Radar (D\u00fcsseldorf Arrival)",
+        "schedule_show_always": [
+            "EDGG",
+            "EDLL"
+        ],
+        "gcap_status": "1"
+    },
+    {
         "logon": "EDDL_BOT_APP",
         "frequency": "119.110",
         "abbreviation": "BOT",
@@ -166,6 +155,17 @@
             "EDLL"
         ],
         "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDL_F_APP",
+        "frequency": "128.655",
+        "abbreviation": "DLAT",
+        "description": "D\u00fcsseldorf Arrival",
+        "schedule_show_always": [
+            "EDLL",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -184,17 +184,7 @@
         "logon": "EDDS_F_APP",
         "frequency": "119.850",
         "abbreviation": "DSAT",
-        "description": "Stuttgart Director",
-        "schedule_show_always": [
-            "EDFF",
-            "EDGG"
-        ]
-    },
-    {
-        "logon": "EDDS_STG_APP",
-        "frequency": "125.050",
-        "abbreviation": "STG",
-        "description": "Langen Radar (Stuttgart)",
+        "description": "Stuttgart Arrival",
         "schedule_show_always": [
             "EDFF",
             "EDGG"
@@ -206,6 +196,16 @@
         "abbreviation": "REU",
         "description": "Langen Radar (Reutlingen)",
         "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "EDDS_STG_APP",
+        "frequency": "125.050",
+        "abbreviation": "STG",
+        "description": "Langen Radar (Stuttgart)",
+        "schedule_show_always": [
             "EDFF",
             "EDGG"
         ]

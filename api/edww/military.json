@@ -1,9 +1,36 @@
 [
     {
+        "logon": "ETHB_TWR",
+        "frequency": "122.100",
+        "abbreviation": "HBT",
+        "description": "B\u00fckeburg Tower",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "ETHB_APP",
+        "frequency": "124.505",
+        "abbreviation": "HBR",
+        "description": "B\u00fckeburg Radar",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
         "logon": "ETHC_TWR",
         "frequency": "118.255",
         "abbreviation": "HCT",
         "description": "Celle Tower",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "ETHC_APP",
+        "frequency": "123.305",
+        "abbreviation": "HCR",
+        "description": "Celle Radar",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -18,10 +45,10 @@
         ]
     },
     {
-        "logon": "ETMN_APP",
-        "frequency": "129.855",
-        "abbreviation": "MNR",
-        "description": "Nordholz Radar",
+        "logon": "ETHS_APP",
+        "frequency": "119.355",
+        "abbreviation": "HSR",
+        "description": "Fassberg Radar",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -31,6 +58,24 @@
         "frequency": "131.255",
         "abbreviation": "MNT",
         "description": "Nordholz Tower",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "ETMN_APP",
+        "frequency": "129.855",
+        "abbreviation": "MNR",
+        "description": "Nordholz Radar",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "ETNH_TWR",
+        "frequency": "122.100",
+        "abbreviation": "NHT",
+        "description": "Hohn Tower",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -49,15 +94,6 @@
         "frequency": "125.600",
         "abbreviation": "NHP",
         "description": "Hohn Precision",
-        "schedule_show_booked": [
-            "EDWW"
-        ]
-    },
-    {
-        "logon": "ETNH_TWR",
-        "frequency": "122.100",
-        "abbreviation": "NHT",
-        "description": "Hohn Tower",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -99,6 +135,15 @@
         ]
     },
     {
+        "logon": "ETNS_TWR",
+        "frequency": "135.155",
+        "abbreviation": "NST",
+        "description": "Schleswig Tower",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
         "logon": "ETNS_APP",
         "frequency": "123.300",
         "abbreviation": "NSR",
@@ -117,10 +162,10 @@
         ]
     },
     {
-        "logon": "ETNS_TWR",
-        "frequency": "135.155",
-        "abbreviation": "NST",
-        "description": "Schleswig Tower",
+        "logon": "ETNT_TWR",
+        "frequency": "118.730",
+        "abbreviation": "NTT",
+        "description": "Wittmund Tower",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -135,19 +180,19 @@
         ]
     },
     {
-        "logon": "ETNT_TWR",
-        "frequency": "118.730",
-        "abbreviation": "NTT",
-        "description": "Wittmund Tower",
+        "logon": "ETNW_TWR",
+        "frequency": "132.055",
+        "abbreviation": "NWT",
+        "description": "Wunstorf Tower",
         "schedule_show_booked": [
             "EDWW"
         ]
     },
     {
-        "logon": "ETNW_TWR",
-        "frequency": "132.055",
-        "abbreviation": "NWT",
-        "description": "Wunstorf Tower",
+        "logon": "ETNW_APP",
+        "frequency": "124.655",
+        "abbreviation": "NWR",
+        "description": "Wunstorf Radar",
         "schedule_show_booked": [
             "EDWW"
         ]

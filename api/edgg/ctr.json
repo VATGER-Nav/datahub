@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDFF",
             "EDGG"
-        ]
+        ],
+        "cpdlc_login": "EDGB"
     },
     {
         "logon": "EDGG_DKB_CTR",
@@ -17,7 +18,8 @@
         "schedule_show_always": [
             "EDFF",
             "EDGG"
-        ]
+        ],
+        "cpdlc_login": "EDGD"
     },
     {
         "logon": "EDGG_GED_CTR",
@@ -40,7 +42,8 @@
         ],
         "schedule_show_booked": [
             "EDLL"
-        ]
+        ],
+        "cpdlc_login": "EDGG"
     },
     {
         "logon": "EDGG_HAB_CTR",
@@ -92,7 +95,8 @@
             "EDGG",
             "EDLL"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "cpdlc_login": "EDGK"
     },
     {
         "logon": "EDGG_LBU_CTR",
@@ -132,7 +136,8 @@
         "schedule_show_always": [
             "EDLL",
             "EDGG"
-        ]
+        ],
+        "cpdlc_login": "EDGP"
     },
     {
         "logon": "EDGG_PSA_CTR",
@@ -153,7 +158,8 @@
             "EDFF",
             "EDGG",
             "EDLL"
-        ]
+        ],
+        "cpdlc_login": "EDGR"
     },
     {
         "logon": "EDGG_SIG_CTR",

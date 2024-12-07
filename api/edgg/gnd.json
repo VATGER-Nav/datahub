@@ -1,5 +1,16 @@
 [
     {
+        "logon": "EDDF_C_GND",
+        "frequency": "121.855",
+        "abbreviation": "DFGC",
+        "description": "Frankfurt Apron (Center)",
+        "schedule_show_always": [
+            "EDFF",
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
         "logon": "EDDF_E_GND",
         "frequency": "121.955",
         "abbreviation": "DFGE",
@@ -19,30 +30,6 @@
         "description": "Frankfurt Ground",
         "schedule_show_booked": [
             "EDFF",
-            "EDGG"
-        ],
-        "gcap_status": "1"
-    },
-    {
-        "logon": "EDDF_C_GND",
-        "frequency": "121.855",
-        "abbreviation": "DFGC",
-        "description": "Frankfurt Apron (Center)",
-        "schedule_show_always": [
-            "EDFF",
-            "EDGG"
-        ],
-        "gcap_status": "1"
-    },
-    {
-        "logon": "EDDF_W_GND",
-        "frequency": "121.755",
-        "abbreviation": "DFGW",
-        "description": "Frankfurt Apron (West)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
-        "schedule_show_booked": [
             "EDGG"
         ],
         "gcap_status": "1"
@@ -70,20 +57,23 @@
         "gcap_status": "1"
     },
     {
+        "logon": "EDDF_W_GND",
+        "frequency": "121.755",
+        "abbreviation": "DFGW",
+        "description": "Frankfurt Apron (West)",
+        "schedule_show_always": [
+            "EDFF"
+        ],
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
         "logon": "EDDG_GND",
         "frequency": "121.880",
         "abbreviation": "DGG",
         "description": "M\u00fcnster Ground",
-        "schedule_show_booked": [
-            "EDLL",
-            "EDGG"
-        ]
-    },
-    {
-        "logon": "EDDK_P_GND",
-        "frequency": "121.955",
-        "abbreviation": "DKGP",
-        "description": "K\u00f6ln/Bonn Apron",
         "schedule_show_booked": [
             "EDLL",
             "EDGG"
@@ -95,6 +85,16 @@
         "abbreviation": "DKG",
         "description": "K\u00f6ln/Bonn Ground",
         "schedule_show_always": [
+            "EDLL",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "EDDK_P_GND",
+        "frequency": "121.955",
+        "abbreviation": "DKGP",
+        "description": "K\u00f6ln/Bonn Apron",
+        "schedule_show_booked": [
             "EDLL",
             "EDGG"
         ]
@@ -112,7 +112,7 @@
     },
     {
         "logon": "EDDL_W_GND",
-        "frequency": "121.905",
+        "frequency": "121.680",
         "abbreviation": "DLGW",
         "description": "D\u00fcsseldorf Ground (West)",
         "schedule_show_always": [

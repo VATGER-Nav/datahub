@@ -1,22 +1,13 @@
 [
     {
-        "logon": "EDWW_CTR",
-        "frequency": "133.725",
-        "abbreviation": "WC",
-        "description": "Bremen Radar (Complete)",
-        "schedule_show_booked": [
-            "EDWW"
-        ],
-        "gcap_status": "1"
-    },
-    {
         "logon": "EDWW_A_CTR",
         "frequency": "126.325",
         "abbreviation": "ALR",
         "description": "Bremen Radar (Aller)",
         "schedule_show_always": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWA"
     },
     {
         "logon": "EDWW_B_CTR",
@@ -25,7 +16,19 @@
         "description": "Bremen Radar (Boerde)",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWB"
+    },
+    {
+        "logon": "EDWW_CTR",
+        "frequency": "133.725",
+        "abbreviation": "WC",
+        "description": "Bremen Radar (Complete)",
+        "schedule_show_booked": [
+            "EDWW"
+        ],
+        "gcap_status": "1",
+        "cpdlc_login": "EDWC"
     },
     {
         "logon": "EDWW_D_CTR",
@@ -34,7 +37,8 @@
         "description": "Bremen Radar (Deister)",
         "schedule_show_always": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWD"
     },
     {
         "logon": "EDWW_E_CTR",
@@ -43,7 +47,8 @@
         "description": "Bremen Radar (Eider East)",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWE"
     },
     {
         "logon": "EDWW_F_CTR",
@@ -52,7 +57,8 @@
         "description": "Bremen Radar (Flaeming)",
         "schedule_show_always": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWF"
     },
     {
         "logon": "EDWW_H_CTR",
@@ -70,7 +76,8 @@
         "description": "Bremen Radar (Mark)",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWK"
     },
     {
         "logon": "EDWW_M_CTR",
@@ -79,7 +86,8 @@
         "description": "Bremen Radar (Mueritz)",
         "schedule_show_always": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWM"
     },
     {
         "logon": "EDWW_R_CTR",
@@ -97,7 +105,8 @@
         "description": "Bremen Radar (Ems)",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWS"
     },
     {
         "logon": "EDWW_W_CTR",
@@ -107,6 +116,7 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "cpdlc_login": "EDWW"
     }
 ]

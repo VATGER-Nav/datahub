@@ -18,15 +18,6 @@
         ]
     },
     {
-        "logon": "ETSI_APP",
-        "frequency": "120.605",
-        "abbreviation": "IGL",
-        "description": "Ingo Radar",
-        "schedule_show_booked": [
-            "EDMM"
-        ]
-    },
-    {
         "logon": "ETSI_TWR",
         "frequency": "125.255",
         "abbreviation": "SIT",
@@ -36,10 +27,10 @@
         ]
     },
     {
-        "logon": "ETSL_APP",
-        "frequency": "129.030",
-        "abbreviation": "LCH",
-        "description": "Lechfeld Radar",
+        "logon": "ETSI_APP",
+        "frequency": "120.605",
+        "abbreviation": "IGL",
+        "description": "Ingo Radar",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -49,6 +40,15 @@
         "frequency": "122.100",
         "abbreviation": "SLT",
         "description": "Lechfeld Tower",
+        "schedule_show_booked": [
+            "EDMM"
+        ]
+    },
+    {
+        "logon": "ETSL_APP",
+        "frequency": "129.030",
+        "abbreviation": "LCH",
+        "description": "Lechfeld Radar",
         "schedule_show_booked": [
             "EDMM"
         ]
