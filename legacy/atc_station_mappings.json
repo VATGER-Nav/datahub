@@ -850,6 +850,11 @@
     "frequency": "118.985"
   },
   {
+    "id": "GG-AL",
+    "callsignPrefix": "EDGG",
+    "frequency": "127.925"
+  },
+  {
     "id": "BAD",
     "callsignPrefix": "EDGG",
     "frequency": "131.300"
@@ -913,6 +918,11 @@
     "id": "PADH",
     "callsignPrefix": "EDGG",
     "frequency": "135.650"
+  },
+  {
+    "id": "PSA",
+    "callsignPrefix": "EDGG",
+    "frequency": "125.405"
   },
   {
     "id": "PSA",
