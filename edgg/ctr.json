@@ -222,7 +222,7 @@
     "logon": "EDGG_SH_CTR",
     "frequency": "131.365",
     "abbreviation": "GG-SH",
-    "description": "Langen Radar (Süd High)",
+    "description": "Langen Radar (S\u00fcd High)",
     "schedule_show_booked": [
       "EDGG"
     ]
@@ -321,7 +321,7 @@
     "logon": "EDGG_SOL_CTR",
     "frequency": "121.050",
     "abbreviation": "GG-SOL",
-    "description": "Langen Radar (Süd-Ost Low)",
+    "description": "Langen Radar (S\u00fcd-Ost Low)",
     "schedule_show_booked": [
       "EDGG"
     ]
@@ -330,7 +330,7 @@
     "logon": "EDGG_SOH_CTR",
     "frequency": "133.280",
     "abbreviation": "GG-SOH",
-    "description": "Langen Radar (Süd-Ost High)",
+    "description": "Langen Radar (S\u00fcd-Ost High)",
     "schedule_show_booked": [
       "EDGG"
     ]
@@ -339,7 +339,7 @@
     "logon": "EDGG_SWL_CTR",
     "frequency": "129.175",
     "abbreviation": "GG-SWL",
-    "description": "Langen Radar (Süd-West Low)",
+    "description": "Langen Radar (S\u00fcd-West Low)",
     "schedule_show_booked": [
       "EDGG"
     ]
@@ -348,7 +348,7 @@
     "logon": "EDGG_SWH_CTR",
     "frequency": "136.480",
     "abbreviation": "GG-SWH",
-    "description": "Langen Radar (Süd-West High)",
+    "description": "Langen Radar (S\u00fcd-West High)",
     "schedule_show_booked": [
       "EDGG"
     ]
