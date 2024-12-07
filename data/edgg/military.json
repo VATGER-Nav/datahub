@@ -1,216 +1,216 @@
 [
-  {
-    "logon": "ETAD_DEL",
-    "frequency": "120.905",
-    "abbreviation": "TADC",
-    "description": "Spangdahlem Clearance",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETAD_GND",
-    "frequency": "121.865",
-    "abbreviation": "TADG",
-    "description": "Spangdahlem Ground",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETAD_TWR",
-    "frequency": "122.200",
-    "abbreviation": "TADT",
-    "description": "Spangdahlem Tower",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETAD_APP",
-    "frequency": "129.475",
-    "abbreviation": "TADA",
-    "description": "Spangdahlem GCA",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETAR_GND",
-    "frequency": "121.775",
-    "abbreviation": "TARG",
-    "description": "Ramstein Ground",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETAR_TWR",
-    "frequency": "133.205",
-    "abbreviation": "TART",
-    "description": "Ramstein Tower",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETAR_APP",
-    "frequency": "124.280",
-    "abbreviation": "TARA",
-    "description": "Ramstein GCA",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETEB_GND",
-    "frequency": "121.660",
-    "abbreviation": "TEBG",
-    "description": "Ansbach Ground"
-  },
-  {
-    "logon": "ETEB_TWR",
-    "frequency": "122.100",
-    "abbreviation": "TEBT",
-    "description": "Ansbach Tower"
-  },
-  {
-    "logon": "ETHF_TWR",
-    "frequency": "128.830",
-    "abbreviation": "THFT",
-    "description": "Fritzlar Tower",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETHF_APP",
-    "frequency": "120.865",
-    "abbreviation": "THFA",
-    "description": "Fritzlar Radar",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETHN_TWR",
-    "frequency": "119.780",
-    "abbreviation": "THNT",
-    "description": "Stetten Tower",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETHN_APP",
-    "frequency": "127.190",
-    "abbreviation": "THNA",
-    "description": "Stetten Radar",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETIK_GND",
-    "frequency": "133.835",
-    "abbreviation": "TIKG",
-    "description": "Illesheim Ground"
-  },
-  {
-    "logon": "ETIK_TWR",
-    "frequency": "129.850",
-    "abbreviation": "TIKT",
-    "description": "Illesheim Tower"
-  },
-  {
-    "logon": "ETNG_TWR",
-    "frequency": "120.055",
-    "abbreviation": "TNGT",
-    "description": "Frisbee Tower",
-    "schedule_show_booked": [
-      "EDLL",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETNG_APP",
-    "frequency": "123.730",
-    "abbreviation": "TNGA",
-    "description": "Frisbee Radar",
-    "schedule_show_booked": [
-      "EDLL",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETNN_TWR",
-    "frequency": "136.205",
-    "abbreviation": "TNNT",
-    "description": "N\u00f6rvenich Tower",
-    "schedule_show_booked": [
-      "EDLL",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETNN_APP",
-    "frequency": "129.055",
-    "abbreviation": "TNNA",
-    "description": "N\u00f6rvenich Radar",
-    "schedule_show_booked": [
-      "EDLL",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETOU_GND",
-    "frequency": "126.555",
-    "abbreviation": "TOUG",
-    "description": "Wiesbaden Ground",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETOU_TWR",
-    "frequency": "122.100",
-    "abbreviation": "TOUT",
-    "description": "Wiesbaden Tower",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETSB_TWR",
-    "frequency": "129.060",
-    "abbreviation": "TSBT",
-    "description": "B\u00fcchel Tower",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
-    "logon": "ETSB_APP",
-    "frequency": "130.155",
-    "abbreviation": "TSBA",
-    "description": "B\u00fcchel Radarr",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  }
+    {
+        "logon": "ETAD_DEL",
+        "frequency": "120.905",
+        "abbreviation": "TADC",
+        "description": "Spangdahlem Clearance",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETAD_GND",
+        "frequency": "121.865",
+        "abbreviation": "TADG",
+        "description": "Spangdahlem Ground",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETAD_TWR",
+        "frequency": "122.200",
+        "abbreviation": "TADT",
+        "description": "Spangdahlem Tower",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETAD_APP",
+        "frequency": "129.475",
+        "abbreviation": "TADA",
+        "description": "Spangdahlem GCA",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETAR_GND",
+        "frequency": "121.775",
+        "abbreviation": "TARG",
+        "description": "Ramstein Ground",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETAR_TWR",
+        "frequency": "133.205",
+        "abbreviation": "TART",
+        "description": "Ramstein Tower",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETAR_APP",
+        "frequency": "124.280",
+        "abbreviation": "TARA",
+        "description": "Ramstein GCA",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETEB_GND",
+        "frequency": "121.660",
+        "abbreviation": "TEBG",
+        "description": "Ansbach Ground"
+    },
+    {
+        "logon": "ETEB_TWR",
+        "frequency": "122.100",
+        "abbreviation": "TEBT",
+        "description": "Ansbach Tower"
+    },
+    {
+        "logon": "ETHF_TWR",
+        "frequency": "128.830",
+        "abbreviation": "THFT",
+        "description": "Fritzlar Tower",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETHF_APP",
+        "frequency": "120.865",
+        "abbreviation": "THFA",
+        "description": "Fritzlar Radar",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETHN_TWR",
+        "frequency": "119.780",
+        "abbreviation": "THNT",
+        "description": "Stetten Tower",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETHN_APP",
+        "frequency": "127.190",
+        "abbreviation": "THNA",
+        "description": "Stetten Radar",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETIK_GND",
+        "frequency": "133.835",
+        "abbreviation": "TIKG",
+        "description": "Illesheim Ground"
+    },
+    {
+        "logon": "ETIK_TWR",
+        "frequency": "129.850",
+        "abbreviation": "TIKT",
+        "description": "Illesheim Tower"
+    },
+    {
+        "logon": "ETNG_TWR",
+        "frequency": "120.055",
+        "abbreviation": "TNGT",
+        "description": "Frisbee Tower",
+        "schedule_show_booked": [
+            "EDLL",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETNG_APP",
+        "frequency": "123.730",
+        "abbreviation": "TNGA",
+        "description": "Frisbee Radar",
+        "schedule_show_booked": [
+            "EDLL",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETNN_TWR",
+        "frequency": "136.205",
+        "abbreviation": "TNNT",
+        "description": "N\u00f6rvenich Tower",
+        "schedule_show_booked": [
+            "EDLL",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETNN_APP",
+        "frequency": "129.055",
+        "abbreviation": "TNNA",
+        "description": "N\u00f6rvenich Radar",
+        "schedule_show_booked": [
+            "EDLL",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETOU_GND",
+        "frequency": "126.555",
+        "abbreviation": "TOUG",
+        "description": "Wiesbaden Ground",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETOU_TWR",
+        "frequency": "122.100",
+        "abbreviation": "TOUT",
+        "description": "Wiesbaden Tower",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETSB_TWR",
+        "frequency": "129.060",
+        "abbreviation": "TSBT",
+        "description": "B\u00fcchel Tower",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    },
+    {
+        "logon": "ETSB_APP",
+        "frequency": "130.155",
+        "abbreviation": "TSBA",
+        "description": "B\u00fcchel Radarr",
+        "schedule_show_booked": [
+            "EDFF",
+            "EDGG"
+        ]
+    }
 ]
