@@ -65,7 +65,7 @@
     "logon": "EDYY_ML_CTR",
     "frequency": "122.185",
     "abbreviation": "ML",
-    "description": "Maastricht Radar (Münster Low)",
+    "description": "Maastricht Radar (M\u00fcnster Low)",
     "schedule_show_booked": [
       "EDWW",
       "EDGG"
@@ -76,7 +76,7 @@
     "logon": "EDYY_MH_CTR",
     "frequency": "133.215",
     "abbreviation": "MH",
-    "description": "Maastricht Radar (Münster High)",
+    "description": "Maastricht Radar (M\u00fcnster High)",
     "schedule_show_booked": [
       "EDWW",
       "EDGG"

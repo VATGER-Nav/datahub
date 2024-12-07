@@ -2405,12 +2405,12 @@
     "frequency": "118.255"
   },
   {
-    "id": "CELH",
+    "id": "CH",
     "callsignPrefix": "EDYY",
     "frequency": "128.810"
   },
   {
-    "id": "CEL",
+    "id": "CL",
     "callsignPrefix": "EDYY",
     "frequency": "133.955"
   },
@@ -2435,22 +2435,32 @@
     "frequency": "136.465"
   },
   {
-    "id": "MNS",
+    "id": "MH",
+    "callsignPrefix": "EDYY",
+    "frequency": "133.215"
+  },
+  {
+    "id": "ML",
     "callsignPrefix": "EDYY",
     "frequency": "122.185"
   },
   {
-    "id": "RHR",
+    "id": "RH",
+    "callsignPrefix": "EDYY",
+    "frequency": "123.835"
+  },
+  {
+    "id": "RL",
     "callsignPrefix": "EDYY",
     "frequency": "128.790"
   },
   {
-    "id": "SOLH",
+    "id": "SH",
     "callsignPrefix": "EDYY",
     "frequency": "131.380"
   },
   {
-    "id": "SOL",
+    "id": "SL",
     "callsignPrefix": "EDYY",
     "frequency": "134.710"
   },

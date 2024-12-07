@@ -20,8 +20,7 @@
             "EDDS_STG_APP",
             "EDDS_TWR",
             "EDGG_DKB_CTR",
-            "EDGG_GIN_CTR",
-            "EDYY_RHR_CTR"
+            "EDGG_GIN_CTR"
         ],
         "schedule_show_booked": [
             "EDDF_CO_DEL",
@@ -111,7 +110,7 @@
             "EDGG_PAH_CTR",
             "EDUU_S1_CTR",
             "EDUU_U1_CTR",
-            "EDYY_RHR_CTR"
+            "EDYY_RL_CTR"
         ],
         "schedule_show_booked": [
             "EDDF_CO_DEL",
@@ -214,7 +213,13 @@
             "EDUU_U23_CTR",
             "EDUU_Z12_CTR",
             "EDUU_Z34_CTR",
-            "EDYY_MNS_CTR",
+            "EDYY_CH_CTR",
+            "EDYY_CL_CTR",
+            "EDYY_MH_CTR",
+            "EDYY_ML_CTR",
+            "EDYY_RH_CTR",
+            "EDYY_SH_CTR",
+            "EDYY_SL_CTR",
             "ETAD_APP",
             "ETAD_DEL",
             "ETAD_GND",
@@ -254,8 +259,7 @@
             "EDDL_F_APP",
             "EDDL_TWR",
             "EDDL_W_GND",
-            "EDGG_PAH_CTR",
-            "EDYY_RHR_CTR"
+            "EDGG_PAH_CTR"
         ],
         "schedule_show_booked": [
             "EDDG_F_APP",
@@ -280,7 +284,6 @@
             "EDLV_TWR",
             "EDLW_GND",
             "EDLW_TWR",
-            "EDYY_MNS_CTR",
             "ETNG_APP",
             "ETNG_TWR",
             "ETNN_APP",
@@ -390,7 +393,8 @@
             "EDWW_F_CTR",
             "EDWW_H_CTR",
             "EDWW_M_CTR",
-            "EDWW_W_CTR"
+            "EDWW_W_CTR",
+            "EDYY_RL_CTR"
         ],
         "schedule_show_booked": [
             "EDAH_TWR",
@@ -430,14 +434,16 @@
             "EDXX_ISW_CTR",
             "EDXX_WW_CTR",
             "EDYY_CH_CTR",
-            "EDYY_C_CTR",
+            "EDYY_CL_CTR",
             "EDYY_HH_CTR",
             "EDYY_HL_CTR",
             "EDYY_JH_CTR",
             "EDYY_JL_CTR",
-            "EDYY_MNS_CTR",
+            "EDYY_MH_CTR",
+            "EDYY_ML_CTR",
+            "EDYY_RH_CTR",
             "EDYY_SH_CTR",
-            "EDYY_S_CTR",
+            "EDYY_SL_CTR",
             "ETHB_APP",
             "ETHB_TWR",
             "ETHC_APP",
