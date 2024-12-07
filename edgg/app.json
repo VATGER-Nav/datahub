@@ -245,5 +245,26 @@
       "EDGG",
       "EDLL"
     ]
+  },
+  {
+    "logon": "EDGG_AL_APP",
+    "frequency": "127.925",
+    "abbreviation": "GG-AL",
+    "description": "Langen Radar (Approaches Low)",
+    "schedule_show_booked": [
+      "EDGG",
+      "EDLL"
+    ],
+    "gcap_status": "1"
+  },
+  {
+    "logon": "EDGG_PSA_APP",
+    "frequency": "125.405",
+    "abbreviation": "PSA",
+    "description": "Langen Radar (Spessart)",
+    "schedule_show_booked": [
+      "EDGG",
+      "EDFF"
+    ]
   }
 ]
