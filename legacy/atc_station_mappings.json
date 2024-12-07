@@ -1980,6 +1980,16 @@
     "frequency": "123.390"
   },
   {
+    "id": "UU-CWH",
+    "callsignPrefix": "EDUU",
+    "frequency": "136.030"
+  },
+  {
+    "id": "UU-CWL",
+    "callsignPrefix": "EDUU",
+    "frequency": "134.955"
+  },
+  {
     "id": "DON",
     "callsignPrefix": "EDUU",
     "frequency": "127.290"
@@ -1990,14 +2000,14 @@
     "frequency": "136.405"
   },
   {
-    "id": "FFM",
+    "id": "F12",
     "callsignPrefix": "EDUU",
     "frequency": "132.330"
   },
   {
-    "id": "FUL",
+    "id": "F34",
     "callsignPrefix": "EDUU",
-    "frequency": "122.785"
+    "frequency": "135.955"
   },
   {
     "id": "HVL",
@@ -2010,9 +2020,14 @@
     "frequency": "136.335"
   },
   {
-    "id": "NTM",
+    "id": "N12",
     "callsignPrefix": "EDUU",
     "frequency": "132.080"
+  },
+  {
+    "id": "N34",
+    "callsignPrefix": "EDUU",
+    "frequency": "133.815"
   },
   {
     "id": "OH2",
@@ -2025,14 +2040,19 @@
     "frequency": "133.035"
   },
   {
+    "id": "S1",
+    "callsignPrefix": "EDUU",
+    "frequency": "120.930"
+  },
+  {
+    "id": "S23",
+    "callsignPrefix": "EDUU",
+    "frequency": "124.035"
+  },
+  {
     "id": "SAL",
     "callsignPrefix": "EDUU",
     "frequency": "133.860"
-  },
-  {
-    "id": "SLN",
-    "callsignPrefix": "EDUU",
-    "frequency": "120.930"
   },
   {
     "id": "SPE",
@@ -2040,14 +2060,34 @@
     "frequency": "133.285"
   },
   {
-    "id": "TGO",
+    "id": "T1",
     "callsignPrefix": "EDUU",
     "frequency": "132.405"
   },
   {
-    "id": "WUR",
+    "id": "T23",
+    "callsignPrefix": "EDUU",
+    "frequency": "135.030"
+  },
+  {
+    "id": "U1",
+    "callsignPrefix": "EDUU",
+    "frequency": "122.785"
+  },
+  {
+    "id": "U23",
+    "callsignPrefix": "EDUU",
+    "frequency": "136.315"
+  },
+  {
+    "id": "Z12",
     "callsignPrefix": "EDUU",
     "frequency": "134.085"
+  },
+  {
+    "id": "Z34",
+    "callsignPrefix": "EDUU",
+    "frequency": "118.215"
   },
   {
     "id": "VCT",

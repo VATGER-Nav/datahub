@@ -3705,6 +3705,26 @@
     "cpdlc_login": "EDUC"
   },
   {
+    "logon": "EDUU_CWH_CTR",
+    "frequency": "136.030",
+    "abbreviation": "UU-CWH",
+    "description": "Rhein Radar (Central-West High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
+  },
+  {
+    "logon": "EDUU_CWL_CTR",
+    "frequency": "134.955",
+    "abbreviation": "UU-CWL",
+    "description": "Rhein Radar (Central-West Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
+  },
+  {
     "logon": "EDUU_DON_CTR",
     "frequency": "127.290",
     "abbreviation": "DON",
@@ -3725,25 +3745,22 @@
     "cpdlc_login": "EDUR"
   },
   {
-    "logon": "EDUU_FFM_CTR",
+    "logon": "EDUU_F12_CTR",
     "frequency": "132.330",
-    "abbreviation": "FFM",
-    "description": "Rhein Radar (Frankfurt)",
+    "abbreviation": "F12",
+    "description": "Rhein Radar (Frankfurt Low)",
     "schedule_show_booked": [
-      "EDFF",
       "EDGG"
     ],
     "cpdlc_login": "EDUF"
   },
   {
-    "logon": "EDUU_FUL_CTR",
-    "frequency": "122.785",
-    "abbreviation": "FUL",
-    "description": "Rhein Radar (Fulda)",
-    "schedule_show_always": [
-      "EDGG",
-      "EDLL",
-      "EDFF"
+    "logon": "EDUU_F34_CTR",
+    "frequency": "135.955",
+    "abbreviation": "F34",
+    "description": "Rhein Radar (Frankfurt High)",
+    "schedule_show_booked": [
+      "EDGG"
     ],
     "cpdlc_login": "EDUU"
   },
@@ -3768,15 +3785,24 @@
     "cpdlc_login": "EDUI"
   },
   {
-    "logon": "EDUU_NTM_CTR",
+    "logon": "EDUU_N12_CTR",
     "frequency": "132.080",
-    "abbreviation": "NTM",
-    "description": "Rhein Radar (Nattenheim)",
+    "abbreviation": "N12",
+    "description": "Rhein Radar (Nattenheim Low)",
     "schedule_show_booked": [
-      "EDFF",
       "EDGG"
     ],
     "cpdlc_login": "EDUN"
+  },
+  {
+    "logon": "EDUU_N34_CTR",
+    "frequency": "133.815",
+    "abbreviation": "N34",
+    "description": "Rhein Radar (Frankfurt High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
   },
   {
     "logon": "EDUU_OH_CTR",
@@ -3799,6 +3825,26 @@
     "cpdlc_login": "EDUO"
   },
   {
+    "logon": "EDUU_S1_CTR",
+    "frequency": "120.930",
+    "abbreviation": "S1",
+    "description": "Rhein Radar (S\u00f6llingen Low)",
+    "schedule_show_always": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUS"
+  },
+  {
+    "logon": "EDUU_S23_CTR",
+    "frequency": "124.035",
+    "abbreviation": "S23",
+    "description": "Rhein Radar (S\u00f6llingen High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
+  },
+  {
     "logon": "EDUU_SAL_CTR",
     "frequency": "133.860",
     "abbreviation": "SAL",
@@ -3807,18 +3853,6 @@
       "EDMM"
     ],
     "cpdlc_login": "EDUA"
-  },
-  {
-    "logon": "EDUU_SLN_CTR",
-    "frequency": "120.930",
-    "abbreviation": "SLN",
-    "description": "Rhein Radar (S\u00f6llingen)",
-    "schedule_show_always": [
-      "EDGG",
-      "EDLL",
-      "EDFF"
-    ],
-    "cpdlc_login": "EDUS"
   },
   {
     "logon": "EDUU_SPE_CTR",
@@ -3831,26 +3865,64 @@
     "cpdlc_login": "EDUP"
   },
   {
-    "logon": "EDUU_TGO_CTR",
+    "logon": "EDUU_T1_CTR",
     "frequency": "132.405",
-    "abbreviation": "TGO",
-    "description": "Rhein Radar (Tango)",
+    "abbreviation": "T1",
+    "description": "Rhein Radar (Tango Low)",
     "schedule_show_booked": [
-      "EDFF",
       "EDGG"
     ],
     "cpdlc_login": "EDUT"
   },
   {
-    "logon": "EDUU_WUR_CTR",
-    "frequency": "134.085",
-    "abbreviation": "WUR",
-    "description": "Rhein Radar (W\u00fcrzburg)",
+    "logon": "EDUU_T23_CTR",
+    "frequency": "135.030",
+    "abbreviation": "T23",
+    "description": "Rhein Radar (Tango High)",
     "schedule_show_booked": [
-      "EDFF",
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
+  },
+  {
+    "logon": "EDUU_U1_CTR",
+    "frequency": "122.785",
+    "abbreviation": "U1",
+    "description": "Rhein Radar (Fulda Low)",
+    "schedule_show_always": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
+  },
+  {
+    "logon": "EDUU_U23_CTR",
+    "frequency": "136.315",
+    "abbreviation": "U23",
+    "description": "Rhein Radar (Fulda High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
+  },
+  {
+    "logon": "EDUU_Z12_CTR",
+    "frequency": "134.085",
+    "abbreviation": "Z12",
+    "description": "Rhein Radar (W\u00fcrzburg Low)",
+    "schedule_show_booked": [
       "EDGG"
     ],
     "cpdlc_login": "EDUW"
+  },
+  {
+    "logon": "EDUU_Z34_CTR",
+    "frequency": "118.215",
+    "abbreviation": "Z34",
+    "description": "Rhein Radar (W\u00fcrzburg High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ],
+    "cpdlc_login": "EDUU"
   },
   {
     "logon": "EDVC_I_TWR",

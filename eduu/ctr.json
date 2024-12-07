@@ -73,7 +73,7 @@
     "logon": "EDUU_S23_CTR",
     "frequency": "124.035",
     "abbreviation": "S23",
-    "description": "Rhein Radar (Söllingen High)",
+    "description": "Rhein Radar (S\u00f6llingen High)",
     "schedule_show_booked": [
       "EDGG"
     ],
@@ -113,7 +113,7 @@
     "logon": "EDUU_Z34_CTR",
     "frequency": "118.215",
     "abbreviation": "Z34",
-    "description": "Rhein Radar (Würzburg High)",
+    "description": "Rhein Radar (W\u00fcrzburg High)",
     "schedule_show_booked": [
       "EDGG"
     ],
