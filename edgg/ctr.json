@@ -158,16 +158,6 @@
     "cpdlc_login": "EDGP"
   },
   {
-    "logon": "EDGG_PSA_CTR",
-    "frequency": "125.405",
-    "abbreviation": "PSA",
-    "description": "Langen Radar (Spessart)",
-    "schedule_show_booked": [
-      "EDFF",
-      "EDGG"
-    ]
-  },
-  {
     "logon": "EDGG_RUD_CTR",
     "frequency": "133.435",
     "abbreviation": "RUD",
@@ -199,6 +189,204 @@
       "EDFF",
       "EDGG",
       "EDLL"
+    ]
+  },
+  {
+    "logon": "EDGG_NH_CTR",
+    "frequency": "130.110",
+    "abbreviation": "GG-NH",
+    "description": "Langen Radar (Nord High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MH_CTR",
+    "frequency": "134.690",
+    "abbreviation": "GG-MH",
+    "description": "Langen Radar (Mitte High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_OH_CTR",
+    "frequency": "133.835",
+    "abbreviation": "GG-OH",
+    "description": "Langen Radar (Ost High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_SH_CTR",
+    "frequency": "131.365",
+    "abbreviation": "GG-SH",
+    "description": "Langen Radar (Süd High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_WH_CTR",
+    "frequency": "135.310",
+    "abbreviation": "GG-WH",
+    "description": "Langen Radar (West High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_AH_CTR",
+    "frequency": "126.115",
+    "abbreviation": "GG-AH",
+    "description": "Langen Radar (Approaches High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MNL_CTR",
+    "frequency": "136.625",
+    "abbreviation": "GG-MNL",
+    "description": "Langen Radar (Mitte-Nord Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MNH_CTR",
+    "frequency": "133.340",
+    "abbreviation": "GG-MNH",
+    "description": "Langen Radar (Mitte-Nord High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MOL_CTR",
+    "frequency": "136.560",
+    "abbreviation": "GG-MOL",
+    "description": "Langen Radar (Mitte-Ost Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MOH_CTR",
+    "frequency": "134.065",
+    "abbreviation": "GG-MOH",
+    "description": "Langen Radar (Mitte-Ost High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MWL_CTR",
+    "frequency": "135.725",
+    "abbreviation": "GG-MWL",
+    "description": "Langen Radar (Mitte-West Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_MWH_CTR",
+    "frequency": "128.830",
+    "abbreviation": "GG-MWH",
+    "description": "Langen Radar (Mitte-West High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_NAL_CTR",
+    "frequency": "118.750",
+    "abbreviation": "GG-MAL",
+    "description": "Langen Radar (Nord-Approaches Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_NAH_CTR",
+    "frequency": "130.260",
+    "abbreviation": "GG-NAH",
+    "description": "Langen Radar (Nord-Approaches High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_SOL_CTR",
+    "frequency": "121.050",
+    "abbreviation": "GG-SOL",
+    "description": "Langen Radar (Süd-Ost Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_SOH_CTR",
+    "frequency": "133.280",
+    "abbreviation": "GG-SOH",
+    "description": "Langen Radar (Süd-Ost High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_SWL_CTR",
+    "frequency": "129.175",
+    "abbreviation": "GG-SWL",
+    "description": "Langen Radar (Süd-West Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_SWH_CTR",
+    "frequency": "136.480",
+    "abbreviation": "GG-SWH",
+    "description": "Langen Radar (Süd-West High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_XNL_CTR",
+    "frequency": "125.935",
+    "abbreviation": "GG-XNL",
+    "description": "Langen Radar (Bandbox North Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_XNH_CTR",
+    "frequency": "129.075",
+    "abbreviation": "GG-XNH",
+    "description": "Langen Radar (Bandbox North High)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_XSL_CTR",
+    "frequency": "136.930",
+    "abbreviation": "GG-XSL",
+    "description": "Langen Radar (Bandbox South Low)",
+    "schedule_show_booked": [
+      "EDGG"
+    ]
+  },
+  {
+    "logon": "EDGG_XSH_CTR",
+    "frequency": "123.010",
+    "abbreviation": "GG-XSH",
+    "description": "Langen Radar (Bandbox South High)",
+    "schedule_show_booked": [
+      "EDGG"
     ]
   }
 ]
