@@ -5,7 +5,6 @@
         "abbreviation": "BAD",
         "description": "Langen Radar (Baden)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDGB"
@@ -16,7 +15,6 @@
         "abbreviation": "DKB",
         "description": "Langen Radar (Dinkelsb\u00fchl)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDGD"
@@ -27,7 +25,6 @@
         "abbreviation": "GED",
         "description": "Langen Radar (Gedern)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -37,7 +34,6 @@
         "abbreviation": "GIN",
         "description": "Langen Radar (Gie\u00dfen)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "schedule_show_booked": [
@@ -51,7 +47,6 @@
         "abbreviation": "HAB",
         "description": "Langen Radar (Hammelburg)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -61,7 +56,6 @@
         "abbreviation": "HEF",
         "description": "Langen Radar (Hersfeld)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -71,7 +65,6 @@
         "abbreviation": "KIR",
         "description": "Langen Radar (Kirn)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -81,7 +74,6 @@
         "abbreviation": "KNG",
         "description": "Langen Radar (K\u00f6nig)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -91,7 +83,6 @@
         "abbreviation": "KTG",
         "description": "Langen Radar (Kitzingen)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG",
             "EDLL"
         ],
@@ -104,7 +95,6 @@
         "abbreviation": "LBU",
         "description": "Langen Radar (Luburg)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -114,7 +104,6 @@
         "abbreviation": "MAIN",
         "description": "Langen Radar (Main)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -124,7 +113,6 @@
         "abbreviation": "NKRH",
         "description": "Langen Radar (Neckar High)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -145,7 +133,6 @@
         "abbreviation": "PSA",
         "description": "Langen Radar (Spessart)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -155,7 +142,6 @@
         "abbreviation": "RUD",
         "description": "Langen Radar (R\u00fcdesheim)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG",
             "EDLL"
         ],
@@ -167,7 +153,6 @@
         "abbreviation": "SIG",
         "description": "Langen Radar (Siegen)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG",
             "EDLL"
         ]
@@ -178,7 +163,6 @@
         "abbreviation": "TAU",
         "description": "Langen Radar (Taunus)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG",
             "EDLL"
         ]

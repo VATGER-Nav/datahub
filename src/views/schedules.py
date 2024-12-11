@@ -1,4 +1,4 @@
 from typing import Literal
 
 
-ScheduleType = Literal["EDGG", "EDMM", "EDWW", "EDFF", "EDLL"]
+ScheduleType = Literal["EDGG", "EDMM", "EDWW", "EDLL"]

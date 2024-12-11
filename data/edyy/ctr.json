@@ -78,8 +78,7 @@
         "description": "Maastricht Radar (Ruhr)",
         "schedule_show_always": [
             "EDGG",
-            "EDLL",
-            "EDFF"
+            "EDLL"
         ],
         "cpdlc_login": "EDYR"
     },

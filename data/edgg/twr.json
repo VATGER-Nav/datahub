@@ -5,7 +5,6 @@
         "abbreviation": "DFTC",
         "description": "Frankfurt Tower (Center)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -15,9 +14,6 @@
         "frequency": "136.500",
         "abbreviation": "DFTN",
         "description": "Frankfurt Tower (North)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -28,9 +24,6 @@
         "frequency": "119.905",
         "abbreviation": "DFTS",
         "description": "Frankfurt Tower (South)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -41,9 +34,6 @@
         "frequency": "124.855",
         "abbreviation": "DFTW",
         "description": "Frankfurt Tower (West)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -88,7 +78,6 @@
         "abbreviation": "DRT",
         "description": "Saarbr\u00fccken Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -99,8 +88,7 @@
         "abbreviation": "DST",
         "description": "Stuttgart Tower",
         "schedule_show_always": [
-            "EDGG",
-            "EDFF"
+            "EDGG"
         ]
     },
     {
@@ -109,7 +97,6 @@
         "abbreviation": "DSTV",
         "description": "Stuttgart Tower (VFR)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -119,7 +106,6 @@
         "abbreviation": "FHT",
         "description": "Hahn Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -130,7 +116,6 @@
         "abbreviation": "FMT",
         "description": "Mannheim Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -185,7 +170,6 @@
         "abbreviation": "SBT",
         "description": "Baden Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -196,7 +180,6 @@
         "abbreviation": "TLT",
         "description": "Lahr Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true

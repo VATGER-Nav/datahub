@@ -5,7 +5,6 @@
         "abbreviation": "DFGC",
         "description": "Frankfurt Apron (Center)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -15,9 +14,6 @@
         "frequency": "121.955",
         "abbreviation": "DFGE",
         "description": "Frankfurt Apron (East)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -29,7 +25,6 @@
         "abbreviation": "DFG",
         "description": "Frankfurt Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -40,7 +35,6 @@
         "abbreviation": "DFGI",
         "description": "Frankfurt Deicing",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -51,7 +45,6 @@
         "abbreviation": "DFGS",
         "description": "Frankfurt Apron (South)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -61,9 +54,6 @@
         "frequency": "121.755",
         "abbreviation": "DFGW",
         "description": "Frankfurt Apron (West)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -129,7 +119,6 @@
         "abbreviation": "DRG",
         "description": "Saarbr\u00fccken Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -139,7 +128,6 @@
         "abbreviation": "DSG",
         "description": "Stuttgart Ground",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -155,7 +143,6 @@
         "abbreviation": "FHG",
         "description": "Hahn Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },

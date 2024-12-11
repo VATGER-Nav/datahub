@@ -5,8 +5,7 @@
         "abbreviation": "DFC",
         "description": "Frankfurt Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDFF"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -37,8 +36,7 @@
         "abbreviation": "DSC",
         "description": "Stuttgart Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDFF"
+            "EDGG"
         ]
     }
 ]

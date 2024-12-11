@@ -5,7 +5,6 @@
         "abbreviation": "DFDN",
         "description": "Langen Radar (Frankfurt Departure North)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -16,7 +15,6 @@
         "abbreviation": "DFDS",
         "description": "Langen Radar (Frankfurt Departure South)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -27,7 +25,6 @@
         "abbreviation": "DFANT",
         "description": "Frankfurt Arrival (North)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -37,9 +34,6 @@
         "frequency": "118.505",
         "abbreviation": "DFAST",
         "description": "Frankfurt Arrival (South)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -51,7 +45,6 @@
         "abbreviation": "DFAN",
         "description": "Langen Radar (Frankfurt Arrival North)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -62,7 +55,6 @@
         "abbreviation": "DFAS",
         "description": "Langen Radar (Frankfurt Arrival South)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -176,7 +168,6 @@
         "abbreviation": "PFA",
         "description": "Langen Radar (Pfalz)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -186,7 +177,6 @@
         "abbreviation": "DSAT",
         "description": "Stuttgart Arrival",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -196,7 +186,6 @@
         "abbreviation": "REU",
         "description": "Langen Radar (Reutlingen)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -206,7 +195,6 @@
         "abbreviation": "STG",
         "description": "Langen Radar (Stuttgart)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -216,7 +204,6 @@
         "abbreviation": "EIF",
         "description": "Langen Radar (Eifel)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -226,7 +213,6 @@
         "abbreviation": "NKRL",
         "description": "Langen Radar (Neckar Low)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },

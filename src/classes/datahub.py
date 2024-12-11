@@ -124,7 +124,7 @@ class Datahub:
     def __generate_schedules_json(self):
         inverted_schedule: List[Dict[str, List[str]]] = []
 
-        schedule_types = ["EDGG", "EDMM", "EDWW", "EDFF", "EDLL", "MIL"]
+        schedule_types = ["EDGG", "EDMM", "EDWW", "EDLL", "MIL"]
 
         for schedule_type in schedule_types:
             schedule_entry = {

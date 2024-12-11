@@ -5,7 +5,6 @@
         "abbreviation": "DFC",
         "description": "Frankfurt Delivery",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -37,7 +36,6 @@
         "abbreviation": "DSC",
         "description": "Stuttgart Delivery",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     }
