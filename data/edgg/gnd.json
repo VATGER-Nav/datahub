@@ -65,7 +65,6 @@
         "abbreviation": "DGG",
         "description": "M\u00fcnster Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -75,7 +74,6 @@
         "abbreviation": "DKG",
         "description": "K\u00f6ln/Bonn Ground",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -85,7 +83,6 @@
         "abbreviation": "DKGP",
         "description": "K\u00f6ln/Bonn Apron",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -95,7 +92,6 @@
         "abbreviation": "DLGE",
         "description": "D\u00fcsseldorf Ground (East)",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -105,9 +101,6 @@
         "frequency": "121.680",
         "abbreviation": "DLGW",
         "description": "D\u00fcsseldorf Ground (West)",
-        "schedule_show_always": [
-            "EDLL"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -152,7 +145,6 @@
         "abbreviation": "LNG",
         "description": "M\u00f6nchengladbach Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -162,7 +154,6 @@
         "abbreviation": "LPG",
         "description": "Paderborn Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -172,7 +163,6 @@
         "abbreviation": "LWG",
         "description": "Dortmund Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },

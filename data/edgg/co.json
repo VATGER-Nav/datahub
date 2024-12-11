@@ -15,8 +15,7 @@
         "abbreviation": "DKC",
         "description": "K\u00f6ln/Bonn Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -25,8 +24,7 @@
         "abbreviation": "DLC",
         "description": "D\u00fcsseldorf Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1"
     },

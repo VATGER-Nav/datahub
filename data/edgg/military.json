@@ -128,7 +128,6 @@
         "abbreviation": "TNGT",
         "description": "Frisbee Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -138,7 +137,6 @@
         "abbreviation": "TNGA",
         "description": "Frisbee Radar",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -148,7 +146,6 @@
         "abbreviation": "TNNT",
         "description": "N\u00f6rvenich Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -158,7 +155,6 @@
         "abbreviation": "TNNA",
         "description": "N\u00f6rvenich Radar",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },

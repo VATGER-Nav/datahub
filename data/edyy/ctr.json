@@ -66,7 +66,6 @@
         "description": "Maastricht Radar (Muenster)",
         "schedule_show_booked": [
             "EDWW",
-            "EDLL",
             "EDGG"
         ],
         "cpdlc_login": "EDYM"
@@ -77,8 +76,7 @@
         "abbreviation": "RHR",
         "description": "Maastricht Radar (Ruhr)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "cpdlc_login": "EDYR"
     },

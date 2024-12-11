@@ -168,7 +168,6 @@
         "abbreviation": "FQI",
         "description": "Allendorf Radio",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -348,7 +347,6 @@
         "abbreviation": "GSI",
         "description": "Siegerland Information",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "AFIS",
