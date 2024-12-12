@@ -1,21 +1,23 @@
 [
     {
-        "logon": "EDYY_C_CTR",
+        "logon": "EDYY_CL_CTR",
         "frequency": "133.955",
-        "abbreviation": "CEL",
-        "description": "Maastricht Radar (Celle)",
+        "abbreviation": "CL",
+        "description": "Maastricht Radar (Celle Low)",
         "schedule_show_booked": [
-            "EDWW"
+            "EDWW",
+            "EDGG"
         ],
         "cpdlc_login": "EDYC"
     },
     {
         "logon": "EDYY_CH_CTR",
         "frequency": "128.810",
-        "abbreviation": "CELH",
+        "abbreviation": "CH",
         "description": "Maastricht Radar (Celle High)",
         "schedule_show_booked": [
-            "EDWW"
+            "EDWW",
+            "EDGG"
         ],
         "cpdlc_login": "EDCH"
     },
@@ -60,10 +62,10 @@
         "cpdlc_login": "EDYJ"
     },
     {
-        "logon": "EDYY_MNS_CTR",
+        "logon": "EDYY_ML_CTR",
         "frequency": "122.185",
-        "abbreviation": "MNS",
-        "description": "Maastricht Radar (Muenster)",
+        "abbreviation": "ML",
+        "description": "Maastricht Radar (Münster Low)",
         "schedule_show_booked": [
             "EDWW",
             "EDGG"
@@ -71,32 +73,57 @@
         "cpdlc_login": "EDYM"
     },
     {
-        "logon": "EDYY_RHR_CTR",
+        "logon": "EDYY_MH_CTR",
+        "frequency": "133.215",
+        "abbreviation": "MH",
+        "description": "Maastricht Radar (Münster High)",
+        "schedule_show_booked": [
+            "EDWW",
+            "EDGG"
+        ],
+        "cpdlc_login": "EDNH"
+    },
+    {
+        "logon": "EDYY_RL_CTR",
         "frequency": "128.790",
-        "abbreviation": "RHR",
-        "description": "Maastricht Radar (Ruhr)",
-        "schedule_show_always": [
+        "abbreviation": "RL",
+        "description": "Maastricht Radar (Ruhr Low)",
+        "schedule_show_booked": [
+            "EDWW",
             "EDGG"
         ],
         "cpdlc_login": "EDYR"
     },
     {
-        "logon": "EDYY_S_CTR",
-        "frequency": "134.710",
-        "abbreviation": "SOL",
-        "description": "Maastricht Radar (Solling)",
+        "logon": "EDYY_RH_CTR",
+        "frequency": "122.835",
+        "abbreviation": "RH",
+        "description": "Maastricht Radar (Ruhr High)",
         "schedule_show_booked": [
-            "EDWW"
+            "EDWW",
+            "EDGG"
+        ],
+        "cpdlc_login": "EDRH"
+    },
+    {
+        "logon": "EDYY_SL_CTR",
+        "frequency": "134.710",
+        "abbreviation": "SL",
+        "description": "Maastricht Radar (Solling Low)",
+        "schedule_show_booked": [
+            "EDWW",
+            "EDGG"
         ],
         "cpdlc_login": "EDYS"
     },
     {
         "logon": "EDYY_SH_CTR",
         "frequency": "131.380",
-        "abbreviation": "SOLH",
+        "abbreviation": "SH",
         "description": "Maastricht Radar (Solling High)",
         "schedule_show_booked": [
-            "EDWW"
+            "EDWW",
+            "EDGG"
         ],
         "cpdlc_login": "EDSH"
     }
