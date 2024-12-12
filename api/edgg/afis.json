@@ -93,7 +93,6 @@
         "abbreviation": "FEI",
         "description": "Egelsbach Radio",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -169,8 +168,6 @@
         "abbreviation": "FQI",
         "description": "Allendorf Radio",
         "schedule_show_booked": [
-            "EDFF",
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -350,8 +347,6 @@
         "abbreviation": "GSI",
         "description": "Siegerland Information",
         "schedule_show_booked": [
-            "EDFF",
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -731,7 +726,6 @@
         "abbreviation": "QGI",
         "description": "Giebelstadt Information",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -911,7 +905,6 @@
         "abbreviation": "RYI",
         "description": "Speyer Radio",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -923,7 +916,6 @@
         "abbreviation": "RZI",
         "description": "Zweibr\u00fccken Information",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -1215,7 +1207,6 @@
         "abbreviation": "TYI",
         "description": "Schw\u00e4bisch Hall Information",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",

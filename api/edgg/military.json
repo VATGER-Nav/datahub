@@ -5,7 +5,6 @@
         "abbreviation": "TADC",
         "description": "Spangdahlem Clearance",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -15,7 +14,6 @@
         "abbreviation": "TADG",
         "description": "Spangdahlem Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -25,7 +23,6 @@
         "abbreviation": "TADT",
         "description": "Spangdahlem Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -35,7 +32,6 @@
         "abbreviation": "TADA",
         "description": "Spangdahlem GCA",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -45,7 +41,6 @@
         "abbreviation": "TARG",
         "description": "Ramstein Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -55,7 +50,6 @@
         "abbreviation": "TART",
         "description": "Ramstein Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -65,7 +59,6 @@
         "abbreviation": "TARA",
         "description": "Ramstein GCA",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -87,7 +80,6 @@
         "abbreviation": "THFT",
         "description": "Fritzlar Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -97,7 +89,6 @@
         "abbreviation": "THFA",
         "description": "Fritzlar Radar",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -107,7 +98,6 @@
         "abbreviation": "THNT",
         "description": "Stetten Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -117,7 +107,6 @@
         "abbreviation": "THNA",
         "description": "Stetten Radar",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -139,7 +128,6 @@
         "abbreviation": "TNGT",
         "description": "Frisbee Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -149,7 +137,6 @@
         "abbreviation": "TNGA",
         "description": "Frisbee Radar",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -159,7 +146,6 @@
         "abbreviation": "TNNT",
         "description": "N\u00f6rvenich Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -169,7 +155,6 @@
         "abbreviation": "TNNA",
         "description": "N\u00f6rvenich Radar",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -179,7 +164,6 @@
         "abbreviation": "TOUG",
         "description": "Wiesbaden Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -189,7 +173,6 @@
         "abbreviation": "TOUT",
         "description": "Wiesbaden Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -199,7 +182,6 @@
         "abbreviation": "TSBT",
         "description": "B\u00fcchel Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -209,7 +191,6 @@
         "abbreviation": "TSBA",
         "description": "B\u00fcchel Radarr",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     }

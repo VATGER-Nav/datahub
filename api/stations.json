@@ -332,8 +332,7 @@
         "abbreviation": "DFC",
         "description": "Frankfurt Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDFF"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -343,7 +342,6 @@
         "abbreviation": "DFC",
         "description": "Frankfurt Delivery",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -354,7 +352,6 @@
         "abbreviation": "DFGC",
         "description": "Frankfurt Apron (Center)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -364,9 +361,6 @@
         "frequency": "121.955",
         "abbreviation": "DFGE",
         "description": "Frankfurt Apron (East)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -378,7 +372,6 @@
         "abbreviation": "DFG",
         "description": "Frankfurt Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -389,7 +382,6 @@
         "abbreviation": "DFGI",
         "description": "Frankfurt Deicing",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -400,7 +392,6 @@
         "abbreviation": "DFGS",
         "description": "Frankfurt Apron (South)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -410,9 +401,6 @@
         "frequency": "121.755",
         "abbreviation": "DFGW",
         "description": "Frankfurt Apron (West)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -424,7 +412,6 @@
         "abbreviation": "DFTC",
         "description": "Frankfurt Tower (Center)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -434,9 +421,6 @@
         "frequency": "136.500",
         "abbreviation": "DFTN",
         "description": "Frankfurt Tower (North)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -447,9 +431,6 @@
         "frequency": "119.905",
         "abbreviation": "DFTS",
         "description": "Frankfurt Tower (South)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -460,9 +441,6 @@
         "frequency": "124.855",
         "abbreviation": "DFTW",
         "description": "Frankfurt Tower (West)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -474,7 +452,6 @@
         "abbreviation": "DFDN",
         "description": "Langen Radar (Frankfurt Departure North)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -485,7 +462,6 @@
         "abbreviation": "DFDS",
         "description": "Langen Radar (Frankfurt Departure South)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -496,7 +472,6 @@
         "abbreviation": "DFANT",
         "description": "Frankfurt Arrival (North)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -506,9 +481,6 @@
         "frequency": "118.505",
         "abbreviation": "DFAST",
         "description": "Frankfurt Arrival (South)",
-        "schedule_show_always": [
-            "EDFF"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -520,7 +492,6 @@
         "abbreviation": "DFAN",
         "description": "Langen Radar (Frankfurt Arrival North)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -531,7 +502,6 @@
         "abbreviation": "DFAS",
         "description": "Langen Radar (Frankfurt Arrival South)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -542,7 +512,6 @@
         "abbreviation": "DGG",
         "description": "M\u00fcnster Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -552,7 +521,6 @@
         "abbreviation": "DGT",
         "description": "M\u00fcnster Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "s1_twr": true
@@ -563,8 +531,7 @@
         "abbreviation": "DGAT",
         "description": "M\u00fcnster/Osnabr\u00fcck Arrival",
         "schedule_show_booked": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -573,8 +540,7 @@
         "abbreviation": "HMM",
         "description": "Langen Radar (Hamm)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -663,8 +629,7 @@
         "abbreviation": "DKC",
         "description": "K\u00f6ln/Bonn Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -673,7 +638,6 @@
         "abbreviation": "DKC",
         "description": "K\u00f6ln/Bonn Delivery",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -683,7 +647,6 @@
         "abbreviation": "DKG",
         "description": "K\u00f6ln/Bonn Ground",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -693,7 +656,6 @@
         "abbreviation": "DKGP",
         "description": "K\u00f6ln/Bonn Apron",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -703,8 +665,7 @@
         "abbreviation": "DKT",
         "description": "K\u00f6ln/Bonn Tower",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -714,8 +675,7 @@
         "abbreviation": "DKA",
         "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -725,7 +685,6 @@
         "abbreviation": "DKAT",
         "description": "K\u00f6ln/Bonn Arrival",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -735,9 +694,6 @@
         "frequency": "127.365",
         "abbreviation": "NOR",
         "description": "Langen Radar (N\u00f6rvenich)",
-        "schedule_show_always": [
-            "EDLL"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -749,8 +705,7 @@
         "abbreviation": "DLC",
         "description": "D\u00fcsseldorf Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -760,7 +715,6 @@
         "abbreviation": "DLC",
         "description": "D\u00fcsseldorf Delivery",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -771,7 +725,6 @@
         "abbreviation": "DLGE",
         "description": "D\u00fcsseldorf Ground (East)",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -781,9 +734,6 @@
         "frequency": "121.680",
         "abbreviation": "DLGW",
         "description": "D\u00fcsseldorf Ground (West)",
-        "schedule_show_always": [
-            "EDLL"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -795,8 +745,7 @@
         "abbreviation": "DLT",
         "description": "D\u00fcsseldorf Tower",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -805,9 +754,6 @@
         "frequency": "121.355",
         "abbreviation": "DLD",
         "description": "Langen Radar (D\u00fcsseldorf Departure)",
-        "schedule_show_always": [
-            "EDLL"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -819,8 +765,7 @@
         "abbreviation": "DLA",
         "description": "Langen Radar (D\u00fcsseldorf Arrival)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1"
     },
@@ -829,9 +774,6 @@
         "frequency": "119.110",
         "abbreviation": "BOT",
         "description": "Langen Radar (Bottrop)",
-        "schedule_show_always": [
-            "EDLL"
-        ],
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -843,7 +785,6 @@
         "abbreviation": "DLAT",
         "description": "D\u00fcsseldorf Arrival",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "1"
@@ -1119,7 +1060,6 @@
         "abbreviation": "DRG",
         "description": "Saarbr\u00fccken Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1129,7 +1069,6 @@
         "abbreviation": "DRT",
         "description": "Saarbr\u00fccken Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -1140,7 +1079,6 @@
         "abbreviation": "PFA",
         "description": "Langen Radar (Pfalz)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1150,8 +1088,7 @@
         "abbreviation": "DSC",
         "description": "Stuttgart Delivery Coordinator",
         "schedule_show_booked": [
-            "EDGG",
-            "EDFF"
+            "EDGG"
         ]
     },
     {
@@ -1160,7 +1097,6 @@
         "abbreviation": "DSC",
         "description": "Stuttgart Delivery",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1170,7 +1106,6 @@
         "abbreviation": "DSG",
         "description": "Stuttgart Ground",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1180,8 +1115,7 @@
         "abbreviation": "DST",
         "description": "Stuttgart Tower",
         "schedule_show_always": [
-            "EDGG",
-            "EDFF"
+            "EDGG"
         ]
     },
     {
@@ -1190,7 +1124,6 @@
         "abbreviation": "DSTV",
         "description": "Stuttgart Tower (VFR)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1200,7 +1133,6 @@
         "abbreviation": "DSAT",
         "description": "Stuttgart Arrival",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1210,7 +1142,6 @@
         "abbreviation": "REU",
         "description": "Langen Radar (Reutlingen)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1220,7 +1151,6 @@
         "abbreviation": "STG",
         "description": "Langen Radar (Stuttgart)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1397,7 +1327,6 @@
         "abbreviation": "FEI",
         "description": "Egelsbach Radio",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -1417,7 +1346,6 @@
         "abbreviation": "FHG",
         "description": "Hahn Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1427,7 +1355,6 @@
         "abbreviation": "FHT",
         "description": "Hahn Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -1438,7 +1365,6 @@
         "abbreviation": "EIF",
         "description": "Langen Radar (Eifel)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1480,7 +1406,6 @@
         "abbreviation": "FMT",
         "description": "Mannheim Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -1491,7 +1416,6 @@
         "abbreviation": "NKRL",
         "description": "Langen Radar (Neckar Low)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1525,8 +1449,6 @@
         "abbreviation": "FQI",
         "description": "Allendorf Radio",
         "schedule_show_booked": [
-            "EDFF",
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -1642,7 +1564,6 @@
         "abbreviation": "BAD",
         "description": "Langen Radar (Baden)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDGB"
@@ -1653,7 +1574,6 @@
         "abbreviation": "DKB",
         "description": "Langen Radar (Dinkelsb\u00fchl)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDGD"
@@ -1664,7 +1584,6 @@
         "abbreviation": "GED",
         "description": "Langen Radar (Gedern)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1674,11 +1593,7 @@
         "abbreviation": "GIN",
         "description": "Langen Radar (Gie\u00dfen)",
         "schedule_show_always": [
-            "EDFF",
             "EDGG"
-        ],
-        "schedule_show_booked": [
-            "EDLL"
         ],
         "cpdlc_login": "EDGG"
     },
@@ -1688,7 +1603,6 @@
         "abbreviation": "HAB",
         "description": "Langen Radar (Hammelburg)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1698,7 +1612,6 @@
         "abbreviation": "HEF",
         "description": "Langen Radar (Hersfeld)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1708,7 +1621,6 @@
         "abbreviation": "KIR",
         "description": "Langen Radar (Kirn)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1718,7 +1630,6 @@
         "abbreviation": "KNG",
         "description": "Langen Radar (K\u00f6nig)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1728,9 +1639,7 @@
         "abbreviation": "KTG",
         "description": "Langen Radar (Kitzingen)",
         "schedule_show_booked": [
-            "EDFF",
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "gcap_status": "1",
         "cpdlc_login": "EDGK"
@@ -1741,7 +1650,6 @@
         "abbreviation": "LBU",
         "description": "Langen Radar (Luburg)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1751,7 +1659,6 @@
         "abbreviation": "MAIN",
         "description": "Langen Radar (Main)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1761,7 +1668,6 @@
         "abbreviation": "NKRH",
         "description": "Langen Radar (Neckar High)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1771,7 +1677,6 @@
         "abbreviation": "PADH",
         "description": "Langen Radar (Paderborn High)",
         "schedule_show_always": [
-            "EDLL",
             "EDGG"
         ],
         "cpdlc_login": "EDGP"
@@ -1782,7 +1687,6 @@
         "abbreviation": "PSA",
         "description": "Langen Radar (Spessart)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -1792,9 +1696,7 @@
         "abbreviation": "RUD",
         "description": "Langen Radar (R\u00fcdesheim)",
         "schedule_show_booked": [
-            "EDFF",
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ],
         "cpdlc_login": "EDGR"
     },
@@ -1804,9 +1706,7 @@
         "abbreviation": "SIG",
         "description": "Langen Radar (Siegen)",
         "schedule_show_booked": [
-            "EDFF",
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -1815,9 +1715,7 @@
         "abbreviation": "TAU",
         "description": "Langen Radar (Taunus)",
         "schedule_show_booked": [
-            "EDFF",
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -1890,8 +1788,6 @@
         "abbreviation": "GSI",
         "description": "Siegerland Information",
         "schedule_show_booked": [
-            "EDFF",
-            "EDLL",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -2263,7 +2159,6 @@
         "abbreviation": "LNG",
         "description": "M\u00f6nchengladbach Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -2273,7 +2168,6 @@
         "abbreviation": "LNT",
         "description": "M\u00f6nchengladbach Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "s1_twr": true
@@ -2292,7 +2186,6 @@
         "abbreviation": "LPG",
         "description": "Paderborn Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -2302,7 +2195,6 @@
         "abbreviation": "LPT",
         "description": "Paderborn Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "s1_twr": true
@@ -2313,8 +2205,7 @@
         "abbreviation": "PADL",
         "description": "Langen Radar (Paderborn Low)",
         "schedule_show_booked": [
-            "EDGG",
-            "EDLL"
+            "EDGG"
         ]
     },
     {
@@ -2355,7 +2246,6 @@
         "abbreviation": "LVT",
         "description": "Niederrhein Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "s1_twr": true
@@ -2366,7 +2256,6 @@
         "abbreviation": "LWG",
         "description": "Dortmund Ground",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -2376,7 +2265,6 @@
         "abbreviation": "LWT",
         "description": "Dortmund Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ],
         "s1_twr": true
@@ -2779,7 +2667,6 @@
         "abbreviation": "QGI",
         "description": "Giebelstadt Information",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -3025,7 +2912,6 @@
         "abbreviation": "RYI",
         "description": "Speyer Radio",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -3037,7 +2923,6 @@
         "abbreviation": "RZI",
         "description": "Zweibr\u00fccken Information",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -3066,7 +2951,6 @@
         "abbreviation": "SBT",
         "description": "Baden Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -3277,7 +3161,6 @@
         "abbreviation": "TLT",
         "description": "Lahr Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "s1_twr": true
@@ -3368,7 +3251,6 @@
         "abbreviation": "TYI",
         "description": "Schw\u00e4bisch Hall Information",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "gcap_status": "AFIS",
@@ -3428,7 +3310,6 @@
         "abbreviation": "FFM",
         "description": "Rhein Radar (Frankfurt)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUF"
@@ -3439,9 +3320,7 @@
         "abbreviation": "FUL",
         "description": "Rhein Radar (Fulda)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL",
-            "EDFF"
+            "EDGG"
         ],
         "cpdlc_login": "EDUU"
     },
@@ -3471,7 +3350,6 @@
         "abbreviation": "NTM",
         "description": "Rhein Radar (Nattenheim)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUN"
@@ -3512,9 +3390,7 @@
         "abbreviation": "SLN",
         "description": "Rhein Radar (S\u00f6llingen)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL",
-            "EDFF"
+            "EDGG"
         ],
         "cpdlc_login": "EDUS"
     },
@@ -3534,7 +3410,6 @@
         "abbreviation": "TGO",
         "description": "Rhein Radar (Tango)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUT"
@@ -3545,7 +3420,6 @@
         "abbreviation": "WUR",
         "description": "Rhein Radar (W\u00fcrzburg)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUW"
@@ -4140,7 +4014,6 @@
         "description": "Maastricht Radar (Muenster)",
         "schedule_show_booked": [
             "EDWW",
-            "EDLL",
             "EDGG"
         ],
         "cpdlc_login": "EDYM"
@@ -4151,9 +4024,7 @@
         "abbreviation": "RHR",
         "description": "Maastricht Radar (Ruhr)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL",
-            "EDFF"
+            "EDGG"
         ],
         "cpdlc_login": "EDYR"
     },
@@ -4183,7 +4054,6 @@
         "abbreviation": "TADC",
         "description": "Spangdahlem Clearance",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4193,7 +4063,6 @@
         "abbreviation": "TADG",
         "description": "Spangdahlem Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4203,7 +4072,6 @@
         "abbreviation": "TADT",
         "description": "Spangdahlem Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4213,7 +4081,6 @@
         "abbreviation": "TADA",
         "description": "Spangdahlem GCA",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4223,7 +4090,6 @@
         "abbreviation": "TARG",
         "description": "Ramstein Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4233,7 +4099,6 @@
         "abbreviation": "TART",
         "description": "Ramstein Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4243,7 +4108,6 @@
         "abbreviation": "TARA",
         "description": "Ramstein GCA",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4301,7 +4165,6 @@
         "abbreviation": "THFT",
         "description": "Fritzlar Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4311,7 +4174,6 @@
         "abbreviation": "THFA",
         "description": "Fritzlar Radar",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4330,7 +4192,6 @@
         "abbreviation": "THNT",
         "description": "Stetten Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4340,7 +4201,6 @@
         "abbreviation": "THNA",
         "description": "Stetten Radar",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4415,7 +4275,6 @@
         "abbreviation": "TNGT",
         "description": "Frisbee Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -4425,7 +4284,6 @@
         "abbreviation": "TNGA",
         "description": "Frisbee Radar",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -4498,7 +4356,6 @@
         "abbreviation": "TNNT",
         "description": "N\u00f6rvenich Tower",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -4508,7 +4365,6 @@
         "abbreviation": "TNNA",
         "description": "N\u00f6rvenich Radar",
         "schedule_show_booked": [
-            "EDLL",
             "EDGG"
         ]
     },
@@ -4581,7 +4437,6 @@
         "abbreviation": "TOUG",
         "description": "Wiesbaden Ground",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4591,7 +4446,6 @@
         "abbreviation": "TOUT",
         "description": "Wiesbaden Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4601,7 +4455,6 @@
         "abbreviation": "TSBT",
         "description": "B\u00fcchel Tower",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },
@@ -4611,7 +4464,6 @@
         "abbreviation": "TSBA",
         "description": "B\u00fcchel Radarr",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ]
     },

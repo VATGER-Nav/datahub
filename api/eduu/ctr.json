@@ -45,7 +45,6 @@
         "abbreviation": "FFM",
         "description": "Rhein Radar (Frankfurt)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUF"
@@ -56,9 +55,7 @@
         "abbreviation": "FUL",
         "description": "Rhein Radar (Fulda)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL",
-            "EDFF"
+            "EDGG"
         ],
         "cpdlc_login": "EDUU"
     },
@@ -88,7 +85,6 @@
         "abbreviation": "NTM",
         "description": "Rhein Radar (Nattenheim)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUN"
@@ -129,9 +125,7 @@
         "abbreviation": "SLN",
         "description": "Rhein Radar (S\u00f6llingen)",
         "schedule_show_always": [
-            "EDGG",
-            "EDLL",
-            "EDFF"
+            "EDGG"
         ],
         "cpdlc_login": "EDUS"
     },
@@ -151,7 +145,6 @@
         "abbreviation": "TGO",
         "description": "Rhein Radar (Tango)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUT"
@@ -162,7 +155,6 @@
         "abbreviation": "WUR",
         "description": "Rhein Radar (W\u00fcrzburg)",
         "schedule_show_booked": [
-            "EDFF",
             "EDGG"
         ],
         "cpdlc_login": "EDUW"
