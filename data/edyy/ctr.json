@@ -1,5 +1,16 @@
 [
     {
+        "logon": "EDYY_BB_CTR",
+        "frequency": "129.840",
+        "abbreviation": "YY-BB",
+        "description": "Maastricht Radar (Bremen Bandbox)",
+        "schedule_show_booked": [
+            "EDWW",
+            "EDGG"
+        ],
+        "cpdlc_login": "EDYB"
+    },
+    {
         "logon": "EDYY_CH_CTR",
         "frequency": "128.810",
         "abbreviation": "CH",
@@ -20,17 +31,6 @@
             "EDGG"
         ],
         "cpdlc_login": "EDYC"
-    },
-    {
-        "logon": "EDYY_BB_CTR",
-        "frequency": "129.840",
-        "abbreviation": "YY-BB",
-        "description": "Maastricht Radar (Bremen Bandbox)",
-        "schedule_show_booked": [
-            "EDWW",
-            "EDGG"
-        ],
-        "cpdlc_login": "EDYB"
     },
     {
         "logon": "EDYY_HH_CTR",
