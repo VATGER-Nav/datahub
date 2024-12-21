@@ -95,6 +95,17 @@
         "cpdlc_login": "EDYM"
     },
     {
+        "logon": "EDYY_MM_CTR",
+        "frequency": "130.110",
+        "abbreviation": "MM",
+        "description": "Maastricht Radar (M\u00fcnster)",
+        "schedule_show_booked": [
+            "EDWW",
+            "EDGG"
+        ],
+        "cpdlc_login": "EDTG"
+    },
+    {
         "logon": "EDYY_RH_CTR",
         "frequency": "122.835",
         "abbreviation": "RH",
