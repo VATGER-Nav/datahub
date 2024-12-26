@@ -2250,14 +2250,14 @@
         "frequency": "118.255"
     },
     {
-        "id": "CEL",
-        "callsignPrefix": "EDYY",
-        "frequency": "133.955"
-    },
-    {
-        "id": "CELH",
+        "id": "CH",
         "callsignPrefix": "EDYY",
         "frequency": "128.810"
+    },
+    {
+        "id": "CL",
+        "callsignPrefix": "EDYY",
+        "frequency": "133.955"
     },
     {
         "id": "HH",
@@ -2280,24 +2280,44 @@
         "frequency": "136.465"
     },
     {
-        "id": "MNS",
+        "id": "MH",
+        "callsignPrefix": "EDYY",
+        "frequency": "133.215"
+    },
+    {
+        "id": "ML",
         "callsignPrefix": "EDYY",
         "frequency": "122.185"
     },
     {
-        "id": "RHR",
+        "id": "MM",
+        "callsignPrefix": "EDYY",
+        "frequency": "130.110"
+    },
+    {
+        "id": "RH",
+        "callsignPrefix": "EDYY",
+        "frequency": "122.835"
+    },
+    {
+        "id": "RL",
         "callsignPrefix": "EDYY",
         "frequency": "128.790"
     },
     {
-        "id": "SOL",
+        "id": "SH",
+        "callsignPrefix": "EDYY",
+        "frequency": "131.380"
+    },
+    {
+        "id": "SL",
         "callsignPrefix": "EDYY",
         "frequency": "134.710"
     },
     {
-        "id": "SOLH",
+        "id": "YY-BB",
         "callsignPrefix": "EDYY",
-        "frequency": "131.380"
+        "frequency": "129.840"
     },
     {
         "id": "TADA",
