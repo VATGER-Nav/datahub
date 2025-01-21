@@ -8,7 +8,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2024-09-25",
+    "one_date": "2025-01-29",
     "days": "21",
     "booking": [
       "EDDM",
@@ -22,7 +22,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2024-09-18",
+    "one_date": "2025-02-05",
     "days": "21",
     "booking": [
       "EDDM",
@@ -32,19 +32,6 @@
       "EDMM_ALB",
       "EDMM_WLD",
       "EDMM_ZUG"
-    ]
-  },
-  {
-    "rule": "every_X_days",
-    "one_date": "2024-10-02",
-    "days": "21",
-    "booking": [
-      "EDDP",
-      "EDDC",
-      "EDDE",
-      "EDMM_GER",
-      "EDMM_MEI",
-      "EDMM_HOF"
     ]
   }
 ]
