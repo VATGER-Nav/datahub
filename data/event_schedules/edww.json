@@ -22,7 +22,7 @@
     "booking": [
       "EDDB",
       "EDWW_M",
-      "EDWW_D"
+      "EDWW_F"
     ]
   },
   {
@@ -42,6 +42,7 @@
     "days": "14",
     "booking": [
       "EDDV",
+      "EDDW",
       "EDWW_A",
       "EDWW_D"
     ]
