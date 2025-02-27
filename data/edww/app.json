@@ -70,10 +70,10 @@
         "gcap_status": "1"
     },
     {
-        "logon": "EDDH_E_APP",
-        "frequency": "119.510",
-        "abbreviation": "HAME",
-        "description": "Bremen Radar (Hamburg East)",
+        "logon": "EDDH_APP",
+        "frequency": "120.540",
+        "abbreviation": "HAM",
+        "description": "Bremen Radar (Hamburg)",
         "schedule_show_always": [
             "EDWW"
         ],
