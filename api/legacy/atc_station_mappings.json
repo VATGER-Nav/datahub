@@ -320,9 +320,9 @@
         "frequency": "121.980"
     },
     {
-        "id": "HAME",
+        "id": "HAM",
         "callsignPrefix": "EDDH",
-        "frequency": "119.510"
+        "frequency": "120.540"
     },
     {
         "id": "HAMW",
@@ -2060,19 +2060,9 @@
         "frequency": "123.225"
     },
     {
-        "id": "DST",
-        "callsignPrefix": "EDWW",
-        "frequency": "128.760"
-    },
-    {
-        "id": "EIDE",
+        "id": "EID",
         "callsignPrefix": "EDWW",
         "frequency": "124.075"
-    },
-    {
-        "id": "EIDW",
-        "callsignPrefix": "EDWW",
-        "frequency": "120.225"
     },
     {
         "id": "EMS",
@@ -2092,7 +2082,7 @@
     {
         "id": "HRZ",
         "callsignPrefix": "EDWW",
-        "frequency": "126.655"
+        "frequency": "124.240"
     },
     {
         "id": "MAR",
@@ -2108,6 +2098,11 @@
         "id": "WC",
         "callsignPrefix": "EDWW",
         "frequency": "133.725"
+    },
+    {
+        "id": "WW",
+        "callsignPrefix": "EDWW",
+        "frequency": "127.675"
     },
     {
         "id": "WYT",
@@ -2522,7 +2517,7 @@
     {
         "id": "NTR",
         "callsignPrefix": "ETNT",
-        "frequency": "123.600"
+        "frequency": "131.015"
     },
     {
         "id": "NTT",

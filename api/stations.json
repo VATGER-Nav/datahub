@@ -604,10 +604,10 @@
         "gcap_status": "1"
     },
     {
-        "logon": "EDDH_E_APP",
-        "frequency": "119.510",
-        "abbreviation": "HAME",
-        "description": "Bremen Radar (Hamburg East)",
+        "logon": "EDDH_APP",
+        "frequency": "120.540",
+        "abbreviation": "HAM",
+        "description": "Bremen Radar (Hamburg)",
         "schedule_show_always": [
             "EDWW"
         ],
@@ -3645,20 +3645,10 @@
         "cpdlc_login": "EDWC"
     },
     {
-        "logon": "EDWW_D_CTR",
-        "frequency": "128.760",
-        "abbreviation": "DST",
-        "description": "Bremen Radar (Deister)",
-        "schedule_show_always": [
-            "EDWW"
-        ],
-        "cpdlc_login": "EDWD"
-    },
-    {
         "logon": "EDWW_E_CTR",
         "frequency": "124.075",
-        "abbreviation": "EIDE",
-        "description": "Bremen Radar (Eider East)",
+        "abbreviation": "EID",
+        "description": "Bremen Radar (Eider)",
         "schedule_show_booked": [
             "EDWW"
         ],
@@ -3705,28 +3695,29 @@
     },
     {
         "logon": "EDWW_R_CTR",
-        "frequency": "126.655",
+        "frequency": "124.240",
         "abbreviation": "HRZ",
         "description": "Bremen Radar (Harz)",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "cpdlc_login": "EDWR"
     },
     {
         "logon": "EDWW_S_CTR",
         "frequency": "125.025",
         "abbreviation": "EMS",
         "description": "Bremen Radar (Ems)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDWW"
         ],
         "cpdlc_login": "EDWS"
     },
     {
         "logon": "EDWW_W_CTR",
-        "frequency": "120.225",
-        "abbreviation": "EIDW",
-        "description": "Bremen Radar (Eider West)",
+        "frequency": "127.675",
+        "abbreviation": "WW",
+        "description": "Bremen Radar (Bandbox West)",
         "schedule_show_always": [
             "EDWW"
         ],
@@ -4455,7 +4446,7 @@
     },
     {
         "logon": "ETNT_APP",
-        "frequency": "123.600",
+        "frequency": "131.015",
         "abbreviation": "NTR",
         "description": "Wittmund Radar",
         "schedule_show_booked": [

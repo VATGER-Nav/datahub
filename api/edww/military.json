@@ -172,7 +172,7 @@
     },
     {
         "logon": "ETNT_APP",
-        "frequency": "123.600",
+        "frequency": "131.015",
         "abbreviation": "NTR",
         "description": "Wittmund Radar",
         "schedule_show_booked": [
