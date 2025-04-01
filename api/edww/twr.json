@@ -65,8 +65,7 @@
         "description": "Bremen Tower",
         "schedule_show_always": [
             "EDWW"
-        ],
-        "s1_twr": true
+        ]
     },
     {
         "logon": "EDHI_TWR",
