@@ -20,14 +20,6 @@
         "cpdlc_login": "EDMB"
     },
     {
-        "logon": "EDMM_CTR",
-        "frequency": "124.050",
-        "abbreviation": "MMC",
-        "description": "M\u00fcnchen Radar (Complete)",
-        "gcap_status": "1",
-        "cpdlc_login": "EDMM"
-    },
-    {
         "logon": "EDMM_EGG_CTR",
         "frequency": "129.555",
         "abbreviation": "EGG",

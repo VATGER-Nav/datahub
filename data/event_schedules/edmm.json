@@ -3,7 +3,9 @@
     "day": "1",
     "booking": [
       "EDDN",
-      "EDMM_HOF"
+      "EDMM_BBG",
+      "EDMM_GER",
+      "EDMM_ALB"
     ]
   },
   {
@@ -16,8 +18,9 @@
       "EDMO",
       "EDJA",
       "EDMM_ALB",
-      "EDMM_WLD",
-      "EDMM_ZUG"
+      "EDMM_BBG",
+      "EDMM_NDG",
+      "EDMM_STA"
     ]
   },
   {
@@ -30,8 +33,9 @@
       "EDMO",
       "EDJA",
       "EDMM_ALB",
-      "EDMM_WLD",
-      "EDMM_ZUG"
+      "EDMM_BBG",
+      "EDMM_NDG",
+      "EDMM_STA"
     ]
   }
 ]
