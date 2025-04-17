@@ -14,7 +14,7 @@
         "frequency": "133.615",
         "abbreviation": "BBG",
         "description": "M\u00fcnchen Radar (Bamberg)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDMM"
         ],
         "cpdlc_login": "EDMB"
@@ -43,7 +43,7 @@
         "frequency": "133.230",
         "abbreviation": "GER",
         "description": "M\u00fcnchen Radar (Gera)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDMM"
         ],
         "cpdlc_login": "EDMG"
@@ -53,7 +53,7 @@
         "frequency": "118.235",
         "abbreviation": "HAL",
         "description": "M\u00fcnchen Radar (Halle)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDMM"
         ],
         "cpdlc_login": "EDMH"
@@ -83,7 +83,7 @@
         "frequency": "125.140",
         "abbreviation": "NDG",
         "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDMM"
         ],
         "cpdlc_login": "EDMN"
@@ -93,7 +93,7 @@
         "frequency": "132.555",
         "abbreviation": "RDG",
         "description": "M\u00fcnchen Radar (Roding)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDMM"
         ],
         "gcap_status": "1",
@@ -104,7 +104,7 @@
         "frequency": "132.455",
         "abbreviation": "STA",
         "description": "M\u00fcnchen Radar (Starnberg)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDMM"
         ]
     },
@@ -141,7 +141,7 @@
         "frequency": "134.150",
         "abbreviation": "ZUG",
         "description": "M\u00fcnchen Radar (Zugspitze)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDMM"
         ],
         "cpdlc_login": "EDMZ"
