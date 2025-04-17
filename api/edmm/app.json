@@ -18,7 +18,7 @@
     {
         "logon": "EDDM_ND_APP",
         "frequency": "118.830",
-        "abbreviation": "DMNAT",
+        "abbreviation": "DMND",
         "description": "M\u00fcnchen Arrival (North Director)",
         "schedule_show_always": [
             "EDMM"
@@ -48,7 +48,7 @@
     {
         "logon": "EDDM_SD_APP",
         "frequency": "132.305",
-        "abbreviation": "DMSAT",
+        "abbreviation": "DMSD",
         "description": "M\u00fcnchen Arrival (South Director)",
         "schedule_show_booked": [
             "EDMM"
