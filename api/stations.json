@@ -4560,5 +4560,13 @@
         "schedule_show_booked": [
             "EDMM"
         ]
+    },
+    {
+        "logon": "ETWM_I_TWR",
+        "frequency": "122.100",
+        "abbreviation": "WMT",
+        "description": "Meppen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true
     }
 ]

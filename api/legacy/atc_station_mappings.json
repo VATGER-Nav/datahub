@@ -2583,5 +2583,10 @@
         "id": "SNT",
         "callsignPrefix": "ETSN",
         "frequency": "122.100"
+    },
+    {
+        "id": "WMT",
+        "callsignPrefix": "ETWM",
+        "frequency": "122.100"
     }
 ]
