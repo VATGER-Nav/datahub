@@ -12,8 +12,7 @@
       "EDWW_A",
       "EDWW_M",
       "EDWW_S",
-      "EDWW_H",
-      "EDMM_HAL_CTR"
+      "EDWW_H"
     ]
   },
   {
@@ -23,8 +22,7 @@
     "booking": [
       "EDDB",
       "EDWW_M",
-      "EDWW_F",
-      "EDMM_HAL_CTR"
+      "EDWW_F"
     ]
   },
   {
@@ -45,8 +43,7 @@
       "EDDV",
       "EDDW",
       "EDWW_A",
-      "EDWW_S",
-      "EDMM_HAL_CTR"
+      "EDWW_S"
     ]
   },
   {
@@ -54,8 +51,7 @@
     "booking": [
       "EDDV",
       "EDWW_A",
-      "EDWW_S",
-      "EDMM_HAL_CTR"
+      "EDWW_S"
     ]
   }
 ]

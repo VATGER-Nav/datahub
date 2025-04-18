@@ -28,8 +28,7 @@
     "booking": [
       "EDDS",
       "EDGG_DKB",
-      "EDDF_N_APP",
-      "EDMM_NDG_CTR"
+      "EDDF_N_APP"
     ]
   },
   {
@@ -41,10 +40,7 @@
       "EDGG_DKB",
       "EDUU_FUL",
       "EDUU_SLN",
-      "EDDS_STG_APP",
-      "EDMM_ALB_CTR",
-      "EDMM_HOF_CTR",
-      "EDMM_HAL_CTR"
+      "EDDS_STG_APP"
     ]
   }
 ]

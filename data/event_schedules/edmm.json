@@ -37,5 +37,33 @@
       "EDMM_NDG",
       "EDMM_STA"
     ]
+  },
+  {
+    "day": "2",
+    "booking": [
+      "EDMM_HAL_CTR"
+    ]
+  },
+  {
+    "day": "4",
+    "booking": [
+      "EDMM_NDG_CTR"
+    ]
+  },
+  {
+    "day": "5",
+    "booking": [
+      "EDMM_HAL_CTR"
+    ]
+  },
+  {
+    "rule": "every_X_days",
+    "one_date": "2024-02-15",
+    "days": "14",
+    "booking": [
+      "EDMM_ALB_CTR",
+      "EDMM_HOF_CTR",
+      "EDMM_HAL_CTR"
+    ]
   }
 ]
