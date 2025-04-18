@@ -400,18 +400,18 @@
         "s1_twr": true
     },
     {
-        "logon": "ETWM_I_TWR",
-        "frequency": "122.100",
-        "abbreviation": "WMT",
-        "description": "Meppen Radio",
-        "gcap_status": "AFIS",
-        "s1_twr": true
-    },
-    {
         "logon": "ETND_I_TWR",
         "frequency": "122.530",
         "abbreviation": "NDT",
         "description": "Diepholz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true
+    },
+    {
+        "logon": "ETWM_I_TWR",
+        "frequency": "122.100",
+        "abbreviation": "WMT",
+        "description": "Meppen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true
     }
