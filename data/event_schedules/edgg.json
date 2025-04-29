@@ -24,15 +24,6 @@
   },
   {
     "rule": "weekday",
-    "day": "4",
-    "booking": [
-      "EDDS",
-      "EDGG_DKB",
-      "EDDF_N_APP"
-    ]
-  },
-  {
-    "rule": "weekday",
     "day": "5",
     "booking": [
       "EDDF",
@@ -41,6 +32,15 @@
       "EDUU_FUL",
       "EDUU_SLN",
       "EDDS_STG_APP"
+    ]
+  },
+  {
+    "rule": "weekday",
+    "day": "7",
+    "booking": [
+      "EDDS",
+      "EDGG_DKB",
+      "EDDF_N_APP"
     ]
   }
 ]
