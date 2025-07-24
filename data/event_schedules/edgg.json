@@ -23,8 +23,9 @@
     ]
   },
   {
-    "rule": "weekday",
-    "day": "5",
+    "rule": "every_X_days",
+    "one_date": "2025-07-25",
+    "days": "14",
     "booking": [
       "EDDF",
       "EDGG_GIN",
@@ -35,8 +36,9 @@
     ]
   },
   {
-    "rule": "weekday",
-    "day": "7",
+    "rule": "every_X_days",
+    "one_date": "2025-07-20",
+    "days": "14",
     "booking": [
       "EDDS",
       "EDGG_DKB",
