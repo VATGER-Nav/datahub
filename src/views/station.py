@@ -18,6 +18,7 @@ class Station(BaseModel):
     gcap_status: Literal["AFIS", "1", "2", None]
     s1_twr: bool | None
     cpdlc_login: str | None = None
+    s1_theory: bool | None
 
     @classmethod
     def from_dict(cls, data: dict) -> "Station":
