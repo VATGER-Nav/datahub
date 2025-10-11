@@ -47,8 +47,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDDK_TWR",
@@ -78,8 +77,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDDS_TWR",
@@ -107,8 +105,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDFM_TWR",
@@ -138,8 +135,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDLV_TWR",
@@ -149,8 +145,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDLW_TWR",
@@ -160,8 +155,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDSB_TWR",
@@ -171,8 +165,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDTL_TWR",

@@ -94,8 +94,7 @@
         "description": "Luebeck Ground",
         "schedule_show_booked": [
             "EDWW"
-        ],
-        "s1_theory": true
+        ]
     },
     {
         "logon": "EDVK_GND",
@@ -104,7 +103,6 @@
         "description": "Kassel Ground",
         "schedule_show_booked": [
             "EDWW"
-        ],
-        "s1_theory": true
+        ]
     }
 ]

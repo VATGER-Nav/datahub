@@ -7,8 +7,7 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDDE_TWR",
@@ -18,8 +17,7 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDDM_N_TWR",
@@ -76,8 +74,7 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDMA_TWR",
@@ -87,8 +84,7 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDMO_TWR",
@@ -98,8 +94,7 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     },
     {
         "logon": "EDNY_TWR",
@@ -118,7 +113,6 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_twr": true,
-        "s1_theory": true
+        "s1_twr": true
     }
 ]

@@ -6,8 +6,7 @@
         "description": "",
         "schedule_show_booked": [
             "EDMM"
-        ],
-        "s1_theory": true
+        ]
     },
     {
         "logon": "EDDC_GND",
@@ -16,8 +15,7 @@
         "description": "Dresden Ground",
         "schedule_show_booked": [
             "EDMM"
-        ],
-        "s1_theory": true
+        ]
     },
     {
         "logon": "EDDE_A_GND",
@@ -26,8 +24,7 @@
         "description": "Erfurt Apron",
         "schedule_show_booked": [
             "EDMM"
-        ],
-        "s1_theory": true
+        ]
     },
     {
         "logon": "EDDE_GND",
@@ -36,8 +33,7 @@
         "description": "Erfurt Ground",
         "schedule_show_booked": [
             "EDMM"
-        ],
-        "s1_theory": true
+        ]
     },
     {
         "logon": "EDDM_1_GND",
@@ -124,7 +120,6 @@
         "description": "Memmingen Ground",
         "schedule_show_booked": [
             "EDMM"
-        ],
-        "s1_theory": true
+        ]
     }
 ]
