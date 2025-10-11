@@ -33,6 +33,7 @@ class Station(BaseModel):
             gcap_status=data.get("gcap_status"),
             s1_twr=data.get("s1_twr"),
             cpdlc_login=data.get("cpdlc_login"),
+            s1_theory=data.get("s1_theory"),
         )
 
     def to_dict(self) -> dict:
