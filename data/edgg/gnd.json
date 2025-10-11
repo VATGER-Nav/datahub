@@ -66,7 +66,8 @@
         "description": "M\u00fcnster Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDK_GND",
@@ -113,7 +114,8 @@
         "description": "Saarbr\u00fccken Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDS_GND",
@@ -137,7 +139,8 @@
         "description": "Hahn Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDLN_GND",
@@ -155,7 +158,8 @@
         "description": "Paderborn Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDLW_GND",
@@ -164,7 +168,8 @@
         "description": "Dortmund Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDSB_GND",
@@ -173,6 +178,7 @@
         "description": "Baden Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "s1_theory": true
     }
 ]
