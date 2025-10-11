@@ -18,6 +18,7 @@ class Station(BaseModel):
     gcap_status: Literal["AFIS", "1", "2", None]
     s1_twr: bool | None
     cpdlc_login: str | None = None
+    s1_theory: bool | None
 
     @classmethod
     def from_dict(cls, data: dict) -> "Station":
@@ -32,6 +33,7 @@ class Station(BaseModel):
             gcap_status=data.get("gcap_status"),
             s1_twr=data.get("s1_twr"),
             cpdlc_login=data.get("cpdlc_login"),
+            s1_theory=data.get("s1_theory"),
         )
 
     def to_dict(self) -> dict:

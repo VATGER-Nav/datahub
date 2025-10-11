@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDB_N_TWR",
@@ -84,7 +85,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVE_TWR",
@@ -94,7 +96,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDVK_TWR",
@@ -104,7 +107,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDXW_TWR",
@@ -114,6 +118,7 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "s1_theory": true
     }
 ]
