@@ -10,7 +10,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2025-01-29",
+    "one_date": "2025-11-05",
     "days": "21",
     "booking": [
       "EDDM",
@@ -25,7 +25,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2025-02-05",
+    "one_date": "2025-11-12",
     "days": "21",
     "booking": [
       "EDDM",
