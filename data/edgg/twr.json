@@ -14,7 +14,7 @@
         "frequency": "136.500",
         "abbreviation": "DFTN",
         "description": "Frankfurt Tower (North)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "gcap_status": "1"
