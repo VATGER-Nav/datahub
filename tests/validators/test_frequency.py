@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from validators.frequency import frequency_validator
+from datahub.validators.frequency import frequency_validator
 
 
 class TestFrequencyValidator(TestCase):

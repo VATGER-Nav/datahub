@@ -1,10 +1,10 @@
 from typing import List, Literal
 from pydantic import BaseModel, ValidationInfo, field_validator
 
-from validators.icao import icao_validator
-from validators.logon import logon_validator
-from validators.frequency import frequency_validator
-from views.schedules import ScheduleType
+from datahub.validators.icao import icao_validator
+from datahub.validators.logon import logon_validator
+from datahub.validators.frequency import frequency_validator
+from datahub.views.schedules import ScheduleType
 
 
 class Station(BaseModel):
@@ -71,9 +71,7 @@ class Station(BaseModel):
         # Filter out any entries from schedule_show_booked that are in schedule_show_always
         if schedule_show_booked:
             schedule_show_booked = [
-                entry
-                for entry in schedule_show_booked
-                if entry not in schedule_show_always
+                entry for entry in schedule_show_booked if entry not in schedule_show_always
             ]
 
         return schedule_show_booked

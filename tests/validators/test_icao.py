@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from validators.icao import icao_validator
+from datahub.validators.icao import icao_validator
 
 
 class TestICAOType(TestCase):

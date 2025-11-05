@@ -4,10 +4,10 @@ import json
 import toml
 from typing import Dict, List, Literal
 
-from functions.sort_station import sort_key, sort_stations
-from settings.json import JSON_INDENT
-from views.station import Station
-from views.schedules import ScheduleType
+from datahub.functions.sort_station import sort_key, sort_stations
+from datahub.settings.json import JSON_INDENT
+from datahub.views.station import Station
+from datahub.views.schedules import ScheduleType
 
 
 @dataclass
@@ -93,13 +93,11 @@ class Datahub:
 
                 callsign = cpdlc_callsign_map.get(station.logon.split("_")[0])
 
-                cpdlc_station_data.append(
-                    {
-                        "login": station.cpdlc_login,
-                        "callsign": callsign,
-                        "abbreviation": station.abbreviation,
-                    }
-                )
+                cpdlc_station_data.append({
+                    "login": station.cpdlc_login,
+                    "callsign": callsign,
+                    "abbreviation": station.abbreviation,
+                })
 
         # sort data by callsign then by login
         cpdlc_station_data.sort(key=lambda x: (x["callsign"], x["login"]))
@@ -182,9 +180,7 @@ class Datahub:
         # Sort mapping_data by 'callsignPrefix' first, then by 'id'
         mapping_data.sort(key=lambda x: (x["callsignPrefix"], x["id"]))
 
-        with open(
-            self.teamspeak_mapping_path, "w", encoding="utf-8"
-        ) as output_json_file:
+        with open(self.teamspeak_mapping_path, "w", encoding="utf-8") as output_json_file:
             json.dump(mapping_data, output_json_file, indent=JSON_INDENT)
 
     def __export(

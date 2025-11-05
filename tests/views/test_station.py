@@ -3,7 +3,7 @@ import json
 import toml
 from unittest import TestCase
 
-from views.station import Station
+from datahub.views.station import Station
 
 
 class TestStation(TestCase):
