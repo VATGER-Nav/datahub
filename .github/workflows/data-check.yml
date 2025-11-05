@@ -30,4 +30,4 @@ jobs:
         run: uv sync --all-extras
 
       - name: check data
-        run: uv run loa_check
+        run: uv run data_check
