@@ -5,6 +5,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = ["pydantic==2.9.2", "toml==0.10.2"]
 
+[project.scripts]
+data_check = "datahub:check_data"
+
 [dependency-groups]
 dev = ["pytest>=8.4.1", "pytest-cov>=6.2.1", "ruff>=0.12.10"]
 
