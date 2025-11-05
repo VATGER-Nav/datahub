@@ -1,0 +1,1373 @@
+[
+    {
+        "logon": "EDEH_I_TWR",
+        "frequency": "132.055",
+        "abbreviation": "EHI",
+        "description": "Herrenteich Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEL_I_TWR",
+        "frequency": "124.030",
+        "abbreviation": "ELI",
+        "description": "Langenlonsheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEM_I_TWR",
+        "frequency": "130.660",
+        "abbreviation": "EMI",
+        "description": "Mosenberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEN_I_TWR",
+        "frequency": "119.005",
+        "abbreviation": "ENI",
+        "description": "Hersfeld Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEP_I_TWR",
+        "frequency": "122.480",
+        "abbreviation": "EPI",
+        "description": "Heppenheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDER_I_TWR",
+        "frequency": "120.130",
+        "abbreviation": "ERI",
+        "description": "Wasserkuppe Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEW_I_TWR",
+        "frequency": "131.010",
+        "abbreviation": "EWI",
+        "description": "Walld\u00fcrn Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFA_I_TWR",
+        "frequency": "121.030",
+        "abbreviation": "FAI",
+        "description": "Anspach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFB_I_TWR",
+        "frequency": "120.430",
+        "abbreviation": "FBI",
+        "description": "Reichelsheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFC_I_TWR",
+        "frequency": "132.430",
+        "abbreviation": "FCI",
+        "description": "Aschaffenburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFD_I_TWR",
+        "frequency": "121.215",
+        "abbreviation": "FDI",
+        "description": "Neustadt Saale Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFE_I_TWR",
+        "frequency": "118.405",
+        "abbreviation": "FEI",
+        "description": "Egelsbach Radio",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFG_I_TWR",
+        "frequency": "123.055",
+        "abbreviation": "FGI",
+        "description": "Gelnhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFI_I_TWR",
+        "frequency": "118.330",
+        "abbreviation": "FII",
+        "description": "Hirzenhain Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFJ_I_TWR",
+        "frequency": "118.430",
+        "abbreviation": "FJI",
+        "description": "Hammelburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFK_I_TWR",
+        "frequency": "124.755",
+        "abbreviation": "FKI",
+        "description": "Bad Kissingen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFL_I_TWR",
+        "frequency": "122.505",
+        "abbreviation": "FLI",
+        "description": "L\u00fctzellinden Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFN_I_TWR",
+        "frequency": "134.915",
+        "abbreviation": "FNI",
+        "description": "Marburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFO_I_TWR",
+        "frequency": "124.515",
+        "abbreviation": "FOI",
+        "description": "Michelstadt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFP_I_TWR",
+        "frequency": "122.340",
+        "abbreviation": "FPI",
+        "description": "Ober-M\u00f6rlen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFQ_I_TWR",
+        "frequency": "135.165",
+        "abbreviation": "FQI",
+        "description": "Allendorf Radio",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFR_I_TWR",
+        "frequency": "128.360",
+        "abbreviation": "DFRI",
+        "description": "Rothenburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFS_I_TWR",
+        "frequency": "119.980",
+        "abbreviation": "FSI",
+        "description": "Schweinfurt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFT_I_TWR",
+        "frequency": "122.180",
+        "abbreviation": "FTI",
+        "description": "Lauterbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFU_I_TWR",
+        "frequency": "121.035",
+        "abbreviation": "FUI",
+        "description": "Mainbullau Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFV_I_TWR",
+        "frequency": "124.605",
+        "abbreviation": "FVI",
+        "description": "Worms Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFW_I_TWR",
+        "frequency": "132.990",
+        "abbreviation": "FWI",
+        "description": "W\u00fcrzburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFX_I_TWR",
+        "frequency": "121.190",
+        "abbreviation": "FXI",
+        "description": "Hockenheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFY_I_TWR",
+        "frequency": "128.775",
+        "abbreviation": "FYI",
+        "description": "Elz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDFZ_I_TWR",
+        "frequency": "122.930",
+        "abbreviation": "FZI",
+        "description": "Mainz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGA_I_TWR",
+        "frequency": "126.410",
+        "abbreviation": "GAI",
+        "description": "Ailertchen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGB_I_TWR",
+        "frequency": "122.530",
+        "abbreviation": "GBI",
+        "description": "Breitscheid Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGE_I_TWR",
+        "frequency": "119.755",
+        "abbreviation": "GEI",
+        "description": "Eisenach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGF_I_TWR",
+        "frequency": "118.985",
+        "abbreviation": "GFI",
+        "description": "Jossa Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGI_I_TWR",
+        "frequency": "120.835",
+        "abbreviation": "GII",
+        "description": "Ingelfingen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGJ_I_TWR",
+        "frequency": "119.990",
+        "abbreviation": "GJI",
+        "description": "Ochsenfurt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGK_I_TWR",
+        "frequency": "125.815",
+        "abbreviation": "GKI",
+        "description": "Korbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGM_I_TWR",
+        "frequency": "128.340",
+        "abbreviation": "GMI",
+        "description": "Mosbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGO_I_TWR",
+        "frequency": "118.410",
+        "abbreviation": "GOI",
+        "description": "Oedheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGP_I_TWR",
+        "frequency": "130.640",
+        "abbreviation": "GPI",
+        "description": "Oppenheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGQ_I_TWR",
+        "frequency": "133.585",
+        "abbreviation": "GQI",
+        "description": "Schameder Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGR_I_TWR",
+        "frequency": "127.860",
+        "abbreviation": "GRI",
+        "description": "Reiskirchen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGS_I_TWR",
+        "frequency": "120.380",
+        "abbreviation": "GSI",
+        "description": "Siegerland Information",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGT_I_TWR",
+        "frequency": "132.810",
+        "abbreviation": "GTI",
+        "description": "Bottenhorn Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGU_I_TWR",
+        "frequency": "132.015",
+        "abbreviation": "GUI",
+        "description": "Untersch\u00fcpf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGW_I_TWR",
+        "frequency": "127.455",
+        "abbreviation": "GWI",
+        "description": "Wolfhagen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGX_I_TWR",
+        "frequency": "118.265",
+        "abbreviation": "GXI",
+        "description": "Walldorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGZ_I_TWR",
+        "frequency": "123.605",
+        "abbreviation": "GZI",
+        "description": "Weinheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKA_I_TWR",
+        "frequency": "122.880",
+        "abbreviation": "KAI",
+        "description": "Aachen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKB_I_TWR",
+        "frequency": "135.155",
+        "abbreviation": "KBI",
+        "description": "Bonn-Hangelar Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKD_I_TWR",
+        "frequency": "121.190",
+        "abbreviation": "KDI",
+        "description": "Altena Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKF_I_TWR",
+        "frequency": "125.840",
+        "abbreviation": "KFI",
+        "description": "Bergneustadt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKH_I_TWR",
+        "frequency": "123.685",
+        "abbreviation": "KHI",
+        "description": "H\u00fcnsborn Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKI_I_TWR",
+        "frequency": "122.230",
+        "abbreviation": "KII",
+        "description": "Betzdorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKL_I_TWR",
+        "frequency": "122.430",
+        "abbreviation": "KLI",
+        "description": "Leverkusen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKM_I_TWR",
+        "frequency": "126.015",
+        "abbreviation": "KMI",
+        "description": "Meschede Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKN_I_TWR",
+        "frequency": "133.580",
+        "abbreviation": "KNI",
+        "description": "Wipperf\u00fcrth Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKO_I_TWR",
+        "frequency": "129.380",
+        "abbreviation": "KOI",
+        "description": "Brilon Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKP_I_TWR",
+        "frequency": "127.110",
+        "abbreviation": "KPI",
+        "description": "Plettenberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKR_I_TWR",
+        "frequency": "127.090",
+        "abbreviation": "KRI",
+        "description": "Schmallenberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKU_I_TWR",
+        "frequency": "121.405",
+        "abbreviation": "KUI",
+        "description": "Attendorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKV_I_TWR",
+        "frequency": "130.085",
+        "abbreviation": "KVI",
+        "description": "Dahlemer Binz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKW_I_TWR",
+        "frequency": "118.005",
+        "abbreviation": "KWI",
+        "description": "Werdohl Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDKZ_I_TWR",
+        "frequency": "130.605",
+        "abbreviation": "KZI",
+        "description": "Meinerzhagen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLA_I_TWR",
+        "frequency": "121.210",
+        "abbreviation": "LAI",
+        "description": "Arnsberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLB_I_TWR",
+        "frequency": "135.005",
+        "abbreviation": "LBI",
+        "description": "Borkenberge Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLC_I_TWR",
+        "frequency": "121.315",
+        "abbreviation": "LCI",
+        "description": "Kamp-Lintfort Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLD_I_TWR",
+        "frequency": "122.705",
+        "abbreviation": "LDI",
+        "description": "Dinslaken Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLE_I_TWR",
+        "frequency": "119.755",
+        "abbreviation": "LEI",
+        "description": "Essen/M\u00fclheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLF_I_TWR",
+        "frequency": "126.705",
+        "abbreviation": "LFI",
+        "description": "Grefrath Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLG_I_TWR",
+        "frequency": "118.455",
+        "abbreviation": "LGI",
+        "description": "Goch Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLH_I_TWR",
+        "frequency": "134.055",
+        "abbreviation": "LHI",
+        "description": "Hamm Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLI_I_TWR",
+        "frequency": "118.355",
+        "abbreviation": "LII",
+        "description": "Bielefeld Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLJ_I_TWR",
+        "frequency": "135.060",
+        "abbreviation": "LJI",
+        "description": "Detmold Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLK_I_TWR",
+        "frequency": "120.680",
+        "abbreviation": "LKI",
+        "description": "Krefeld Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLM_I_TWR",
+        "frequency": "134.610",
+        "abbreviation": "LMI",
+        "description": "Marl Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLO_I_TWR",
+        "frequency": "136.410",
+        "abbreviation": "LOI",
+        "description": "Oerlinghausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLQ_I_TWR",
+        "frequency": "120.470",
+        "abbreviation": "LQI",
+        "description": "Beelen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLR_I_TWR",
+        "frequency": "121.035",
+        "abbreviation": "LRI",
+        "description": "Haxterberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLS_I_TWR",
+        "frequency": "119.205",
+        "abbreviation": "LSI",
+        "description": "Stadtlohn Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLT_I_TWR",
+        "frequency": "122.855",
+        "abbreviation": "LTI",
+        "description": "Telgte Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLX_I_TWR",
+        "frequency": "122.030",
+        "abbreviation": "LXI",
+        "description": "Wesel Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLY_I_TWR",
+        "frequency": "122.930",
+        "abbreviation": "LYI",
+        "description": "Hoxfeld Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDLZ_I_TWR",
+        "frequency": "133.465",
+        "abbreviation": "LZI",
+        "description": "Soest Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPA_I_TWR",
+        "frequency": "121.405",
+        "abbreviation": "PAI",
+        "description": "Aalen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPU_I_TWR",
+        "frequency": "135.115",
+        "abbreviation": "PUI",
+        "description": "Bartholom\u00e4 Start",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPY_I_TWR",
+        "frequency": "121.235",
+        "abbreviation": "PYI",
+        "description": "Ellwangen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQB_I_TWR",
+        "frequency": "118.260",
+        "abbreviation": "QBI",
+        "description": "Windsheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQF_I_TWR",
+        "frequency": "123.790",
+        "abbreviation": "QFI",
+        "description": "Ansbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQG_I_TWR",
+        "frequency": "125.505",
+        "abbreviation": "QGI",
+        "description": "Giebelstadt Information",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRA_I_TWR",
+        "frequency": "122.355",
+        "abbreviation": "RAI",
+        "description": "Neuenahr Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRB_I_TWR",
+        "frequency": "118.705",
+        "abbreviation": "RBI",
+        "description": "Bitburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRC_I_TWR",
+        "frequency": "120.185",
+        "abbreviation": "RCI",
+        "description": "Marpingen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRD_I_TWR",
+        "frequency": "129.285",
+        "abbreviation": "RDI",
+        "description": "Neumagen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRE_I_TWR",
+        "frequency": "135.060",
+        "abbreviation": "REI",
+        "description": "Mendig Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRF_I_TWR",
+        "frequency": "122.405",
+        "abbreviation": "RFI",
+        "description": "D\u00fcrkheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRG_I_TWR",
+        "frequency": "128.360",
+        "abbreviation": "RGI",
+        "description": "Idar-Oberstein Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRH_I_TWR",
+        "frequency": "130.655",
+        "abbreviation": "RHI",
+        "description": "Hoppst\u00e4dten Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRI_I_TWR",
+        "frequency": "124.010",
+        "abbreviation": "RII",
+        "description": "Linkenheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRJ_I_TWR",
+        "frequency": "121.210",
+        "abbreviation": "RJI",
+        "description": "Saarlouis Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRK_I_TWR",
+        "frequency": "122.655",
+        "abbreviation": "RKI",
+        "description": "Koblenz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRL_I_TWR",
+        "frequency": "128.585",
+        "abbreviation": "RLI",
+        "description": "Lachen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRM_I_TWR",
+        "frequency": "129.035",
+        "abbreviation": "RMI",
+        "description": "Traben-Trarbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRN_I_TWR",
+        "frequency": "131.285",
+        "abbreviation": "RNI",
+        "description": "Nannhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRO_I_TWR",
+        "frequency": "123.005",
+        "abbreviation": "ROI",
+        "description": "Schweighofen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRP_I_TWR",
+        "frequency": "122.355",
+        "abbreviation": "RPI",
+        "description": "Pirmasens Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRS_I_TWR",
+        "frequency": "118.930",
+        "abbreviation": "RSI",
+        "description": "Sobernheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRT_I_TWR",
+        "frequency": "118.390",
+        "abbreviation": "RTI",
+        "description": "Trier Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRV_I_TWR",
+        "frequency": "121.390",
+        "abbreviation": "RVI",
+        "description": "Wershofen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRW_I_TWR",
+        "frequency": "128.930",
+        "abbreviation": "RWI",
+        "description": "Dierdorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRX_I_TWR",
+        "frequency": "135.815",
+        "abbreviation": "RXI",
+        "description": "Bexbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRY_I_TWR",
+        "frequency": "118.080",
+        "abbreviation": "RYI",
+        "description": "Speyer Radio",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDRZ_I_TWR",
+        "frequency": "123.830",
+        "abbreviation": "RZI",
+        "description": "Zweibr\u00fccken Information",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSA_I_TWR",
+        "frequency": "125.835",
+        "abbreviation": "SAI",
+        "description": "Degerfeld Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSD_I_TWR",
+        "frequency": "128.755",
+        "abbreviation": "SDI",
+        "description": "Egelsee Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSF_I_TWR",
+        "frequency": "125.815",
+        "abbreviation": "SFI",
+        "description": "H\u00fctten-Hotzenwald Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSG_I_TWR",
+        "frequency": "118.190",
+        "abbreviation": "SGI",
+        "description": "Grabenstetten Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSH_I_TWR",
+        "frequency": "123.710",
+        "abbreviation": "SHI",
+        "description": "Backnang Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSI_I_TWR",
+        "frequency": "125.365",
+        "abbreviation": "SII",
+        "description": "Binningen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSK_I_TWR",
+        "frequency": "122.755",
+        "abbreviation": "SKI",
+        "description": "Kehl Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSL_I_TWR",
+        "frequency": "135.005",
+        "abbreviation": "SLI",
+        "description": "Blumberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSM_I_TWR",
+        "frequency": "122.430",
+        "abbreviation": "SMI",
+        "description": "M\u00fcllheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSN_I_TWR",
+        "frequency": "119.605",
+        "abbreviation": "SNI",
+        "description": "Neuhausen ob Eck Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSP_I_TWR",
+        "frequency": "123.385",
+        "abbreviation": "SPI",
+        "description": "Poltringen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSR_I_TWR",
+        "frequency": "127.530",
+        "abbreviation": "SRI",
+        "description": "Stahringen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDST_I_TWR",
+        "frequency": "125.615",
+        "abbreviation": "STI",
+        "description": "Hahnweide Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSV_I_TWR",
+        "frequency": "119.415",
+        "abbreviation": "SVI",
+        "description": "W\u00e4chtersberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSW_I_TWR",
+        "frequency": "127.155",
+        "abbreviation": "SWI",
+        "description": "Altdorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSX_I_TWR",
+        "frequency": "119.610",
+        "abbreviation": "SXI",
+        "description": "Lichtenberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDSZ_I_TWR",
+        "frequency": "129.505",
+        "abbreviation": "SZI",
+        "description": "Rottweil Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTA_I_TWR",
+        "frequency": "118.435",
+        "abbreviation": "TAI",
+        "description": "Bohlhof Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTB_I_TWR",
+        "frequency": "129.915",
+        "abbreviation": "TBI",
+        "description": "Oos Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTC_I_TWR",
+        "frequency": "123.990",
+        "abbreviation": "TCI",
+        "description": "Bruchsal Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTD_I_TWR",
+        "frequency": "126.690",
+        "abbreviation": "TDI",
+        "description": "Donaueschingen Information",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTE_I_TWR",
+        "frequency": "133.385",
+        "abbreviation": "TEI",
+        "description": "Eutingen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTF_I_TWR",
+        "frequency": "118.255",
+        "abbreviation": "TFI",
+        "description": "Freiburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTG_I_TWR",
+        "frequency": "124.030",
+        "abbreviation": "TGI",
+        "description": "Bremgarten Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTH_I_TWR",
+        "frequency": "134.115",
+        "abbreviation": "THI",
+        "description": "Heubach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTK_I_TWR",
+        "frequency": "119.985",
+        "abbreviation": "TKI",
+        "description": "Sinsheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTM_I_TWR",
+        "frequency": "135.180",
+        "abbreviation": "TMI",
+        "description": "Mengen Information",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTN_I_TWR",
+        "frequency": "118.330",
+        "abbreviation": "TNI",
+        "description": "Nabern Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTO_I_TWR",
+        "frequency": "132.040",
+        "abbreviation": "TOI",
+        "description": "Offenburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTP_I_TWR",
+        "frequency": "122.435",
+        "abbreviation": "TPI",
+        "description": "Pfullendorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTQ_I_TWR",
+        "frequency": "124.610",
+        "abbreviation": "TQI",
+        "description": "Pattonville Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTR_I_TWR",
+        "frequency": "134.535",
+        "abbreviation": "TRI",
+        "description": "Rheinfelden Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTS_I_TWR",
+        "frequency": "127.535",
+        "abbreviation": "TSI",
+        "description": "Schwenningen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTU_I_TWR",
+        "frequency": "123.605",
+        "abbreviation": "TUI",
+        "description": "Saulgau Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTW_I_TWR",
+        "frequency": "118.390",
+        "abbreviation": "TWI",
+        "description": "Winzeln Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTY_I_TWR",
+        "frequency": "129.230",
+        "abbreviation": "TYI",
+        "description": "Schw\u00e4bisch Hall Information",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDTZ_I_TWR",
+        "frequency": "124.355",
+        "abbreviation": "TZI",
+        "description": "Konstanz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    }
+]

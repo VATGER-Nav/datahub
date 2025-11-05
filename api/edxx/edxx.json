@@ -1,0 +1,110 @@
+[
+    {
+        "logon": "EDXX_FIS_CTR",
+        "frequency": "128.950",
+        "abbreviation": "IXX",
+        "description": "Langen Information",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDXX_GG_CTR",
+        "frequency": "123.525",
+        "abbreviation": "IGG",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDB_CTR",
+        "frequency": "132.650",
+        "abbreviation": "IDB",
+        "description": "Langen Information",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDXX_IDC_CTR",
+        "frequency": "125.800",
+        "abbreviation": "IDC",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDF_CTR",
+        "frequency": "119.150",
+        "abbreviation": "IDF",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDH_CTR",
+        "frequency": "125.100",
+        "abbreviation": "IDH",
+        "description": "Langen Information",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDXX_IDL_CTR",
+        "frequency": "129.875",
+        "abbreviation": "IDL",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDM_CTR",
+        "frequency": "126.950",
+        "abbreviation": "IDM",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDO_CTR",
+        "frequency": "120.650",
+        "abbreviation": "IDO",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDR_CTR",
+        "frequency": "123.525",
+        "abbreviation": "IDR",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDS_CTR",
+        "frequency": "128.950",
+        "abbreviation": "IDS",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_IDV_CTR",
+        "frequency": "119.825",
+        "abbreviation": "IDV",
+        "description": "Langen Information",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDXX_ISW_CTR",
+        "frequency": "128.525",
+        "abbreviation": "ISW",
+        "description": "Langen Information",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDXX_MM_CTR",
+        "frequency": "120.650",
+        "abbreviation": "IMM",
+        "description": "Langen Information"
+    },
+    {
+        "logon": "EDXX_WW_CTR",
+        "frequency": "119.825",
+        "abbreviation": "IWW",
+        "description": "Langen Information",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    }
+]

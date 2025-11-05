@@ -1,0 +1,119 @@
+[
+    {
+        "logon": "EDDB_N_DEP",
+        "frequency": "120.340",
+        "abbreviation": "DBDN",
+        "description": "Bremen Radar (Berlin Departure Nord)",
+        "schedule_show_booked": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDB_S_DEP",
+        "frequency": "120.630",
+        "abbreviation": "DBDS",
+        "description": "Bremen Radar (Berlin Departure Sued)",
+        "schedule_show_always": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDB_AN_APP",
+        "frequency": "136.105",
+        "abbreviation": "DBANT",
+        "description": "Berlin Arrival (Feeder Nord)",
+        "schedule_show_booked": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDB_AS_APP",
+        "frequency": "121.130",
+        "abbreviation": "DBAST",
+        "description": "Berlin Arrival (Feeder Sued)",
+        "schedule_show_always": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDB_N_APP",
+        "frequency": "119.630",
+        "abbreviation": "DBAN",
+        "description": "Bremen Radar (Berlin Arrival Nord)",
+        "schedule_show_booked": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDB_S_APP",
+        "frequency": "126.425",
+        "abbreviation": "DBAS",
+        "description": "Bremen Radar (Berlin Arrival Sued)",
+        "schedule_show_always": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDH_A_APP",
+        "frequency": "118.205",
+        "abbreviation": "DHAT",
+        "description": "Hamburg Arrival (Feeder)",
+        "schedule_show_always": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDH_APP",
+        "frequency": "120.540",
+        "abbreviation": "HAM",
+        "description": "Bremen Radar (Hamburg)",
+        "schedule_show_always": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDH_W_APP",
+        "frequency": "134.255",
+        "abbreviation": "HAMW",
+        "description": "Bremen Radar (Hamburg West)",
+        "schedule_show_booked": [
+            "EDWW"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDV_A_APP",
+        "frequency": "119.605",
+        "abbreviation": "DVAT",
+        "description": "Hannover Arrival (Feeder)",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDDV_APP",
+        "frequency": "119.490",
+        "abbreviation": "HAN",
+        "description": "Bremen Radar (Hannover)",
+        "schedule_show_always": [
+            "EDWW"
+        ]
+    },
+    {
+        "logon": "EDDW_APP",
+        "frequency": "124.800",
+        "abbreviation": "FRI",
+        "description": "Bremen Radar (Friesland)",
+        "schedule_show_always": [
+            "EDWW"
+        ]
+    }
+]
