@@ -1,11 +1,10 @@
 from unittest import TestCase
 
-from validators.logon import logon_validator
+from datahub.validators.logon import logon_validator
 
 
 class TestLogonValidator(TestCase):
     def test_normal(self):
-
         logon = "EDMM_FUL_CTR"
         self.assertEqual(logon.upper(), logon_validator(logon))
 

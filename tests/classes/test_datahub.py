@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from classes.datahub import Datahub
+from datahub.classes.datahub import Datahub
 
 
 class TestDatahub(TestCase):

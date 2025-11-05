@@ -1,7 +1,7 @@
 from unittest import TestCase
 
-from functions.sort_station import sort_stations
-from views.station import Station
+from datahub.functions.sort_station import sort_stations
+from datahub.views.station import Station
 
 
 class TestDatahub(TestCase):

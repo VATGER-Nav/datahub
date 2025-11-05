@@ -1,6 +1,7 @@
 from typing import List
-from validators.logon import LOGON_SUFFIXES
-from views.station import Station
+
+from datahub.validators.logon import LOGON_SUFFIXES
+from datahub.views.station import Station
 
 
 def sort_key(station: Station | dict):
@@ -17,9 +18,7 @@ def sort_key(station: Station | dict):
 
     # Map the third part using the LOGON_SUFFIXES order (missing part goes first)
     suffix_order = (
-        LOGON_SUFFIXES.index(third_part)
-        if third_part in LOGON_SUFFIXES
-        else float("inf")
+        LOGON_SUFFIXES.index(third_part) if third_part in LOGON_SUFFIXES else float("inf")
     )
 
     # sort by prefix, then suffix, then middlefix
