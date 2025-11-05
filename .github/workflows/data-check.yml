@@ -3,9 +3,10 @@ run-name: Checking data on branch ${{github.ref_name}}
 on:
   push:
     branches:
-      - "!main"
-      - "!production"
       - "*"
+    branches-ignore:
+      - main
+      - production
 
 permissions: read-all
 jobs:
