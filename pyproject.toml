@@ -47,3 +47,7 @@ ignore = ["COM812"]
 testpaths = ["src/tests"]
 addopts = ["--cov-report=term", "--cov=."]
 pythonpath = "src"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
