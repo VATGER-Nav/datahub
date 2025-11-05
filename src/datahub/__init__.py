@@ -7,3 +7,7 @@ def check_data():
 
 def combine_data():
     Datahub().combine_data()
+
+
+def sort_data():
+    Datahub().sort_data()
