@@ -19,11 +19,16 @@ class TestStation(TestCase):
             else:
                 print(f"Folder does not exist: {folder_path}")
 
+    def test_dict(self):
+        dct = {"logon": "EDDL_TWR", "frequency": "118.305", "abbreviation": "DLT"}
+
+        Station(**dct)
+
 
 def parse_json(data):
     test = []
     for element in data:
-        station = Station.from_dict(element)
+        station = Station(**element)
         test.append(station)
 
     for element in test:

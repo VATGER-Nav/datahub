@@ -256,6 +256,6 @@ class Datahub:
 
         stations = []
         for element in file_data:
-            stations.append(Station.from_dict(element))
+            stations.append(Station(**element))
 
         return stations

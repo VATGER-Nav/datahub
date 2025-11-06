@@ -23,19 +23,7 @@ class Station(BaseModel):
 
     @classmethod
     def from_dict(cls, data: dict) -> "Station":
-        return Station(
-            logon=data.get("logon"),
-            frequency=data.get("frequency"),
-            abbreviation=data.get("abbreviation"),
-            description=data.get("description"),
-            schedule_show_always=data.get("schedule_show_always"),
-            schedule_show_booked=data.get("schedule_show_booked"),
-            relevant_airports=data.get("relevant_airports"),
-            gcap_status=data.get("gcap_status"),
-            s1_twr=data.get("s1_twr"),
-            cpdlc_login=data.get("cpdlc_login"),
-            s1_theory=data.get("s1_theory"),
-        )
+        return Station(**data)
 
     def to_dict(self) -> dict:
         """returns the station as dict, hides fields which are None or empty lists"""
