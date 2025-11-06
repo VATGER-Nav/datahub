@@ -1,9 +1,10 @@
-from typing import List, Literal
-from pydantic import BaseModel, ValidationInfo, field_validator
+from typing import Literal
 
+from pydantic import BaseModel, field_validator
+
+from datahub.validators.frequency import frequency_validator
 from datahub.validators.icao import icao_validator
 from datahub.validators.logon import logon_validator
-from datahub.validators.frequency import frequency_validator
 from datahub.views.schedules import ScheduleType
 
 
@@ -11,14 +12,14 @@ class Station(BaseModel):
     logon: str
     frequency: str
     abbreviation: str
-    description: str | None
-    schedule_show_always: List[ScheduleType] | None
-    schedule_show_booked: List[ScheduleType] | None
-    relevant_airports: List[str] | None
-    gcap_status: Literal["AFIS", "1", "2", None]
-    s1_twr: bool | None
+    description: str | None = None
+    schedule_show_always: list[ScheduleType] | None = None
+    schedule_show_booked: list[ScheduleType] | None = None
+    relevant_airports: list[str] | None = None
+    gcap_status: Literal["AFIS", "1", "2"] | None = None
+    s1_twr: bool | None = None
     cpdlc_login: str | None = None
-    s1_theory: bool | None
+    s1_theory: bool | None = None
 
     @classmethod
     def from_dict(cls, data: dict) -> "Station":
@@ -53,7 +54,7 @@ class Station(BaseModel):
 
     @field_validator("relevant_airports")
     @classmethod
-    def validate_relevant_airports(cls, icao_list: List[str]) -> List[str]:
+    def validate_relevant_airports(cls, icao_list: list[str]) -> list[str]:
         if not icao_list:
             return
 
@@ -80,5 +81,6 @@ class Station(BaseModel):
     @classmethod
     def validate_length(cls, value):
         if value is not None and len(value) != 4:
-            raise ValueError("cpdlc_login must be exactly 4 characters")
+            msg = "cpdlc_login must be exactly 4 characters"
+            raise ValueError(msg)
         return value
