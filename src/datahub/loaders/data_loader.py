@@ -50,6 +50,12 @@ class DataLoader:
             msg = f"DataLoader encountered {len(errors)} errors."
             raise RuntimeError(msg)
 
+        total = 0
+        for ds in data:
+            total += len(ds.data)
+
+        print(f"Loaded {total} stations")
+
         return data
 
     @staticmethod
