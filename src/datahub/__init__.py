@@ -1,8 +1,13 @@
+from pathlib import Path
+
 from datahub.classes.datahub import Datahub
+from datahub.loaders.data_loader import DataLoader
+
+DATA_DIR = Path("data/")
 
 
 def check_data():
-    Datahub().check_data()
+    DataLoader.load(DATA_DIR, exclude_folders={"event_schedules", "topsky"})
 
 
 def combine_data():
