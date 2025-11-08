@@ -1,10 +1,11 @@
 from pathlib import Path
 
-from datahub.classes.datahub import Datahub
+from datahub.exports.data_exporter import DataExporter
 from datahub.loaders.data_loader import DataLoader
 from sorting.station_sorter import StationSorter
 
 DATA_DIR = Path("data/")
+API_DIR = Path("api/")
 
 
 def check_data():
@@ -12,7 +13,11 @@ def check_data():
 
 
 def combine_data():
-    Datahub().combine_data()
+    data = DataLoader.load(DATA_DIR, exclude_folders={"event_schedules", "topsky"})
+
+    data = StationSorter.sort(data)
+
+    DataExporter.export(API_DIR, data, combine=True)
 
 
 def sort_data():
@@ -20,4 +25,4 @@ def sort_data():
 
     data = StationSorter.sort(data)
 
-    Datahub().sort_data()
+    DataExporter.export(DATA_DIR, data)
