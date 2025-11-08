@@ -25,7 +25,7 @@
         "logon": "EDDM_N_TWR",
         "frequency": "118.705",
         "abbreviation": "DMTN",
-        "description": "M\u00fcnchen Tower (North)",
+        "description": "München Tower (North)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -35,7 +35,7 @@
         "logon": "EDDM_S_TWR",
         "frequency": "120.505",
         "abbreviation": "DMTS",
-        "description": "M\u00fcnchen Tower (South)",
+        "description": "München Tower (South)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -45,7 +45,7 @@
         "logon": "EDDN_TWR",
         "frequency": "118.305",
         "abbreviation": "DNT",
-        "description": "N\u00fcrnberg Tower",
+        "description": "Nürnberg Tower",
         "schedule_show_always": [
             "EDMM"
         ]

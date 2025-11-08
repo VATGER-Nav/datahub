@@ -205,7 +205,7 @@ class Datahub:
 
             if file_path.endswith(".json"):
                 with open(file_path, "w", encoding="utf-8") as f:
-                    json.dump(stations_data, f, indent=JSON_INDENT)
+                    json.dump(stations_data, f, indent=JSON_INDENT, ensure_ascii=False)
                     print(f"Data written to {file_path} as JSON.")
             elif file_path.endswith(".toml"):
                 with open(file_path, "w", encoding="utf-8") as f:
@@ -219,7 +219,7 @@ class Datahub:
             combined_data = sorted(combined_data, key=sort_key)
             file_path = destination + "/" + self.combined_file_name + ".json"
             with open(file_path, "w", encoding="utf-8") as f:
-                json.dump(combined_data, f, indent=JSON_INDENT)
+                json.dump(combined_data, f, indent=JSON_INDENT, ensure_ascii=False)
 
     def __read_data(self):
         """reads and parses all data from data/*"""

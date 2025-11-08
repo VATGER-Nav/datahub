@@ -144,7 +144,7 @@
         "logon": "ETNN_TWR",
         "frequency": "136.205",
         "abbreviation": "TNNT",
-        "description": "N\u00f6rvenich Tower",
+        "description": "Nörvenich Tower",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -153,7 +153,7 @@
         "logon": "ETNN_APP",
         "frequency": "129.055",
         "abbreviation": "TNNA",
-        "description": "N\u00f6rvenich Radar",
+        "description": "Nörvenich Radar",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -180,7 +180,7 @@
         "logon": "ETSB_TWR",
         "frequency": "129.060",
         "abbreviation": "TSBT",
-        "description": "B\u00fcchel Tower",
+        "description": "Büchel Tower",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -189,7 +189,7 @@
         "logon": "ETSB_APP",
         "frequency": "130.155",
         "abbreviation": "TSBA",
-        "description": "B\u00fcchel Radarr",
+        "description": "Büchel Radarr",
         "schedule_show_booked": [
             "EDGG"
         ]

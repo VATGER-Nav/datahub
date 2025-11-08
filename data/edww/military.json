@@ -3,7 +3,7 @@
         "logon": "ETHB_TWR",
         "frequency": "122.100",
         "abbreviation": "HBT",
-        "description": "B\u00fckeburg Tower",
+        "description": "Bükeburg Tower",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -12,7 +12,7 @@
         "logon": "ETHB_APP",
         "frequency": "124.505",
         "abbreviation": "HBR",
-        "description": "B\u00fckeburg Radar",
+        "description": "Bükeburg Radar",
         "schedule_show_booked": [
             "EDWW"
         ]

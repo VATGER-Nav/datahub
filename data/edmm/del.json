@@ -3,7 +3,7 @@
         "logon": "EDDM_DEL",
         "frequency": "121.730",
         "abbreviation": "DMC",
-        "description": "M\u00fcnchen Delivery",
+        "description": "München Delivery",
         "schedule_show_always": [
             "EDMM"
         ],
