@@ -83,8 +83,14 @@ class DataLoader:
         try:
             if isinstance(file_data, list):
                 return [Station(**item) for item in file_data]
+            elif isinstance(file_data, dict):
+                stations_list = file_data.get("stations")
+                if stations_list and isinstance(stations_list, list):
+                    return [Station(**item) for item in stations_list]
+                else:
+                    return [Station(**file_data)]
             else:
-                return [Station(**file_data)]
+                return []
         except ValidationError as e:
             msg = f"Validation error: {e}"
             raise ValueError(msg) from e
