@@ -13,7 +13,7 @@
         "logon": "EDGG_DKB_CTR",
         "frequency": "125.200",
         "abbreviation": "DKB",
-        "description": "Langen Radar (Dinkelsb\u00fchl)",
+        "description": "Langen Radar (Dinkelsbühl)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -32,7 +32,7 @@
         "logon": "EDGG_GIN_CTR",
         "frequency": "124.730",
         "abbreviation": "GIN",
-        "description": "Langen Radar (Gie\u00dfen)",
+        "description": "Langen Radar (Gießen)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -69,7 +69,7 @@
         "logon": "EDGG_KNG_CTR",
         "frequency": "125.680",
         "abbreviation": "KNG",
-        "description": "Langen Radar (K\u00f6nig)",
+        "description": "Langen Radar (König)",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -135,7 +135,7 @@
         "logon": "EDGG_RUD_CTR",
         "frequency": "133.435",
         "abbreviation": "RUD",
-        "description": "Langen Radar (R\u00fcdesheim)",
+        "description": "Langen Radar (Rüdesheim)",
         "schedule_show_booked": [
             "EDGG"
         ],

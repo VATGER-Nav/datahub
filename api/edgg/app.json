@@ -63,7 +63,7 @@
         "logon": "EDDG_F_APP",
         "frequency": "129.180",
         "abbreviation": "DGAT",
-        "description": "M\u00fcnster/Osnabr\u00fcck Arrival",
+        "description": "Münster/Osnabrück Arrival",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -81,7 +81,7 @@
         "logon": "EDDK_APP",
         "frequency": "135.350",
         "abbreviation": "DKA",
-        "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
+        "description": "Langen Radar (Köln/Bonn Arrival)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -91,7 +91,7 @@
         "logon": "EDDK_F_APP",
         "frequency": "121.055",
         "abbreviation": "DKAT",
-        "description": "K\u00f6ln/Bonn Arrival",
+        "description": "Köln/Bonn Arrival",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -101,7 +101,7 @@
         "logon": "EDDK_NOR_APP",
         "frequency": "127.365",
         "abbreviation": "NOR",
-        "description": "Langen Radar (N\u00f6rvenich)",
+        "description": "Langen Radar (Nörvenich)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -111,7 +111,7 @@
         "logon": "EDDL_DEP",
         "frequency": "121.355",
         "abbreviation": "DLD",
-        "description": "Langen Radar (D\u00fcsseldorf Departure)",
+        "description": "Langen Radar (Düsseldorf Departure)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -121,7 +121,7 @@
         "logon": "EDDL_APP",
         "frequency": "128.555",
         "abbreviation": "DLA",
-        "description": "Langen Radar (D\u00fcsseldorf Arrival)",
+        "description": "Langen Radar (Düsseldorf Arrival)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -141,7 +141,7 @@
         "logon": "EDDL_F_APP",
         "frequency": "128.655",
         "abbreviation": "DLAT",
-        "description": "D\u00fcsseldorf Arrival",
+        "description": "Düsseldorf Arrival",
         "schedule_show_always": [
             "EDGG"
         ],

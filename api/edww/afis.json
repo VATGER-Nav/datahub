@@ -120,7 +120,7 @@
         "logon": "EDHG_I_TWR",
         "frequency": "122.180",
         "abbreviation": "HGT",
-        "description": "L\u00fcneburg Radio",
+        "description": "Lüneburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -183,7 +183,7 @@
         "logon": "EDVI_I_TWR",
         "frequency": "130.280",
         "abbreviation": "VIT",
-        "description": "H\u00f6xter Radio",
+        "description": "Höxter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -300,7 +300,7 @@
         "logon": "EDWO_I_TWR",
         "frequency": "118.680",
         "abbreviation": "WOT",
-        "description": "Osnabr\u00fcck Radio",
+        "description": "Osnabrück Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -363,7 +363,7 @@
         "logon": "EDXB_I_TWR",
         "frequency": "125.860",
         "abbreviation": "XBT",
-        "description": "B\u00fcsum Radio",
+        "description": "Büsum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -426,7 +426,7 @@
         "logon": "EDXQ_I_TWR",
         "frequency": "136.015",
         "abbreviation": "XQT",
-        "description": "W\u00fcmme Radio",
+        "description": "Wümme Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true

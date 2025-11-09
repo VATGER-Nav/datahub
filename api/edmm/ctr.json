@@ -3,7 +3,7 @@
         "logon": "EDMM_ALB_CTR",
         "frequency": "129.100",
         "abbreviation": "ALB",
-        "description": "M\u00fcnchen Radar (Allersberg)",
+        "description": "München Radar (Allersberg)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -13,7 +13,7 @@
         "logon": "EDMM_BBG_CTR",
         "frequency": "133.615",
         "abbreviation": "BBG",
-        "description": "M\u00fcnchen Radar (Bamberg)",
+        "description": "München Radar (Bamberg)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -23,7 +23,7 @@
         "logon": "EDMM_EGG_CTR",
         "frequency": "129.555",
         "abbreviation": "EGG",
-        "description": "M\u00fcnchen Radar (Eggenfelden)",
+        "description": "München Radar (Eggenfelden)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -33,7 +33,7 @@
         "logon": "EDMM_FUE_CTR",
         "frequency": "133.550",
         "abbreviation": "FUE",
-        "description": "M\u00fcnchen Radar (F\u00fcssen)",
+        "description": "München Radar (Füssen)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -42,7 +42,7 @@
         "logon": "EDMM_GER_CTR",
         "frequency": "133.230",
         "abbreviation": "GER",
-        "description": "M\u00fcnchen Radar (Gera)",
+        "description": "München Radar (Gera)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -52,7 +52,7 @@
         "logon": "EDMM_HAL_CTR",
         "frequency": "118.235",
         "abbreviation": "HAL",
-        "description": "M\u00fcnchen Radar (Halle)",
+        "description": "München Radar (Halle)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -62,7 +62,7 @@
         "logon": "EDMM_HOF_CTR",
         "frequency": "133.565",
         "abbreviation": "HOF",
-        "description": "M\u00fcnchen Radar (Hof)",
+        "description": "München Radar (Hof)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -72,7 +72,7 @@
         "logon": "EDMM_MEI_CTR",
         "frequency": "124.960",
         "abbreviation": "MEI",
-        "description": "M\u00fcnchen Radar (Meissen)",
+        "description": "München Radar (Meissen)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -82,7 +82,7 @@
         "logon": "EDMM_NDG_CTR",
         "frequency": "125.140",
         "abbreviation": "NDG",
-        "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
+        "description": "München Radar (Nördlingen)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -92,7 +92,7 @@
         "logon": "EDMM_RDG_CTR",
         "frequency": "132.555",
         "abbreviation": "RDG",
-        "description": "M\u00fcnchen Radar (Roding)",
+        "description": "München Radar (Roding)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -103,7 +103,7 @@
         "logon": "EDMM_STA_CTR",
         "frequency": "132.455",
         "abbreviation": "STA",
-        "description": "M\u00fcnchen Radar (Starnberg)",
+        "description": "München Radar (Starnberg)",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -112,7 +112,7 @@
         "logon": "EDMM_TEG_CTR",
         "frequency": "133.680",
         "abbreviation": "TEG",
-        "description": "M\u00fcnchen Radar (Tegernsee)",
+        "description": "München Radar (Tegernsee)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -121,7 +121,7 @@
         "logon": "EDMM_TRU_CTR",
         "frequency": "132.635",
         "abbreviation": "TRU",
-        "description": "M\u00fcnchen Radar (Traun)",
+        "description": "München Radar (Traun)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -131,7 +131,7 @@
         "logon": "EDMM_WLD_CTR",
         "frequency": "136.230",
         "abbreviation": "WLD",
-        "description": "M\u00fcnchen Radar (Walda)",
+        "description": "München Radar (Walda)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -140,7 +140,7 @@
         "logon": "EDMM_ZUG_CTR",
         "frequency": "134.150",
         "abbreviation": "ZUG",
-        "description": "M\u00fcnchen Radar (Zugspitze)",
+        "description": "München Radar (Zugspitze)",
         "schedule_show_booked": [
             "EDMM"
         ],

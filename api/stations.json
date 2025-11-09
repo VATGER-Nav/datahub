@@ -311,7 +311,7 @@
         "logon": "EDDC_SAS_APP",
         "frequency": "125.875",
         "abbreviation": "SAS",
-        "description": "M\u00fcnchen Radar (Sachsen Low)",
+        "description": "München Radar (Sachsen Low)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -531,7 +531,7 @@
         "logon": "EDDG_GND",
         "frequency": "121.880",
         "abbreviation": "DGG",
-        "description": "M\u00fcnster Ground",
+        "description": "Münster Ground",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -541,7 +541,7 @@
         "logon": "EDDG_TWR",
         "frequency": "129.805",
         "abbreviation": "DGT",
-        "description": "M\u00fcnster Tower",
+        "description": "Münster Tower",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -552,7 +552,7 @@
         "logon": "EDDG_F_APP",
         "frequency": "129.180",
         "abbreviation": "DGAT",
-        "description": "M\u00fcnster/Osnabr\u00fcck Arrival",
+        "description": "Münster/Osnabrück Arrival",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -650,7 +650,7 @@
         "logon": "EDDK_CO_DEL",
         "frequency": "121.855",
         "abbreviation": "DKC",
-        "description": "K\u00f6ln/Bonn Delivery Coordinator",
+        "description": "Köln/Bonn Delivery Coordinator",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -659,7 +659,7 @@
         "logon": "EDDK_DEL",
         "frequency": "121.855",
         "abbreviation": "DKC",
-        "description": "K\u00f6ln/Bonn Delivery",
+        "description": "Köln/Bonn Delivery",
         "schedule_show_always": [
             "EDGG"
         ]
@@ -668,7 +668,7 @@
         "logon": "EDDK_GND",
         "frequency": "121.730",
         "abbreviation": "DKG",
-        "description": "K\u00f6ln/Bonn Ground",
+        "description": "Köln/Bonn Ground",
         "schedule_show_always": [
             "EDGG"
         ]
@@ -677,7 +677,7 @@
         "logon": "EDDK_P_GND",
         "frequency": "121.955",
         "abbreviation": "DKGP",
-        "description": "K\u00f6ln/Bonn Apron",
+        "description": "Köln/Bonn Apron",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -686,7 +686,7 @@
         "logon": "EDDK_TWR",
         "frequency": "124.980",
         "abbreviation": "DKT",
-        "description": "K\u00f6ln/Bonn Tower",
+        "description": "Köln/Bonn Tower",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -696,7 +696,7 @@
         "logon": "EDDK_APP",
         "frequency": "135.350",
         "abbreviation": "DKA",
-        "description": "Langen Radar (K\u00f6ln/Bonn Arrival)",
+        "description": "Langen Radar (Köln/Bonn Arrival)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -706,7 +706,7 @@
         "logon": "EDDK_F_APP",
         "frequency": "121.055",
         "abbreviation": "DKAT",
-        "description": "K\u00f6ln/Bonn Arrival",
+        "description": "Köln/Bonn Arrival",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -716,7 +716,7 @@
         "logon": "EDDK_NOR_APP",
         "frequency": "127.365",
         "abbreviation": "NOR",
-        "description": "Langen Radar (N\u00f6rvenich)",
+        "description": "Langen Radar (Nörvenich)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -726,7 +726,7 @@
         "logon": "EDDL_CO_DEL",
         "frequency": "121.780",
         "abbreviation": "DLC",
-        "description": "D\u00fcsseldorf Delivery Coordinator",
+        "description": "Düsseldorf Delivery Coordinator",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -736,7 +736,7 @@
         "logon": "EDDL_DEL",
         "frequency": "121.780",
         "abbreviation": "DLC",
-        "description": "D\u00fcsseldorf Delivery",
+        "description": "Düsseldorf Delivery",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -746,7 +746,7 @@
         "logon": "EDDL_E_GND",
         "frequency": "121.605",
         "abbreviation": "DLGE",
-        "description": "D\u00fcsseldorf Ground (East)",
+        "description": "Düsseldorf Ground (East)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -756,7 +756,7 @@
         "logon": "EDDL_W_GND",
         "frequency": "121.680",
         "abbreviation": "DLGW",
-        "description": "D\u00fcsseldorf Ground (West)",
+        "description": "Düsseldorf Ground (West)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -766,7 +766,7 @@
         "logon": "EDDL_TWR",
         "frequency": "118.305",
         "abbreviation": "DLT",
-        "description": "D\u00fcsseldorf Tower",
+        "description": "Düsseldorf Tower",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -776,7 +776,7 @@
         "logon": "EDDL_DEP",
         "frequency": "121.355",
         "abbreviation": "DLD",
-        "description": "Langen Radar (D\u00fcsseldorf Departure)",
+        "description": "Langen Radar (Düsseldorf Departure)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -786,7 +786,7 @@
         "logon": "EDDL_APP",
         "frequency": "128.555",
         "abbreviation": "DLA",
-        "description": "Langen Radar (D\u00fcsseldorf Arrival)",
+        "description": "Langen Radar (Düsseldorf Arrival)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -806,7 +806,7 @@
         "logon": "EDDL_F_APP",
         "frequency": "128.655",
         "abbreviation": "DLAT",
-        "description": "D\u00fcsseldorf Arrival",
+        "description": "Düsseldorf Arrival",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -816,7 +816,7 @@
         "logon": "EDDM_DEL",
         "frequency": "121.730",
         "abbreviation": "DMC",
-        "description": "M\u00fcnchen Delivery",
+        "description": "München Delivery",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -826,7 +826,7 @@
         "logon": "EDDM_1_GND",
         "frequency": "121.780",
         "abbreviation": "DMG1",
-        "description": "M\u00fcnchen Apron (Apron 1)",
+        "description": "München Apron (Apron 1)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -836,7 +836,7 @@
         "logon": "EDDM_2_GND",
         "frequency": "121.710",
         "abbreviation": "DMG2",
-        "description": "M\u00fcnchen Apron (Apron 2)",
+        "description": "München Apron (Apron 2)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -846,7 +846,7 @@
         "logon": "EDDM_3_GND",
         "frequency": "121.930",
         "abbreviation": "DMG3",
-        "description": "M\u00fcnchen Apron (Apron 3)",
+        "description": "München Apron (Apron 3)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -856,7 +856,7 @@
         "logon": "EDDM_I_GND",
         "frequency": "121.990",
         "abbreviation": "DMGI",
-        "description": "M\u00fcnchen DeIcing Coordinator",
+        "description": "München DeIcing Coordinator",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -866,7 +866,7 @@
         "logon": "EDDM_N_GND",
         "frequency": "121.980",
         "abbreviation": "DMGN",
-        "description": "M\u00fcnchen Ground (North)",
+        "description": "München Ground (North)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -876,7 +876,7 @@
         "logon": "EDDM_S_GND",
         "frequency": "121.830",
         "abbreviation": "DMGS",
-        "description": "M\u00fcnchen Ground (South)",
+        "description": "München Ground (South)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -886,7 +886,7 @@
         "logon": "EDDM_N_TWR",
         "frequency": "118.705",
         "abbreviation": "DMTN",
-        "description": "M\u00fcnchen Tower (North)",
+        "description": "München Tower (North)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -896,7 +896,7 @@
         "logon": "EDDM_S_TWR",
         "frequency": "120.505",
         "abbreviation": "DMTS",
-        "description": "M\u00fcnchen Tower (South)",
+        "description": "München Tower (South)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -906,14 +906,14 @@
         "logon": "EDDM_FB_APP",
         "frequency": "131.230",
         "abbreviation": "DMFBA",
-        "description": "M\u00fcnchen Radar (Fallback)",
+        "description": "München Radar (Fallback)",
         "gcap_status": "1"
     },
     {
         "logon": "EDDM_ND_APP",
         "frequency": "118.830",
         "abbreviation": "DMND",
-        "description": "M\u00fcnchen Arrival (North Director)",
+        "description": "München Arrival (North Director)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -923,7 +923,7 @@
         "logon": "EDDM_NH_APP",
         "frequency": "128.030",
         "abbreviation": "DMNH",
-        "description": "M\u00fcnchen Radar (North High)",
+        "description": "München Radar (North High)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -933,7 +933,7 @@
         "logon": "EDDM_NL_APP",
         "frequency": "123.905",
         "abbreviation": "DMNL",
-        "description": "M\u00fcnchen Radar (North Low)",
+        "description": "München Radar (North Low)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -943,7 +943,7 @@
         "logon": "EDDM_SD_APP",
         "frequency": "132.305",
         "abbreviation": "DMSD",
-        "description": "M\u00fcnchen Arrival (South Director)",
+        "description": "München Arrival (South Director)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -953,7 +953,7 @@
         "logon": "EDDM_SH_APP",
         "frequency": "120.780",
         "abbreviation": "DMSH",
-        "description": "M\u00fcnchen Radar (South High)",
+        "description": "München Radar (South High)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -963,7 +963,7 @@
         "logon": "EDDM_SL_APP",
         "frequency": "127.955",
         "abbreviation": "DMSL",
-        "description": "M\u00fcnchen Radar (South Low)",
+        "description": "München Radar (South Low)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -973,7 +973,7 @@
         "logon": "EDDN_GND",
         "frequency": "121.760",
         "abbreviation": "DNG",
-        "description": "N\u00fcrnberg Ground",
+        "description": "Nürnberg Ground",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -982,7 +982,7 @@
         "logon": "EDDN_TWR",
         "frequency": "118.305",
         "abbreviation": "DNT",
-        "description": "N\u00fcrnberg Tower",
+        "description": "Nürnberg Tower",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -991,7 +991,7 @@
         "logon": "EDDN_D_APP",
         "frequency": "119.475",
         "abbreviation": "DND",
-        "description": "N\u00fcrnberg Arrival",
+        "description": "Nürnberg Arrival",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -1000,7 +1000,7 @@
         "logon": "EDDN_FRK_APP",
         "frequency": "129.525",
         "abbreviation": "FRK",
-        "description": "M\u00fcnchen Radar (Franken)",
+        "description": "München Radar (Franken)",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -1063,7 +1063,7 @@
         "logon": "EDDP_TRN_APP",
         "frequency": "126.065",
         "abbreviation": "TRN",
-        "description": "M\u00fcnchen Radar (Th\u00fcringen Low North)",
+        "description": "München Radar (Thüringen Low North)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -1072,7 +1072,7 @@
         "logon": "EDDP_TRS_APP",
         "frequency": "126.175",
         "abbreviation": "TRS",
-        "description": "M\u00fcnchen Radar (Th\u00fcringen Low South)",
+        "description": "München Radar (Thüringen Low South)",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -1081,7 +1081,7 @@
         "logon": "EDDR_GND",
         "frequency": "118.555",
         "abbreviation": "DRG",
-        "description": "Saarbr\u00fccken Ground",
+        "description": "Saarbrücken Ground",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -1091,7 +1091,7 @@
         "logon": "EDDR_TWR",
         "frequency": "118.355",
         "abbreviation": "DRT",
-        "description": "Saarbr\u00fccken Tower",
+        "description": "Saarbrücken Tower",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -1309,7 +1309,7 @@
         "logon": "EDEW_I_TWR",
         "frequency": "131.010",
         "abbreviation": "EWI",
-        "description": "Walld\u00fcrn Radio",
+        "description": "Walldürn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1438,7 +1438,7 @@
         "logon": "EDFL_I_TWR",
         "frequency": "122.505",
         "abbreviation": "FLI",
-        "description": "L\u00fctzellinden Radio",
+        "description": "Lützellinden Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1484,7 +1484,7 @@
         "logon": "EDFP_I_TWR",
         "frequency": "122.340",
         "abbreviation": "FPI",
-        "description": "Ober-M\u00f6rlen Radio",
+        "description": "Ober-Mörlen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1550,7 +1550,7 @@
         "logon": "EDFW_I_TWR",
         "frequency": "132.990",
         "abbreviation": "FWI",
-        "description": "W\u00fcrzburg Radio",
+        "description": "Würzburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1632,7 +1632,7 @@
         "logon": "EDGG_DKB_CTR",
         "frequency": "125.200",
         "abbreviation": "DKB",
-        "description": "Langen Radar (Dinkelsb\u00fchl)",
+        "description": "Langen Radar (Dinkelsbühl)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -1651,7 +1651,7 @@
         "logon": "EDGG_GIN_CTR",
         "frequency": "124.730",
         "abbreviation": "GIN",
-        "description": "Langen Radar (Gie\u00dfen)",
+        "description": "Langen Radar (Gießen)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -1688,7 +1688,7 @@
         "logon": "EDGG_KNG_CTR",
         "frequency": "125.680",
         "abbreviation": "KNG",
-        "description": "Langen Radar (K\u00f6nig)",
+        "description": "Langen Radar (König)",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -1754,7 +1754,7 @@
         "logon": "EDGG_RUD_CTR",
         "frequency": "133.435",
         "abbreviation": "RUD",
-        "description": "Langen Radar (R\u00fcdesheim)",
+        "description": "Langen Radar (Rüdesheim)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -1875,7 +1875,7 @@
         "logon": "EDGU_I_TWR",
         "frequency": "132.015",
         "abbreviation": "GUI",
-        "description": "Untersch\u00fcpf Radio",
+        "description": "Unterschüpf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1920,7 +1920,7 @@
         "logon": "EDHG_I_TWR",
         "frequency": "122.180",
         "abbreviation": "HGT",
-        "description": "L\u00fcneburg Radio",
+        "description": "Lüneburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2007,7 +2007,7 @@
         "logon": "EDJA_ILR_APP",
         "frequency": "129.450",
         "abbreviation": "ILR",
-        "description": "M\u00fcnchen Radar (Iller)",
+        "description": "München Radar (Iller)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -2052,7 +2052,7 @@
         "logon": "EDKH_I_TWR",
         "frequency": "123.685",
         "abbreviation": "KHI",
-        "description": "H\u00fcnsborn Radio",
+        "description": "Hünsborn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2088,7 +2088,7 @@
         "logon": "EDKN_I_TWR",
         "frequency": "133.580",
         "abbreviation": "KNI",
-        "description": "Wipperf\u00fcrth Radio",
+        "description": "Wipperfürth Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2196,7 +2196,7 @@
         "logon": "EDLE_I_TWR",
         "frequency": "119.755",
         "abbreviation": "LEI",
-        "description": "Essen/M\u00fclheim Radio",
+        "description": "Essen/Mülheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2268,7 +2268,7 @@
         "logon": "EDLN_GND",
         "frequency": "121.930",
         "abbreviation": "LNG",
-        "description": "M\u00f6nchengladbach Ground",
+        "description": "Mönchengladbach Ground",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -2277,7 +2277,7 @@
         "logon": "EDLN_TWR",
         "frequency": "120.455",
         "abbreviation": "LNT",
-        "description": "M\u00f6nchengladbach Tower",
+        "description": "Mönchengladbach Tower",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -2432,7 +2432,7 @@
         "logon": "EDMA_APP",
         "frequency": "128.255",
         "abbreviation": "DMAG",
-        "description": "M\u00fcnchen Radar (Augsburg Sector)",
+        "description": "München Radar (Augsburg Sector)",
         "gcap_status": "1"
     },
     {
@@ -2475,7 +2475,7 @@
         "logon": "EDMM_SWA_APP",
         "frequency": "136.525",
         "abbreviation": "SWA",
-        "description": "M\u00fcnchen Radar (Schwaben)",
+        "description": "München Radar (Schwaben)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -2484,7 +2484,7 @@
         "logon": "EDMM_ALB_CTR",
         "frequency": "129.100",
         "abbreviation": "ALB",
-        "description": "M\u00fcnchen Radar (Allersberg)",
+        "description": "München Radar (Allersberg)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -2494,7 +2494,7 @@
         "logon": "EDMM_BBG_CTR",
         "frequency": "133.615",
         "abbreviation": "BBG",
-        "description": "M\u00fcnchen Radar (Bamberg)",
+        "description": "München Radar (Bamberg)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -2504,7 +2504,7 @@
         "logon": "EDMM_EGG_CTR",
         "frequency": "129.555",
         "abbreviation": "EGG",
-        "description": "M\u00fcnchen Radar (Eggenfelden)",
+        "description": "München Radar (Eggenfelden)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -2514,7 +2514,7 @@
         "logon": "EDMM_FUE_CTR",
         "frequency": "133.550",
         "abbreviation": "FUE",
-        "description": "M\u00fcnchen Radar (F\u00fcssen)",
+        "description": "München Radar (Füssen)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -2523,7 +2523,7 @@
         "logon": "EDMM_GER_CTR",
         "frequency": "133.230",
         "abbreviation": "GER",
-        "description": "M\u00fcnchen Radar (Gera)",
+        "description": "München Radar (Gera)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -2533,7 +2533,7 @@
         "logon": "EDMM_HAL_CTR",
         "frequency": "118.235",
         "abbreviation": "HAL",
-        "description": "M\u00fcnchen Radar (Halle)",
+        "description": "München Radar (Halle)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -2543,7 +2543,7 @@
         "logon": "EDMM_HOF_CTR",
         "frequency": "133.565",
         "abbreviation": "HOF",
-        "description": "M\u00fcnchen Radar (Hof)",
+        "description": "München Radar (Hof)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -2553,7 +2553,7 @@
         "logon": "EDMM_MEI_CTR",
         "frequency": "124.960",
         "abbreviation": "MEI",
-        "description": "M\u00fcnchen Radar (Meissen)",
+        "description": "München Radar (Meissen)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -2563,7 +2563,7 @@
         "logon": "EDMM_NDG_CTR",
         "frequency": "125.140",
         "abbreviation": "NDG",
-        "description": "M\u00fcnchen Radar (N\u00f6rdlingen)",
+        "description": "München Radar (Nördlingen)",
         "schedule_show_always": [
             "EDMM"
         ],
@@ -2573,7 +2573,7 @@
         "logon": "EDMM_RDG_CTR",
         "frequency": "132.555",
         "abbreviation": "RDG",
-        "description": "M\u00fcnchen Radar (Roding)",
+        "description": "München Radar (Roding)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -2584,7 +2584,7 @@
         "logon": "EDMM_STA_CTR",
         "frequency": "132.455",
         "abbreviation": "STA",
-        "description": "M\u00fcnchen Radar (Starnberg)",
+        "description": "München Radar (Starnberg)",
         "schedule_show_always": [
             "EDMM"
         ]
@@ -2593,7 +2593,7 @@
         "logon": "EDMM_TEG_CTR",
         "frequency": "133.680",
         "abbreviation": "TEG",
-        "description": "M\u00fcnchen Radar (Tegernsee)",
+        "description": "München Radar (Tegernsee)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -2602,7 +2602,7 @@
         "logon": "EDMM_TRU_CTR",
         "frequency": "132.635",
         "abbreviation": "TRU",
-        "description": "M\u00fcnchen Radar (Traun)",
+        "description": "München Radar (Traun)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -2612,7 +2612,7 @@
         "logon": "EDMM_WLD_CTR",
         "frequency": "136.230",
         "abbreviation": "WLD",
-        "description": "M\u00fcnchen Radar (Walda)",
+        "description": "München Radar (Walda)",
         "schedule_show_booked": [
             "EDMM"
         ]
@@ -2621,7 +2621,7 @@
         "logon": "EDMM_ZUG_CTR",
         "frequency": "134.150",
         "abbreviation": "ZUG",
-        "description": "M\u00fcnchen Radar (Zugspitze)",
+        "description": "München Radar (Zugspitze)",
         "schedule_show_booked": [
             "EDMM"
         ],
@@ -2732,7 +2732,7 @@
         "logon": "EDPU_I_TWR",
         "frequency": "135.115",
         "abbreviation": "PUI",
-        "description": "Bartholom\u00e4 Start",
+        "description": "Bartholomä Start",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2935,7 +2935,7 @@
         "logon": "EDRF_I_TWR",
         "frequency": "122.405",
         "abbreviation": "RFI",
-        "description": "D\u00fcrkheim Radio",
+        "description": "Dürkheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2953,7 +2953,7 @@
         "logon": "EDRH_I_TWR",
         "frequency": "130.655",
         "abbreviation": "RHI",
-        "description": "Hoppst\u00e4dten Radio",
+        "description": "Hoppstädten Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3091,7 +3091,7 @@
         "logon": "EDRZ_I_TWR",
         "frequency": "123.830",
         "abbreviation": "RZI",
-        "description": "Zweibr\u00fccken Information",
+        "description": "Zweibrücken Information",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -3142,7 +3142,7 @@
         "logon": "EDSF_I_TWR",
         "frequency": "125.815",
         "abbreviation": "SFI",
-        "description": "H\u00fctten-Hotzenwald Radio",
+        "description": "Hütten-Hotzenwald Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3196,7 +3196,7 @@
         "logon": "EDSM_I_TWR",
         "frequency": "122.430",
         "abbreviation": "SMI",
-        "description": "M\u00fcllheim Radio",
+        "description": "Müllheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3241,7 +3241,7 @@
         "logon": "EDSV_I_TWR",
         "frequency": "119.415",
         "abbreviation": "SVI",
-        "description": "W\u00e4chtersberg Radio",
+        "description": "Wächtersberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3458,7 +3458,7 @@
         "logon": "EDTY_I_TWR",
         "frequency": "129.230",
         "abbreviation": "TYI",
-        "description": "Schw\u00e4bisch Hall Information",
+        "description": "Schwäbisch Hall Information",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -3599,7 +3599,7 @@
         "logon": "EDUU_SLN_CTR",
         "frequency": "120.930",
         "abbreviation": "SLN",
-        "description": "Rhein Radar (S\u00f6llingen)",
+        "description": "Rhein Radar (Söllingen)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -3629,7 +3629,7 @@
         "logon": "EDUU_WUR_CTR",
         "frequency": "134.085",
         "abbreviation": "WUR",
-        "description": "Rhein Radar (W\u00fcrzburg)",
+        "description": "Rhein Radar (Würzburg)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -3668,7 +3668,7 @@
         "logon": "EDVI_I_TWR",
         "frequency": "130.280",
         "abbreviation": "VIT",
-        "description": "H\u00f6xter Radio",
+        "description": "Höxter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3806,7 +3806,7 @@
         "logon": "EDWO_I_TWR",
         "frequency": "118.680",
         "abbreviation": "WOT",
-        "description": "Osnabr\u00fcck Radio",
+        "description": "Osnabrück Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3980,7 +3980,7 @@
         "logon": "EDXB_I_TWR",
         "frequency": "125.860",
         "abbreviation": "XBT",
-        "description": "B\u00fcsum Radio",
+        "description": "Büsum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4043,7 +4043,7 @@
         "logon": "EDXQ_I_TWR",
         "frequency": "136.015",
         "abbreviation": "XQT",
-        "description": "W\u00fcmme Radio",
+        "description": "Wümme Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4262,7 +4262,7 @@
         "logon": "EDYY_MH_CTR",
         "frequency": "133.215",
         "abbreviation": "MH",
-        "description": "Maastricht Radar (M\u00fcnster High)",
+        "description": "Maastricht Radar (Münster High)",
         "schedule_show_booked": [
             "EDWW",
             "EDGG"
@@ -4273,7 +4273,7 @@
         "logon": "EDYY_ML_CTR",
         "frequency": "122.185",
         "abbreviation": "ML",
-        "description": "Maastricht Radar (M\u00fcnster Low)",
+        "description": "Maastricht Radar (Münster Low)",
         "schedule_show_booked": [
             "EDWW",
             "EDGG"
@@ -4284,7 +4284,7 @@
         "logon": "EDYY_MM_CTR",
         "frequency": "130.110",
         "abbreviation": "MM",
-        "description": "Maastricht Radar (M\u00fcnster)",
+        "description": "Maastricht Radar (Münster)",
         "schedule_show_booked": [
             "EDWW",
             "EDGG"
@@ -4414,7 +4414,7 @@
         "logon": "ETHB_TWR",
         "frequency": "122.100",
         "abbreviation": "HBT",
-        "description": "B\u00fckeburg Tower",
+        "description": "Bükeburg Tower",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -4423,7 +4423,7 @@
         "logon": "ETHB_APP",
         "frequency": "124.505",
         "abbreviation": "HBR",
-        "description": "B\u00fckeburg Radar",
+        "description": "Bükeburg Radar",
         "schedule_show_booked": [
             "EDWW"
         ]
@@ -4642,7 +4642,7 @@
         "logon": "ETNN_TWR",
         "frequency": "136.205",
         "abbreviation": "TNNT",
-        "description": "N\u00f6rvenich Tower",
+        "description": "Nörvenich Tower",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -4651,7 +4651,7 @@
         "logon": "ETNN_APP",
         "frequency": "129.055",
         "abbreviation": "TNNA",
-        "description": "N\u00f6rvenich Radar",
+        "description": "Nörvenich Radar",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -4741,7 +4741,7 @@
         "logon": "ETSB_TWR",
         "frequency": "129.060",
         "abbreviation": "TSBT",
-        "description": "B\u00fcchel Tower",
+        "description": "Büchel Tower",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -4750,7 +4750,7 @@
         "logon": "ETSB_APP",
         "frequency": "130.155",
         "abbreviation": "TSBA",
-        "description": "B\u00fcchel Radarr",
+        "description": "Büchel Radarr",
         "schedule_show_booked": [
             "EDGG"
         ]
