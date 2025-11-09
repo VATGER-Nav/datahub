@@ -57,7 +57,7 @@
         "logon": "EDEW_I_TWR",
         "frequency": "131.010",
         "abbreviation": "EWI",
-        "description": "Walld\u00fcrn Radio",
+        "description": "Walldürn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -150,7 +150,7 @@
         "logon": "EDFL_I_TWR",
         "frequency": "122.505",
         "abbreviation": "FLI",
-        "description": "L\u00fctzellinden Radio",
+        "description": "Lützellinden Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -177,7 +177,7 @@
         "logon": "EDFP_I_TWR",
         "frequency": "122.340",
         "abbreviation": "FPI",
-        "description": "Ober-M\u00f6rlen Radio",
+        "description": "Ober-Mörlen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -243,7 +243,7 @@
         "logon": "EDFW_I_TWR",
         "frequency": "132.990",
         "abbreviation": "FWI",
-        "description": "W\u00fcrzburg Radio",
+        "description": "Würzburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -408,7 +408,7 @@
         "logon": "EDGU_I_TWR",
         "frequency": "132.015",
         "abbreviation": "GUI",
-        "description": "Untersch\u00fcpf Radio",
+        "description": "Unterschüpf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -480,7 +480,7 @@
         "logon": "EDKH_I_TWR",
         "frequency": "123.685",
         "abbreviation": "KHI",
-        "description": "H\u00fcnsborn Radio",
+        "description": "Hünsborn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -516,7 +516,7 @@
         "logon": "EDKN_I_TWR",
         "frequency": "133.580",
         "abbreviation": "KNI",
-        "description": "Wipperf\u00fcrth Radio",
+        "description": "Wipperfürth Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -624,7 +624,7 @@
         "logon": "EDLE_I_TWR",
         "frequency": "119.755",
         "abbreviation": "LEI",
-        "description": "Essen/M\u00fclheim Radio",
+        "description": "Essen/Mülheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -777,7 +777,7 @@
         "logon": "EDPU_I_TWR",
         "frequency": "135.115",
         "abbreviation": "PUI",
-        "description": "Bartholom\u00e4 Start",
+        "description": "Bartholomä Start",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -870,7 +870,7 @@
         "logon": "EDRF_I_TWR",
         "frequency": "122.405",
         "abbreviation": "RFI",
-        "description": "D\u00fcrkheim Radio",
+        "description": "Dürkheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -888,7 +888,7 @@
         "logon": "EDRH_I_TWR",
         "frequency": "130.655",
         "abbreviation": "RHI",
-        "description": "Hoppst\u00e4dten Radio",
+        "description": "Hoppstädten Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1026,7 +1026,7 @@
         "logon": "EDRZ_I_TWR",
         "frequency": "123.830",
         "abbreviation": "RZI",
-        "description": "Zweibr\u00fccken Information",
+        "description": "Zweibrücken Information",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -1056,7 +1056,7 @@
         "logon": "EDSF_I_TWR",
         "frequency": "125.815",
         "abbreviation": "SFI",
-        "description": "H\u00fctten-Hotzenwald Radio",
+        "description": "Hütten-Hotzenwald Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1110,7 +1110,7 @@
         "logon": "EDSM_I_TWR",
         "frequency": "122.430",
         "abbreviation": "SMI",
-        "description": "M\u00fcllheim Radio",
+        "description": "Müllheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1155,7 +1155,7 @@
         "logon": "EDSV_I_TWR",
         "frequency": "119.415",
         "abbreviation": "SVI",
-        "description": "W\u00e4chtersberg Radio",
+        "description": "Wächtersberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1353,7 +1353,7 @@
         "logon": "EDTY_I_TWR",
         "frequency": "129.230",
         "abbreviation": "TYI",
-        "description": "Schw\u00e4bisch Hall Information",
+        "description": "Schwäbisch Hall Information",
         "schedule_show_booked": [
             "EDGG"
         ],

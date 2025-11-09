@@ -13,7 +13,7 @@
         "logon": "EDDK_CO_DEL",
         "frequency": "121.855",
         "abbreviation": "DKC",
-        "description": "K\u00f6ln/Bonn Delivery Coordinator",
+        "description": "Köln/Bonn Delivery Coordinator",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -22,7 +22,7 @@
         "logon": "EDDL_CO_DEL",
         "frequency": "121.780",
         "abbreviation": "DLC",
-        "description": "D\u00fcsseldorf Delivery Coordinator",
+        "description": "Düsseldorf Delivery Coordinator",
         "schedule_show_booked": [
             "EDGG"
         ],

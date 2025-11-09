@@ -43,7 +43,7 @@
         "logon": "EDDG_TWR",
         "frequency": "129.805",
         "abbreviation": "DGT",
-        "description": "M\u00fcnster Tower",
+        "description": "Münster Tower",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -54,7 +54,7 @@
         "logon": "EDDK_TWR",
         "frequency": "124.980",
         "abbreviation": "DKT",
-        "description": "K\u00f6ln/Bonn Tower",
+        "description": "Köln/Bonn Tower",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -64,7 +64,7 @@
         "logon": "EDDL_TWR",
         "frequency": "118.305",
         "abbreviation": "DLT",
-        "description": "D\u00fcsseldorf Tower",
+        "description": "Düsseldorf Tower",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -74,7 +74,7 @@
         "logon": "EDDR_TWR",
         "frequency": "118.355",
         "abbreviation": "DRT",
-        "description": "Saarbr\u00fccken Tower",
+        "description": "Saarbrücken Tower",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -124,7 +124,7 @@
         "logon": "EDLN_TWR",
         "frequency": "120.455",
         "abbreviation": "LNT",
-        "description": "M\u00f6nchengladbach Tower",
+        "description": "Mönchengladbach Tower",
         "schedule_show_booked": [
             "EDGG"
         ],

@@ -1,13 +1,34 @@
-from datahub.classes.datahub import Datahub
+from pathlib import Path
+
+from datahub.exports.data_exporter import DataExporter
+from datahub.exports.schedule_exporter import ScheduleExporter
+from datahub.exports.topsky_exporter import TopskyExporter
+from datahub.exports.ts_exporter import TeamspeakExporter
+from datahub.loaders.data_loader import DataLoader
+from datahub.sorting.station_sorter import StationSorter
+
+DATA_DIR = Path("data/")
+API_DIR = Path("api/")
 
 
 def check_data():
-    Datahub().check_data()
+    DataLoader.load(DATA_DIR, exclude_folders={"event_schedules", "topsky"})
 
 
 def combine_data():
-    Datahub().combine_data()
+    data = DataLoader.load(DATA_DIR, exclude_folders={"event_schedules", "topsky"})
+
+    data = StationSorter.sort(data)
+
+    DataExporter.export(API_DIR, data, combine=True)
+    TeamspeakExporter.export(API_DIR / "legacy/atc_station_mappings.json", data)
+    ScheduleExporter.export(API_DIR / "legacy/schedule.json", data)
+    TopskyExporter.export(API_DIR / "topsky/TopSkyCPDLC.txt", data)
 
 
 def sort_data():
-    Datahub().sort_data()
+    data = DataLoader.load(DATA_DIR, exclude_folders={"event_schedules", "topsky"})
+
+    data = StationSorter.sort(data)
+
+    DataExporter.export(DATA_DIR, data)

@@ -63,7 +63,7 @@
         "logon": "EDDG_GND",
         "frequency": "121.880",
         "abbreviation": "DGG",
-        "description": "M\u00fcnster Ground",
+        "description": "Münster Ground",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -73,7 +73,7 @@
         "logon": "EDDK_GND",
         "frequency": "121.730",
         "abbreviation": "DKG",
-        "description": "K\u00f6ln/Bonn Ground",
+        "description": "Köln/Bonn Ground",
         "schedule_show_always": [
             "EDGG"
         ]
@@ -82,7 +82,7 @@
         "logon": "EDDK_P_GND",
         "frequency": "121.955",
         "abbreviation": "DKGP",
-        "description": "K\u00f6ln/Bonn Apron",
+        "description": "Köln/Bonn Apron",
         "schedule_show_booked": [
             "EDGG"
         ]
@@ -91,7 +91,7 @@
         "logon": "EDDL_E_GND",
         "frequency": "121.605",
         "abbreviation": "DLGE",
-        "description": "D\u00fcsseldorf Ground (East)",
+        "description": "Düsseldorf Ground (East)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -101,7 +101,7 @@
         "logon": "EDDL_W_GND",
         "frequency": "121.680",
         "abbreviation": "DLGW",
-        "description": "D\u00fcsseldorf Ground (West)",
+        "description": "Düsseldorf Ground (West)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -111,7 +111,7 @@
         "logon": "EDDR_GND",
         "frequency": "118.555",
         "abbreviation": "DRG",
-        "description": "Saarbr\u00fccken Ground",
+        "description": "Saarbrücken Ground",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -146,7 +146,7 @@
         "logon": "EDLN_GND",
         "frequency": "121.930",
         "abbreviation": "LNG",
-        "description": "M\u00f6nchengladbach Ground",
+        "description": "Mönchengladbach Ground",
         "schedule_show_booked": [
             "EDGG"
         ]
