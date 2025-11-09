@@ -2,6 +2,7 @@ from pathlib import Path
 
 from datahub.exports.data_exporter import DataExporter
 from datahub.exports.schedule_exporter import ScheduleExporter
+from datahub.exports.topsky_exporter import TopskyExporter
 from datahub.exports.ts_exporter import TeamspeakExporter
 from datahub.loaders.data_loader import DataLoader
 from sorting.station_sorter import StationSorter
@@ -22,6 +23,7 @@ def combine_data():
     DataExporter.export(API_DIR, data, combine=True)
     TeamspeakExporter.export(API_DIR / "legacy/atc_station_mappings.json", data)
     ScheduleExporter.export(API_DIR / "legacy/schedule.json", data)
+    TopskyExporter.export(API_DIR / "topsky/TopSkyCPDLC.txt", data)
 
 
 def sort_data():
