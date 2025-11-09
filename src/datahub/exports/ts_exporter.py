@@ -2,6 +2,7 @@ import json
 import operator
 from pathlib import Path
 
+from datahub.settings import JSON_INDENT
 from datahub.views.data_source import DataSource
 
 
@@ -28,6 +29,6 @@ class TeamspeakExporter:
         mapping_data.sort(key=operator.itemgetter("callsignPrefix", "id"))
 
         with Path.open(folder_path, "w", encoding="utf-8") as output_json_file:
-            json.dump(mapping_data, output_json_file, indent=4)
+            json.dump(mapping_data, output_json_file, indent=JSON_INDENT)
 
         print(f"TeamspeakExporter: exported {len(mapping_data)} stations")

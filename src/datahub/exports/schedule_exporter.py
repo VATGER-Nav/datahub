@@ -2,6 +2,7 @@ import json
 import operator
 from pathlib import Path
 
+from datahub.settings import JSON_INDENT
 from datahub.views.data_source import DataSource
 
 
@@ -49,4 +50,4 @@ class ScheduleExporter:
         print(f"ScheduleExporter: exported {len(inverted_schedule)} schedules")
 
         with Path.open(schedule_path, "w", encoding="utf-8") as output_json_file:
-            json.dump(inverted_schedule, output_json_file, indent=4)
+            json.dump(inverted_schedule, output_json_file, indent=JSON_INDENT)

@@ -3,6 +3,7 @@ from pathlib import Path
 
 import toml
 
+from datahub.settings import JSON_INDENT
 from datahub.views.data_source import DataSource
 from sorting.station_sorter import StationSorter
 
@@ -35,7 +36,7 @@ class DataExporter:
 
             if file_path.suffix == ".json":
                 with file_path.open("w", encoding="utf-8") as f:
-                    json.dump(stations_data, f, indent=4, ensure_ascii=False)
+                    json.dump(stations_data, f, indent=JSON_INDENT, ensure_ascii=False)
             elif file_path.suffix == ".toml":
                 with file_path.open("w", encoding="utf-8") as f:
                     toml.dump({"stations": stations_data}, f)
@@ -51,6 +52,6 @@ class DataExporter:
 
             with combined_path.open("w", encoding="utf-8") as f:
                 if (target_format or "json") == "json":
-                    json.dump(serializable_data, f, indent=4, ensure_ascii=False)
+                    json.dump(serializable_data, f, indent=JSON_INDENT, ensure_ascii=False)
                 else:
                     toml.dump({"stations": serializable_data}, f)
