@@ -35,10 +35,10 @@ class DataExporter:
             stations_data = [station.to_dict() for station in file.data]
 
             if file_path.suffix == ".json":
-                with file_path.open("w", encoding="utf-8") as f:
+                with file_path.open("w+", encoding="utf-8") as f:
                     json.dump(stations_data, f, indent=JSON_INDENT, ensure_ascii=False)
             elif file_path.suffix == ".toml":
-                with file_path.open("w", encoding="utf-8") as f:
+                with file_path.open("w+", encoding="utf-8") as f:
                     toml.dump({"stations": stations_data}, f)
             else:
                 msg = f"Unsupported file extension: {file_path.suffix}"
@@ -50,7 +50,7 @@ class DataExporter:
             combined_data = StationSorter.sort(combined_data)
             serializable_data = [s.to_dict() for s in combined_data]
 
-            with combined_path.open("w", encoding="utf-8") as f:
+            with combined_path.open("w+", encoding="utf-8") as f:
                 if (target_format or "json") == "json":
                     json.dump(serializable_data, f, indent=JSON_INDENT, ensure_ascii=False)
                 else:

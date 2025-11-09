@@ -8,7 +8,7 @@ from datahub.views.data_source import DataSource
 class TopskyExporter:
     @staticmethod
     def export(
-        schedule_path: Path | str,
+        ts_path: Path | str,
         data: list[DataSource],
         cpdlc_mapping=Path("data/topsky/cpdlcMap.json"),
     ):
@@ -48,5 +48,7 @@ class TopskyExporter:
 
         print(f"TopskyExporter: exported {len(cpdlc_station_data)} stations")
 
-        with Path.open(schedule_path, "w", encoding="utf-8") as output_text:
+        ts_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with Path.open(ts_path, "w+", encoding="utf-8") as output_text:
             output_text.writelines(output_lines)

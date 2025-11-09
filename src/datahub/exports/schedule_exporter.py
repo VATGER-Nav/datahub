@@ -49,5 +49,7 @@ class ScheduleExporter:
 
         print(f"ScheduleExporter: exported {len(inverted_schedule)} schedules")
 
-        with Path.open(schedule_path, "w", encoding="utf-8") as output_json_file:
+        schedule_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with Path.open(schedule_path, "w+", encoding="utf-8") as output_json_file:
             json.dump(inverted_schedule, output_json_file, indent=JSON_INDENT)

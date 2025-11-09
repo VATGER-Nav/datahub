@@ -28,7 +28,9 @@ class TeamspeakExporter:
         # sort mapping_data by 'callsignPrefix' first, then by 'id'
         mapping_data.sort(key=operator.itemgetter("callsignPrefix", "id"))
 
-        with Path.open(folder_path, "w", encoding="utf-8") as output_json_file:
+        folder_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with Path.open(folder_path, "w+", encoding="utf-8") as output_json_file:
             json.dump(mapping_data, output_json_file, indent=JSON_INDENT)
 
         print(f"TeamspeakExporter: exported {len(mapping_data)} stations")
