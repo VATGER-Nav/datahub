@@ -4,8 +4,8 @@ from pathlib import Path
 import toml
 
 from datahub.settings import JSON_INDENT
+from datahub.sorting.station_sorter import StationSorter
 from datahub.views.data_source import DataSource
-from sorting.station_sorter import StationSorter
 
 
 class DataExporter:

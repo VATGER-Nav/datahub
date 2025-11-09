@@ -5,7 +5,7 @@ from datahub.exports.schedule_exporter import ScheduleExporter
 from datahub.exports.topsky_exporter import TopskyExporter
 from datahub.exports.ts_exporter import TeamspeakExporter
 from datahub.loaders.data_loader import DataLoader
-from sorting.station_sorter import StationSorter
+from datahub.sorting.station_sorter import StationSorter
 
 DATA_DIR = Path("data/")
 API_DIR = Path("api/")
