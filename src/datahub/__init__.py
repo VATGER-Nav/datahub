@@ -4,6 +4,7 @@ from datahub.exports.data_exporter import DataExporter
 from datahub.exports.schedule_exporter import ScheduleExporter
 from datahub.exports.topsky_exporter import TopskyExporter
 from datahub.exports.ts_exporter import TeamspeakExporter
+from datahub.exports.vateud_exporter import VateudExporter
 from datahub.loaders.data_loader import DataLoader
 from datahub.sorting.station_sorter import StationSorter
 
@@ -32,3 +33,9 @@ def sort_data():
     data = StationSorter.sort(data)
 
     DataExporter.export(DATA_DIR, data)
+
+
+def vateud():
+    data = DataLoader.load(DATA_DIR, exclude_folders={"event_schedules", "topsky"})
+
+    VateudExporter.export("vateud.csv", data)
