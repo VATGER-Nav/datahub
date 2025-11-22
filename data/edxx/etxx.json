@@ -1,0 +1,14 @@
+[
+    {
+        "logon": "ETXX_LS_CTR",
+        "frequency": "122.765",
+        "abbreviation": "TLS",
+        "description": "Loneship"
+    },
+    {
+        "logon": "ETXX_SR_CTR",
+        "frequency": "131.080",
+        "abbreviation": "TSR",
+        "description": "Sunrise"
+    }
+]
