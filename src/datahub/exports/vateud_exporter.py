@@ -7,6 +7,7 @@ from typing import TYPE_CHECKING
 import requests
 from bs4 import BeautifulSoup
 
+from datahub.sorting.station_sorter import StationSorter
 from datahub.views.data_source import DataSource
 
 if TYPE_CHECKING:
@@ -60,7 +61,7 @@ class VateudExporter:
                 "Remark",
             ])
 
-            for callsign in missing_in_vateud:
+            for callsign in sorted(missing_in_vateud, key=StationSorter.sort_key):
                 s = station_map[callsign]
                 writer.writerow([
                     "",
@@ -72,7 +73,7 @@ class VateudExporter:
                     "Missing in VATEUD",
                 ])
 
-            for callsign in missing_in_stations:
+            for callsign in sorted(missing_in_stations, key=StationSorter.sort_key):
                 vs = vateud_map[callsign]
                 writer.writerow([
                     vs.callsign,
