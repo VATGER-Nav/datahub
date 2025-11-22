@@ -26,25 +26,32 @@ class StationSorter:
             raise TypeError(msg)
 
     @staticmethod
-    def sort_key(station: Station | dict):
-        if isinstance(station, Station):
-            parts = station.logon.split("_")
-        else:
-            parts = station.get("logon", "").split("_")
+    def sort_key(station):
+        logon = StationSorter.get_logon(station)
+        parts = logon.split("_")
 
-        prefix_order = parts[0]
+        prefix = parts[0] if len(parts) > 0 else ""
+        middle = parts[1] if len(parts) > 1 else ""
+        third = parts[2] if len(parts) > 2 else parts[1] if len(parts) > 1 else ""
 
-        middlefix_sort = parts[1] if len(parts) > 1 else ""
+        suffix_order = LOGON_SUFFIXES.index(third) if third in LOGON_SUFFIXES else float("inf")
 
-        third_part = parts[2] if len(parts) > 2 else parts[1]
+        return (prefix, suffix_order, middle)
 
-        # map the third part using the LOGON_SUFFIXES order (missing part goes first)
-        suffix_order = (
-            LOGON_SUFFIXES.index(third_part) if third_part in LOGON_SUFFIXES else float("inf")
-        )
+    @staticmethod
+    def get_logon(value):
+        # callsign directly
+        if isinstance(value, str):
+            return value
 
-        # sort by prefix, then suffix, then middlefix
-        return (prefix_order, suffix_order, middlefix_sort)
+        if isinstance(value, dict):
+            return value.get("logon", "")
+
+        if hasattr(value, "logon"):
+            return value.logon
+
+        msg = f"Cannot extract logon from type {type(value)}"
+        raise TypeError(msg)
 
     @staticmethod
     def sort_stations(stations: list[Station]) -> list[Station]:
