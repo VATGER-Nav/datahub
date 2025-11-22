@@ -1,9 +1,63 @@
 [
     {
+        "logon": "EDAE_I_TWR",
+        "frequency": "134.535",
+        "abbreviation": "AER",
+        "description": "Eisenhuettenstadt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAI_I_TWR",
+        "frequency": "126.010",
+        "abbreviation": "AIR",
+        "description": "Segeletz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAN_I_TWR",
+        "frequency": "118.815",
+        "abbreviation": "ANR",
+        "description": "Neustadt-Glewe Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAP_I_TWR",
+        "frequency": "122.730",
+        "abbreviation": "APR",
+        "description": "Neuhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAS_I_TWR",
+        "frequency": "125.365",
+        "abbreviation": "ASR",
+        "description": "Finsterwalde Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDAV_I_TWR",
         "frequency": "119.055",
-        "abbreviation": "AVT",
+        "abbreviation": "AVR",
         "description": "Finow Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAX_I_TWR",
+        "frequency": "118.990",
+        "abbreviation": "AXR",
+        "description": "Mueritz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -30,7 +84,34 @@
         "logon": "EDBC_I_TWR",
         "frequency": "131.130",
         "abbreviation": "BCT",
-        "description": "Cochstedt Radio",
+        "description": "Cochstedt Information",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBE_I_TWR",
+        "frequency": "118.630",
+        "abbreviation": "BER",
+        "description": "Brandenburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBF_I_TWR",
+        "frequency": "133.940",
+        "abbreviation": "BFR",
+        "description": "Fehrbellin Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBG_I_TWR",
+        "frequency": "135.005",
+        "abbreviation": "BGR",
+        "description": "Burg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -47,7 +128,7 @@
     {
         "logon": "EDBK_I_TWR",
         "frequency": "122.730",
-        "abbreviation": "BKT",
+        "abbreviation": "BKR",
         "description": "Kyritz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -72,10 +153,64 @@
         "s1_theory": true
     },
     {
+        "logon": "EDBO_I_TWR",
+        "frequency": "123.260",
+        "abbreviation": "BOI",
+        "description": "Oehna Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBP_I_TWR",
+        "frequency": "118.005",
+        "abbreviation": "BPR",
+        "description": "Pinnow Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBQ_I_TWR",
+        "frequency": "130.330",
+        "abbreviation": "BQR",
+        "description": "Bronkow Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBU_I_TWR",
+        "frequency": "122.685",
+        "abbreviation": "BUR",
+        "description": "Pritzwalk Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBV_I_TWR",
+        "frequency": "118.630",
+        "abbreviation": "BVR",
+        "description": "Stralsund Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDBW_I_TWR",
         "frequency": "128.740",
-        "abbreviation": "BWT",
+        "abbreviation": "BWR",
         "description": "Werneuchen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBY_I_TWR",
+        "frequency": "136.015",
+        "abbreviation": "BYR",
+        "description": "Schmoldow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -83,7 +218,7 @@
     {
         "logon": "EDCA_I_TWR",
         "frequency": "122.655",
-        "abbreviation": "CAT",
+        "abbreviation": "CAR",
         "description": "Anklam Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -92,7 +227,7 @@
     {
         "logon": "EDCG_I_TWR",
         "frequency": "123.005",
-        "abbreviation": "CGT",
+        "abbreviation": "CGR",
         "description": "Ruegen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -101,7 +236,7 @@
     {
         "logon": "EDCP_I_TWR",
         "frequency": "122.480",
-        "abbreviation": "CPT",
+        "abbreviation": "CPR",
         "description": "Peenemuende Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -110,7 +245,7 @@
     {
         "logon": "EDHE_I_TWR",
         "frequency": "122.705",
-        "abbreviation": "HET",
+        "abbreviation": "HER",
         "description": "Uetersen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -119,7 +254,7 @@
     {
         "logon": "EDHG_I_TWR",
         "frequency": "122.180",
-        "abbreviation": "HGT",
+        "abbreviation": "HGR",
         "description": "Lüneburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -137,7 +272,7 @@
     {
         "logon": "EDHP_I_TWR",
         "frequency": "123.910",
-        "abbreviation": "HPT",
+        "abbreviation": "HPR",
         "description": "Pellworm Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -146,7 +281,7 @@
     {
         "logon": "EDHS_I_TWR",
         "frequency": "132.740",
-        "abbreviation": "HST",
+        "abbreviation": "HSR",
         "description": "Stade Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -155,7 +290,7 @@
     {
         "logon": "EDOI_I_TWR",
         "frequency": "134.990",
-        "abbreviation": "OIT",
+        "abbreviation": "OIR",
         "description": "Bienenfarm Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -164,7 +299,7 @@
     {
         "logon": "EDVC_I_TWR",
         "frequency": "123.655",
-        "abbreviation": "VCT",
+        "abbreviation": "VCR",
         "description": "Arloh Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -173,7 +308,7 @@
     {
         "logon": "EDVH_I_TWR",
         "frequency": "119.005",
-        "abbreviation": "VHT",
+        "abbreviation": "VHR",
         "description": "Hodenhagen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -182,7 +317,7 @@
     {
         "logon": "EDVI_I_TWR",
         "frequency": "130.280",
-        "abbreviation": "VIT",
+        "abbreviation": "VIR",
         "description": "Höxter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -191,7 +326,7 @@
     {
         "logon": "EDVN_I_TWR",
         "frequency": "118.705",
-        "abbreviation": "VNT",
+        "abbreviation": "VNR",
         "description": "Northeim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -200,7 +335,7 @@
     {
         "logon": "EDVS_I_TWR",
         "frequency": "122.855",
-        "abbreviation": "VST",
+        "abbreviation": "VSR",
         "description": "Salzgitter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -209,7 +344,7 @@
     {
         "logon": "EDVU_I_TWR",
         "frequency": "130.905",
-        "abbreviation": "VUT",
+        "abbreviation": "VUR",
         "description": "Uelzen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -218,7 +353,7 @@
     {
         "logon": "EDVW_I_TWR",
         "frequency": "121.180",
-        "abbreviation": "VWT",
+        "abbreviation": "VWR",
         "description": "Pyrmont Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -227,7 +362,7 @@
     {
         "logon": "EDVY_I_TWR",
         "frequency": "130.640",
-        "abbreviation": "VYT",
+        "abbreviation": "VYR",
         "description": "Porta Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -236,7 +371,7 @@
     {
         "logon": "EDWE_I_TWR",
         "frequency": "118.605",
-        "abbreviation": "WET",
+        "abbreviation": "WER",
         "description": "Emden Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -245,7 +380,7 @@
     {
         "logon": "EDWF_I_TWR",
         "frequency": "130.780",
-        "abbreviation": "WFT",
+        "abbreviation": "WFR",
         "description": "Leer Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -254,7 +389,7 @@
     {
         "logon": "EDWG_I_TWR",
         "frequency": "122.405",
-        "abbreviation": "WGT",
+        "abbreviation": "WGR",
         "description": "Wooge Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -263,7 +398,7 @@
     {
         "logon": "EDWI_I_TWR",
         "frequency": "129.255",
-        "abbreviation": "WIT",
+        "abbreviation": "WIR",
         "description": "Wilhelmshaven Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -272,7 +407,7 @@
     {
         "logon": "EDWJ_I_TWR",
         "frequency": "120.505",
-        "abbreviation": "WJT",
+        "abbreviation": "WJR",
         "description": "Juist Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -281,7 +416,7 @@
     {
         "logon": "EDWL_I_TWR",
         "frequency": "122.030",
-        "abbreviation": "WLT",
+        "abbreviation": "WLR",
         "description": "Langeoog Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -290,7 +425,7 @@
     {
         "logon": "EDWN_I_TWR",
         "frequency": "122.655",
-        "abbreviation": "WNT",
+        "abbreviation": "WNR",
         "description": "Nordhorn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -299,7 +434,7 @@
     {
         "logon": "EDWO_I_TWR",
         "frequency": "118.680",
-        "abbreviation": "WOT",
+        "abbreviation": "WOR",
         "description": "Osnabrück Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -308,7 +443,7 @@
     {
         "logon": "EDWQ_I_TWR",
         "frequency": "118.630",
-        "abbreviation": "WQT",
+        "abbreviation": "WQR",
         "description": "Ganderkesee Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -317,7 +452,7 @@
     {
         "logon": "EDWR_I_TWR",
         "frequency": "121.210",
-        "abbreviation": "WRT",
+        "abbreviation": "WRR",
         "description": "Borkum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -326,7 +461,7 @@
     {
         "logon": "EDWS_I_TWR",
         "frequency": "123.030",
-        "abbreviation": "WST",
+        "abbreviation": "WSR",
         "description": "Norddeich Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -335,7 +470,7 @@
     {
         "logon": "EDWT_I_TWR",
         "frequency": "120.605",
-        "abbreviation": "WTT",
+        "abbreviation": "WTR",
         "description": "Blexen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -344,7 +479,7 @@
     {
         "logon": "EDWY_I_TWR",
         "frequency": "122.605",
-        "abbreviation": "WYT",
+        "abbreviation": "WYR",
         "description": "Norderney Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -353,7 +488,7 @@
     {
         "logon": "EDWZ_I_TWR",
         "frequency": "132.015",
-        "abbreviation": "WZT",
+        "abbreviation": "WZR",
         "description": "Baltrum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -362,7 +497,7 @@
     {
         "logon": "EDXB_I_TWR",
         "frequency": "125.860",
-        "abbreviation": "XBT",
+        "abbreviation": "XBR",
         "description": "Büsum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -371,7 +506,7 @@
     {
         "logon": "EDXH_I_TWR",
         "frequency": "122.455",
-        "abbreviation": "XHT",
+        "abbreviation": "XHR",
         "description": "Helgoland Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -380,7 +515,7 @@
     {
         "logon": "EDXJ_I_TWR",
         "frequency": "125.850",
-        "abbreviation": "XJT",
+        "abbreviation": "XJR",
         "description": "Husum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -389,7 +524,7 @@
     {
         "logon": "EDXM_I_TWR",
         "frequency": "132.990",
-        "abbreviation": "XMT",
+        "abbreviation": "XMR",
         "description": "St. Michael Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -398,7 +533,7 @@
     {
         "logon": "EDXN_I_TWR",
         "frequency": "121.030",
-        "abbreviation": "XNT",
+        "abbreviation": "XNR",
         "description": "Spieka Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -407,7 +542,7 @@
     {
         "logon": "EDXO_I_TWR",
         "frequency": "129.780",
-        "abbreviation": "XOT",
+        "abbreviation": "XOR",
         "description": "St. Peter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -416,7 +551,7 @@
     {
         "logon": "EDXP_I_TWR",
         "frequency": "122.405",
-        "abbreviation": "XPT",
+        "abbreviation": "XPR",
         "description": "Harle Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -425,7 +560,7 @@
     {
         "logon": "EDXQ_I_TWR",
         "frequency": "136.015",
-        "abbreviation": "XQT",
+        "abbreviation": "XQR",
         "description": "Wümme Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -434,7 +569,7 @@
     {
         "logon": "EDXR_I_TWR",
         "frequency": "123.650",
-        "abbreviation": "XRT",
+        "abbreviation": "XRR",
         "description": "Rendsburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -443,7 +578,7 @@
     {
         "logon": "EDXY_I_TWR",
         "frequency": "118.255",
-        "abbreviation": "XYT",
+        "abbreviation": "XYR",
         "description": "Wyk Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -452,7 +587,7 @@
     {
         "logon": "ETND_I_TWR",
         "frequency": "122.530",
-        "abbreviation": "NDT",
+        "abbreviation": "NDR",
         "description": "Diepholz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
@@ -461,7 +596,7 @@
     {
         "logon": "ETWM_I_TWR",
         "frequency": "122.100",
-        "abbreviation": "WMT",
+        "abbreviation": "WMI",
         "description": "Meppen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
