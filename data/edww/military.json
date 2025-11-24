@@ -72,6 +72,15 @@
         ]
     },
     {
+        "logon": "ETND_TWR",
+        "frequency": "135.130",
+        "abbreviation": "HDT",
+        "description": "Diepholz Tower",
+        "schedule_show_booked": [
+            "EDWW"
+        ]
+    },
+    {
         "logon": "ETNH_TWR",
         "frequency": "122.100",
         "abbreviation": "NHT",
