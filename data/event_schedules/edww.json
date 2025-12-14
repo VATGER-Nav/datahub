@@ -4,15 +4,22 @@
     "one_date": "2025-09-19",
     "days": "42",
     "booking": [
-      "EDDB",
-      "EDDH",
-      "EDDW",
-      "EDDV",
+      "EDDH_DEL",
+      "EDDH_E_GND",
+      "EDDH_TWR",
+      "EDDH_APP",
+      "EDDH_A_APP",
+      "EDDB_DEL",
+      "EDDB_A_GND",
+      "EDDB_S_TWR",
+      "EDDB_S_APP",
+      "EDDV_TWR",
+      "EDDV_APP",
+      "EDDW_TWR",
+      "EDDW_APP",
       "EDWW_A",
-      "EDWW_M",
-      "EDWW_F",
       "EDWW_S",
-      "EDWW_H"
+      "EDWW_M"
     ]
   },
   {
@@ -20,15 +27,22 @@
     "one_date": "2025-10-03",
     "days": "42",
     "booking": [
-      "EDDB",
-      "EDDH",
-      "EDDW",
-      "EDDV",
+      "EDDH_DEL",
+      "EDDH_E_GND",
+      "EDDH_TWR",
+      "EDDH_APP",
+      "EDDH_A_APP",
+      "EDDB_DEL",
+      "EDDB_A_GND",
+      "EDDB_S_TWR",
+      "EDDB_S_APP",
+      "EDDV_TWR",
+      "EDDV_APP",
+      "EDDW_TWR",
+      "EDDW_APP",
       "EDWW_A",
-      "EDWW_M",
-      "EDWW_F",
       "EDWW_S",
-      "EDWW_H"
+      "EDWW_M"
     ]
   },
   {
@@ -37,6 +51,7 @@
     "days": "7",
     "booking": [
       "EDDB",
+      "EDDB_N_TWR",
       "EDWW_M",
       "EDWW_F"
     ]
@@ -56,8 +71,12 @@
     "one_date": "2025-09-14",
     "days": "7",
     "booking": [
-      "EDDV",
-      "EDDW",
+      "EDDV_GND",
+      "EDDV_TWR",
+      "EDDV_APP",
+      "EDDW_GND",
+      "EDDW_TWR",
+      "EDDW_APP",
       "EDWW_A",
       "EDWW_S"
     ]
