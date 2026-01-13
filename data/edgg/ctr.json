@@ -10,10 +10,30 @@
         "cpdlc_login": "EDGB"
     },
     {
+        "logon": "EDGG_BAH_CTR",
+        "frequency": "124.035",
+        "abbreviation": "BADH",
+        "description": "Langen Radar (Baden High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGB"
+    },
+    {
         "logon": "EDGG_DKB_CTR",
         "frequency": "125.200",
         "abbreviation": "DKB",
         "description": "Langen Radar (Dinkelsbühl)",
+        "schedule_show_always": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGD"
+    },
+    {
+        "logon": "EDGG_DKH_CTR",
+        "frequency": "133.340",
+        "abbreviation": "DKBH",
+        "description": "Langen Radar (Dinkelsbühl High)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -37,6 +57,16 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGG"
+    },
+    {
+        "logon": "EDGG_GIH_CTR",
+        "frequency": "128.075",
+        "abbreviation": "GIN",
+        "description": "Langen Radar (Gießen High)",
+        "schedule_show_always": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGI"
     },
     {
         "logon": "EDGG_HAB_CTR",
@@ -113,8 +143,18 @@
         ]
     },
     {
-        "logon": "EDGG_PAH_CTR",
+        "logon": "EDGG_PAD_CTR",
         "frequency": "135.650",
+        "abbreviation": "PADH",
+        "description": "Langen Radar (Paderborn)",
+        "schedule_show_always": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGP"
+    },
+    {
+        "logon": "EDGG_PAH_CTR",
+        "frequency": "136.625",
         "abbreviation": "PADH",
         "description": "Langen Radar (Paderborn High)",
         "schedule_show_always": [
@@ -142,6 +182,16 @@
         "cpdlc_login": "EDGR"
     },
     {
+        "logon": "EDGG_RUH_CTR",
+        "frequency": "135.725",
+        "abbreviation": "RUDH",
+        "description": "Langen Radar (Rüdesheim High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGR"
+    },
+    {
         "logon": "EDGG_SIG_CTR",
         "frequency": "124.900",
         "abbreviation": "SIG",
@@ -158,5 +208,125 @@
         "schedule_show_booked": [
             "EDGG"
         ]
+    },
+    {
+        "logon": "EDGG_N_CTR",
+        "frequency": "118.215",
+        "abbreviation": "GN",
+        "description": "Langen Radar (Bandbox North)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGN"
+    },
+    {
+        "logon": "EDGG_NH_CTR",
+        "frequency": "136.480",
+        "abbreviation": "GNH",
+        "description": "Langen Radar (Bandbox North High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGN"
+    },
+    {
+        "logon": "EDGG_C_CTR",
+        "frequency": "133.815",
+        "abbreviation": "GC",
+        "description": "Langen Radar (Bandbox Central)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGC"
+    },
+    {
+        "logon": "EDGG_CA_CTR",
+        "frequency": "133.835",
+        "abbreviation": "GCA",
+        "description": "Langen Radar (Bandbox Central + Approach)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGC"
+    },
+    {
+        "logon": "EDGG_CH_CTR",
+        "frequency": "127.925",
+        "abbreviation": "GCH",
+        "description": "Langen Radar (Bandbox Central High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGC"
+    },
+    {
+        "logon": "EDGG_S_CTR",
+        "frequency": "136.315",
+        "abbreviation": "GS",
+        "description": "Langen Radar (Bandbox South)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGS"
+    },
+    {
+        "logon": "EDGG_SA_CTR",
+        "frequency": "131.365",
+        "abbreviation": "GSA",
+        "description": "Langen Radar (Bandbox South + Approach)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGC"
+    },
+    {
+        "logon": "EDGG_SH_CTR",
+        "frequency": "123.010",
+        "abbreviation": "GSH",
+        "description": "Langen Radar (Bandbox South High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGS"
+    },
+    {
+        "logon": "EDGG_A_CTR",
+        "frequency": "132.230",
+        "abbreviation": "GA",
+        "description": "Langen Radar (Bandbox Allendorf)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGA"
+    },
+    {
+        "logon": "EDGG_AH_CTR",
+        "frequency": "125.935",
+        "abbreviation": "GAH",
+        "description": "Langen Radar (Bandbox Allendorf High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGA"
+    },
+    {
+        "logon": "EDGG_CS_CTR",
+        "frequency": "135.310",
+        "abbreviation": "GCS",
+        "description": "Langen Radar (Bandbox Central/South)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGH"
+    },
+    {
+        "logon": "EDGG_CSH_CTR",
+        "frequency": "135.030",
+        "abbreviation": "GCSH",
+        "description": "Langen Radar (Bandbox Central/South High)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDGH"
     }
 ]
