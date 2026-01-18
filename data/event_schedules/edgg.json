@@ -6,9 +6,9 @@
       "EDDL",
       "EDDK_APP",
       "EDDG_HMM_APP",
-      "EDGG_PAH",
+      "EDGG_PAD",
       "EDGG_GIN",
-      "EDDF_N_APP",
+      "EDUU_FUL",
       "EDYY_RL"
     ]
   },
@@ -17,9 +17,8 @@
     "day": "3",
     "booking": [
       "EDDK",
-      "EDGG_PAH",
-      "EDGG_GIN",
-      "EDDF_N_APP"
+      "EDGG_PAD",
+      "EDGG_GIN"
     ]
   },
   {
@@ -28,8 +27,11 @@
     "days": "7",
     "booking": [
       "EDDF",
+      "EDGG_HEF",
       "EDGG_GIN",
+      "EDGG_RUD",
       "EDGG_DKB",
+      "EDGG_BAD",
       "EDUU_FUL",
       "EDUU_SLN",
       "EDDS_STG_APP"
@@ -41,8 +43,7 @@
     "days": "7",
     "booking": [
       "EDDS",
-      "EDGG_DKB",
-      "EDDF_N_APP"
+      "EDGG_S"
     ]
   }
 ]
