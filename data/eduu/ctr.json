@@ -172,7 +172,7 @@
     {
         "logon": "EDUU_W_CTR",
         "frequency": "136.560",
-        "abbreviation": "UC",
+        "abbreviation": "UW",
         "description": "Rhein Radar (Bandbox West)",
         "schedule_show_booked": [
             "EDGG"

@@ -121,7 +121,7 @@
     {
         "logon": "EDGG_GIH_CTR",
         "frequency": "128.075",
-        "abbreviation": "GIN",
+        "abbreviation": "GINH",
         "description": "Langen Radar (Gießen High)",
         "schedule_show_always": [
             "EDGG"
@@ -235,7 +235,7 @@
     {
         "logon": "EDGG_PAD_CTR",
         "frequency": "135.650",
-        "abbreviation": "PADH",
+        "abbreviation": "PAD",
         "description": "Langen Radar (Paderborn)",
         "schedule_show_always": [
             "EDGG"
@@ -299,7 +299,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDGC"
+        "cpdlc_login": "EDGS"
     },
     {
         "logon": "EDGG_SH_CTR",
