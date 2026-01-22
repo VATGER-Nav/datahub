@@ -965,9 +965,59 @@
         "frequency": "131.300"
     },
     {
+        "id": "BADH",
+        "callsignPrefix": "EDGG",
+        "frequency": "124.035"
+    },
+    {
         "id": "DKB",
         "callsignPrefix": "EDGG",
         "frequency": "125.200"
+    },
+    {
+        "id": "DKBH",
+        "callsignPrefix": "EDGG",
+        "frequency": "133.340"
+    },
+    {
+        "id": "DKLA",
+        "callsignPrefix": "EDGG",
+        "frequency": "134.065"
+    },
+    {
+        "id": "GA",
+        "callsignPrefix": "EDGG",
+        "frequency": "132.230"
+    },
+    {
+        "id": "GAH",
+        "callsignPrefix": "EDGG",
+        "frequency": "125.935"
+    },
+    {
+        "id": "GC",
+        "callsignPrefix": "EDGG",
+        "frequency": "133.815"
+    },
+    {
+        "id": "GCA",
+        "callsignPrefix": "EDGG",
+        "frequency": "133.835"
+    },
+    {
+        "id": "GCH",
+        "callsignPrefix": "EDGG",
+        "frequency": "127.925"
+    },
+    {
+        "id": "GCS",
+        "callsignPrefix": "EDGG",
+        "frequency": "135.310"
+    },
+    {
+        "id": "GCSH",
+        "callsignPrefix": "EDGG",
+        "frequency": "135.030"
     },
     {
         "id": "GED",
@@ -978,6 +1028,36 @@
         "id": "GIN",
         "callsignPrefix": "EDGG",
         "frequency": "124.730"
+    },
+    {
+        "id": "GINH",
+        "callsignPrefix": "EDGG",
+        "frequency": "128.075"
+    },
+    {
+        "id": "GN",
+        "callsignPrefix": "EDGG",
+        "frequency": "118.215"
+    },
+    {
+        "id": "GNH",
+        "callsignPrefix": "EDGG",
+        "frequency": "136.480"
+    },
+    {
+        "id": "GS",
+        "callsignPrefix": "EDGG",
+        "frequency": "136.315"
+    },
+    {
+        "id": "GSA",
+        "callsignPrefix": "EDGG",
+        "frequency": "131.365"
+    },
+    {
+        "id": "GSH",
+        "callsignPrefix": "EDGG",
+        "frequency": "123.010"
     },
     {
         "id": "HAB",
@@ -1020,9 +1100,14 @@
         "frequency": "127.500"
     },
     {
-        "id": "PADH",
+        "id": "PAD",
         "callsignPrefix": "EDGG",
         "frequency": "135.650"
+    },
+    {
+        "id": "PADH",
+        "callsignPrefix": "EDGG",
+        "frequency": "136.625"
     },
     {
         "id": "PSA",
@@ -1033,6 +1118,11 @@
         "id": "RUD",
         "callsignPrefix": "EDGG",
         "frequency": "133.435"
+    },
+    {
+        "id": "RUDH",
+        "callsignPrefix": "EDGG",
+        "frequency": "135.725"
     },
     {
         "id": "SIG",
@@ -2095,7 +2185,7 @@
         "frequency": "122.785"
     },
     {
-        "id": "HVL",
+        "id": "HVL12",
         "callsignPrefix": "EDUU",
         "frequency": "128.235"
     },
@@ -2110,14 +2200,14 @@
         "frequency": "132.080"
     },
     {
-        "id": "OH2",
-        "callsignPrefix": "EDUU",
-        "frequency": "126.785"
-    },
-    {
-        "id": "OSE",
+        "id": "OSE12",
         "callsignPrefix": "EDUU",
         "frequency": "133.035"
+    },
+    {
+        "id": "OSE22",
+        "callsignPrefix": "EDUU",
+        "frequency": "126.785"
     },
     {
         "id": "SAL",
@@ -2138,6 +2228,21 @@
         "id": "TGO",
         "callsignPrefix": "EDUU",
         "frequency": "132.405"
+    },
+    {
+        "id": "UC",
+        "callsignPrefix": "EDUU",
+        "frequency": "130.260"
+    },
+    {
+        "id": "UCW",
+        "callsignPrefix": "EDUU",
+        "frequency": "134.690"
+    },
+    {
+        "id": "UW",
+        "callsignPrefix": "EDUU",
+        "frequency": "136.560"
     },
     {
         "id": "WUR",

@@ -10,6 +10,16 @@
         "cpdlc_login": "EDUL"
     },
     {
+        "logon": "EDUU_C_CTR",
+        "frequency": "130.260",
+        "abbreviation": "UC",
+        "description": "Rhein Radar (Bandbox Central)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDUX"
+    },
+    {
         "logon": "EDUU_CHI_CTR",
         "frequency": "123.390",
         "abbreviation": "CHI",
@@ -18,6 +28,16 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUC"
+    },
+    {
+        "logon": "EDUU_CW_CTR",
+        "frequency": "134.690",
+        "abbreviation": "UCW",
+        "description": "Rhein Radar (Bandbox Central/West)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDUZ"
     },
     {
         "logon": "EDUU_DON_CTR",
@@ -60,9 +80,9 @@
         "cpdlc_login": "EDUU"
     },
     {
-        "logon": "EDUU_H_CTR",
+        "logon": "EDUU_H12_CTR",
         "frequency": "128.235",
-        "abbreviation": "HVL",
+        "abbreviation": "HVL12",
         "description": "Rhein Radar (Havel)",
         "schedule_show_booked": [
             "EDWW"
@@ -90,9 +110,9 @@
         "cpdlc_login": "EDUN"
     },
     {
-        "logon": "EDUU_O_CTR",
+        "logon": "EDUU_O12_CTR",
         "frequency": "133.035",
-        "abbreviation": "OSE",
+        "abbreviation": "OSE12",
         "description": "Rhein Radar (Ostsee)",
         "schedule_show_booked": [
             "EDWW"
@@ -100,9 +120,9 @@
         "cpdlc_login": "EDUO"
     },
     {
-        "logon": "EDUU_OH_CTR",
+        "logon": "EDUU_O22_CTR",
         "frequency": "126.785",
-        "abbreviation": "OH2",
+        "abbreviation": "OSE22",
         "description": "Rhein Radar (Ostsee High)",
         "schedule_show_booked": [
             "EDWW"
@@ -148,6 +168,16 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUT"
+    },
+    {
+        "logon": "EDUU_W_CTR",
+        "frequency": "136.560",
+        "abbreviation": "UW",
+        "description": "Rhein Radar (Bandbox West)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDUY"
     },
     {
         "logon": "EDUU_WUR_CTR",

@@ -1,6 +1,6 @@
 [
     {
-        "logon": "EDWW_A_CTR",
+        "logon": "EDWW_ALR_CTR",
         "frequency": "126.325",
         "abbreviation": "ALR",
         "description": "Bremen Radar (Aller)",
@@ -10,7 +10,7 @@
         "cpdlc_login": "EDWA"
     },
     {
-        "logon": "EDWW_B_CTR",
+        "logon": "EDWW_BOR_CTR",
         "frequency": "123.225",
         "abbreviation": "BOR",
         "description": "Bremen Radar (Boerde)",
@@ -31,7 +31,7 @@
         "cpdlc_login": "EDWC"
     },
     {
-        "logon": "EDWW_E_CTR",
+        "logon": "EDWW_EID_CTR",
         "frequency": "124.075",
         "abbreviation": "EID",
         "description": "Bremen Radar (Eider)",
@@ -41,7 +41,17 @@
         "cpdlc_login": "EDWE"
     },
     {
-        "logon": "EDWW_F_CTR",
+        "logon": "EDWW_EMS_CTR",
+        "frequency": "125.025",
+        "abbreviation": "EMS",
+        "description": "Bremen Radar (Ems)",
+        "schedule_show_always": [
+            "EDWW"
+        ],
+        "cpdlc_login": "EDWS"
+    },
+    {
+        "logon": "EDWW_FLG_CTR",
         "frequency": "136.450",
         "abbreviation": "FLG",
         "description": "Bremen Radar (Flaeming)",
@@ -51,7 +61,7 @@
         "cpdlc_login": "EDWF"
     },
     {
-        "logon": "EDWW_H_CTR",
+        "logon": "EDWW_HEI_CTR",
         "frequency": "125.855",
         "abbreviation": "HEI",
         "description": "Bremen Radar (Heide)",
@@ -60,27 +70,7 @@
         ]
     },
     {
-        "logon": "EDWW_K_CTR",
-        "frequency": "136.050",
-        "abbreviation": "MAR",
-        "description": "Bremen Radar (Mark)",
-        "schedule_show_booked": [
-            "EDWW"
-        ],
-        "cpdlc_login": "EDWK"
-    },
-    {
-        "logon": "EDWW_M_CTR",
-        "frequency": "124.175",
-        "abbreviation": "MRZ",
-        "description": "Bremen Radar (Mueritz)",
-        "schedule_show_always": [
-            "EDWW"
-        ],
-        "cpdlc_login": "EDWM"
-    },
-    {
-        "logon": "EDWW_R_CTR",
+        "logon": "EDWW_HRZ_CTR",
         "frequency": "124.240",
         "abbreviation": "HRZ",
         "description": "Bremen Radar (Harz)",
@@ -90,14 +80,24 @@
         "cpdlc_login": "EDWR"
     },
     {
-        "logon": "EDWW_S_CTR",
-        "frequency": "125.025",
-        "abbreviation": "EMS",
-        "description": "Bremen Radar (Ems)",
+        "logon": "EDWW_MAR_CTR",
+        "frequency": "136.050",
+        "abbreviation": "MAR",
+        "description": "Bremen Radar (Mark)",
         "schedule_show_always": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWS"
+        "cpdlc_login": "EDWK"
+    },
+    {
+        "logon": "EDWW_MRZ_CTR",
+        "frequency": "124.175",
+        "abbreviation": "MRZ",
+        "description": "Bremen Radar (Mueritz)",
+        "schedule_show_booked": [
+            "EDWW"
+        ],
+        "cpdlc_login": "EDWM"
     },
     {
         "logon": "EDWW_W_CTR",
