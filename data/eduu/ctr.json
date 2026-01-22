@@ -80,9 +80,9 @@
         "cpdlc_login": "EDUU"
     },
     {
-        "logon": "EDUU_H_CTR",
+        "logon": "EDUU_H12_CTR",
         "frequency": "128.235",
-        "abbreviation": "HVL",
+        "abbreviation": "HVL12",
         "description": "Rhein Radar (Havel)",
         "schedule_show_booked": [
             "EDWW"
@@ -110,9 +110,9 @@
         "cpdlc_login": "EDUN"
     },
     {
-        "logon": "EDUU_O_CTR",
+        "logon": "EDUU_O12_CTR",
         "frequency": "133.035",
-        "abbreviation": "OSE",
+        "abbreviation": "OSE12",
         "description": "Rhein Radar (Ostsee)",
         "schedule_show_booked": [
             "EDWW"
@@ -120,9 +120,9 @@
         "cpdlc_login": "EDUO"
     },
     {
-        "logon": "EDUU_OH_CTR",
+        "logon": "EDUU_O22_CTR",
         "frequency": "126.785",
-        "abbreviation": "OH2",
+        "abbreviation": "OSE22",
         "description": "Rhein Radar (Ostsee High)",
         "schedule_show_booked": [
             "EDWW"
