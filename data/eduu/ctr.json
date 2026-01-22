@@ -10,6 +10,16 @@
         "cpdlc_login": "EDUL"
     },
     {
+        "logon": "EDUU_C_CTR",
+        "frequency": "130.260",
+        "abbreviation": "UC",
+        "description": "Rhein Radar (Bandbox Central)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDUX"
+    },
+    {
         "logon": "EDUU_CHI_CTR",
         "frequency": "123.390",
         "abbreviation": "CHI",
@@ -18,6 +28,16 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUC"
+    },
+    {
+        "logon": "EDUU_CW_CTR",
+        "frequency": "134.690",
+        "abbreviation": "UCW",
+        "description": "Rhein Radar (Bandbox Central/West)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDUZ"
     },
     {
         "logon": "EDUU_DON_CTR",
@@ -148,6 +168,16 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUT"
+    },
+    {
+        "logon": "EDUU_W_CTR",
+        "frequency": "136.560",
+        "abbreviation": "UW",
+        "description": "Rhein Radar (Bandbox West)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "cpdlc_login": "EDUY"
     },
     {
         "logon": "EDUU_WUR_CTR",

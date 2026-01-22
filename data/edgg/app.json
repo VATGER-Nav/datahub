@@ -43,7 +43,7 @@
         "logon": "EDDF_N_APP",
         "frequency": "120.805",
         "abbreviation": "DFAN",
-        "description": "Langen Radar (Frankfurt Arrival North)",
+        "description": "Langen Radar (Frankfurt Approach North)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -53,7 +53,7 @@
         "logon": "EDDF_S_APP",
         "frequency": "125.355",
         "abbreviation": "DFAS",
-        "description": "Langen Radar (Frankfurt Arrival South)",
+        "description": "Langen Radar (Frankfurt Approach South)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -81,7 +81,7 @@
         "logon": "EDDK_APP",
         "frequency": "135.350",
         "abbreviation": "DKA",
-        "description": "Langen Radar (Köln/Bonn Arrival)",
+        "description": "Langen Radar (Köln/Bonn Approach)",
         "schedule_show_booked": [
             "EDGG"
         ],
@@ -121,7 +121,7 @@
         "logon": "EDDL_APP",
         "frequency": "128.555",
         "abbreviation": "DLA",
-        "description": "Langen Radar (Düsseldorf Arrival)",
+        "description": "Langen Radar (Düsseldorf Approach)",
         "schedule_show_always": [
             "EDGG"
         ],
@@ -200,6 +200,16 @@
         "schedule_show_booked": [
             "EDGG"
         ]
+    },
+    {
+        "logon": "EDGG_KL_APP",
+        "frequency": "134.065",
+        "abbreviation": "DKLA",
+        "description": "Langen Radar (Bandbox Köln/Düsseldorf)",
+        "schedule_show_always": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
     },
     {
         "logon": "EDLP_PAL_APP",
