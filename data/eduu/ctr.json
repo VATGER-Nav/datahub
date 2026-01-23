@@ -34,7 +34,7 @@
         "frequency": "134.690",
         "abbreviation": "UCW",
         "description": "Rhein Radar (Bandbox Central/West)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDUZ"
