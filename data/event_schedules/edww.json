@@ -16,9 +16,9 @@
       "EDDV_APP",
       "EDDW_TWR",
       "EDDW_APP",
-      "EDWW_A",
-      "EDWW_S",
-      "EDWW_M"
+      "EDWW_ALR",
+      "EDWW_EMS",
+      "EDWW_MAR"
     ]
   },
   {
@@ -38,9 +38,9 @@
       "EDDV_APP",
       "EDDW_TWR",
       "EDDW_APP",
-      "EDWW_A",
-      "EDWW_S",
-      "EDWW_M"
+      "EDWW_ALR",
+      "EDWW_EMS",
+      "EDWW_MAR"
     ]
   },
   {
@@ -50,8 +50,8 @@
     "booking": [
       "EDDB",
       "EDDB_N_TWR",
-      "EDWW_M",
-      "EDWW_F"
+      "EDWW_MAR",
+      "EDWW_FLG"
     ]
   },
   {
@@ -60,8 +60,8 @@
     "days": "7",
     "booking": [
       "EDDH",
-      "EDWW_A",
-      "EDWW_H"
+      "EDWW_ALR",
+      "EDWW_HEI"
     ]
   },
   {
@@ -75,8 +75,8 @@
       "EDDW_GND",
       "EDDW_TWR",
       "EDDW_APP",
-      "EDWW_A",
-      "EDWW_S"
+      "EDWW_ALR",
+      "EDWW_EMS"
     ]
   }
 ]
