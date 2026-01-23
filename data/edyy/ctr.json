@@ -122,7 +122,9 @@
         "abbreviation": "RL",
         "description": "Maastricht Radar (Ruhr Low)",
         "schedule_show_booked": [
-            "EDWW",
+            "EDWW"
+        ],
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDYR"

@@ -24,7 +24,7 @@
         "frequency": "131.300",
         "abbreviation": "BAD",
         "description": "Langen Radar (Baden)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGB"
@@ -34,7 +34,7 @@
         "frequency": "124.035",
         "abbreviation": "BADH",
         "description": "Langen Radar (Baden High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "cpdlc_login": "EDGB"
@@ -84,7 +84,7 @@
         "frequency": "135.030",
         "abbreviation": "GCSH",
         "description": "Langen Radar (Bandbox Central/South High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "gcap_status": "1",
@@ -95,7 +95,7 @@
         "frequency": "125.200",
         "abbreviation": "DKB",
         "description": "Langen Radar (Dinkelsbühl)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGD"
@@ -105,7 +105,7 @@
         "frequency": "133.340",
         "abbreviation": "DKBH",
         "description": "Langen Radar (Dinkelsbühl High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "cpdlc_login": "EDGD"
@@ -153,7 +153,7 @@
         "frequency": "127.725",
         "abbreviation": "HEF",
         "description": "Langen Radar (Hersfeld)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ]
     },
@@ -266,7 +266,7 @@
         "frequency": "133.435",
         "abbreviation": "RUD",
         "description": "Langen Radar (Rüdesheim)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGR"
@@ -276,7 +276,7 @@
         "frequency": "135.725",
         "abbreviation": "RUDH",
         "description": "Langen Radar (Rüdesheim High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "cpdlc_login": "EDGR"
