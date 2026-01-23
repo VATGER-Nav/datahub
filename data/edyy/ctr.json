@@ -121,9 +121,11 @@
         "frequency": "128.790",
         "abbreviation": "RL",
         "description": "Maastricht Radar (Ruhr Low)",
-        "schedule_show_booked": [
-            "EDWW",
+        "schedule_show_always": [
             "EDGG"
+        ],
+        "schedule_show_booked": [
+            "EDWW"
         ],
         "cpdlc_login": "EDYR"
     },
