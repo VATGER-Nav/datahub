@@ -1841,7 +1841,7 @@
         "frequency": "125.935",
         "abbreviation": "GAH",
         "description": "Langen Radar (Bandbox Allendorf High)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGA"
@@ -1851,7 +1851,7 @@
         "frequency": "131.300",
         "abbreviation": "BAD",
         "description": "Langen Radar (Baden)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGB"
@@ -1891,7 +1891,7 @@
         "frequency": "127.925",
         "abbreviation": "GCH",
         "description": "Langen Radar (Bandbox Central High)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGC"
@@ -1932,7 +1932,7 @@
         "frequency": "133.340",
         "abbreviation": "DKBH",
         "description": "Langen Radar (Dinkelsbühl High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "cpdlc_login": "EDGD"
@@ -1951,7 +1951,7 @@
         "frequency": "128.075",
         "abbreviation": "GINH",
         "description": "Langen Radar (Gießen High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "cpdlc_login": "EDGI"
@@ -1980,7 +1980,7 @@
         "frequency": "127.725",
         "abbreviation": "HEF",
         "description": "Langen Radar (Hersfeld)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ]
     },
@@ -2045,13 +2045,13 @@
         "frequency": "136.480",
         "abbreviation": "GNH",
         "description": "Langen Radar (Bandbox North High)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGN"
     },
     {
-        "logon": "EDGG_NKH_CTR",
+        "logon": "EDGG_NKR_CTR",
         "frequency": "127.500",
         "abbreviation": "NKRH",
         "description": "Langen Radar (Neckar High)",
@@ -2074,7 +2074,7 @@
         "frequency": "136.625",
         "abbreviation": "PADH",
         "description": "Langen Radar (Paderborn High)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "cpdlc_login": "EDGP"
@@ -2093,7 +2093,7 @@
         "frequency": "133.435",
         "abbreviation": "RUD",
         "description": "Langen Radar (Rüdesheim)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGR"
@@ -2133,7 +2133,7 @@
         "frequency": "123.010",
         "abbreviation": "GSH",
         "description": "Langen Radar (Bandbox South High)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDGS"
@@ -4077,7 +4077,7 @@
         "frequency": "134.690",
         "abbreviation": "UCW",
         "description": "Rhein Radar (Bandbox Central/West)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "cpdlc_login": "EDUZ"
@@ -5201,9 +5201,11 @@
         "frequency": "128.790",
         "abbreviation": "RL",
         "description": "Maastricht Radar (Ruhr Low)",
-        "schedule_show_booked": [
-            "EDWW",
+        "schedule_show_always": [
             "EDGG"
+        ],
+        "schedule_show_booked": [
+            "EDWW"
         ],
         "cpdlc_login": "EDYR"
     },
