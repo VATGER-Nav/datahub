@@ -49,6 +49,8 @@
         "schedule_show_always": [
             "EDMM"
         ]
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDP_N_TWR",
