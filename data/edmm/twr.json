@@ -48,7 +48,7 @@
         "description": "Nürnberg Tower",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
         "s1_twr": true,
         "s1_theory": true
     },
