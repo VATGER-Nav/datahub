@@ -1174,7 +1174,8 @@
         "description": "Nürnberg Ground",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDN_TWR",
@@ -1183,7 +1184,9 @@
         "description": "Nürnberg Tower",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "s1_twr": true,
+        "s1_theory": true
     },
     {
         "logon": "EDDN_D_APP",

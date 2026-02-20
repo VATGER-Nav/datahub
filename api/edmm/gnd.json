@@ -106,7 +106,8 @@
         "description": "Nürnberg Ground",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "s1_theory": true
     },
     {
         "logon": "EDDP_GND",
