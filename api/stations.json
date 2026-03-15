@@ -5734,5 +5734,19 @@
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
+    },
+    {
+        "logon": "ETXX_LS_CTR",
+        "frequency": "122.765",
+        "abbreviation": "TSL",
+        "description": "Loneship",
+        "gcap_status": "2"
+    },
+    {
+        "logon": "ETXX_SR_CTR",
+        "frequency": "131.080",
+        "abbreviation": "TSR",
+        "description": "Sunrise",
+        "gcap_status": "2"
     }
 ]

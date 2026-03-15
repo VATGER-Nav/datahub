@@ -3078,5 +3078,15 @@
         "id": "WMI",
         "callsignPrefix": "ETWM",
         "frequency": "122.100"
+    },
+    {
+        "id": "TSL",
+        "callsignPrefix": "ETXX",
+        "frequency": "122.765"
+    },
+    {
+        "id": "TSR",
+        "callsignPrefix": "ETXX",
+        "frequency": "131.080"
     }
 ]
