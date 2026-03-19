@@ -67,7 +67,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUF"
+        "cpdlc_login": "EDUM"
     },
     {
         "logon": "EDUU_FUL_CTR",
@@ -77,7 +77,7 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUU"
+        "cpdlc_login": "EDUF"
     },
     {
         "logon": "EDUU_H12_CTR",
@@ -117,7 +117,7 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDU2"
+        "cpdlc_login": "EDUE"
     },
     {
         "logon": "EDUU_SAL_CTR",
