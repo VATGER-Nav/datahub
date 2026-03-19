@@ -36,6 +36,15 @@
         ]
     },
     {
+        "logon": "ETSI_P_APP",
+        "frequency": "125.580",
+        "abbreviation": "SIP",
+        "description": "Ingo Precision",
+        "schedule_show_booked": [
+            "EDMM"
+        ]
+    },    
+    {
         "logon": "ETSL_TWR",
         "frequency": "122.100",
         "abbreviation": "SLT",
@@ -55,7 +64,7 @@
     },
     {
         "logon": "ETSN_TWR",
-        "frequency": "122.100",
+        "frequency": "129.855",
         "abbreviation": "SNT",
         "description": "Donau Tower",
         "schedule_show_booked": [
