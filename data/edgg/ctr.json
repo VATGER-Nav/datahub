@@ -6,8 +6,7 @@
         "description": "Langen Radar (Bandbox Allendorf)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGA"
+        ]
     },
     {
         "logon": "EDGG_AH_CTR",
@@ -26,8 +25,7 @@
         "description": "Langen Radar (Baden)",
         "schedule_show_always": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGB"
+        ]
     },
     {
         "logon": "EDGG_BAH_CTR",
@@ -46,8 +44,7 @@
         "description": "Langen Radar (Bandbox Central)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGC"
+        ]
     },
     {
         "logon": "EDGG_CA_CTR",
@@ -56,8 +53,7 @@
         "description": "Langen Radar (Bandbox Central + Approach)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGC"
+        ]
     },
     {
         "logon": "EDGG_CH_CTR",
@@ -76,8 +72,7 @@
         "description": "Langen Radar (Bandbox Central/South)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGH"
+        ]
     },
     {
         "logon": "EDGG_CSH_CTR",
@@ -97,8 +92,7 @@
         "description": "Langen Radar (Dinkelsbühl)",
         "schedule_show_always": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGD"
+        ]
     },
     {
         "logon": "EDGG_DKH_CTR",
@@ -136,8 +130,7 @@
         "description": "Langen Radar (Gießen)",
         "schedule_show_always": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGG"
+        ]
     },
     {
         "logon": "EDGG_HAB_CTR",
@@ -182,8 +175,7 @@
         "description": "Langen Radar (Kitzingen)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGK"
+        ]
     },
     {
         "logon": "EDGG_LBU_CTR",
@@ -210,8 +202,7 @@
         "description": "Langen Radar (Bandbox North)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGN"
+        ]
     },
     {
         "logon": "EDGG_NH_CTR",
@@ -239,8 +230,7 @@
         "description": "Langen Radar (Paderborn)",
         "schedule_show_always": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGP"
+        ]
     },
     {
         "logon": "EDGG_PAH_CTR",
@@ -268,8 +258,7 @@
         "description": "Langen Radar (Rüdesheim)",
         "schedule_show_always": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGR"
+        ]
     },
     {
         "logon": "EDGG_RUH_CTR",
@@ -288,8 +277,7 @@
         "description": "Langen Radar (Bandbox South)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGS"
+        ]
     },
     {
         "logon": "EDGG_SA_CTR",
@@ -298,8 +286,7 @@
         "description": "Langen Radar (Bandbox South + Approach)",
         "schedule_show_booked": [
             "EDGG"
-        ],
-        "cpdlc_login": "EDGS"
+        ]
     },
     {
         "logon": "EDGG_SH_CTR",
