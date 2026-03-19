@@ -43,7 +43,7 @@
         "schedule_show_booked": [
             "EDMM"
         ]
-    },    
+    },
     {
         "logon": "ETSL_TWR",
         "frequency": "122.100",
