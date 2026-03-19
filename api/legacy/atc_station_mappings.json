@@ -2160,7 +2160,7 @@
         "frequency": "133.755"
     },
     {
-        "id": "CHI",
+        "id": "AMM",
         "callsignPrefix": "EDUU",
         "frequency": "123.390"
     },
@@ -2188,11 +2188,6 @@
         "id": "HVL12",
         "callsignPrefix": "EDUU",
         "frequency": "128.235"
-    },
-    {
-        "id": "ISA",
-        "callsignPrefix": "EDUU",
-        "frequency": "136.335"
     },
     {
         "id": "NTM",
