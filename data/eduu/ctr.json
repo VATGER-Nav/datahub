@@ -10,6 +10,16 @@
         "cpdlc_login": "EDUL"
     },
     {
+        "logon": "EDUU_AMM_CTR",
+        "frequency": "123.390",
+        "abbreviation": "AMM",
+        "description": "Rhein Radar (Ammersee)",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
+        "cpdlc_login": "EDUC"
+    },
+    {
         "logon": "EDUU_C_CTR",
         "frequency": "130.260",
         "abbreviation": "UC",
@@ -18,16 +28,6 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUX"
-    },
-    {
-        "logon": "EDUU_CHI_CTR",
-        "frequency": "123.390",
-        "abbreviation": "CHI",
-        "description": "Rhein Radar (Chiem)",
-        "schedule_show_booked": [
-            "EDMM"
-        ],
-        "cpdlc_login": "EDUC"
     },
     {
         "logon": "EDUU_CW_CTR",
@@ -88,16 +88,6 @@
             "EDWW"
         ],
         "cpdlc_login": "EDUH"
-    },
-    {
-        "logon": "EDUU_ISA_CTR",
-        "frequency": "136.335",
-        "abbreviation": "ISA",
-        "description": "Rhein Radar (Isar)",
-        "schedule_show_booked": [
-            "EDMM"
-        ],
-        "cpdlc_login": "EDUI"
     },
     {
         "logon": "EDUU_NTM_CTR",
