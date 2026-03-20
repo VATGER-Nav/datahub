@@ -3050,6 +3050,11 @@
         "frequency": "120.605"
     },
     {
+        "id": "SIP",
+        "callsignPrefix": "ETSI",
+        "frequency": "125.580"
+    },
+    {
         "id": "SIT",
         "callsignPrefix": "ETSI",
         "frequency": "125.255"
@@ -3067,7 +3072,7 @@
     {
         "id": "SNT",
         "callsignPrefix": "ETSN",
-        "frequency": "122.100"
+        "frequency": "129.855"
     },
     {
         "id": "WMI",
