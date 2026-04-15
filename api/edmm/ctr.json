@@ -76,7 +76,7 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMS"
+        "cpdlc_login": "EDMI"
     },
     {
         "logon": "EDMM_NDG_CTR",
@@ -106,7 +106,8 @@
         "description": "München Radar (Starnberg)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMS"
     },
     {
         "logon": "EDMM_TEG_CTR",
@@ -115,7 +116,8 @@
         "description": "München Radar (Tegernsee)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMT"
     },
     {
         "logon": "EDMM_TRU_CTR",
@@ -134,7 +136,8 @@
         "description": "München Radar (Walda)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "cpdlc_login": "EDMW"
     },
     {
         "logon": "EDMM_ZUG_CTR",
