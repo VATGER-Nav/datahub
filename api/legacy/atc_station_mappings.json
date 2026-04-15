@@ -637,12 +637,12 @@
     {
         "id": "DPND",
         "callsignPrefix": "EDDP",
-        "frequency": "120.840"
+        "frequency": "129.765"
     },
     {
         "id": "DPSD",
         "callsignPrefix": "EDDP",
-        "frequency": "129.765"
+        "frequency": "120.840"
     },
     {
         "id": "DPTN",
