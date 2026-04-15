@@ -95,7 +95,7 @@
     },
     {
         "logon": "EDDP_ND_APP",
-        "frequency": "120.840",
+        "frequency": "129.765",
         "abbreviation": "DPND",
         "description": "Leipzig Arrival (North Director)",
         "schedule_show_booked": [
@@ -104,7 +104,7 @@
     },
     {
         "logon": "EDDP_SD_APP",
-        "frequency": "129.765",
+        "frequency": "120.840",
         "abbreviation": "DPSD",
         "description": "Leipzig Arrival (South Director)",
         "schedule_show_always": [
