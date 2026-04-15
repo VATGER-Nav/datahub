@@ -1,5 +1,13 @@
 [
   {
+    "day": "4",
+    "booking": [
+      "EDDP",
+      "EDMM_BBG",
+      "EDMM_GER"
+    ]
+  },
+  {
     "day": "1",
     "booking": [
       "EDDN",
@@ -63,7 +71,7 @@
     "one_date": "2024-02-15",
     "days": "14",
     "booking": [
-      "EDMM_HAL_CTR"
+      "EDMM_GER_CTR"
     ]
   }
 ]
