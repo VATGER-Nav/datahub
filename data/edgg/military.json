@@ -159,6 +159,15 @@
         ]
     },
     {
+        "logon": "ETNN_P_APP",
+        "frequency": "123.300",
+        "abbreviation": "TNNP",
+        "description": "Nörvenich Precision",
+        "schedule_show_booked": [
+            "EDGG"
+        ]
+    },
+    {
         "logon": "ETOU_GND",
         "frequency": "126.555",
         "abbreviation": "TOUG",

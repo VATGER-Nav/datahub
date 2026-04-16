@@ -50,6 +50,26 @@
         "gcap_status": "1"
     },
     {
+        "logon": "EDDF_SE_GND",
+        "frequency": "121.965",
+        "abbreviation": "DFGSE",
+        "description": "Frankfurt Apron (South-East)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
+        "logon": "EDDF_SW_GND",
+        "frequency": "121.915",
+        "abbreviation": "DFGSW",
+        "description": "Frankfurt Apron (South-West)",
+        "schedule_show_booked": [
+            "EDGG"
+        ],
+        "gcap_status": "1"
+    },
+    {
         "logon": "EDDF_W_GND",
         "frequency": "121.755",
         "abbreviation": "DFGW",
