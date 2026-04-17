@@ -53,7 +53,7 @@
         "s1_twr": true,
         "s1_theory": true
     },
-        {
+    {
         "logon": "EDMR_I_TWR",
         "frequency": "128.160",
         "abbreviation": "MRI",
@@ -89,7 +89,7 @@
         "s1_twr": true,
         "s1_theory": true
     },
-            {
+    {
         "logon": "EDMX_I_TWR",
         "frequency": "131.130",
         "abbreviation": "MXI",
@@ -134,7 +134,7 @@
         "s1_twr": true,
         "s1_theory": true
     },
-        {
+     {
         "logon": "EDPR_I_TWR",
         "frequency": "122.055",
         "abbreviation": "PRI",
