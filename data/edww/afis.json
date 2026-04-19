@@ -9,15 +9,6 @@
         "s1_theory": true
     },
     {
-        "logon": "EDAI_I_TWR",
-        "frequency": "126.010",
-        "abbreviation": "AIR",
-        "description": "Segeletz Radio",
-        "gcap_status": "AFIS",
-        "s1_twr": true,
-        "s1_theory": true
-    },
-    {
         "logon": "EDAN_I_TWR",
         "frequency": "118.815",
         "abbreviation": "ANR",
