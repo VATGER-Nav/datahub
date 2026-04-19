@@ -324,10 +324,64 @@
         "s1_theory": true
     },
     {
+        "logon": "EDMC_I_TWR",
+        "frequency": "130.605",
+        "abbreviation": "MCI",
+        "description": "Blaubeuren Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMD_I_TWR",
+        "frequency": "133.010",
+        "abbreviation": "MDI",
+        "description": "Dachau Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDME_I_TWR",
         "frequency": "120.305",
         "abbreviation": "MEI",
         "description": "Eggenfelden Information",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMF_I_TWR",
+        "frequency": "128.740",
+        "abbreviation": "MFI",
+        "description": "Fuerstenzell Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMG_I_TWR",
+        "frequency": "118.130",
+        "abbreviation": "MGI",
+        "description": "Guenzburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMH_I_TWR",
+        "frequency": "118.960",
+        "abbreviation": "MHI",
+        "description": "Gunzenhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMI_I_TWR",
+        "frequency": "128.865",
+        "abbreviation": "MII",
+        "description": "Illertissen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -342,10 +396,46 @@
         "s1_theory": true
     },
     {
+        "logon": "EDMK_I_TWR",
+        "frequency": "124.005",
+        "abbreviation": "MKI",
+        "description": "Kempten Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDML_I_TWR",
         "frequency": "129.805",
         "abbreviation": "MLI",
         "description": "Landshut Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMN_I_TWR",
+        "frequency": "122.975",
+        "abbreviation": "MNI",
+        "description": "Mindelheim Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMP_I_TWR",
+        "frequency": "118.060",
+        "abbreviation": "MPI",
+        "description": "Vilsbiburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMQ_I_TWR",
+        "frequency": "134.130",
+        "abbreviation": "MQI",
+        "description": "Genderkingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -378,6 +468,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDMU_I_TWR",
+        "frequency": "122.930",
+        "abbreviation": "MUI",
+        "description": "Gundelfingen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMV_I_TWR",
         "frequency": "119.180",
         "abbreviation": "MVI",
@@ -387,10 +486,37 @@
         "s1_theory": true
     },
     {
+        "logon": "EDMW_I_TWR",
+        "frequency": "122.030",
+        "abbreviation": "MWI",
+        "description": "Deggendorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMX_I_TWR",
         "frequency": "131.130",
         "abbreviation": "MXI",
         "description": "Schleissheim Information",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMY_I_TWR",
+        "frequency": "119.780",
+        "abbreviation": "MYI",
+        "description": "Muehldorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMZ_I_TWR",
+        "frequency": "118.040",
+        "abbreviation": "MZI",
+        "description": "Bad Waldsee Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
