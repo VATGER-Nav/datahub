@@ -279,6 +279,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDCU_I_TWR",
+        "frequency": "118.830",
+        "abbreviation": "CUR",
+        "description": "Guestrow Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDCV_I_TWR",
         "frequency": "125.860",
         "abbreviation": "CVR",
