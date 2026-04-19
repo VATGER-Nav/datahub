@@ -306,6 +306,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDJG_I_TWR",
+        "frequency": "135.985",
+        "abbreviation": "JGI",
+        "description": "Grabenstaett Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMB_I_TWR",
         "frequency": "120.535",
         "abbreviation": "MBI",
