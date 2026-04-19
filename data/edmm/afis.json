@@ -18,6 +18,105 @@
         "s1_theory": true
     },
     {
+        "logon": "EDAD_I_TWR",
+        "frequency": "118.180",
+        "abbreviation": "ADI",
+        "description": "Dessau Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAG_I_TWR",
+        "frequency": "118.585",
+        "abbreviation": "AGI",
+        "description": "Grossrueckerswalde Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAJ_I_TWR",
+        "frequency": "118.080",
+        "abbreviation": "AJI",
+        "description": "Gera Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAK_I_TWR",
+        "frequency": "128.360",
+        "abbreviation": "AKI",
+        "description": "Grossenhain Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAM_I_TWR",
+        "frequency": "118.990",
+        "abbreviation": "AMI",
+        "description": "Merseburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAO_I_TWR",
+        "frequency": "120.310",
+        "abbreviation": "AOI",
+        "description": "Nordhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAQ_I_TWR",
+        "frequency": "135.155",
+        "abbreviation": "AQI",
+        "description": "Oppin Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAR_I_TWR",
+        "frequency": "118.630",
+        "abbreviation": "ARI",
+        "description": "Pirna Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAT_I_TWR",
+        "frequency": "120.390",
+        "abbreviation": "ATI",
+        "description": "Nardt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAU_I_TWR",
+        "frequency": "118.005",
+        "abbreviation": "AUI",
+        "description": "Riesa Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDAW_I_TWR",
+        "frequency": "123.980",
+        "abbreviation": "AWI",
+        "description": "Roitzschjora Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMB_I_TWR",
         "frequency": "120.535",
         "abbreviation": "MBI",
