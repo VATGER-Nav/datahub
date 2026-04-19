@@ -42,7 +42,7 @@ jobs:
           ref: production
 
       - name: Download generated files artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: generated-files
           path: ./api
