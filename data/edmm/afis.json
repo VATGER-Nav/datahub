@@ -279,6 +279,33 @@
         "s1_theory": true
     },
     {
+        "logon": "EDEB_I_TWR",
+        "frequency": "125.365",
+        "abbreviation": "EBI",
+        "description": "Bad Langensalza Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEG_I_TWR",
+        "frequency": "121.235",
+        "abbreviation": "EGI",
+        "description": "Gotha Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDEQ_I_TWR",
+        "frequency": "122.855",
+        "abbreviation": "EQI",
+        "description": "Muehlhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMB_I_TWR",
         "frequency": "120.535",
         "abbreviation": "MBI",
