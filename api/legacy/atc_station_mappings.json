@@ -1645,6 +1645,11 @@
         "frequency": "119.555"
     },
     {
+        "id": "MRI",
+        "callsignPrefix": "EDMR",
+        "frequency": "128.160"
+    },
+    {
         "id": "MSI",
         "callsignPrefix": "EDMS",
         "frequency": "127.155"
@@ -1658,6 +1663,11 @@
         "id": "MVI",
         "callsignPrefix": "EDMV",
         "frequency": "119.180"
+    },
+    {
+        "id": "MXI",
+        "callsignPrefix": "EDMX",
+        "frequency": "131.130"
     },
     {
         "id": "NCI",
@@ -1738,6 +1748,11 @@
         "id": "PHI",
         "callsignPrefix": "EDPH",
         "frequency": "135.430"
+    },
+    {
+        "id": "PRI",
+        "callsignPrefix": "EDPR",
+        "frequency": "122.055"
     },
     {
         "id": "PUI",
