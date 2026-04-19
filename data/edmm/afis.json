@@ -117,6 +117,87 @@
         "s1_theory": true
     },
     {
+        "logon": "EDBA_I_TWR",
+        "frequency": "131.260",
+        "abbreviation": "BAI",
+        "description": "Arnstadt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBI_I_TWR",
+        "frequency": "130.660",
+        "abbreviation": "BII",
+        "description": "Zwickau Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBJ_I_TWR",
+        "frequency": "118.735",
+        "abbreviation": "BJI",
+        "description": "Jena-Schoengleina Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBL_I_TWR",
+        "frequency": "118.960",
+        "abbreviation": "BLI",
+        "description": "Laucha Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBR_I_TWR",
+        "frequency": "123.255",
+        "abbreviation": "BRI",
+        "description": "Rothenburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBS_I_TWR",
+        "frequency": "124.005",
+        "abbreviation": "BSI",
+        "description": "Soemmerda Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBT_I_TWR",
+        "frequency": "122.315",
+        "abbreviation": "BTI",
+        "description": "Allstedt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBX_I_TWR",
+        "frequency": "133.585",
+        "abbreviation": "BXI",
+        "description": "Goerlitz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDBZ_I_TWR",
+        "frequency": "132.810",
+        "abbreviation": "BZI",
+        "description": "Schwarzheide Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMB_I_TWR",
         "frequency": "120.535",
         "abbreviation": "MBI",
