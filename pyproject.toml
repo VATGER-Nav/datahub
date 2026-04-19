@@ -6,7 +6,7 @@ requires-python = ">=3.12,<3.14"
 dependencies = [
     "beautifulsoup4>=4.14.2",
     "lxml>=6.0.2",
-    "pydantic==2.9.2",
+    "pydantic==2.13.2",
     "requests>=2.32.5",
     "toml==0.10.2",
 ]
