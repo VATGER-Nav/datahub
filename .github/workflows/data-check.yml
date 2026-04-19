@@ -8,7 +8,9 @@ on:
       - main
       - production
 
-permissions: read-all
+permissions:
+    contents: read
+
 jobs:
   check-data:
     runs-on: ubuntu-latest
