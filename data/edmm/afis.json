@@ -21,7 +21,7 @@
         "logon": "EDMB_I_TWR",
         "frequency": "120.535",
         "abbreviation": "MBI",
-        "description": "Biberbach Radio",
+        "description": "Biberach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -54,6 +54,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDMR_I_TWR",
+        "frequency": "128.160",
+        "abbreviation": "MRI",
+        "description": "Ottobrunn Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMS_I_TWR",
         "frequency": "127.155",
         "abbreviation": "MSI",
@@ -76,6 +85,15 @@
         "frequency": "119.180",
         "abbreviation": "MVI",
         "description": "Vilshofen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDMX_I_TWR",
+        "frequency": "131.130",
+        "abbreviation": "MXI",
+        "description": "Schleissheim Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -112,6 +130,15 @@
         "frequency": "135.430",
         "abbreviation": "PHI",
         "description": "Schwabach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPR_I_TWR",
+        "frequency": "122.055",
+        "abbreviation": "PRI",
+        "description": "Airbus Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
