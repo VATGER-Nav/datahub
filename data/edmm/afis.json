@@ -198,6 +198,87 @@
         "s1_theory": true
     },
     {
+        "logon": "EDCB_I_TWR",
+        "frequency": "122.705",
+        "abbreviation": "CBI",
+        "description": "Ballenstedt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCH_I_TWR",
+        "frequency": "134.610",
+        "abbreviation": "CHI",
+        "description": "Sprossen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCI_I_TWR",
+        "frequency": "118.605",
+        "abbreviation": "CII",
+        "description": "Klix Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCJ_I_TWR",
+        "frequency": "132.740",
+        "abbreviation": "CJI",
+        "description": "Jahnsdorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCM_I_TWR",
+        "frequency": "128.110",
+        "abbreviation": "CMI",
+        "description": "Kamenz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCO_I_TWR",
+        "frequency": "125.510",
+        "abbreviation": "COI",
+        "description": "Obermehler Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCQ_I_TWR",
+        "frequency": "127.550",
+        "abbreviation": "CQI",
+        "description": "Aschersleben Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCT_I_TWR",
+        "frequency": "132.860",
+        "abbreviation": "CTI",
+        "description": "Taucha Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDCY_I_TWR",
+        "frequency": "134.855",
+        "abbreviation": "CYI",
+        "description": "Welzow Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDMB_I_TWR",
         "frequency": "120.535",
         "abbreviation": "MBI",
