@@ -18,7 +18,7 @@ data_sort = "datahub:sort_data"
 vateud = "datahub:vateud"
 
 [dependency-groups]
-dev = ["pytest>=9.0.3", "pytest-cov>=7.1.0", "ruff>=0.12.10"]
+dev = ["pytest>=9.0.3", "pytest-cov>=7.1.0", "ruff>=0.15.11"]
 
 [tool.ruff]
 line-length = 100
