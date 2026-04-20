@@ -170,6 +170,11 @@
         "frequency": "123.655"
     },
     {
+        "id": "CUR",
+        "callsignPrefix": "EDCU",
+        "frequency": "118.830"
+    },
+    {
         "id": "CVR",
         "callsignPrefix": "EDCV",
         "frequency": "125.860"
@@ -1728,6 +1733,11 @@
         "id": "ORR",
         "callsignPrefix": "EDOR",
         "frequency": "130.080"
+    },
+    {
+        "id": "OVR",
+        "callsignPrefix": "EDOV",
+        "frequency": "122.405"
     },
     {
         "id": "OWR",
