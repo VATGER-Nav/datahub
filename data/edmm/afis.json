@@ -720,6 +720,105 @@
         "s1_theory": true
     },
     {
+        "logon": "EDOA_I_TWR",
+        "frequency": "128.740",
+        "abbreviation": "OAI",
+        "description": "Auerbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOB_I_TWR",
+        "frequency": "120.835",
+        "abbreviation": "OBI",
+        "description": "Bad Berka Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOE_I_TWR",
+        "frequency": "118.930",
+        "abbreviation": "OEI",
+        "description": "Boehlen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOF_I_TWR",
+        "frequency": "121.190",
+        "abbreviation": "OFI",
+        "description": "Bad Frankenhausen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOH_I_TWR",
+        "frequency": "125.915",
+        "abbreviation": "OHI",
+        "description": "Langhennersdorf Start",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOK_I_TWR",
+        "frequency": "118.330",
+        "abbreviation": "OKI",
+        "description": "Rudolstadt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOQ_I_TWR",
+        "frequency": "120.430",
+        "abbreviation": "OQI",
+        "description": "Oschatz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOS_I_TWR",
+        "frequency": "130.640",
+        "abbreviation": "OSI",
+        "description": "Pennewitz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOT_I_TWR",
+        "frequency": "132.015",
+        "abbreviation": "OTI",
+        "description": "Greiz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOU_I_TWR",
+        "frequency": "134.535",
+        "abbreviation": "OUI",
+        "description": "Weimar Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOX_I_TWR",
+        "frequency": "128.860",
+        "abbreviation": "OXI",
+        "description": "Renneritz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDPH_I_TWR",
         "frequency": "135.430",
         "abbreviation": "PHI",
