@@ -522,10 +522,28 @@
         "s1_theory": true
     },
     {
+        "logon": "EDOV_I_TWR",
+        "frequency": "122.405",
+        "abbreviation": "OVR",
+        "description": "Stendal Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDOW_I_TWR",
         "frequency": "130.330",
         "abbreviation": "OWR",
         "description": "Waren Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDOY_I_TWR",
+        "frequency": "130.705",
+        "abbreviation": "OYR",
+        "description": "Pirol 599",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
