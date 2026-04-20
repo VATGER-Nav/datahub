@@ -1150,5 +1150,23 @@
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
+    },
+    {
+        "logon": "EDUO_I_TWR",
+        "frequency": "122.630",
+        "abbreviation": "UOI",
+        "description": "Oberrissdorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDUY_I_TWR",
+        "frequency": "122.330",
+        "abbreviation": "UYI",
+        "description": "Sedlitz Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
     }
 ]
