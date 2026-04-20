@@ -312,6 +312,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDGH_I_TWR",
+        "frequency": "122.430",
+        "abbreviation": "GHI",
+        "description": "Hettstadt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDGI_I_TWR",
         "frequency": "120.835",
         "abbreviation": "GII",
@@ -427,6 +436,15 @@
         "frequency": "118.265",
         "abbreviation": "GXI",
         "description": "Walldorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDGY_I_TWR",
+        "frequency": "118.255",
+        "abbreviation": "GYI",
+        "description": "Kitzingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
