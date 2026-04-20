@@ -20,11 +20,6 @@
         "frequency": "132.830"
     },
     {
-        "id": "AIR",
-        "callsignPrefix": "EDAI",
-        "frequency": "126.010"
-    },
-    {
         "id": "ANR",
         "callsignPrefix": "EDAN",
         "frequency": "118.815"
