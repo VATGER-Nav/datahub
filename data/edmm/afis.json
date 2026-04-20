@@ -1134,6 +1134,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDSO_I_TWR",
+        "frequency": "128.740",
+        "abbreviation": "SOI",
+        "description": "Nortel Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDTM_I_TWR",
         "frequency": "135.180",
         "abbreviation": "TMI",
