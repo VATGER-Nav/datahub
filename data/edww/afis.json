@@ -540,15 +540,6 @@
         "s1_theory": true
     },
     {
-        "logon": "EDOY_I_TWR",
-        "frequency": "130.705",
-        "abbreviation": "OYR",
-        "description": "Pirol 599",
-        "gcap_status": "AFIS",
-        "s1_twr": true,
-        "s1_theory": true
-    },
-    {
         "logon": "EDOZ_I_TWR",
         "frequency": "125.860",
         "abbreviation": "OZR",
