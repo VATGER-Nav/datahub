@@ -819,6 +819,60 @@
         "s1_theory": true
     },
     {
+        "logon": "EDPB_I_TWR",
+        "frequency": "135.985",
+        "abbreviation": "PBI",
+        "description": "Ditzenbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPC_I_TWR",
+        "frequency": "118.915",
+        "abbreviation": "PCI",
+        "description": "Endorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPD_I_TWR",
+        "frequency": "125.615",
+        "abbreviation": "PDI",
+        "description": "Dingolfing Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPE_I_TWR",
+        "frequency": "123.005",
+        "abbreviation": "PEI",
+        "description": "Eichstaett Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPF_I_TWR",
+        "frequency": "121.205",
+        "abbreviation": "PFI",
+        "description": "Schwandorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPG_I_TWR",
+        "frequency": "125.740",
+        "abbreviation": "PGI",
+        "description": "Griesau Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDPH_I_TWR",
         "frequency": "135.430",
         "abbreviation": "PHI",
@@ -828,10 +882,91 @@
         "s1_theory": true
     },
     {
+        "logon": "EDPI_I_TWR",
+        "frequency": "135.985",
+        "abbreviation": "PII",
+        "description": "Moosburg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPJ_I_TWR",
+        "frequency": "127.705",
+        "abbreviation": "PJI",
+        "description": "Laichingen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPK_I_TWR",
+        "frequency": "132.990",
+        "abbreviation": "PKI",
+        "description": "Schoenberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPM_I_TWR",
+        "frequency": "118.205",
+        "abbreviation": "PMI",
+        "description": "Donzdorf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPO_I_TWR",
+        "frequency": "122.330",
+        "abbreviation": "POI",
+        "description": "Neumarkt Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPQ_I_TWR",
+        "frequency": "134.540",
+        "abbreviation": "PQI",
+        "description": "Schmidgaden Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDPR_I_TWR",
         "frequency": "122.055",
         "abbreviation": "PRI",
         "description": "Airbus Information",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPS_I_TWR",
+        "frequency": "118.960",
+        "abbreviation": "PSI",
+        "description": "Sonnen Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPT_I_TWR",
+        "frequency": "120.815",
+        "abbreviation": "PTI",
+        "description": "Gerstetten Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDPW_I_TWR",
+        "frequency": "128.860",
+        "abbreviation": "PWI",
+        "description": "Thalmaessing Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
