@@ -1017,10 +1017,28 @@
         "s1_theory": true
     },
     {
+        "logon": "EDQI_I_TWR",
+        "frequency": "128.585",
+        "abbreviation": "QII",
+        "description": "Lauf Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDQK_I_TWR",
         "frequency": "118.530",
         "abbreviation": "QKI",
         "description": "Kulmbach Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQL_I_TWR",
+        "frequency": "118.190",
+        "abbreviation": "QLI",
+        "description": "Lichtenfels Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1035,10 +1053,37 @@
         "s1_theory": true
     },
     {
+        "logon": "EDQO_I_TWR",
+        "frequency": "133.585",
+        "abbreviation": "QOI",
+        "description": "Ottengruener Heide Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDQP_I_TWR",
         "frequency": "127.455",
         "abbreviation": "QPI",
         "description": "Rosenthal Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQR_I_TWR",
+        "frequency": "118.005",
+        "abbreviation": "QRI",
+        "description": "Ebern Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQS_I_TWR",
+        "frequency": "127.465",
+        "abbreviation": "QSI",
+        "description": "Suhl Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1062,10 +1107,28 @@
         "s1_theory": true
     },
     {
+        "logon": "EDQX_I_TWR",
+        "frequency": "123.605",
+        "abbreviation": "QXI",
+        "description": "Hetzleser Berg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDQY_I_TWR",
         "frequency": "129.805",
         "abbreviation": "QYI",
         "description": "Steinruecken Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
+        "logon": "EDQZ_I_TWR",
+        "frequency": "127.560",
+        "abbreviation": "QZI",
+        "description": "Pegnitz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
