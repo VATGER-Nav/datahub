@@ -14,7 +14,7 @@
         "frequency": "136.500",
         "abbreviation": "DFTN",
         "description": "Frankfurt Tower (North)",
-        "schedule_show_always": [
+        "schedule_show_booked": [
             "EDGG"
         ],
         "gcap_status": "1"
@@ -34,7 +34,7 @@
         "frequency": "124.855",
         "abbreviation": "DFTW",
         "description": "Frankfurt Tower (West)",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDGG"
         ],
         "gcap_status": "1"
