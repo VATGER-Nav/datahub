@@ -10,9 +10,19 @@
         "frequency": "123.580"
     },
     {
+        "id": "ADI",
+        "callsignPrefix": "EDAD",
+        "frequency": "118.180"
+    },
+    {
         "id": "AER",
         "callsignPrefix": "EDAE",
         "frequency": "134.535"
+    },
+    {
+        "id": "AGI",
+        "callsignPrefix": "EDAG",
+        "frequency": "118.585"
     },
     {
         "id": "AHT",
@@ -20,9 +30,29 @@
         "frequency": "132.830"
     },
     {
+        "id": "AJI",
+        "callsignPrefix": "EDAJ",
+        "frequency": "118.080"
+    },
+    {
+        "id": "AKI",
+        "callsignPrefix": "EDAK",
+        "frequency": "128.360"
+    },
+    {
+        "id": "AMI",
+        "callsignPrefix": "EDAM",
+        "frequency": "118.990"
+    },
+    {
         "id": "ANR",
         "callsignPrefix": "EDAN",
         "frequency": "118.815"
+    },
+    {
+        "id": "AOI",
+        "callsignPrefix": "EDAO",
+        "frequency": "120.310"
     },
     {
         "id": "APR",
@@ -30,14 +60,39 @@
         "frequency": "122.730"
     },
     {
+        "id": "AQI",
+        "callsignPrefix": "EDAQ",
+        "frequency": "135.155"
+    },
+    {
+        "id": "ARI",
+        "callsignPrefix": "EDAR",
+        "frequency": "118.630"
+    },
+    {
         "id": "ASR",
         "callsignPrefix": "EDAS",
         "frequency": "125.365"
     },
     {
+        "id": "ATI",
+        "callsignPrefix": "EDAT",
+        "frequency": "120.390"
+    },
+    {
+        "id": "AUI",
+        "callsignPrefix": "EDAU",
+        "frequency": "118.005"
+    },
+    {
         "id": "AVR",
         "callsignPrefix": "EDAV",
         "frequency": "119.055"
+    },
+    {
+        "id": "AWI",
+        "callsignPrefix": "EDAW",
+        "frequency": "123.980"
     },
     {
         "id": "AXR",
@@ -53,6 +108,11 @@
         "id": "AZT",
         "callsignPrefix": "EDAZ",
         "frequency": "131.155"
+    },
+    {
+        "id": "BAI",
+        "callsignPrefix": "EDBA",
+        "frequency": "131.260"
     },
     {
         "id": "BCT",
@@ -80,9 +140,24 @@
         "frequency": "118.080"
     },
     {
+        "id": "BII",
+        "callsignPrefix": "EDBI",
+        "frequency": "130.660"
+    },
+    {
+        "id": "BJI",
+        "callsignPrefix": "EDBJ",
+        "frequency": "118.735"
+    },
+    {
         "id": "BKR",
         "callsignPrefix": "EDBK",
         "frequency": "122.730"
+    },
+    {
+        "id": "BLI",
+        "callsignPrefix": "EDBL",
+        "frequency": "118.960"
     },
     {
         "id": "BMT",
@@ -110,6 +185,21 @@
         "frequency": "130.330"
     },
     {
+        "id": "BRI",
+        "callsignPrefix": "EDBR",
+        "frequency": "123.255"
+    },
+    {
+        "id": "BSI",
+        "callsignPrefix": "EDBS",
+        "frequency": "124.005"
+    },
+    {
+        "id": "BTI",
+        "callsignPrefix": "EDBT",
+        "frequency": "122.315"
+    },
+    {
         "id": "BUR",
         "callsignPrefix": "EDBU",
         "frequency": "122.685"
@@ -125,14 +215,29 @@
         "frequency": "128.740"
     },
     {
+        "id": "BXI",
+        "callsignPrefix": "EDBX",
+        "frequency": "133.585"
+    },
+    {
         "id": "BYR",
         "callsignPrefix": "EDBY",
         "frequency": "136.015"
     },
     {
+        "id": "BZI",
+        "callsignPrefix": "EDBZ",
+        "frequency": "132.810"
+    },
+    {
         "id": "CAR",
         "callsignPrefix": "EDCA",
         "frequency": "122.655"
+    },
+    {
+        "id": "CBI",
+        "callsignPrefix": "EDCB",
+        "frequency": "122.705"
     },
     {
         "id": "CER",
@@ -145,14 +250,44 @@
         "frequency": "123.005"
     },
     {
+        "id": "CHI",
+        "callsignPrefix": "EDCH",
+        "frequency": "134.610"
+    },
+    {
+        "id": "CII",
+        "callsignPrefix": "EDCI",
+        "frequency": "118.605"
+    },
+    {
+        "id": "CJI",
+        "callsignPrefix": "EDCJ",
+        "frequency": "132.740"
+    },
+    {
         "id": "CLR",
         "callsignPrefix": "EDCL",
         "frequency": "122.380"
     },
     {
+        "id": "CMI",
+        "callsignPrefix": "EDCM",
+        "frequency": "128.110"
+    },
+    {
+        "id": "COI",
+        "callsignPrefix": "EDCO",
+        "frequency": "125.510"
+    },
+    {
         "id": "CPR",
         "callsignPrefix": "EDCP",
         "frequency": "122.480"
+    },
+    {
+        "id": "CQI",
+        "callsignPrefix": "EDCQ",
+        "frequency": "127.550"
     },
     {
         "id": "CRR",
@@ -163,6 +298,11 @@
         "id": "CSR",
         "callsignPrefix": "EDCS",
         "frequency": "123.655"
+    },
+    {
+        "id": "CTI",
+        "callsignPrefix": "EDCT",
+        "frequency": "132.860"
     },
     {
         "id": "CUR",
@@ -183,6 +323,11 @@
         "id": "CXR",
         "callsignPrefix": "EDCX",
         "frequency": "135.005"
+    },
+    {
+        "id": "CYI",
+        "callsignPrefix": "EDCY",
+        "frequency": "134.855"
     },
     {
         "id": "DBAN",
@@ -760,6 +905,16 @@
         "frequency": "124.800"
     },
     {
+        "id": "EBI",
+        "callsignPrefix": "EDEB",
+        "frequency": "125.365"
+    },
+    {
+        "id": "EGI",
+        "callsignPrefix": "EDEG",
+        "frequency": "121.235"
+    },
+    {
         "id": "EHI",
         "callsignPrefix": "EDEH",
         "frequency": "132.055"
@@ -783,6 +938,11 @@
         "id": "EPI",
         "callsignPrefix": "EDEP",
         "frequency": "122.480"
+    },
+    {
+        "id": "EQI",
+        "callsignPrefix": "EDEQ",
+        "frequency": "122.855"
     },
     {
         "id": "ERI",
@@ -1320,6 +1480,11 @@
         "frequency": "126.855"
     },
     {
+        "id": "JGI",
+        "callsignPrefix": "EDJG",
+        "frequency": "135.985"
+    },
+    {
         "id": "KAI",
         "callsignPrefix": "EDKA",
         "frequency": "122.880"
@@ -1555,14 +1720,49 @@
         "frequency": "120.535"
     },
     {
+        "id": "MCI",
+        "callsignPrefix": "EDMC",
+        "frequency": "130.605"
+    },
+    {
+        "id": "MDI",
+        "callsignPrefix": "EDMD",
+        "frequency": "133.010"
+    },
+    {
         "id": "MEI",
         "callsignPrefix": "EDME",
         "frequency": "120.305"
     },
     {
+        "id": "MFI",
+        "callsignPrefix": "EDMF",
+        "frequency": "128.740"
+    },
+    {
+        "id": "MGI",
+        "callsignPrefix": "EDMG",
+        "frequency": "118.130"
+    },
+    {
+        "id": "MHI",
+        "callsignPrefix": "EDMH",
+        "frequency": "118.960"
+    },
+    {
+        "id": "MII",
+        "callsignPrefix": "EDMI",
+        "frequency": "128.865"
+    },
+    {
         "id": "MJI",
         "callsignPrefix": "EDMJ",
         "frequency": "120.055"
+    },
+    {
+        "id": "MKI",
+        "callsignPrefix": "EDMK",
+        "frequency": "124.005"
     },
     {
         "id": "MLI",
@@ -1650,9 +1850,24 @@
         "frequency": "134.150"
     },
     {
+        "id": "MNI",
+        "callsignPrefix": "EDMN",
+        "frequency": "122.975"
+    },
+    {
         "id": "MOT",
         "callsignPrefix": "EDMO",
         "frequency": "119.555"
+    },
+    {
+        "id": "MPI",
+        "callsignPrefix": "EDMP",
+        "frequency": "118.060"
+    },
+    {
+        "id": "MQI",
+        "callsignPrefix": "EDMQ",
+        "frequency": "134.130"
     },
     {
         "id": "MRI",
@@ -1670,9 +1885,19 @@
         "frequency": "122.830"
     },
     {
+        "id": "MUI",
+        "callsignPrefix": "EDMU",
+        "frequency": "122.930"
+    },
+    {
         "id": "MVI",
         "callsignPrefix": "EDMV",
         "frequency": "119.180"
+    },
+    {
+        "id": "MWI",
+        "callsignPrefix": "EDMW",
+        "frequency": "122.030"
     },
     {
         "id": "MXI",
@@ -1680,14 +1905,114 @@
         "frequency": "131.130"
     },
     {
+        "id": "MYI",
+        "callsignPrefix": "EDMY",
+        "frequency": "119.780"
+    },
+    {
+        "id": "MZI",
+        "callsignPrefix": "EDMZ",
+        "frequency": "118.040"
+    },
+    {
+        "id": "NAI",
+        "callsignPrefix": "EDNA",
+        "frequency": "118.735"
+    },
+    {
+        "id": "NBI",
+        "callsignPrefix": "EDNB",
+        "frequency": "118.555"
+    },
+    {
         "id": "NCI",
         "callsignPrefix": "EDNC",
         "frequency": "118.355"
     },
     {
+        "id": "NDI",
+        "callsignPrefix": "EDND",
+        "frequency": "134.535"
+    },
+    {
+        "id": "NEI",
+        "callsignPrefix": "EDNE",
+        "frequency": "131.135"
+    },
+    {
+        "id": "NFI",
+        "callsignPrefix": "EDNF",
+        "frequency": "118.935"
+    },
+    {
+        "id": "NGI",
+        "callsignPrefix": "EDNG",
+        "frequency": "122.355"
+    },
+    {
+        "id": "NHI",
+        "callsignPrefix": "EDNH",
+        "frequency": "122.605"
+    },
+    {
+        "id": "NJI",
+        "callsignPrefix": "EDNJ",
+        "frequency": "132.005"
+    },
+    {
+        "id": "NKI",
+        "callsignPrefix": "EDNK",
+        "frequency": "118.630"
+    },
+    {
         "id": "NLI",
         "callsignPrefix": "EDNL",
         "frequency": "122.880"
+    },
+    {
+        "id": "NOI",
+        "callsignPrefix": "EDNO",
+        "frequency": "133.080"
+    },
+    {
+        "id": "NPI",
+        "callsignPrefix": "EDNP",
+        "frequency": "119.980"
+    },
+    {
+        "id": "NQI",
+        "callsignPrefix": "EDNQ",
+        "frequency": "123.190"
+    },
+    {
+        "id": "NRI",
+        "callsignPrefix": "EDNR",
+        "frequency": "120.430"
+    },
+    {
+        "id": "NSI",
+        "callsignPrefix": "EDNS",
+        "frequency": "124.515"
+    },
+    {
+        "id": "NTI",
+        "callsignPrefix": "EDNT",
+        "frequency": "122.605"
+    },
+    {
+        "id": "NUI",
+        "callsignPrefix": "EDNU",
+        "frequency": "118.180"
+    },
+    {
+        "id": "NVI",
+        "callsignPrefix": "EDNV",
+        "frequency": "121.030"
+    },
+    {
+        "id": "NWI",
+        "callsignPrefix": "EDNW",
+        "frequency": "119.430"
     },
     {
         "id": "NXI",
@@ -1700,6 +2025,21 @@
         "frequency": "120.080"
     },
     {
+        "id": "NZI",
+        "callsignPrefix": "EDNZ",
+        "frequency": "132.820"
+    },
+    {
+        "id": "OAI",
+        "callsignPrefix": "EDOA",
+        "frequency": "128.740"
+    },
+    {
+        "id": "OBI",
+        "callsignPrefix": "EDOB",
+        "frequency": "120.835"
+    },
+    {
         "id": "OCR",
         "callsignPrefix": "EDOC",
         "frequency": "133.190"
@@ -1710,6 +2050,21 @@
         "frequency": "130.655"
     },
     {
+        "id": "OEI",
+        "callsignPrefix": "EDOE",
+        "frequency": "118.930"
+    },
+    {
+        "id": "OFI",
+        "callsignPrefix": "EDOF",
+        "frequency": "121.190"
+    },
+    {
+        "id": "OHI",
+        "callsignPrefix": "EDOH",
+        "frequency": "125.915"
+    },
+    {
         "id": "OIR",
         "callsignPrefix": "EDOI",
         "frequency": "134.990"
@@ -1718,6 +2073,11 @@
         "id": "OJR",
         "callsignPrefix": "EDOJ",
         "frequency": "128.755"
+    },
+    {
+        "id": "OKI",
+        "callsignPrefix": "EDOK",
+        "frequency": "118.330"
     },
     {
         "id": "OLR",
@@ -1735,9 +2095,29 @@
         "frequency": "119.130"
     },
     {
+        "id": "OQI",
+        "callsignPrefix": "EDOQ",
+        "frequency": "120.430"
+    },
+    {
         "id": "ORR",
         "callsignPrefix": "EDOR",
         "frequency": "130.080"
+    },
+    {
+        "id": "OSI",
+        "callsignPrefix": "EDOS",
+        "frequency": "130.640"
+    },
+    {
+        "id": "OTI",
+        "callsignPrefix": "EDOT",
+        "frequency": "132.015"
+    },
+    {
+        "id": "OUI",
+        "callsignPrefix": "EDOU",
+        "frequency": "134.535"
     },
     {
         "id": "OVR",
@@ -1750,6 +2130,11 @@
         "frequency": "130.330"
     },
     {
+        "id": "OXI",
+        "callsignPrefix": "EDOX",
+        "frequency": "128.860"
+    },
+    {
         "id": "OZR",
         "callsignPrefix": "EDOZ",
         "frequency": "125.860"
@@ -1760,9 +2145,69 @@
         "frequency": "121.405"
     },
     {
+        "id": "PBI",
+        "callsignPrefix": "EDPB",
+        "frequency": "135.985"
+    },
+    {
+        "id": "PCI",
+        "callsignPrefix": "EDPC",
+        "frequency": "118.915"
+    },
+    {
+        "id": "PDI",
+        "callsignPrefix": "EDPD",
+        "frequency": "125.615"
+    },
+    {
+        "id": "PEI",
+        "callsignPrefix": "EDPE",
+        "frequency": "123.005"
+    },
+    {
+        "id": "PFI",
+        "callsignPrefix": "EDPF",
+        "frequency": "121.205"
+    },
+    {
+        "id": "PGI",
+        "callsignPrefix": "EDPG",
+        "frequency": "125.740"
+    },
+    {
         "id": "PHI",
         "callsignPrefix": "EDPH",
         "frequency": "135.430"
+    },
+    {
+        "id": "PII",
+        "callsignPrefix": "EDPI",
+        "frequency": "125.815"
+    },
+    {
+        "id": "PJI",
+        "callsignPrefix": "EDPJ",
+        "frequency": "127.705"
+    },
+    {
+        "id": "PKI",
+        "callsignPrefix": "EDPK",
+        "frequency": "132.990"
+    },
+    {
+        "id": "PMI",
+        "callsignPrefix": "EDPM",
+        "frequency": "118.205"
+    },
+    {
+        "id": "POI",
+        "callsignPrefix": "EDPO",
+        "frequency": "122.330"
+    },
+    {
+        "id": "PQI",
+        "callsignPrefix": "EDPQ",
+        "frequency": "134.540"
     },
     {
         "id": "PRI",
@@ -1770,9 +2215,24 @@
         "frequency": "122.055"
     },
     {
+        "id": "PSI",
+        "callsignPrefix": "EDPS",
+        "frequency": "118.960"
+    },
+    {
+        "id": "PTI",
+        "callsignPrefix": "EDPT",
+        "frequency": "120.815"
+    },
+    {
         "id": "PUI",
         "callsignPrefix": "EDPU",
         "frequency": "135.115"
+    },
+    {
+        "id": "PWI",
+        "callsignPrefix": "EDPW",
+        "frequency": "128.860"
     },
     {
         "id": "PYI",
@@ -1820,9 +2280,19 @@
         "frequency": "134.555"
     },
     {
+        "id": "QII",
+        "callsignPrefix": "EDQI",
+        "frequency": "128.585"
+    },
+    {
         "id": "QKI",
         "callsignPrefix": "EDQK",
         "frequency": "118.530"
+    },
+    {
+        "id": "QLI",
+        "callsignPrefix": "EDQL",
+        "frequency": "118.190"
     },
     {
         "id": "QMT",
@@ -1835,9 +2305,24 @@
         "frequency": "118.930"
     },
     {
+        "id": "QOI",
+        "callsignPrefix": "EDQO",
+        "frequency": "133.585"
+    },
+    {
         "id": "QPI",
         "callsignPrefix": "EDQP",
         "frequency": "127.455"
+    },
+    {
+        "id": "QRI",
+        "callsignPrefix": "EDQR",
+        "frequency": "118.005"
+    },
+    {
+        "id": "QSI",
+        "callsignPrefix": "EDQS",
+        "frequency": "127.465"
     },
     {
         "id": "QTI",
@@ -1850,9 +2335,14 @@
         "frequency": "118.200"
     },
     {
-        "id": "QYI",
-        "callsignPrefix": "EDQY",
-        "frequency": "129.805"
+        "id": "QXI",
+        "callsignPrefix": "EDQX",
+        "frequency": "123.605"
+    },
+    {
+        "id": "QZI",
+        "callsignPrefix": "EDQZ",
+        "frequency": "127.560"
     },
     {
         "id": "RAI",
@@ -2030,6 +2520,11 @@
         "frequency": "119.605"
     },
     {
+        "id": "SOI",
+        "callsignPrefix": "EDSO",
+        "frequency": "128.740"
+    },
+    {
         "id": "SPI",
         "callsignPrefix": "EDSP",
         "frequency": "123.385"
@@ -2120,11 +2615,6 @@
         "frequency": "135.180"
     },
     {
-        "id": "TMI",
-        "callsignPrefix": "EDTM",
-        "frequency": "135.180"
-    },
-    {
         "id": "TNI",
         "callsignPrefix": "EDTN",
         "frequency": "118.330"
@@ -2183,6 +2673,11 @@
         "id": "UFR",
         "callsignPrefix": "EDUF",
         "frequency": "132.360"
+    },
+    {
+        "id": "UOI",
+        "callsignPrefix": "EDUO",
+        "frequency": "122.630"
     },
     {
         "id": "ALP",
@@ -2278,6 +2773,11 @@
         "id": "UWR",
         "callsignPrefix": "EDUW",
         "frequency": "132.790"
+    },
+    {
+        "id": "UYI",
+        "callsignPrefix": "EDUY",
+        "frequency": "122.330"
     },
     {
         "id": "UZR",
