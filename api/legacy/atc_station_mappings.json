@@ -1135,6 +1135,11 @@
         "frequency": "127.625"
     },
     {
+        "id": "GHI",
+        "callsignPrefix": "EDGH",
+        "frequency": "122.430"
+    },
+    {
         "id": "GII",
         "callsignPrefix": "EDGI",
         "frequency": "120.835"
@@ -1198,6 +1203,11 @@
         "id": "GXI",
         "callsignPrefix": "EDGX",
         "frequency": "118.265"
+    },
+    {
+        "id": "GYI",
+        "callsignPrefix": "EDGY",
+        "frequency": "118.255"
     },
     {
         "id": "GZI",
