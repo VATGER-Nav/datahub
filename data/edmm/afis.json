@@ -453,7 +453,7 @@
         "logon": "EDMS_I_TWR",
         "frequency": "127.155",
         "abbreviation": "MSI",
-        "description": "Straubing Radio",
+        "description": "Straubing Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1116,15 +1116,6 @@
         "s1_theory": true
     },
     {
-        "logon": "EDQY_I_TWR",
-        "frequency": "129.805",
-        "abbreviation": "QYI",
-        "description": "Steinruecken Radio",
-        "gcap_status": "AFIS",
-        "s1_twr": true,
-        "s1_theory": true
-    },
-    {
         "logon": "EDQZ_I_TWR",
         "frequency": "127.560",
         "abbreviation": "QZI",
@@ -1138,15 +1129,6 @@
         "frequency": "128.740",
         "abbreviation": "SOI",
         "description": "Nortel Radio",
-        "gcap_status": "AFIS",
-        "s1_twr": true,
-        "s1_theory": true
-    },
-    {
-        "logon": "EDTM_I_TWR",
-        "frequency": "135.180",
-        "abbreviation": "TMI",
-        "description": "Mengen Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
