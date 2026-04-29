@@ -883,7 +883,7 @@
     },
     {
         "logon": "EDPI_I_TWR",
-        "frequency": "135.985",
+        "frequency": "125.815",
         "abbreviation": "PII",
         "description": "Moosburg Radio",
         "gcap_status": "AFIS",
