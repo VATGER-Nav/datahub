@@ -2680,6 +2680,11 @@
         "frequency": "122.630"
     },
     {
+        "id": "UPR",
+        "callsignPrefix": "EDUP",
+        "frequency": "125.835"
+    },
+    {
         "id": "ALP",
         "callsignPrefix": "EDUU",
         "frequency": "133.755"
@@ -3143,11 +3148,6 @@
         "id": "XRR",
         "callsignPrefix": "EDXR",
         "frequency": "123.650"
-    },
-    {
-        "id": "XSR",
-        "callsignPrefix": "EDXS",
-        "frequency": "119.665"
     },
     {
         "id": "XTR",
