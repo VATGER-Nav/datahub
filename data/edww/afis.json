@@ -558,6 +558,15 @@
         "s1_theory": true
     },
     {
+        "logon": "EDUP_I_TWR",
+        "frequency": "125.835",
+        "abbreviation": "UPR",
+        "description": "Perleberg Radio",
+        "gcap_status": "AFIS",
+        "s1_twr": true,
+        "s1_theory": true
+    },
+    {
         "logon": "EDUW_I_TWR",
         "frequency": "132.790",
         "abbreviation": "UWR",
@@ -1093,15 +1102,6 @@
         "frequency": "123.650",
         "abbreviation": "XRR",
         "description": "Rendsburg Radio",
-        "gcap_status": "AFIS",
-        "s1_twr": true,
-        "s1_theory": true
-    },
-    {
-        "logon": "EDXS_I_TWR",
-        "frequency": "119.665",
-        "abbreviation": "XSR",
-        "description": "Seedorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
