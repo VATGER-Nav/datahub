@@ -3385,6 +3385,11 @@
         "frequency": "118.255"
     },
     {
+        "id": "HCp",
+        "callsignPrefix": "ETHC",
+        "frequency": "130.505"
+    },
+    {
         "id": "THFA",
         "callsignPrefix": "ETHF",
         "frequency": "120.865"
@@ -3535,6 +3540,11 @@
         "frequency": "118.730"
     },
     {
+        "id": "NWP",
+        "callsignPrefix": "ETNW",
+        "frequency": "123.300"
+    },
+    {
         "id": "NWR",
         "callsignPrefix": "ETNW",
         "frequency": "124.655"
@@ -3563,6 +3573,11 @@
         "id": "TSBT",
         "callsignPrefix": "ETSB",
         "frequency": "129.060"
+    },
+    {
+        "id": "SHP",
+        "callsignPrefix": "ETSH",
+        "frequency": "123.300"
     },
     {
         "id": "SHR",
