@@ -234,19 +234,19 @@
         ]
     },
     {
-        "logon": "ETSH_P_APP",
-        "frequency": "123.300",
-        "abbreviation": "SHP",
-        "description": "Holzdorf Precision",
+        "logon": "ETSH_APP",
+        "frequency": "129.855",
+        "abbreviation": "SHR",
+        "description": "Holzdorf Radar",
         "schedule_show_booked": [
             "EDWW"
         ]
     },
     {
-        "logon": "ETSH_APP",
-        "frequency": "129.855",
-        "abbreviation": "SHR",
-        "description": "Holzdorf Radar",
+        "logon": "ETSH_P_APP",
+        "frequency": "123.300",
+        "abbreviation": "SHP",
+        "description": "Holzdorf Precision",
         "schedule_show_booked": [
             "EDWW"
         ]
