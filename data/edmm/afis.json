@@ -6,7 +6,8 @@
         "description": "Bautzen Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAC_I_TWR",
@@ -15,7 +16,8 @@
         "description": "Altenburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAD_I_TWR",
@@ -24,7 +26,8 @@
         "description": "Dessau Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAG_I_TWR",
@@ -33,7 +36,8 @@
         "description": "Grossrueckerswalde Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAJ_I_TWR",
@@ -42,7 +46,8 @@
         "description": "Gera Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAK_I_TWR",
@@ -51,7 +56,8 @@
         "description": "Grossenhain Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAM_I_TWR",
@@ -60,7 +66,8 @@
         "description": "Merseburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAO_I_TWR",
@@ -69,7 +76,8 @@
         "description": "Nordhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAQ_I_TWR",
@@ -78,7 +86,8 @@
         "description": "Oppin Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAR_I_TWR",
@@ -87,7 +96,8 @@
         "description": "Pirna Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAT_I_TWR",
@@ -96,7 +106,8 @@
         "description": "Nardt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAU_I_TWR",
@@ -105,7 +116,8 @@
         "description": "Riesa Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDAW_I_TWR",
@@ -114,7 +126,8 @@
         "description": "Roitzschjora Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBA_I_TWR",
@@ -123,7 +136,8 @@
         "description": "Arnstadt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBI_I_TWR",
@@ -132,7 +146,8 @@
         "description": "Zwickau Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBJ_I_TWR",
@@ -141,7 +156,8 @@
         "description": "Jena-Schoengleina Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBL_I_TWR",
@@ -150,7 +166,8 @@
         "description": "Laucha Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBR_I_TWR",
@@ -159,7 +176,8 @@
         "description": "Rothenburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBS_I_TWR",
@@ -168,7 +186,8 @@
         "description": "Soemmerda Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBT_I_TWR",
@@ -177,7 +196,8 @@
         "description": "Allstedt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBX_I_TWR",
@@ -186,7 +206,8 @@
         "description": "Goerlitz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDBZ_I_TWR",
@@ -195,7 +216,8 @@
         "description": "Schwarzheide Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCB_I_TWR",
@@ -204,7 +226,8 @@
         "description": "Ballenstedt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCH_I_TWR",
@@ -213,7 +236,8 @@
         "description": "Sprossen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCI_I_TWR",
@@ -222,7 +246,8 @@
         "description": "Klix Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCJ_I_TWR",
@@ -231,7 +256,8 @@
         "description": "Jahnsdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCM_I_TWR",
@@ -240,7 +266,8 @@
         "description": "Kamenz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCO_I_TWR",
@@ -249,7 +276,8 @@
         "description": "Obermehler Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCQ_I_TWR",
@@ -258,7 +286,8 @@
         "description": "Aschersleben Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCT_I_TWR",
@@ -267,7 +296,8 @@
         "description": "Taucha Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDCY_I_TWR",
@@ -276,7 +306,8 @@
         "description": "Welzow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDEB_I_TWR",
@@ -285,7 +316,8 @@
         "description": "Bad Langensalza Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDEG_I_TWR",
@@ -294,7 +326,8 @@
         "description": "Gotha Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDEQ_I_TWR",
@@ -303,7 +336,8 @@
         "description": "Muehlhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDJG_I_TWR",
@@ -312,7 +346,8 @@
         "description": "Grabenstaett Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMB_I_TWR",
@@ -321,7 +356,8 @@
         "description": "Biberach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMC_I_TWR",
@@ -330,7 +366,8 @@
         "description": "Blaubeuren Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMD_I_TWR",
@@ -339,7 +376,8 @@
         "description": "Dachau Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDME_I_TWR",
@@ -348,7 +386,8 @@
         "description": "Eggenfelden Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMF_I_TWR",
@@ -357,7 +396,8 @@
         "description": "Fuerstenzell Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMG_I_TWR",
@@ -366,7 +406,8 @@
         "description": "Guenzburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMH_I_TWR",
@@ -375,7 +416,8 @@
         "description": "Gunzenhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMI_I_TWR",
@@ -384,7 +426,8 @@
         "description": "Illertissen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMJ_I_TWR",
@@ -393,7 +436,8 @@
         "description": "Jesenwang Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMK_I_TWR",
@@ -402,7 +446,8 @@
         "description": "Kempten Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDML_I_TWR",
@@ -411,7 +456,8 @@
         "description": "Landshut Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMN_I_TWR",
@@ -420,7 +466,8 @@
         "description": "Mindelheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMP_I_TWR",
@@ -429,7 +476,8 @@
         "description": "Vilsbiburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMQ_I_TWR",
@@ -438,7 +486,8 @@
         "description": "Genderkingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMR_I_TWR",
@@ -447,7 +496,8 @@
         "description": "Ottobrunn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMS_I_TWR",
@@ -456,7 +506,8 @@
         "description": "Straubing Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMT_I_TWR",
@@ -465,7 +516,8 @@
         "description": "Tannheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMU_I_TWR",
@@ -474,7 +526,8 @@
         "description": "Gundelfingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMV_I_TWR",
@@ -483,7 +536,8 @@
         "description": "Vilshofen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMW_I_TWR",
@@ -492,7 +546,8 @@
         "description": "Deggendorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMX_I_TWR",
@@ -501,7 +556,8 @@
         "description": "Schleissheim Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMY_I_TWR",
@@ -510,7 +566,8 @@
         "description": "Muehldorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDMZ_I_TWR",
@@ -519,7 +576,8 @@
         "description": "Bad Waldsee Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNA_I_TWR",
@@ -528,7 +586,8 @@
         "description": "Ampfing Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNB_I_TWR",
@@ -537,7 +596,8 @@
         "description": "Arnbruck Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNC_I_TWR",
@@ -546,7 +606,8 @@
         "description": "Beilngries Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDND_I_TWR",
@@ -555,7 +616,8 @@
         "description": "Dinkelsbuehl Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNE_I_TWR",
@@ -564,7 +626,8 @@
         "description": "Erbach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNF_I_TWR",
@@ -573,7 +636,8 @@
         "description": "Grafenau Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNG_I_TWR",
@@ -582,7 +646,8 @@
         "description": "Giengen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNH_I_TWR",
@@ -591,7 +656,8 @@
         "description": "Bad Woerishofen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNJ_I_TWR",
@@ -600,7 +666,8 @@
         "description": "Egweil Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNK_I_TWR",
@@ -609,7 +676,8 @@
         "description": "Kirchdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNL_I_TWR",
@@ -618,7 +686,8 @@
         "description": "Leutkirch Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNO_I_TWR",
@@ -627,7 +696,8 @@
         "description": "Noerdlingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNP_I_TWR",
@@ -636,7 +706,8 @@
         "description": "Pfarrkirchen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNQ_I_TWR",
@@ -645,7 +716,8 @@
         "description": "Bopfingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNR_I_TWR",
@@ -654,7 +726,8 @@
         "description": "Regensburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNS_I_TWR",
@@ -663,7 +736,8 @@
         "description": "Schwabmuenchen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNT_I_TWR",
@@ -672,7 +746,8 @@
         "description": "Treuchtlingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNU_I_TWR",
@@ -681,7 +756,8 @@
         "description": "Thannhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNV_I_TWR",
@@ -690,7 +766,8 @@
         "description": "Vogtareuth Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNW_I_TWR",
@@ -699,7 +776,8 @@
         "description": "Weissenhorn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNX_I_TWR",
@@ -708,7 +786,8 @@
         "description": "Schleissheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDNZ_I_TWR",
@@ -717,7 +796,8 @@
         "description": "Haidberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOA_I_TWR",
@@ -726,7 +806,8 @@
         "description": "Auerbach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOB_I_TWR",
@@ -735,7 +816,8 @@
         "description": "Bad Berka Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOE_I_TWR",
@@ -744,7 +826,8 @@
         "description": "Boehlen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOF_I_TWR",
@@ -753,7 +836,8 @@
         "description": "Bad Frankenhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOH_I_TWR",
@@ -762,7 +846,8 @@
         "description": "Langhennersdorf Start",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOK_I_TWR",
@@ -771,7 +856,8 @@
         "description": "Rudolstadt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOQ_I_TWR",
@@ -780,7 +866,8 @@
         "description": "Oschatz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOS_I_TWR",
@@ -789,7 +876,8 @@
         "description": "Pennewitz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOT_I_TWR",
@@ -798,7 +886,8 @@
         "description": "Greiz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOU_I_TWR",
@@ -807,7 +896,8 @@
         "description": "Weimar Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDOX_I_TWR",
@@ -816,7 +906,8 @@
         "description": "Renneritz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPB_I_TWR",
@@ -825,7 +916,8 @@
         "description": "Ditzenbach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPC_I_TWR",
@@ -834,7 +926,8 @@
         "description": "Endorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPD_I_TWR",
@@ -843,7 +936,8 @@
         "description": "Dingolfing Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPE_I_TWR",
@@ -852,7 +946,8 @@
         "description": "Eichstaett Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPF_I_TWR",
@@ -861,7 +956,8 @@
         "description": "Schwandorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPG_I_TWR",
@@ -870,7 +966,8 @@
         "description": "Griesau Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPH_I_TWR",
@@ -879,7 +976,8 @@
         "description": "Schwabach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPI_I_TWR",
@@ -888,7 +986,8 @@
         "description": "Moosburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPJ_I_TWR",
@@ -897,7 +996,8 @@
         "description": "Laichingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPK_I_TWR",
@@ -906,7 +1006,8 @@
         "description": "Schoenberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPM_I_TWR",
@@ -915,7 +1016,8 @@
         "description": "Donzdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPO_I_TWR",
@@ -924,7 +1026,8 @@
         "description": "Neumarkt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPQ_I_TWR",
@@ -933,7 +1036,8 @@
         "description": "Schmidgaden Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPR_I_TWR",
@@ -942,7 +1046,8 @@
         "description": "Airbus Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPS_I_TWR",
@@ -951,7 +1056,8 @@
         "description": "Sonnen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPT_I_TWR",
@@ -960,7 +1066,8 @@
         "description": "Gerstetten Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDPW_I_TWR",
@@ -969,7 +1076,8 @@
         "description": "Thalmaessing Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQA_I_TWR",
@@ -978,7 +1086,8 @@
         "description": "Bamberg Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQC_I_TWR",
@@ -987,7 +1096,8 @@
         "description": "Coburg Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQD_I_TWR",
@@ -996,7 +1106,8 @@
         "description": "Bayreuth Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQE_I_TWR",
@@ -1005,7 +1116,8 @@
         "description": "Feuerstein Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQH_I_TWR",
@@ -1014,7 +1126,8 @@
         "description": "Herzogenaurach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQI_I_TWR",
@@ -1023,7 +1136,8 @@
         "description": "Lauf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQK_I_TWR",
@@ -1032,7 +1146,8 @@
         "description": "Kulmbach Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQL_I_TWR",
@@ -1041,7 +1156,8 @@
         "description": "Lichtenfels Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQN_I_TWR",
@@ -1050,7 +1166,8 @@
         "description": "Neustadt/Aisch Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQO_I_TWR",
@@ -1059,7 +1176,8 @@
         "description": "Ottengruener Heide Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQP_I_TWR",
@@ -1068,7 +1186,8 @@
         "description": "Rosenthal Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQR_I_TWR",
@@ -1077,7 +1196,8 @@
         "description": "Ebern Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQS_I_TWR",
@@ -1086,7 +1206,8 @@
         "description": "Suhl Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQT_I_TWR",
@@ -1095,7 +1216,8 @@
         "description": "Hassfurt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQW_I_TWR",
@@ -1104,7 +1226,8 @@
         "description": "Weiden Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQX_I_TWR",
@@ -1113,7 +1236,8 @@
         "description": "Hetzleser Berg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDQZ_I_TWR",
@@ -1122,7 +1246,8 @@
         "description": "Pegnitz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDSO_I_TWR",
@@ -1131,7 +1256,8 @@
         "description": "Nortel Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDUO_I_TWR",
@@ -1140,7 +1266,8 @@
         "description": "Oberrissdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     },
     {
         "logon": "EDUY_I_TWR",
@@ -1149,6 +1276,7 @@
         "description": "Sedlitz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "schedule_show_booked": ["EDMM"]
     }
 ]
