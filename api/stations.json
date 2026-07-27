@@ -4,6 +4,9 @@
         "frequency": "120.605",
         "abbreviation": "ABI",
         "description": "Bautzen Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -13,6 +16,9 @@
         "frequency": "123.580",
         "abbreviation": "ACI",
         "description": "Altenburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -22,6 +28,9 @@
         "frequency": "118.180",
         "abbreviation": "ADI",
         "description": "Dessau Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -40,6 +49,9 @@
         "frequency": "118.585",
         "abbreviation": "AGI",
         "description": "Grossrueckerswalde Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -60,6 +72,9 @@
         "frequency": "118.080",
         "abbreviation": "AJI",
         "description": "Gera Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -69,6 +84,9 @@
         "frequency": "128.360",
         "abbreviation": "AKI",
         "description": "Grossenhain Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -78,6 +96,9 @@
         "frequency": "118.990",
         "abbreviation": "AMI",
         "description": "Merseburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -96,6 +117,9 @@
         "frequency": "120.310",
         "abbreviation": "AOI",
         "description": "Nordhausen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -114,6 +138,9 @@
         "frequency": "135.155",
         "abbreviation": "AQI",
         "description": "Oppin Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -123,6 +150,9 @@
         "frequency": "118.630",
         "abbreviation": "ARI",
         "description": "Pirna Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -141,6 +171,9 @@
         "frequency": "120.390",
         "abbreviation": "ATI",
         "description": "Nardt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -150,6 +183,9 @@
         "frequency": "118.005",
         "abbreviation": "AUI",
         "description": "Riesa Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -168,6 +204,9 @@
         "frequency": "123.980",
         "abbreviation": "AWI",
         "description": "Roitzschjora Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -204,6 +243,9 @@
         "frequency": "131.260",
         "abbreviation": "BAI",
         "description": "Arnstadt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -258,6 +300,9 @@
         "frequency": "130.660",
         "abbreviation": "BII",
         "description": "Zwickau Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -267,6 +312,9 @@
         "frequency": "118.735",
         "abbreviation": "BJI",
         "description": "Jena-Schoengleina Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -285,6 +333,9 @@
         "frequency": "118.960",
         "abbreviation": "BLI",
         "description": "Laucha Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -339,6 +390,9 @@
         "frequency": "123.255",
         "abbreviation": "BRI",
         "description": "Rothenburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -348,6 +402,9 @@
         "frequency": "124.005",
         "abbreviation": "BSI",
         "description": "Soemmerda Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -357,6 +414,9 @@
         "frequency": "122.315",
         "abbreviation": "BTI",
         "description": "Allstedt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -393,6 +453,9 @@
         "frequency": "133.585",
         "abbreviation": "BXI",
         "description": "Goerlitz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -411,6 +474,9 @@
         "frequency": "132.810",
         "abbreviation": "BZI",
         "description": "Schwarzheide Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -429,6 +495,9 @@
         "frequency": "122.705",
         "abbreviation": "CBI",
         "description": "Ballenstedt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -456,6 +525,9 @@
         "frequency": "134.610",
         "abbreviation": "CHI",
         "description": "Sprossen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -465,6 +537,9 @@
         "frequency": "118.605",
         "abbreviation": "CII",
         "description": "Klix Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -474,6 +549,9 @@
         "frequency": "132.740",
         "abbreviation": "CJI",
         "description": "Jahnsdorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -492,6 +570,9 @@
         "frequency": "128.110",
         "abbreviation": "CMI",
         "description": "Kamenz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -501,6 +582,9 @@
         "frequency": "125.510",
         "abbreviation": "COI",
         "description": "Obermehler Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -519,6 +603,9 @@
         "frequency": "127.550",
         "abbreviation": "CQI",
         "description": "Aschersleben Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -546,6 +633,9 @@
         "frequency": "132.860",
         "abbreviation": "CTI",
         "description": "Taucha Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -591,6 +681,9 @@
         "frequency": "134.855",
         "abbreviation": "CYI",
         "description": "Welzow Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1718,6 +1811,9 @@
         "frequency": "125.365",
         "abbreviation": "EBI",
         "description": "Bad Langensalza Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1727,6 +1823,9 @@
         "frequency": "121.235",
         "abbreviation": "EGI",
         "description": "Gotha Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -1781,6 +1880,9 @@
         "frequency": "122.855",
         "abbreviation": "EQI",
         "description": "Muehlhausen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -2781,6 +2883,9 @@
         "frequency": "135.985",
         "abbreviation": "JGI",
         "description": "Grabenstaett Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3213,6 +3318,9 @@
         "frequency": "120.535",
         "abbreviation": "MBI",
         "description": "Biberach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3222,6 +3330,9 @@
         "frequency": "130.605",
         "abbreviation": "MCI",
         "description": "Blaubeuren Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3231,6 +3342,9 @@
         "frequency": "133.010",
         "abbreviation": "MDI",
         "description": "Dachau Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3240,6 +3354,9 @@
         "frequency": "120.305",
         "abbreviation": "MEI",
         "description": "Eggenfelden Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3249,6 +3366,9 @@
         "frequency": "128.740",
         "abbreviation": "MFI",
         "description": "Fuerstenzell Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3258,6 +3378,9 @@
         "frequency": "118.130",
         "abbreviation": "MGI",
         "description": "Guenzburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3267,6 +3390,9 @@
         "frequency": "118.960",
         "abbreviation": "MHI",
         "description": "Gunzenhausen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3276,6 +3402,9 @@
         "frequency": "128.865",
         "abbreviation": "MII",
         "description": "Illertissen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3285,6 +3414,9 @@
         "frequency": "120.055",
         "abbreviation": "MJI",
         "description": "Jesenwang Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3294,6 +3426,9 @@
         "frequency": "124.005",
         "abbreviation": "MKI",
         "description": "Kempten Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3303,6 +3438,9 @@
         "frequency": "129.805",
         "abbreviation": "MLI",
         "description": "Landshut Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3471,6 +3609,9 @@
         "frequency": "122.975",
         "abbreviation": "MNI",
         "description": "Mindelheim Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3491,6 +3632,9 @@
         "frequency": "118.060",
         "abbreviation": "MPI",
         "description": "Vilsbiburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3500,6 +3644,9 @@
         "frequency": "134.130",
         "abbreviation": "MQI",
         "description": "Genderkingen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3509,6 +3656,9 @@
         "frequency": "128.160",
         "abbreviation": "MRI",
         "description": "Ottobrunn Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3518,6 +3668,9 @@
         "frequency": "127.155",
         "abbreviation": "MSI",
         "description": "Straubing Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3527,6 +3680,9 @@
         "frequency": "122.830",
         "abbreviation": "MTI",
         "description": "Tannheim Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3536,6 +3692,9 @@
         "frequency": "122.930",
         "abbreviation": "MUI",
         "description": "Gundelfingen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3545,6 +3704,9 @@
         "frequency": "119.180",
         "abbreviation": "MVI",
         "description": "Vilshofen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3554,6 +3716,9 @@
         "frequency": "122.030",
         "abbreviation": "MWI",
         "description": "Deggendorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3563,6 +3728,9 @@
         "frequency": "131.130",
         "abbreviation": "MXI",
         "description": "Schleissheim Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3572,6 +3740,9 @@
         "frequency": "119.780",
         "abbreviation": "MYI",
         "description": "Muehldorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3581,6 +3752,9 @@
         "frequency": "118.040",
         "abbreviation": "MZI",
         "description": "Bad Waldsee Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3590,6 +3764,9 @@
         "frequency": "118.735",
         "abbreviation": "NAI",
         "description": "Ampfing Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3599,6 +3776,9 @@
         "frequency": "118.555",
         "abbreviation": "NBI",
         "description": "Arnbruck Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3608,6 +3788,9 @@
         "frequency": "118.355",
         "abbreviation": "NCI",
         "description": "Beilngries Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3617,6 +3800,9 @@
         "frequency": "134.535",
         "abbreviation": "NDI",
         "description": "Dinkelsbuehl Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3626,6 +3812,9 @@
         "frequency": "131.135",
         "abbreviation": "NEI",
         "description": "Erbach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3635,6 +3824,9 @@
         "frequency": "118.935",
         "abbreviation": "NFI",
         "description": "Grafenau Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3644,6 +3836,9 @@
         "frequency": "122.355",
         "abbreviation": "NGI",
         "description": "Giengen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3653,6 +3848,9 @@
         "frequency": "122.605",
         "abbreviation": "NHI",
         "description": "Bad Woerishofen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3662,6 +3860,9 @@
         "frequency": "132.005",
         "abbreviation": "NJI",
         "description": "Egweil Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3671,6 +3872,9 @@
         "frequency": "118.630",
         "abbreviation": "NKI",
         "description": "Kirchdorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3680,6 +3884,9 @@
         "frequency": "122.880",
         "abbreviation": "NLI",
         "description": "Leutkirch Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3689,6 +3896,9 @@
         "frequency": "133.080",
         "abbreviation": "NOI",
         "description": "Noerdlingen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3698,6 +3908,9 @@
         "frequency": "119.980",
         "abbreviation": "NPI",
         "description": "Pfarrkirchen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3707,6 +3920,9 @@
         "frequency": "123.190",
         "abbreviation": "NQI",
         "description": "Bopfingen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3716,6 +3932,9 @@
         "frequency": "120.430",
         "abbreviation": "NRI",
         "description": "Regensburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3725,6 +3944,9 @@
         "frequency": "124.515",
         "abbreviation": "NSI",
         "description": "Schwabmuenchen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3734,6 +3956,9 @@
         "frequency": "122.605",
         "abbreviation": "NTI",
         "description": "Treuchtlingen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3743,6 +3968,9 @@
         "frequency": "118.180",
         "abbreviation": "NUI",
         "description": "Thannhausen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3752,6 +3980,9 @@
         "frequency": "121.030",
         "abbreviation": "NVI",
         "description": "Vogtareuth Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3761,6 +3992,9 @@
         "frequency": "119.430",
         "abbreviation": "NWI",
         "description": "Weissenhorn Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3770,6 +4004,9 @@
         "frequency": "131.130",
         "abbreviation": "NXI",
         "description": "Schleissheim Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3788,6 +4025,9 @@
         "frequency": "132.820",
         "abbreviation": "NZI",
         "description": "Haidberg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3797,6 +4037,9 @@
         "frequency": "128.740",
         "abbreviation": "OAI",
         "description": "Auerbach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3806,6 +4049,9 @@
         "frequency": "120.835",
         "abbreviation": "OBI",
         "description": "Bad Berka Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3833,6 +4079,9 @@
         "frequency": "118.930",
         "abbreviation": "OEI",
         "description": "Boehlen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3842,6 +4091,9 @@
         "frequency": "121.190",
         "abbreviation": "OFI",
         "description": "Bad Frankenhausen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3851,6 +4103,9 @@
         "frequency": "125.915",
         "abbreviation": "OHI",
         "description": "Langhennersdorf Start",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3878,6 +4133,9 @@
         "frequency": "118.330",
         "abbreviation": "OKI",
         "description": "Rudolstadt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3914,6 +4172,9 @@
         "frequency": "120.430",
         "abbreviation": "OQI",
         "description": "Oschatz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3932,6 +4193,9 @@
         "frequency": "130.640",
         "abbreviation": "OSI",
         "description": "Pennewitz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3941,6 +4205,9 @@
         "frequency": "132.015",
         "abbreviation": "OTI",
         "description": "Greiz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3950,6 +4217,9 @@
         "frequency": "134.535",
         "abbreviation": "OUI",
         "description": "Weimar Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -3977,6 +4247,9 @@
         "frequency": "128.860",
         "abbreviation": "OXI",
         "description": "Renneritz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4004,6 +4277,9 @@
         "frequency": "135.985",
         "abbreviation": "PBI",
         "description": "Ditzenbach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4013,6 +4289,9 @@
         "frequency": "118.915",
         "abbreviation": "PCI",
         "description": "Endorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4022,6 +4301,9 @@
         "frequency": "125.615",
         "abbreviation": "PDI",
         "description": "Dingolfing Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4031,6 +4313,9 @@
         "frequency": "123.005",
         "abbreviation": "PEI",
         "description": "Eichstaett Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4040,6 +4325,9 @@
         "frequency": "121.205",
         "abbreviation": "PFI",
         "description": "Schwandorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4049,6 +4337,9 @@
         "frequency": "125.740",
         "abbreviation": "PGI",
         "description": "Griesau Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4058,6 +4349,9 @@
         "frequency": "135.430",
         "abbreviation": "PHI",
         "description": "Schwabach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4067,6 +4361,9 @@
         "frequency": "125.815",
         "abbreviation": "PII",
         "description": "Moosburg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4076,6 +4373,9 @@
         "frequency": "127.705",
         "abbreviation": "PJI",
         "description": "Laichingen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4085,6 +4385,9 @@
         "frequency": "132.990",
         "abbreviation": "PKI",
         "description": "Schoenberg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4094,6 +4397,9 @@
         "frequency": "118.205",
         "abbreviation": "PMI",
         "description": "Donzdorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4103,6 +4409,9 @@
         "frequency": "122.330",
         "abbreviation": "POI",
         "description": "Neumarkt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4112,6 +4421,9 @@
         "frequency": "134.540",
         "abbreviation": "PQI",
         "description": "Schmidgaden Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4121,6 +4433,9 @@
         "frequency": "122.055",
         "abbreviation": "PRI",
         "description": "Airbus Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4130,6 +4445,9 @@
         "frequency": "118.960",
         "abbreviation": "PSI",
         "description": "Sonnen Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4139,6 +4457,9 @@
         "frequency": "120.815",
         "abbreviation": "PTI",
         "description": "Gerstetten Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4157,6 +4478,9 @@
         "frequency": "128.860",
         "abbreviation": "PWI",
         "description": "Thalmaessing Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4175,6 +4499,9 @@
         "frequency": "123.440",
         "abbreviation": "QAI",
         "description": "Bamberg Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4193,6 +4520,9 @@
         "frequency": "128.680",
         "abbreviation": "QCI",
         "description": "Coburg Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4202,6 +4532,9 @@
         "frequency": "127.530",
         "abbreviation": "QDI",
         "description": "Bayreuth Information",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4211,6 +4544,9 @@
         "frequency": "130.780",
         "abbreviation": "QEI",
         "description": "Feuerstein Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4241,6 +4577,9 @@
         "frequency": "134.555",
         "abbreviation": "QHI",
         "description": "Herzogenaurach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4250,6 +4589,9 @@
         "frequency": "128.585",
         "abbreviation": "QII",
         "description": "Lauf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4259,6 +4601,9 @@
         "frequency": "118.530",
         "abbreviation": "QKI",
         "description": "Kulmbach Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4268,6 +4613,9 @@
         "frequency": "118.190",
         "abbreviation": "QLI",
         "description": "Lichtenfels Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4288,6 +4636,9 @@
         "frequency": "118.930",
         "abbreviation": "QNI",
         "description": "Neustadt/Aisch Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4297,6 +4648,9 @@
         "frequency": "133.585",
         "abbreviation": "QOI",
         "description": "Ottengruener Heide Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4306,6 +4660,9 @@
         "frequency": "127.455",
         "abbreviation": "QPI",
         "description": "Rosenthal Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4315,6 +4672,9 @@
         "frequency": "118.005",
         "abbreviation": "QRI",
         "description": "Ebern Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4324,6 +4684,9 @@
         "frequency": "127.465",
         "abbreviation": "QSI",
         "description": "Suhl Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4333,6 +4696,9 @@
         "frequency": "119.805",
         "abbreviation": "QTI",
         "description": "Hassfurt Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4342,6 +4708,9 @@
         "frequency": "118.200",
         "abbreviation": "QWI",
         "description": "Weiden Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4351,6 +4720,9 @@
         "frequency": "123.605",
         "abbreviation": "QXI",
         "description": "Hetzleser Berg Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4360,6 +4732,9 @@
         "frequency": "127.560",
         "abbreviation": "QZI",
         "description": "Pegnitz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4693,6 +5068,9 @@
         "frequency": "128.740",
         "abbreviation": "SOI",
         "description": "Nortel Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -4976,6 +5354,9 @@
         "frequency": "122.630",
         "abbreviation": "UOI",
         "description": "Oberrissdorf Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
@@ -5183,6 +5564,9 @@
         "frequency": "122.330",
         "abbreviation": "UYI",
         "description": "Sedlitz Radio",
+        "schedule_show_booked": [
+            "EDMM"
+        ],
         "gcap_status": "AFIS",
         "s1_twr": true,
         "s1_theory": true
