@@ -18,7 +18,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2025-11-05",
+    "one_date": "2026-08-19",
     "days": "21",
     "booking": [
       "EDDM",
@@ -33,7 +33,7 @@
   },
   {
     "rule": "every_X_days",
-    "one_date": "2025-11-12",
+    "one_date": "2026-08-26",
     "days": "21",
     "booking": [
       "EDDM",
