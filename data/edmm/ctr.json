@@ -147,6 +147,7 @@
         "schedule_show_booked": [
             "EDMM"
         ],
+        "gcap_status": "1",
         "cpdlc_login": "EDMZ"
     }
 ]
