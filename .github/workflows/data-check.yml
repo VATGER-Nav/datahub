@@ -2,8 +2,6 @@ name: data checker
 run-name: Checking data on branch ${{github.ref_name}}
 on:
   push:
-    branches:
-      - "*"
     branches-ignore:
       - main
       - production
