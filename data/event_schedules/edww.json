@@ -4,7 +4,7 @@
     "one_date": "2026-09-04",
     "days": "7",
     "booking": [
-      "EDDW,",
+      "EDDW",
       "EDDW_ALR",
       "EDWW_EMS"
     ]
@@ -34,7 +34,7 @@
     "one_date": "2026-09-06",
     "days": "7",
     "booking": [
-      "EDDV,",
+      "EDDV",
       "EDWW_ALR",
       "EDWW_EMS"
     ]
