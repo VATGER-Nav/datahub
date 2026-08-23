@@ -23,6 +23,7 @@ The data stored in each of the ATC position folders is in JSON format and includ
 | schedule_show_always | Specifies on which schedule page the station should always appear, even if not booked                                                                            |
 | schedule_show_booked | Specifies on which schedule page the station should appear if it is booked on VATBOOK (VATSIM Booking System)                                                    |
 | relevant_airports    | Used in the booking system on the VATGER homepage. When the array contains the airport, the station will appear if the airport is selected in the booking system |
+| bookable             | Used in the booking system on the VATGER homepage. Permits defining stations, which should be hidden on the station selection during booking                     |
 
 ## Automated workflows / How to edit data
 
