@@ -20,6 +20,7 @@ class Station(BaseModel):
     s1_twr: bool | None = None
     cpdlc_login: str | None = None
     s1_theory: bool | None = None
+    bookable: bool = True
 
     def to_dict(self) -> dict:
         """returns the station as dict, hides fields which are None or empty lists"""

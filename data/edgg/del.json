@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDK_DEL",
@@ -16,7 +17,8 @@
         "description": "Köln/Bonn Delivery",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDL_DEL",
@@ -26,7 +28,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDS_DEL",
@@ -35,6 +38,7 @@
         "description": "Stuttgart Delivery",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     }
 ]

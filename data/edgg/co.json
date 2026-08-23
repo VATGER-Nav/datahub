@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDK_CO_DEL",
@@ -16,7 +17,8 @@
         "description": "Köln/Bonn Delivery Coordinator",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDL_CO_DEL",
@@ -26,7 +28,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDS_CO_DEL",
@@ -35,6 +38,7 @@
         "description": "Stuttgart Delivery Coordinator",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     }
 ]

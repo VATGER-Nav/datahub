@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDP_DEL",
@@ -16,6 +17,7 @@
         "description": "Leipzig Delivery",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     }
 ]

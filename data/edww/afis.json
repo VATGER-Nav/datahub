@@ -6,7 +6,8 @@
         "description": "Eisenhuettenstadt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAN_I_TWR",
@@ -15,7 +16,8 @@
         "description": "Neustadt-Glewe Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAP_I_TWR",
@@ -24,7 +26,8 @@
         "description": "Neuhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAS_I_TWR",
@@ -33,7 +36,8 @@
         "description": "Finsterwalde Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAV_I_TWR",
@@ -42,7 +46,8 @@
         "description": "Finow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAX_I_TWR",
@@ -51,7 +56,8 @@
         "description": "Mueritz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAY_I_TWR",
@@ -60,7 +66,8 @@
         "description": "Strausberg Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAZ_I_TWR",
@@ -69,7 +76,8 @@
         "description": "Schoenhagen Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBC_I_TWR",
@@ -78,7 +86,8 @@
         "description": "Cochstedt Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBE_I_TWR",
@@ -87,7 +96,8 @@
         "description": "Brandenburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBF_I_TWR",
@@ -96,7 +106,8 @@
         "description": "Fehrbellin Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBG_I_TWR",
@@ -105,7 +116,8 @@
         "description": "Burg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBH_I_TWR",
@@ -114,7 +126,8 @@
         "description": "Barth Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBK_I_TWR",
@@ -123,7 +136,8 @@
         "description": "Kyritz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBM_I_TWR",
@@ -132,7 +146,8 @@
         "description": "Magdeburg Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBN_I_TWR",
@@ -141,7 +156,8 @@
         "description": "Neubrandenburg Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBO_I_TWR",
@@ -150,7 +166,8 @@
         "description": "Oehna Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBP_I_TWR",
@@ -159,7 +176,8 @@
         "description": "Pinnow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBQ_I_TWR",
@@ -168,7 +186,8 @@
         "description": "Bronkow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBU_I_TWR",
@@ -177,7 +196,8 @@
         "description": "Pritzwalk Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBV_I_TWR",
@@ -186,7 +206,8 @@
         "description": "Stralsund Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBW_I_TWR",
@@ -195,7 +216,8 @@
         "description": "Werneuchen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBY_I_TWR",
@@ -204,7 +226,8 @@
         "description": "Schmoldow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCA_I_TWR",
@@ -213,7 +236,8 @@
         "description": "Anklam Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCE_I_TWR",
@@ -222,7 +246,8 @@
         "description": "Eggersdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCG_I_TWR",
@@ -231,7 +256,8 @@
         "description": "Ruegen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCL_I_TWR",
@@ -240,7 +266,8 @@
         "description": "Klietz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCP_I_TWR",
@@ -249,7 +276,8 @@
         "description": "Peenemuende Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCR_I_TWR",
@@ -258,7 +286,8 @@
         "description": "Riek Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCS_I_TWR",
@@ -267,7 +296,8 @@
         "description": "Saarmund Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCU_I_TWR",
@@ -276,7 +306,8 @@
         "description": "Guestrow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCV_I_TWR",
@@ -285,7 +316,8 @@
         "description": "Pasewalk Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCW_I_TWR",
@@ -294,7 +326,8 @@
         "description": "Wismar Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCX_I_TWR",
@@ -303,7 +336,8 @@
         "description": "Purksdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHB_I_TWR",
@@ -312,7 +346,8 @@
         "description": "Grube Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHC_I_TWR",
@@ -321,7 +356,8 @@
         "description": "Luechow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHD_I_TWR",
@@ -330,7 +366,8 @@
         "description": "Eichsfeld Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHE_I_TWR",
@@ -339,7 +376,8 @@
         "description": "Uetersen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHF_I_TWR",
@@ -348,7 +386,8 @@
         "description": "Itzehoe Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHG_I_TWR",
@@ -357,7 +396,8 @@
         "description": "Lüneburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHK_I_TWR",
@@ -366,7 +406,8 @@
         "description": "Kiel Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHM_I_TWR",
@@ -375,7 +416,8 @@
         "description": "Hartenholm Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHN_I_TWR",
@@ -384,7 +426,8 @@
         "description": "Neumünster Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHO_I_TWR",
@@ -393,7 +436,8 @@
         "description": "Ahrenlohe Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHP_I_TWR",
@@ -402,7 +446,8 @@
         "description": "Pellworm Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHS_I_TWR",
@@ -411,7 +456,8 @@
         "description": "Stade Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHU_I_TWR",
@@ -420,7 +466,8 @@
         "description": "Lauenbrück Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHW_I_TWR",
@@ -429,7 +476,8 @@
         "description": "Wahlstedt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDHY_I_TWR",
@@ -438,7 +486,8 @@
         "description": "Hoya Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOC_I_TWR",
@@ -447,7 +496,8 @@
         "description": "Gardelegen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOD_I_TWR",
@@ -456,7 +506,8 @@
         "description": "Reinsdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOI_I_TWR",
@@ -465,7 +516,8 @@
         "description": "Bienenfarm Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOJ_I_TWR",
@@ -474,7 +526,8 @@
         "description": "Luesse Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOL_I_TWR",
@@ -483,7 +536,8 @@
         "description": "Oschersleben Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOM_I_TWR",
@@ -492,7 +546,8 @@
         "description": "Muehlingen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDON_I_TWR",
@@ -501,7 +556,8 @@
         "description": "Neuhardenberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOR_I_TWR",
@@ -510,7 +566,8 @@
         "description": "Stoelln Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOV_I_TWR",
@@ -519,7 +576,8 @@
         "description": "Stendal Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOW_I_TWR",
@@ -528,7 +586,8 @@
         "description": "Waren Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOZ_I_TWR",
@@ -537,7 +596,8 @@
         "description": "Schoenebeck Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUA_I_TWR",
@@ -546,7 +606,8 @@
         "description": "Stechow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUF_I_TWR",
@@ -555,7 +616,8 @@
         "description": "Loennewitz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUP_I_TWR",
@@ -564,7 +626,8 @@
         "description": "Perleberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUW_I_TWR",
@@ -573,7 +636,8 @@
         "description": "Tutow Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUZ_I_TWR",
@@ -582,7 +646,8 @@
         "description": "Zerbst Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVA_I_TWR",
@@ -591,7 +656,8 @@
         "description": "Gandersheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVC_I_TWR",
@@ -600,7 +666,8 @@
         "description": "Arloh Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVF_I_TWR",
@@ -609,7 +676,8 @@
         "description": "Borkhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVG_I_TWR",
@@ -618,7 +686,8 @@
         "description": "Mengeringhausen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVH_I_TWR",
@@ -627,7 +696,8 @@
         "description": "Hodenhagen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVI_I_TWR",
@@ -636,7 +706,8 @@
         "description": "Höxter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVJ_I_TWR",
@@ -645,7 +716,8 @@
         "description": "Schäferstuhl Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVL_I_TWR",
@@ -654,7 +726,8 @@
         "description": "Hoelleberg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVM_I_TWR",
@@ -663,7 +736,8 @@
         "description": "Hildesheim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVN_I_TWR",
@@ -672,7 +746,8 @@
         "description": "Northeim Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVP_I_TWR",
@@ -681,7 +756,8 @@
         "description": "Peine Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVQ_I_TWR",
@@ -690,7 +766,8 @@
         "description": "Wilsche Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVR_I_TWR",
@@ -699,7 +776,8 @@
         "description": "Rinteln Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVS_I_TWR",
@@ -708,7 +786,8 @@
         "description": "Salzgitter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVT_I_TWR",
@@ -717,7 +796,8 @@
         "description": "Ithwiesen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVU_I_TWR",
@@ -726,7 +806,8 @@
         "description": "Uelzen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVW_I_TWR",
@@ -735,7 +816,8 @@
         "description": "Pyrmont Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVY_I_TWR",
@@ -744,7 +826,8 @@
         "description": "Porta Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWC_I_TWR",
@@ -753,7 +836,8 @@
         "description": "Damme Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWE_I_TWR",
@@ -762,7 +846,8 @@
         "description": "Emden Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWF_I_TWR",
@@ -771,7 +856,8 @@
         "description": "Leer Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWG_I_TWR",
@@ -780,7 +866,8 @@
         "description": "Wooge Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWH_I_TWR",
@@ -789,7 +876,8 @@
         "description": "Oldenburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWI_I_TWR",
@@ -798,7 +886,8 @@
         "description": "Wilhelmshaven Information",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWJ_I_TWR",
@@ -807,7 +896,8 @@
         "description": "Juist Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWK_I_TWR",
@@ -816,7 +906,8 @@
         "description": "Karlshöfen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWL_I_TWR",
@@ -825,7 +916,8 @@
         "description": "Langeoog Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWM_I_TWR",
@@ -834,7 +926,8 @@
         "description": "Weser-Wümme Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWN_I_TWR",
@@ -843,7 +936,8 @@
         "description": "Nordhorn Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWO_I_TWR",
@@ -852,7 +946,8 @@
         "description": "Osnabrück Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWP_I_TWR",
@@ -861,7 +956,8 @@
         "description": "Conneforde Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWQ_I_TWR",
@@ -870,7 +966,8 @@
         "description": "Ganderkesee Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWR_I_TWR",
@@ -879,7 +976,8 @@
         "description": "Borkum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWS_I_TWR",
@@ -888,7 +986,8 @@
         "description": "Norddeich Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWT_I_TWR",
@@ -897,7 +996,8 @@
         "description": "Blexen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWU_I_TWR",
@@ -906,7 +1006,8 @@
         "description": "Varrelbusch Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWV_I_TWR",
@@ -915,7 +1016,8 @@
         "description": "Verden Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWX_I_TWR",
@@ -924,7 +1026,8 @@
         "description": "Westerstede Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWY_I_TWR",
@@ -933,7 +1036,8 @@
         "description": "Norderney Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDWZ_I_TWR",
@@ -942,7 +1046,8 @@
         "description": "Baltrum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXA_I_TWR",
@@ -951,7 +1056,8 @@
         "description": "Achmer Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXB_I_TWR",
@@ -960,7 +1066,8 @@
         "description": "Büsum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXC_I_TWR",
@@ -969,7 +1076,8 @@
         "description": "Kropp Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXD_I_TWR",
@@ -978,7 +1086,8 @@
         "description": "Bohmte Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXE_I_TWR",
@@ -987,7 +1096,8 @@
         "description": "Rheine Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXF_I_TWR",
@@ -996,7 +1106,8 @@
         "description": "Flensburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXG_I_TWR",
@@ -1005,7 +1116,8 @@
         "description": "Melle Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXH_I_TWR",
@@ -1014,7 +1126,8 @@
         "description": "Helgoland Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXI_I_TWR",
@@ -1023,7 +1136,8 @@
         "description": "Nienburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXJ_I_TWR",
@@ -1032,7 +1146,8 @@
         "description": "Husum Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXK_I_TWR",
@@ -1041,7 +1156,8 @@
         "description": "Leck Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXL_I_TWR",
@@ -1050,7 +1166,8 @@
         "description": "Barssel Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXM_I_TWR",
@@ -1059,7 +1176,8 @@
         "description": "St. Michael Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXN_I_TWR",
@@ -1068,7 +1186,8 @@
         "description": "Spieka Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXO_I_TWR",
@@ -1077,7 +1196,8 @@
         "description": "St. Peter Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXP_I_TWR",
@@ -1086,7 +1206,8 @@
         "description": "Harle Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXQ_I_TWR",
@@ -1095,7 +1216,8 @@
         "description": "Wümme Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXR_I_TWR",
@@ -1104,7 +1226,8 @@
         "description": "Rendsburg Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXT_I_TWR",
@@ -1113,7 +1236,8 @@
         "description": "Sierksdorf Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXU_I_TWR",
@@ -1122,7 +1246,8 @@
         "description": "Hüttenbusch Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXY_I_TWR",
@@ -1131,7 +1256,8 @@
         "description": "Wyk Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDXZ_I_TWR",
@@ -1140,7 +1266,8 @@
         "description": "Kührstedt Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "ETND_I_TWR",
@@ -1149,7 +1276,8 @@
         "description": "Diepholz Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "ETWM_I_TWR",
@@ -1158,6 +1286,7 @@
         "description": "Meppen Radio",
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     }
 ]

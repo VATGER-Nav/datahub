@@ -9,7 +9,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAC_I_TWR",
@@ -21,7 +22,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAD_I_TWR",
@@ -33,7 +35,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAG_I_TWR",
@@ -45,7 +48,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAJ_I_TWR",
@@ -57,7 +61,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAK_I_TWR",
@@ -69,7 +74,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAM_I_TWR",
@@ -81,7 +87,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAO_I_TWR",
@@ -93,7 +100,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAQ_I_TWR",
@@ -105,7 +113,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAR_I_TWR",
@@ -117,7 +126,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAT_I_TWR",
@@ -129,7 +139,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAU_I_TWR",
@@ -141,7 +152,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDAW_I_TWR",
@@ -153,7 +165,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBA_I_TWR",
@@ -165,7 +178,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBI_I_TWR",
@@ -177,7 +191,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBJ_I_TWR",
@@ -189,7 +204,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBL_I_TWR",
@@ -201,7 +217,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBR_I_TWR",
@@ -213,7 +230,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBS_I_TWR",
@@ -225,7 +243,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBT_I_TWR",
@@ -237,7 +256,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBX_I_TWR",
@@ -249,7 +269,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDBZ_I_TWR",
@@ -261,7 +282,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCB_I_TWR",
@@ -273,7 +295,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCH_I_TWR",
@@ -285,7 +308,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCI_I_TWR",
@@ -297,7 +321,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCJ_I_TWR",
@@ -309,7 +334,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCM_I_TWR",
@@ -321,7 +347,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCO_I_TWR",
@@ -333,7 +360,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCQ_I_TWR",
@@ -345,7 +373,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCT_I_TWR",
@@ -357,7 +386,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDCY_I_TWR",
@@ -369,7 +399,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDEB_I_TWR",
@@ -381,7 +412,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDEG_I_TWR",
@@ -393,7 +425,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDEQ_I_TWR",
@@ -405,7 +438,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDJG_I_TWR",
@@ -417,7 +451,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMB_I_TWR",
@@ -429,7 +464,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMC_I_TWR",
@@ -441,7 +477,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMD_I_TWR",
@@ -453,7 +490,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDME_I_TWR",
@@ -465,7 +503,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMF_I_TWR",
@@ -477,7 +516,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMG_I_TWR",
@@ -489,7 +529,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMH_I_TWR",
@@ -501,7 +542,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMI_I_TWR",
@@ -513,7 +555,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMJ_I_TWR",
@@ -525,7 +568,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMK_I_TWR",
@@ -537,7 +581,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDML_I_TWR",
@@ -549,7 +594,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMN_I_TWR",
@@ -561,7 +607,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMP_I_TWR",
@@ -573,7 +620,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMQ_I_TWR",
@@ -585,7 +633,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMR_I_TWR",
@@ -597,7 +646,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMS_I_TWR",
@@ -609,7 +659,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMT_I_TWR",
@@ -621,7 +672,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMU_I_TWR",
@@ -633,7 +685,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMV_I_TWR",
@@ -645,7 +698,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMW_I_TWR",
@@ -657,7 +711,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMX_I_TWR",
@@ -669,7 +724,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMY_I_TWR",
@@ -681,7 +737,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMZ_I_TWR",
@@ -693,7 +750,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNA_I_TWR",
@@ -705,7 +763,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNB_I_TWR",
@@ -717,7 +776,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNC_I_TWR",
@@ -729,7 +789,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDND_I_TWR",
@@ -741,7 +802,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNE_I_TWR",
@@ -753,7 +815,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNF_I_TWR",
@@ -765,7 +828,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNG_I_TWR",
@@ -777,7 +841,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNH_I_TWR",
@@ -789,7 +854,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNJ_I_TWR",
@@ -801,7 +867,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNK_I_TWR",
@@ -813,7 +880,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNL_I_TWR",
@@ -825,7 +893,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNO_I_TWR",
@@ -837,7 +906,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNP_I_TWR",
@@ -849,7 +919,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNQ_I_TWR",
@@ -861,7 +932,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNR_I_TWR",
@@ -873,7 +945,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNS_I_TWR",
@@ -885,7 +958,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNT_I_TWR",
@@ -897,7 +971,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNU_I_TWR",
@@ -909,7 +984,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNV_I_TWR",
@@ -921,7 +997,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNW_I_TWR",
@@ -933,7 +1010,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNX_I_TWR",
@@ -945,7 +1023,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNZ_I_TWR",
@@ -957,7 +1036,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOA_I_TWR",
@@ -969,7 +1049,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOB_I_TWR",
@@ -981,7 +1062,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOE_I_TWR",
@@ -993,7 +1075,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOF_I_TWR",
@@ -1005,7 +1088,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOH_I_TWR",
@@ -1017,7 +1101,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOK_I_TWR",
@@ -1029,7 +1114,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOQ_I_TWR",
@@ -1041,7 +1127,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOS_I_TWR",
@@ -1053,7 +1140,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOT_I_TWR",
@@ -1065,7 +1153,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOU_I_TWR",
@@ -1077,7 +1166,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDOX_I_TWR",
@@ -1089,7 +1179,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPB_I_TWR",
@@ -1101,7 +1192,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPC_I_TWR",
@@ -1113,7 +1205,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPD_I_TWR",
@@ -1125,7 +1218,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPE_I_TWR",
@@ -1137,7 +1231,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPF_I_TWR",
@@ -1149,7 +1244,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPG_I_TWR",
@@ -1161,7 +1257,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPH_I_TWR",
@@ -1173,7 +1270,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPI_I_TWR",
@@ -1185,7 +1283,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPJ_I_TWR",
@@ -1197,7 +1296,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPK_I_TWR",
@@ -1209,7 +1309,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPM_I_TWR",
@@ -1221,7 +1322,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPO_I_TWR",
@@ -1233,7 +1335,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPQ_I_TWR",
@@ -1245,7 +1348,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPR_I_TWR",
@@ -1257,7 +1361,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPS_I_TWR",
@@ -1269,7 +1374,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPT_I_TWR",
@@ -1281,7 +1387,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDPW_I_TWR",
@@ -1293,7 +1400,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQA_I_TWR",
@@ -1305,7 +1413,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQC_I_TWR",
@@ -1317,7 +1426,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQD_I_TWR",
@@ -1329,7 +1439,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQE_I_TWR",
@@ -1341,7 +1452,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQH_I_TWR",
@@ -1353,7 +1465,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQI_I_TWR",
@@ -1365,7 +1478,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQK_I_TWR",
@@ -1377,7 +1491,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQL_I_TWR",
@@ -1389,7 +1504,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQN_I_TWR",
@@ -1401,7 +1517,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQO_I_TWR",
@@ -1413,7 +1530,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQP_I_TWR",
@@ -1425,7 +1543,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQR_I_TWR",
@@ -1437,7 +1556,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQS_I_TWR",
@@ -1449,7 +1569,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQT_I_TWR",
@@ -1461,7 +1582,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQW_I_TWR",
@@ -1473,7 +1595,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQX_I_TWR",
@@ -1485,7 +1608,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDQZ_I_TWR",
@@ -1497,7 +1621,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDSO_I_TWR",
@@ -1509,7 +1634,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUO_I_TWR",
@@ -1521,7 +1647,8 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDUY_I_TWR",
@@ -1533,6 +1660,7 @@
         ],
         "gcap_status": "AFIS",
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     }
 ]

@@ -4,13 +4,15 @@
         "frequency": "122.765",
         "abbreviation": "TSL",
         "description": "Loneship",
-        "gcap_status": "2"
+        "gcap_status": "2",
+        "bookable": true
     },
     {
         "logon": "ETXX_SR_CTR",
         "frequency": "131.080",
         "abbreviation": "TSR",
         "description": "Sunrise",
-        "gcap_status": "2"
+        "gcap_status": "2",
+        "bookable": true
     }
 ]

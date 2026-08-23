@@ -8,7 +8,8 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDE_TWR",
@@ -19,7 +20,8 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDM_N_TWR",
@@ -29,7 +31,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_S_TWR",
@@ -39,7 +42,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDN_TWR",
@@ -50,7 +54,8 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDP_N_TWR",
@@ -59,7 +64,8 @@
         "description": "Leipzig Tower (North)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDP_S_TWR",
@@ -68,7 +74,8 @@
         "description": "Leipzig Tower (South)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDJA_TWR",
@@ -79,7 +86,8 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMA_TWR",
@@ -90,7 +98,8 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDMO_TWR",
@@ -101,7 +110,8 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDNY_TWR",
@@ -110,7 +120,8 @@
         "description": "Friedrichshafen Tower",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDQM_TWR",
@@ -121,6 +132,7 @@
             "EDMM"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     }
 ]
