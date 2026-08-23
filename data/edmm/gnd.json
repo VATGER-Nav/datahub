@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDC_GND",
@@ -17,7 +18,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDE_A_GND",
@@ -27,7 +29,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDE_GND",
@@ -37,7 +40,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDM_1_GND",
@@ -47,7 +51,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_2_GND",
@@ -57,7 +62,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_3_GND",
@@ -67,7 +73,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_I_GND",
@@ -77,7 +84,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_N_GND",
@@ -87,7 +95,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_S_GND",
@@ -97,7 +106,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDN_GND",
@@ -107,7 +117,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDP_GND",
@@ -116,7 +127,8 @@
         "description": "Leipzig Ground",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDJA_GND",
@@ -126,6 +138,7 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     }
 ]

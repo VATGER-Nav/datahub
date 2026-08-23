@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_N_TWR",
@@ -17,7 +18,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_S_TWR",
@@ -27,7 +29,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_W_TWR",
@@ -37,7 +40,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDG_TWR",
@@ -48,7 +52,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDK_TWR",
@@ -58,7 +63,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDL_TWR",
@@ -68,7 +74,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDR_TWR",
@@ -79,7 +86,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDS_TWR",
@@ -88,7 +96,8 @@
         "description": "Stuttgart Tower",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDS_VFR_TWR",
@@ -97,7 +106,8 @@
         "description": "Stuttgart Tower (VFR)",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDFH_TWR",
@@ -108,7 +118,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDFM_TWR",
@@ -118,7 +129,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "bookable": true
     },
     {
         "logon": "EDLN_TWR",
@@ -128,7 +140,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "bookable": true
     },
     {
         "logon": "EDLP_TWR",
@@ -139,7 +152,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDLV_TWR",
@@ -150,7 +164,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDLW_TWR",
@@ -161,7 +176,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDSB_TWR",
@@ -172,7 +188,8 @@
             "EDGG"
         ],
         "s1_twr": true,
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDTL_TWR",
@@ -182,6 +199,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_twr": true
+        "s1_twr": true,
+        "bookable": true
     }
 ]

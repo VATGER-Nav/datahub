@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDML"
+        "cpdlc_login": "EDML",
+        "bookable": true
     },
     {
         "logon": "EDMM_BBG_CTR",
@@ -17,7 +18,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMB"
+        "cpdlc_login": "EDMB",
+        "bookable": true
     },
     {
         "logon": "EDMM_EGG_CTR",
@@ -27,7 +29,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDME"
+        "cpdlc_login": "EDME",
+        "bookable": true
     },
     {
         "logon": "EDMM_FUE_CTR",
@@ -36,7 +39,8 @@
         "description": "München Radar (Füssen)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDMM_GER_CTR",
@@ -46,7 +50,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMG"
+        "cpdlc_login": "EDMG",
+        "bookable": true
     },
     {
         "logon": "EDMM_HAL_CTR",
@@ -56,7 +61,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMH"
+        "cpdlc_login": "EDMH",
+        "bookable": true
     },
     {
         "logon": "EDMM_HOF_CTR",
@@ -66,7 +72,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMO"
+        "cpdlc_login": "EDMO",
+        "bookable": true
     },
     {
         "logon": "EDMM_MEI_CTR",
@@ -76,7 +83,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMI"
+        "cpdlc_login": "EDMI",
+        "bookable": true
     },
     {
         "logon": "EDMM_NDG_CTR",
@@ -86,7 +94,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMN"
+        "cpdlc_login": "EDMN",
+        "bookable": true
     },
     {
         "logon": "EDMM_RDG_CTR",
@@ -97,7 +106,8 @@
             "EDMM"
         ],
         "gcap_status": "1",
-        "cpdlc_login": "EDMR"
+        "cpdlc_login": "EDMR",
+        "bookable": true
     },
     {
         "logon": "EDMM_STA_CTR",
@@ -107,7 +117,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMS"
+        "cpdlc_login": "EDMS",
+        "bookable": true
     },
     {
         "logon": "EDMM_TEG_CTR",
@@ -117,7 +128,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMT"
+        "cpdlc_login": "EDMT",
+        "bookable": true
     },
     {
         "logon": "EDMM_TRU_CTR",
@@ -127,7 +139,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMU"
+        "cpdlc_login": "EDMU",
+        "bookable": true
     },
     {
         "logon": "EDMM_WLD_CTR",
@@ -137,7 +150,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDMW"
+        "cpdlc_login": "EDMW",
+        "bookable": true
     },
     {
         "logon": "EDMM_ZUG_CTR",
@@ -148,6 +162,7 @@
             "EDMM"
         ],
         "gcap_status": "1",
-        "cpdlc_login": "EDMZ"
+        "cpdlc_login": "EDMZ",
+        "bookable": true
     }
 ]

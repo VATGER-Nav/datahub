@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_E_GND",
@@ -17,7 +18,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_GND",
@@ -27,7 +29,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_ICE_GND",
@@ -37,7 +40,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_S_GND",
@@ -47,7 +51,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_W_GND",
@@ -57,7 +62,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDG_GND",
@@ -67,7 +73,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDK_GND",
@@ -76,7 +83,8 @@
         "description": "Köln/Bonn Ground",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDK_P_GND",
@@ -85,7 +93,8 @@
         "description": "Köln/Bonn Apron",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDL_E_GND",
@@ -95,7 +104,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDL_W_GND",
@@ -105,7 +115,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDR_GND",
@@ -115,7 +126,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDDS_GND",
@@ -124,13 +136,15 @@
         "description": "Stuttgart Ground",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDFE_GND",
         "frequency": "121.730",
         "abbreviation": "FEG",
-        "description": "Egelsbach Apron"
+        "description": "Egelsbach Apron",
+        "bookable": true
     },
     {
         "logon": "EDFH_GND",
@@ -140,7 +154,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDLN_GND",
@@ -149,7 +164,8 @@
         "description": "Mönchengladbach Ground",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDLP_GND",
@@ -159,7 +175,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDLW_GND",
@@ -169,7 +186,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDSB_GND",
@@ -179,6 +197,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     }
 ]

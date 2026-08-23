@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDUL"
+        "cpdlc_login": "EDUL",
+        "bookable": true
     },
     {
         "logon": "EDUU_AMM_CTR",
@@ -17,7 +18,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDUC"
+        "cpdlc_login": "EDUC",
+        "bookable": true
     },
     {
         "logon": "EDUU_C_CTR",
@@ -27,7 +29,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUX"
+        "cpdlc_login": "EDUX",
+        "bookable": true
     },
     {
         "logon": "EDUU_CW_CTR",
@@ -37,7 +40,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUZ"
+        "cpdlc_login": "EDUZ",
+        "bookable": true
     },
     {
         "logon": "EDUU_DON_CTR",
@@ -47,7 +51,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDUD"
+        "cpdlc_login": "EDUD",
+        "bookable": true
     },
     {
         "logon": "EDUU_ERL_CTR",
@@ -57,7 +62,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDUR"
+        "cpdlc_login": "EDUR",
+        "bookable": true
     },
     {
         "logon": "EDUU_FFM_CTR",
@@ -67,7 +73,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUM"
+        "cpdlc_login": "EDUM",
+        "bookable": true
     },
     {
         "logon": "EDUU_FUL_CTR",
@@ -77,7 +84,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUF"
+        "cpdlc_login": "EDUF",
+        "bookable": true
     },
     {
         "logon": "EDUU_H12_CTR",
@@ -87,7 +95,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDUH"
+        "cpdlc_login": "EDUH",
+        "bookable": true
     },
     {
         "logon": "EDUU_NTM_CTR",
@@ -97,7 +106,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUN"
+        "cpdlc_login": "EDUN",
+        "bookable": true
     },
     {
         "logon": "EDUU_O12_CTR",
@@ -107,7 +117,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDUO"
+        "cpdlc_login": "EDUO",
+        "bookable": true
     },
     {
         "logon": "EDUU_O22_CTR",
@@ -117,7 +128,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDUE"
+        "cpdlc_login": "EDUE",
+        "bookable": true
     },
     {
         "logon": "EDUU_SAL_CTR",
@@ -127,7 +139,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDUA"
+        "cpdlc_login": "EDUA",
+        "bookable": true
     },
     {
         "logon": "EDUU_SLN_CTR",
@@ -137,7 +150,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUS"
+        "cpdlc_login": "EDUS",
+        "bookable": true
     },
     {
         "logon": "EDUU_SPE_CTR",
@@ -147,7 +161,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "cpdlc_login": "EDUP"
+        "cpdlc_login": "EDUP",
+        "bookable": true
     },
     {
         "logon": "EDUU_TGO_CTR",
@@ -157,7 +172,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUT"
+        "cpdlc_login": "EDUT",
+        "bookable": true
     },
     {
         "logon": "EDUU_W_CTR",
@@ -167,7 +183,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUY"
+        "cpdlc_login": "EDUY",
+        "bookable": true
     },
     {
         "logon": "EDUU_WUR_CTR",
@@ -177,6 +194,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "cpdlc_login": "EDUW"
+        "cpdlc_login": "EDUW",
+        "bookable": true
     }
 ]

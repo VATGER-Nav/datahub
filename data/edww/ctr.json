@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWA"
+        "cpdlc_login": "EDWA",
+        "bookable": true
     },
     {
         "logon": "EDWW_BOR_CTR",
@@ -17,7 +18,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWB"
+        "cpdlc_login": "EDWB",
+        "bookable": true
     },
     {
         "logon": "EDWW_CTR",
@@ -28,7 +30,8 @@
             "EDWW"
         ],
         "gcap_status": "1",
-        "cpdlc_login": "EDWC"
+        "cpdlc_login": "EDWC",
+        "bookable": true
     },
     {
         "logon": "EDWW_EID_CTR",
@@ -38,7 +41,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWE"
+        "cpdlc_login": "EDWE",
+        "bookable": true
     },
     {
         "logon": "EDWW_EMS_CTR",
@@ -48,7 +52,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWS"
+        "cpdlc_login": "EDWS",
+        "bookable": true
     },
     {
         "logon": "EDWW_FLG_CTR",
@@ -58,7 +63,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWF"
+        "cpdlc_login": "EDWF",
+        "bookable": true
     },
     {
         "logon": "EDWW_HEI_CTR",
@@ -67,7 +73,8 @@
         "description": "Bremen Radar (Heide)",
         "schedule_show_always": [
             "EDWW"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDWW_HRZ_CTR",
@@ -77,7 +84,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWR"
+        "cpdlc_login": "EDWR",
+        "bookable": true
     },
     {
         "logon": "EDWW_MAR_CTR",
@@ -87,7 +95,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWK"
+        "cpdlc_login": "EDWK",
+        "bookable": true
     },
     {
         "logon": "EDWW_MRZ_CTR",
@@ -97,7 +106,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDWM"
+        "cpdlc_login": "EDWM",
+        "bookable": true
     },
     {
         "logon": "EDWW_W_CTR",
@@ -108,6 +118,7 @@
             "EDWW"
         ],
         "gcap_status": "1",
-        "cpdlc_login": "EDWW"
+        "cpdlc_login": "EDWW",
+        "bookable": true
     }
 ]
