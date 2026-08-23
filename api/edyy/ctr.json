@@ -8,7 +8,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDYB"
+        "cpdlc_login": "EDYB",
+        "bookable": true
     },
     {
         "logon": "EDYY_CH_CTR",
@@ -19,7 +20,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDCH"
+        "cpdlc_login": "EDCH",
+        "bookable": true
     },
     {
         "logon": "EDYY_CL_CTR",
@@ -30,7 +32,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDYC"
+        "cpdlc_login": "EDYC",
+        "bookable": true
     },
     {
         "logon": "EDYY_HH_CTR",
@@ -40,7 +43,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDHH"
+        "cpdlc_login": "EDHH",
+        "bookable": true
     },
     {
         "logon": "EDYY_HL_CTR",
@@ -50,7 +54,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDYH"
+        "cpdlc_login": "EDYH",
+        "bookable": true
     },
     {
         "logon": "EDYY_JH_CTR",
@@ -60,7 +65,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDJH"
+        "cpdlc_login": "EDJH",
+        "bookable": true
     },
     {
         "logon": "EDYY_JL_CTR",
@@ -70,7 +76,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDYJ"
+        "cpdlc_login": "EDYJ",
+        "bookable": true
     },
     {
         "logon": "EDYY_MH_CTR",
@@ -81,7 +88,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDNH"
+        "cpdlc_login": "EDNH",
+        "bookable": true
     },
     {
         "logon": "EDYY_ML_CTR",
@@ -92,7 +100,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDYM"
+        "cpdlc_login": "EDYM",
+        "bookable": true
     },
     {
         "logon": "EDYY_MM_CTR",
@@ -103,7 +112,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDTG"
+        "cpdlc_login": "EDTG",
+        "bookable": true
     },
     {
         "logon": "EDYY_RH_CTR",
@@ -114,7 +124,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDRH"
+        "cpdlc_login": "EDRH",
+        "bookable": true
     },
     {
         "logon": "EDYY_RL_CTR",
@@ -127,7 +138,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "cpdlc_login": "EDYR"
+        "cpdlc_login": "EDYR",
+        "bookable": true
     },
     {
         "logon": "EDYY_SH_CTR",
@@ -138,7 +150,8 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDSH"
+        "cpdlc_login": "EDSH",
+        "bookable": true
     },
     {
         "logon": "EDYY_SL_CTR",
@@ -149,6 +162,7 @@
             "EDWW",
             "EDGG"
         ],
-        "cpdlc_login": "EDYS"
+        "cpdlc_login": "EDYS",
+        "bookable": true
     }
 ]

@@ -6,14 +6,16 @@
         "description": "München Radar (Sachsen Low)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDM_FB_APP",
         "frequency": "131.230",
         "abbreviation": "DMFBA",
         "description": "München Radar (Fallback)",
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_ND_APP",
@@ -23,7 +25,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_NH_APP",
@@ -33,7 +36,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_NL_APP",
@@ -43,7 +47,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_SD_APP",
@@ -53,7 +58,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_SH_APP",
@@ -63,7 +69,8 @@
         "schedule_show_always": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDM_SL_APP",
@@ -73,7 +80,8 @@
         "schedule_show_booked": [
             "EDMM"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDN_D_APP",
@@ -82,7 +90,8 @@
         "description": "Nürnberg Arrival",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDN_FRK_APP",
@@ -91,7 +100,8 @@
         "description": "München Radar (Franken)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDP_ND_APP",
@@ -100,7 +110,8 @@
         "description": "Leipzig Arrival (North Director)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDP_SD_APP",
@@ -109,7 +120,8 @@
         "description": "Leipzig Arrival (South Director)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDP_TRN_APP",
@@ -118,7 +130,8 @@
         "description": "München Radar (Thüringen Low North)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDP_TRS_APP",
@@ -127,7 +140,8 @@
         "description": "München Radar (Thüringen Low South)",
         "schedule_show_always": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDJA_ILR_APP",
@@ -136,14 +150,16 @@
         "description": "München Radar (Iller)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDMA_APP",
         "frequency": "128.255",
         "abbreviation": "DMAG",
         "description": "München Radar (Augsburg Sector)",
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDMM_SWA_APP",
@@ -152,6 +168,7 @@
         "description": "München Radar (Schwaben)",
         "schedule_show_booked": [
             "EDMM"
-        ]
+        ],
+        "bookable": true
     }
 ]

@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_S_DEP",
@@ -17,7 +18,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_H_APP",
@@ -27,7 +29,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_L_APP",
@@ -37,7 +40,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_N_APP",
@@ -47,7 +51,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDF_S_APP",
@@ -57,7 +62,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDG_F_APP",
@@ -66,7 +72,8 @@
         "description": "Münster/Osnabrück Arrival",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDG_HMM_APP",
@@ -75,7 +82,8 @@
         "description": "Langen Radar (Hamm)",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDK_APP",
@@ -85,7 +93,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDK_F_APP",
@@ -95,7 +104,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDK_NOR_APP",
@@ -105,7 +115,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDL_DEP",
@@ -115,7 +126,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDL_APP",
@@ -125,7 +137,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDL_BOT_APP",
@@ -135,7 +148,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDL_F_APP",
@@ -145,7 +159,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDR_PFA_APP",
@@ -154,7 +169,8 @@
         "description": "Langen Radar (Pfalz)",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDS_F_APP",
@@ -163,7 +179,8 @@
         "description": "Stuttgart Arrival",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDS_REU_APP",
@@ -172,7 +189,8 @@
         "description": "Langen Radar (Reutlingen)",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDS_STG_APP",
@@ -181,7 +199,8 @@
         "description": "Langen Radar (Stuttgart)",
         "schedule_show_always": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDFH_EIF_APP",
@@ -190,7 +209,8 @@
         "description": "Langen Radar (Eifel)",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDFM_NKL_APP",
@@ -199,7 +219,8 @@
         "description": "Langen Radar (Neckar Low)",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDGG_KL_APP",
@@ -209,7 +230,8 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDLP_PAL_APP",
@@ -218,6 +240,7 @@
         "description": "Langen Radar (Paderborn Low)",
         "schedule_show_booked": [
             "EDGG"
-        ]
+        ],
+        "bookable": true
     }
 ]

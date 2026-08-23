@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDB_E_GND",
@@ -17,7 +18,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDB_ICE_GND",
@@ -27,7 +29,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDB_N_GND",
@@ -37,7 +40,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDB_S_GND",
@@ -47,7 +51,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDH_E_GND",
@@ -57,7 +62,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDH_W_GND",
@@ -67,7 +73,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDV_GND",
@@ -76,7 +83,8 @@
         "description": "Hannover Ground",
         "schedule_show_always": [
             "EDWW"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDDW_GND",
@@ -85,7 +93,8 @@
         "description": "Bremen Ground",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "bookable": true
     },
     {
         "logon": "EDHL_GND",
@@ -95,7 +104,8 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     },
     {
         "logon": "EDVK_GND",
@@ -105,6 +115,7 @@
         "schedule_show_booked": [
             "EDWW"
         ],
-        "s1_theory": true
+        "s1_theory": true,
+        "bookable": true
     }
 ]

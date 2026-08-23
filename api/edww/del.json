@@ -7,7 +7,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDH_DEL",
@@ -17,7 +18,8 @@
         "schedule_show_always": [
             "EDWW"
         ],
-        "gcap_status": "1"
+        "gcap_status": "1",
+        "bookable": true
     },
     {
         "logon": "EDDV_DEL",
@@ -26,6 +28,7 @@
         "description": "Hannover Delivery",
         "schedule_show_booked": [
             "EDWW"
-        ]
+        ],
+        "bookable": true
     }
 ]
