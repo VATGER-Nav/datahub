@@ -9,7 +9,9 @@
         ],
         "cpdlc_login": "EDWA",
         "bookable": true,
-        "required_familiarisations": ["ALR"]
+        "required_familiarisations": [
+            "ALR"
+        ]
     },
     {
         "logon": "EDWW_BOR_CTR",
@@ -21,7 +23,9 @@
         ],
         "cpdlc_login": "EDWB",
         "bookable": true,
-        "required_familiarisations": ["MAR"]
+        "required_familiarisations": [
+            "MAR"
+        ]
     },
     {
         "logon": "EDWW_CTR",
@@ -34,7 +38,9 @@
         "gcap_status": "1",
         "cpdlc_login": "EDWC",
         "bookable": true,
-        "required_familiarisations": ["ALR+EMS+MAR"]
+        "required_familiarisations": [
+            "ALR+EMS+MAR"
+        ]
     },
     {
         "logon": "EDWW_EID_CTR",
@@ -46,7 +52,9 @@
         ],
         "cpdlc_login": "EDWE",
         "bookable": true,
-        "required_familiarisations": ["ALR"]
+        "required_familiarisations": [
+            "ALR"
+        ]
     },
     {
         "logon": "EDWW_EMS_CTR",
@@ -58,7 +66,9 @@
         ],
         "cpdlc_login": "EDWS",
         "bookable": true,
-        "required_familiarisations": ["EMS"]
+        "required_familiarisations": [
+            "EMS"
+        ]
     },
     {
         "logon": "EDWW_FLG_CTR",
@@ -70,7 +80,9 @@
         ],
         "cpdlc_login": "EDWF",
         "bookable": true,
-        "required_familiarisations": ["MAR"]
+        "required_familiarisations": [
+            "MAR"
+        ]
     },
     {
         "logon": "EDWW_HEI_CTR",
@@ -81,7 +93,9 @@
             "EDWW"
         ],
         "bookable": true,
-        "required_familiarisations": ["ALR"]
+        "required_familiarisations": [
+            "ALR"
+        ]
     },
     {
         "logon": "EDWW_HRZ_CTR",
@@ -93,7 +107,9 @@
         ],
         "cpdlc_login": "EDWR",
         "bookable": true,
-        "required_familiarisations": ["EMS"]
+        "required_familiarisations": [
+            "EMS"
+        ]
     },
     {
         "logon": "EDWW_MAR_CTR",
@@ -105,7 +121,9 @@
         ],
         "cpdlc_login": "EDWK",
         "bookable": true,
-        "required_familiarisations": ["MAR"]
+        "required_familiarisations": [
+            "MAR"
+        ]
     },
     {
         "logon": "EDWW_MRZ_CTR",
@@ -117,7 +135,9 @@
         ],
         "cpdlc_login": "EDWM",
         "bookable": true,
-        "required_familiarisations": ["MAR"]
+        "required_familiarisations": [
+            "MAR"
+        ]
     },
     {
         "logon": "EDWW_W_CTR",
@@ -130,6 +150,8 @@
         "gcap_status": "1",
         "cpdlc_login": "EDWW",
         "bookable": true,
-        "required_familiarisations": ["ALR+EMS"]
+        "required_familiarisations": [
+            "ALR+EMS"
+        ]
     }
 ]
