@@ -7,7 +7,8 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": ["CH", "NH"]
     },
     {
         "logon": "EDGG_AH_CTR",
@@ -18,7 +19,8 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGA",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": ["CH", "NH"]
     },
     {
         "logon": "EDGG_BAD_CTR",
