@@ -12,7 +12,8 @@
     "gcap_training_airport": true | false,
     "s1_twr": true | false,
     "cpdlc_login": "EDXX",
-    "s1_theory": true
+    "s1_theory": true,
+    "required_familiarisations": ["ABC", "DEF"]
   }
 ]
 ```
@@ -25,3 +26,4 @@
 - `gcap_training_airport` (optional) true if the station is used for solo endorsements of trainees (see VATGER training policy). `false` as default if the key does not exist
 - `s1_twr` (optional) true if station is part of towers that can be controlled with S1 rating
 - `s1_theory` (optional) true if station can be controlled with only theory training and S1 rating
+- `required_familiarisations` (optional) familiarisations required for CTR sector
