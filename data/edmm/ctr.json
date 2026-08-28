@@ -9,7 +9,9 @@
         ],
         "cpdlc_login": "EDML",
         "bookable": true,
-        "required_familiarisations": ["WLD"]
+        "required_familiarisations": [
+            "WLD"
+        ]
     },
     {
         "logon": "EDMM_BBG_CTR",
@@ -21,7 +23,9 @@
         ],
         "cpdlc_login": "EDMB",
         "bookable": true,
-        "required_familiarisations": ["HOF"]
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDMM_EGG_CTR",
@@ -33,7 +37,9 @@
         ],
         "cpdlc_login": "EDME",
         "bookable": true,
-        "required_familiarisations": ["WLD"]
+        "required_familiarisations": [
+            "WLD"
+        ]
     },
     {
         "logon": "EDMM_FUE_CTR",
@@ -44,7 +50,9 @@
             "EDMM"
         ],
         "bookable": true,
-        "required_familiarisations": ["STA"]
+        "required_familiarisations": [
+            "STA"
+        ]
     },
     {
         "logon": "EDMM_GER_CTR",
@@ -56,7 +64,9 @@
         ],
         "cpdlc_login": "EDMG",
         "bookable": true,
-        "required_familiarisations": ["HOF"]
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDMM_HAL_CTR",
@@ -68,7 +78,9 @@
         ],
         "cpdlc_login": "EDMH",
         "bookable": true,
-        "required_familiarisations": ["HOF"]
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDMM_HOF_CTR",
@@ -80,7 +92,9 @@
         ],
         "cpdlc_login": "EDMO",
         "bookable": true,
-        "required_familiarisations": ["HOF"]
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDMM_MEI_CTR",
@@ -92,7 +106,9 @@
         ],
         "cpdlc_login": "EDMI",
         "bookable": true,
-        "required_familiarisations": ["HOF"]
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDMM_NDG_CTR",
@@ -104,7 +120,9 @@
         ],
         "cpdlc_login": "EDMN",
         "bookable": true,
-        "required_familiarisations": ["WLD"]
+        "required_familiarisations": [
+            "WLD"
+        ]
     },
     {
         "logon": "EDMM_RDG_CTR",
@@ -117,7 +135,9 @@
         "gcap_status": "1",
         "cpdlc_login": "EDMR",
         "bookable": true,
-        "required_familiarisations": ["HOF+STA"]
+        "required_familiarisations": [
+            "HOF+STA"
+        ]
     },
     {
         "logon": "EDMM_STA_CTR",
@@ -129,7 +149,9 @@
         ],
         "cpdlc_login": "EDMS",
         "bookable": true,
-        "required_familiarisations": ["STA"]
+        "required_familiarisations": [
+            "STA"
+        ]
     },
     {
         "logon": "EDMM_TEG_CTR",
@@ -141,7 +163,9 @@
         ],
         "cpdlc_login": "EDMT",
         "bookable": true,
-        "required_familiarisations": ["STA"]
+        "required_familiarisations": [
+            "STA"
+        ]
     },
     {
         "logon": "EDMM_TRU_CTR",
@@ -153,7 +177,9 @@
         ],
         "cpdlc_login": "EDMU",
         "bookable": true,
-        "required_familiarisations": ["STA"]
+        "required_familiarisations": [
+            "STA"
+        ]
     },
     {
         "logon": "EDMM_WLD_CTR",
@@ -165,7 +191,9 @@
         ],
         "cpdlc_login": "EDMW",
         "bookable": true,
-        "required_familiarisations": ["WLD"]
+        "required_familiarisations": [
+            "WLD"
+        ]
     },
     {
         "logon": "EDMM_ZUG_CTR",
@@ -178,6 +206,8 @@
         "gcap_status": "1",
         "cpdlc_login": "EDMZ",
         "bookable": true,
-        "required_familiarisations": ["STA+WLD"]
+        "required_familiarisations": [
+            "STA+WLD"
+        ]
     }
 ]
