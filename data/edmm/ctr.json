@@ -136,7 +136,7 @@
         "cpdlc_login": "EDMR",
         "bookable": true,
         "required_familiarisations": [
-            "HOF+STA"
+            "HOF+STA+WLD"
         ]
     },
     {
