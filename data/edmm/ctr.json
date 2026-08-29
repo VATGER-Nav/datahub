@@ -178,7 +178,7 @@
         "cpdlc_login": "EDMU",
         "bookable": true,
         "required_familiarisations": [
-            "STA"
+            "STA+WLD"
         ]
     },
     {
