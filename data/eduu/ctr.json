@@ -81,7 +81,7 @@
         "cpdlc_login": "EDUR",
         "bookable": true,
         "required_familiarisations": [
-            "HOF"
+            "HOF+WLD"
         ]
     },
     {
