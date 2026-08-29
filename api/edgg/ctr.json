@@ -7,7 +7,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+NH"
+        ]
     },
     {
         "logon": "EDGG_AH_CTR",
@@ -18,7 +21,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGA",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+NH"
+        ]
     },
     {
         "logon": "EDGG_BAD_CTR",
@@ -28,7 +34,10 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_BAH_CTR",
@@ -39,7 +48,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGB",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_C_CTR",
@@ -49,7 +61,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_CA_CTR",
@@ -59,7 +74,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_CH_CTR",
@@ -70,7 +88,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGC",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_CS_CTR",
@@ -80,7 +101,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+SH"
+        ]
     },
     {
         "logon": "EDGG_CSH_CTR",
@@ -92,7 +116,10 @@
         ],
         "gcap_status": "1",
         "cpdlc_login": "EDGH",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+SH"
+        ]
     },
     {
         "logon": "EDGG_DKB_CTR",
@@ -102,7 +129,10 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_DKH_CTR",
@@ -113,7 +143,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGD",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_GED_CTR",
@@ -123,7 +156,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_GIH_CTR",
@@ -134,7 +170,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGI",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_GIN_CTR",
@@ -144,7 +183,10 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_HAB_CTR",
@@ -154,7 +196,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_HEF_CTR",
@@ -164,7 +209,10 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_KIR_CTR",
@@ -174,7 +222,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_KNG_CTR",
@@ -184,7 +235,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_KTG_CTR",
@@ -194,7 +248,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_LBU_CTR",
@@ -204,7 +261,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_MAN_CTR",
@@ -214,7 +274,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_N_CTR",
@@ -224,7 +287,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "NH"
+        ]
     },
     {
         "logon": "EDGG_NH_CTR",
@@ -235,7 +301,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGN",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "NH"
+        ]
     },
     {
         "logon": "EDGG_NKR_CTR",
@@ -245,7 +314,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_PAD_CTR",
@@ -255,7 +327,10 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "NH"
+        ]
     },
     {
         "logon": "EDGG_PAH_CTR",
@@ -266,7 +341,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGP",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "NH"
+        ]
     },
     {
         "logon": "EDGG_PSA_CTR",
@@ -276,7 +354,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_RUD_CTR",
@@ -286,7 +367,10 @@
         "schedule_show_always": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_RUH_CTR",
@@ -297,7 +381,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGR",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_S_CTR",
@@ -307,7 +394,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_SA_CTR",
@@ -317,7 +407,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_SH_CTR",
@@ -328,7 +421,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDGS",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDGG_SIG_CTR",
@@ -338,7 +434,10 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDGG_TAU_CTR",
@@ -348,6 +447,9 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     }
 ]

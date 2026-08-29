@@ -8,7 +8,10 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUL",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "STA"
+        ]
     },
     {
         "logon": "EDUU_AMM_CTR",
@@ -19,7 +22,11 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUC",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "STA",
+            "WLD"
+        ]
     },
     {
         "logon": "EDUU_C_CTR",
@@ -30,7 +37,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUX",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+SH"
+        ]
     },
     {
         "logon": "EDUU_CW_CTR",
@@ -41,7 +51,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUZ",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+SH"
+        ]
     },
     {
         "logon": "EDUU_DON_CTR",
@@ -52,7 +65,10 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUD",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "WLD"
+        ]
     },
     {
         "logon": "EDUU_ERL_CTR",
@@ -63,7 +79,10 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUR",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "HOF+WLD"
+        ]
     },
     {
         "logon": "EDUU_FFM_CTR",
@@ -74,7 +93,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUM",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDUU_FUL_CTR",
@@ -85,7 +107,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUF",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH"
+        ]
     },
     {
         "logon": "EDUU_H12_CTR",
@@ -96,7 +121,10 @@
             "EDWW"
         ],
         "cpdlc_login": "EDUH",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "HOF+MAR"
+        ]
     },
     {
         "logon": "EDUU_NTM_CTR",
@@ -107,7 +135,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUN",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+SH"
+        ]
     },
     {
         "logon": "EDUU_O12_CTR",
@@ -118,7 +149,10 @@
             "EDWW"
         ],
         "cpdlc_login": "EDUO",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "MAR"
+        ]
     },
     {
         "logon": "EDUU_O22_CTR",
@@ -129,7 +163,10 @@
             "EDWW"
         ],
         "cpdlc_login": "EDUE",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "MAR"
+        ]
     },
     {
         "logon": "EDUU_SAL_CTR",
@@ -140,7 +177,10 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUA",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDUU_SLN_CTR",
@@ -151,7 +191,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUS",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDUU_SPE_CTR",
@@ -162,7 +205,10 @@
             "EDMM"
         ],
         "cpdlc_login": "EDUP",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "HOF"
+        ]
     },
     {
         "logon": "EDUU_TGO_CTR",
@@ -173,7 +219,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUT",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     },
     {
         "logon": "EDUU_W_CTR",
@@ -184,7 +233,10 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUY",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "CH+SH"
+        ]
     },
     {
         "logon": "EDUU_WUR_CTR",
@@ -195,6 +247,9 @@
             "EDGG"
         ],
         "cpdlc_login": "EDUW",
-        "bookable": true
+        "bookable": true,
+        "required_familiarisations": [
+            "SH"
+        ]
     }
 ]
