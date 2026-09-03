@@ -94,7 +94,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": false
     },
     {
         "logon": "EDDL_E_GND",
