@@ -1353,7 +1353,7 @@
         "schedule_show_booked": [
             "EDGG"
         ],
-        "bookable": true
+        "bookable": false
     },
     {
         "logon": "EDDK_TWR",
