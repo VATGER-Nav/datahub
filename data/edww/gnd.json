@@ -91,7 +91,7 @@
         "frequency": "121.755",
         "abbreviation": "DWG",
         "description": "Bremen Ground",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDWW"
         ],
         "bookable": true

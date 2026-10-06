@@ -26,7 +26,7 @@
         "frequency": "120.405",
         "abbreviation": "DVL",
         "description": "Hannover Delivery",
-        "schedule_show_booked": [
+        "schedule_show_always": [
             "EDWW"
         ],
         "bookable": true
